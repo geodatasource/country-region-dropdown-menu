@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Country-Region DropDown Menu</title>
+    <script src="gds_cr.min.js"></script>
+  </head>
+  <body>
+  
+    <h2>Country-Region DropDown Menu</h2>
+
+    <div>
+        <!-- normal country-region dropdown menu -->
+        <p>Example 1:</p>
+
+        <p>
+            Country: <select class="gds-cr" country-data-region-id="gds-cr-one" ></select>
+
+            Region: <select id="gds-cr-one" ></select>
+        </p>
+    </div>
+    <br />
+    <div>
+        <!-- country-region dropdown menu with default value -->
+        <p>Example 2:</p>
+
+        <p>
+            Country: <select class="gds-cr" country-data-region-id="gds-cr-two" country-data-default-value="United States"></select>
+
+            Region: <select id="gds-cr-two" region-data-default-value="California"></select>
+        </p>
+    </div>
+
+  </body>
+</html>
