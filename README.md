@@ -28,6 +28,48 @@ After that, the region dropdown will be automatically refresh on the change of c
     </html>
 
 
+## Bootstrap Usage
+If you are using Twitter Bootstrap, you may refer to the below example for the implementation.
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Country-Region DropDown Menu</title>
+    
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <script src="gds_cr.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center" style="margin-bottom:40px;">
+                    <h2>Country-Region DropDown Menu</h2>
+                </div>
+                <div class="col-md-12">
+                    <form class="form-horizontal">
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">Country</label>
+                            <div class="col-sm-10">
+                                <select class="form-control gds-cr" country-data-region-id="gds-cr-1"></select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="gds-cr-1" class="col-sm-2 control-label">Region</label>
+                            <div class="col-sm-10">
+                                <select class="form-control" id="gds-cr-1"></select>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+
 ## Attributes
 
 * Country field **must** be given a class name as ```gds-cr``` .
