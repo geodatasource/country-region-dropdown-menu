@@ -77,10 +77,13 @@ If you are using Twitter Bootstrap, you may refer to the below example for the i
 * ```country-data-default-value``` is optional in country field which use to set the default selected country value.
 * ```region-data-default-value``` is optional in region field which use set the default selected region value. 
 
+## Demo
+
+Please check on [demo](http://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture about how it works.
+
 ## Sample page
 
 Please refer to example.html file.
-Please check on [demo](http://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture on how it works.
 
 ## Support
 
