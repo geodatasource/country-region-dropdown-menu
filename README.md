@@ -80,6 +80,7 @@ If you are using Twitter Bootstrap, you may refer to the below example for the i
 ## Sample page
 
 Please refer to example.html file.
+Please check on [demo](http://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture on how it works.
 
 ## Support
 
