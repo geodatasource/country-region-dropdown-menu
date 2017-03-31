@@ -70,6 +70,21 @@ If you are using Twitter Bootstrap, you may refer to the below example for the i
     </body>
     </html>
 
+
+## Node.js Usage
+The following steps show how to use the dropdown menu in **Express Web Framework**:
+
+1. Install the module by ```npm install country-region-dropdown-menu```
+2. Copy geodatasource-cr.min.js script to ```/public/javascripts/``` directory.
+3. Include the script in the jade file by ```script(src='/javascripts/geodatasource-cr.min.js')```
+4. Code for implementation:
+```
+    |Country:
+    select.gds-cr(country-data-region-id="gds-cr-one")
+    |Region:
+    select#gds-cr-one
+```
+
 ## Attributes
 
 * Country field **must** be given a class name as ```gds-cr``` .
