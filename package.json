@@ -1,8 +1,8 @@
 {
   "name": "country-region-dropdown-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dropdown menu created with javascript that allows user to implement country-region dropdown list effortlessly.",
-  "main": "geodatasource-cr.min.js",
+  "main": "dist/geodatasource-cr.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
