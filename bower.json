@@ -1,0 +1,23 @@
+{
+  "name": "country-region-dropdown-menu",
+  "description": "A dropdown menu created with javascript that allows user to implement country-region dropdown list effortlessly.",
+  "main": "dist/geodatasource-cr.js",
+  "keywords": [
+    "geodatasource",
+    "country",
+    "region",
+    "dropdown",
+    "menu"
+  ],
+  "authors": [
+    "GeoDataSource <support@geodatasource.com> (https://www.geodatasource.com/)"
+  ],
+  "license": "LGPL-3.0",
+  "homepage": "https://www.geodatasource.com/",
+  "ignore": [
+    "*.md",
+    "example.html",
+    "license.txt",
+    "package.json"
+  ]
+}
