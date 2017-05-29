@@ -9,6 +9,10 @@ After that, the region dropdown will be automatically refresh on the change of c
       <head>
         <meta charset="UTF-8">
         <script src="dist/geodatasource-cr.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <link rel="stylesheet" href="dist/geodatasource-countryflag.css">
       </head>
       <body>
 
@@ -22,6 +26,12 @@ After that, the region dropdown will be automatically refresh on the change of c
             Country: <select class="gds-cr" country-data-region-id="gds-cr-two" country-data-default-value="United States"></select>
 
             Region: <select id="gds-cr-two" region-data-default-value="California"></select>
+        </div>
+
+        <div>
+            Country: <select class="gds-cr gds-countryflag" country-data-region-id="gds-cr-three" ></select>
+
+            Region: <select id="gds-cr-three" ></select>
         </div>
 
       </body>
@@ -42,6 +52,10 @@ If you are using Twitter Bootstrap, you may refer to the below example for the i
     
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
         <script src="dist/geodatasource-cr.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <link rel="stylesheet" href="dist/geodatasource-countryflag.css">
     </head>
     <body>
         <div class="container">
@@ -54,7 +68,7 @@ If you are using Twitter Bootstrap, you may refer to the below example for the i
                         <div class="form-group">
                             <label class="col-sm-2 control-label">Country</label>
                             <div class="col-sm-10">
-                                <select class="form-control gds-cr" country-data-region-id="gds-cr-1"></select>
+                                <select class="form-control gds-cr gds-countryflag" country-data-region-id="gds-cr-1"></select>
                             </div>
                         </div>
                         <div class="form-group">
@@ -76,11 +90,16 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 
 1. Install the module by ```npm install country-region-dropdown-menu```
 2. Copy geodatasource-cr.min.js script to ```/public/javascripts/``` directory.
-3. Include the script in the jade file by ```script(src='/javascripts/geodatasource-cr.min.js')```
-4. Code for implementation:
+3. Copy geodatasource-countryflag.css stylesheet and geodatasource-countryflag folder to ```/public/stylesheets/``` directory.
+4. Include the script in the jade file by ```script(src='/javascripts/geodatasource-cr.min.js')```
+5. Include the script in the jade file by ```script(src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"))```
+6. Include the script in the jade file by ```script(src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js")```
+7. Include the link in the jade file by ```link(rel='stylesheet' href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css")```
+8. Include the link in the jade file by ```link(rel='stylesheet' href='stylesheets/geodatasource-countryflag.css')```
+9. Code for implementation:
 ```
     |Country:
-    select.gds-cr(country-data-region-id="gds-cr-one")
+    select.gds-cr(country-data-region-id="gds-cr-one").gds-countryflag
     |Region:
     select#gds-cr-one
 ```
@@ -88,6 +107,7 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 ## Attributes
 
 * Country field **must** be given a class name as ```gds-cr``` .
+* ```gds-countryflag``` can be added to class name of country field to support country flag.
 * ```country-data-region-id``` is **required** in country field that contains the id of region field.
 * ```country-data-default-value``` is optional in country field which use to set the default selected country value.
 * ```region-data-default-value``` is optional in region field which use set the default selected region value. 

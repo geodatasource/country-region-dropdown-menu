@@ -27,6 +27,39 @@
         for (var i=0; i<countryDropDownList.length; i++) {
             generateCountryField(countryDropDownList[i]);
         }
+
+        // jQuery to display country flag
+        jQuery.widget("custom.iconselectmenu", jQuery.ui.selectmenu, {
+            _renderItem: function(ul, item) {
+                var li = jQuery("<li>"),
+                    wrapper = jQuery("<div>", {text: item.label});
+
+                if (item.disabled) {
+                    li.addClass("ui-state-disabled");
+                }
+
+                jQuery("<span>", {
+                    style: item.element.attr("data-style"),
+                    "class": "ui-icon " + item.element.attr("data-class")
+                }).appendTo(wrapper);
+
+                return li.append(wrapper).appendTo(ul);
+            }
+        });
+        jQuery(".gds-countryflag").iconselectmenu().iconselectmenu("menuWidget").addClass("ui-menu-icons customicons");
+        jQuery(".gds-countryflag").iconselectmenu({ change: function(event) {
+            var el = (event.target);
+            var countryElement;
+            for (var i=0; i<countryDropDownList.length; i++) {
+                var ddl = countryDropDownList[i];
+                if(ddl === el) {
+                    countryElement = ddl;
+                }
+            }
+            var regionID = countryElement.getAttribute("country-data-region-id");
+            var regionElement = document.getElementById(regionID);
+            generateRegionField(countryElement, regionElement);
+        }});
     };
 
     var generateCountryField = function(countryElement) {
@@ -49,8 +82,9 @@
         initialiseRegion();
 
         for (var i=0; i<country_region.length; i++) {
-            var value = country_region[i][1]; 
-            countryElement.options[countryElement.length] = new Option(country_region[i][1], value); 
+            var value = country_region[i][1];
+            var cc_iso = country_region[i][0];
+            (countryElement.options[countryElement.length] = new Option(country_region[i][1], value)).setAttribute("data-class", cc_iso.toLowerCase());
             if (defaultCountrySelectedValue != null && defaultCountrySelectedValue === value) {
                 foundIndex = i;
                 if (showEmptyCountryOption) {

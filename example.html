@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <title>Country-Region DropDown Menu</title>
     <script src="dist/geodatasource-cr.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="dist/geodatasource-countryflag.css">
   </head>
   <body>
   
@@ -28,6 +32,17 @@
             Country: <select class="gds-cr" country-data-region-id="gds-cr-two" country-data-default-value="United States"></select>
 
             Region: <select id="gds-cr-two" region-data-default-value="California"></select>
+        </p>
+    </div>
+    <br />
+    <div>
+        <!-- country-region dropdown menu with country flag -->
+        <p>Example 3:</p>
+
+        <p>
+            Country: <select class="gds-cr gds-countryflag" country-data-region-id="gds-cr-three"></select>
+
+            Region: <select id="gds-cr-three"></select>
         </p>
     </div>
 
