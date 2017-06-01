@@ -3,6 +3,14 @@ This javascript enables user to easily implement a country-region dropdown menu.
 It is as simple as by entering the given attribute into the country and region dropdown menu respectively to make them works.
 After that, the region dropdown will be automatically refresh on the change of country dropdown.
 
+## Demo
+
+[![Country-Region DropDown Menu Demo 1](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot1.png)](http://www.geodatasource.com/software/country-region-dropdown-menu-demo)
+
+[![Country-Region DropDown Menu Demo 2](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot2.png)](http://www.geodatasource.com/software/country-region-dropdown-menu-demo)
+
+Please check on [demo](http://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture about how it works.
+
 ## Usage
 
     <html>
@@ -111,10 +119,6 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 * ```country-data-region-id``` is **required** in country field that contains the id of region field.
 * ```country-data-default-value``` is optional in country field which use to set the default selected country value.
 * ```region-data-default-value``` is optional in region field which use set the default selected region value. 
-
-## Demo
-
-Please check on [demo](http://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture about how it works.
 
 ## Sample page
 
