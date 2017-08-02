@@ -31,7 +31,7 @@ Please check on [demo](http://www.geodatasource.com/software/country-region-drop
         </div>
 
         <div>
-            Country: <select class="gds-cr" country-data-region-id="gds-cr-two" country-data-default-value="United States"></select>
+            Country: <select class="gds-cr" country-data-region-id="gds-cr-two" country-data-default-value="US" ></select>
 
             Region: <select id="gds-cr-two" region-data-default-value="California"></select>
         </div>
@@ -117,7 +117,7 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 * Country field **must** be given a class name as ```gds-cr``` .
 * ```gds-countryflag``` can be added to class name of country field to support country flag.
 * ```country-data-region-id``` is **required** in country field that contains the id of region field.
-* ```country-data-default-value``` is optional in country field which use to set the default selected country value.
+* ```country-data-default-value``` is optional in country field which use to set the default selected country value, it supports both ISO3166-1 alpha-2 Country Code and country full name.
 * ```region-data-default-value``` is optional in region field which use set the default selected region value. 
 
 ## Sample page
