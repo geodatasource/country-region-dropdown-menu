@@ -11,6 +11,10 @@ After that, the region dropdown will be automatically refresh on the change of c
 
 Please check on [demo](http://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture about how it works.
 
+## Demo on JSFiddle
+
+Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a50/) page.
+
 ## Usage
 
     <html>
