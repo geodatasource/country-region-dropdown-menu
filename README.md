@@ -8,11 +8,11 @@ This plugin support the display of **ISO3166-1 (for Country Name)** and **ISO316
 
 ## Demo
 
-[![Country-Region DropDown Menu Demo 1](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot1.png)](http://www.geodatasource.com/software/country-region-dropdown-menu-demo)
+[![Country-Region DropDown Menu Demo 1](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot1.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
 
-[![Country-Region DropDown Menu Demo 2](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot2.png)](http://www.geodatasource.com/software/country-region-dropdown-menu-demo)
+[![Country-Region DropDown Menu Demo 2](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot2.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
 
-Please check on [demo](http://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture about how it works.
+Please check on [demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture about how it works.
 
 ## Demo on JSFiddle
 
@@ -127,6 +127,15 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 * ```country-data-default-value``` is optional in country field which use to set the default selected country value, it supports both ISO3166-1 alpha-2 Country Code and country full name.
 * ```region-data-default-value``` is optional in region field which use set the default selected region value. 
 
+## Country Flag Designs
+
+* Square Country Flag with ```<link rel="stylesheet" href="dist/geodatasource-countryflag.css">```
+![Square Country Flag](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot2.png)
+* Round Country Flag with ```<link rel="stylesheet" href="dist/geodatasource-countryflag-round.css">```
+![Round Country Flag](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot3.png)
+* Marker Country Flag with ```<link rel="stylesheet" href="dist/geodatasource-countryflag-marker.css">```
+![Marker Country Flag](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot4.png)
+
 ## Sample page
 
 Please refer to example.html file.
@@ -134,4 +143,9 @@ Please refer to example.html file.
 ## Support
 
 Email: support@geodatasource.com  
-URL: [http://www.geodatasource.com](http://www.geodatasource.com)
+URL: [https://www.geodatasource.com](https://www.geodatasource.com)
+
+## Credits
+
+* Round Country Flag design is designed by Freepik from Flaticon [https://www.flaticon.com/packs/countrys-flags](https://www.flaticon.com/packs/countrys-flags)
+* Marker Country Flag design is designed by Freepik from Flaticon [https://www.flaticon.com/packs/country-flags](https://www.flaticon.com/packs/country-flags)
