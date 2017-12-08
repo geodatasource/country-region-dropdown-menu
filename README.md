@@ -147,5 +147,5 @@ URL: [https://www.geodatasource.com](https://www.geodatasource.com)
 
 ## Credits
 
-* Round Country Flag design is designed by Freepik from Flaticon [https://www.flaticon.com/packs/countrys-flags](https://www.flaticon.com/packs/countrys-flags)
-* Marker Country Flag design is designed by Freepik from Flaticon [https://www.flaticon.com/packs/country-flags](https://www.flaticon.com/packs/country-flags)
+* Round Country Flag is designed by Freepik from Flaticon [https://www.flaticon.com/packs/countrys-flags](https://www.flaticon.com/packs/countrys-flags)
+* Marker Country Flag is designed by Freepik from Flaticon [https://www.flaticon.com/packs/country-flags](https://www.flaticon.com/packs/country-flags)
