@@ -8,9 +8,9 @@ This plugin support the display of **ISO3166-1 (for Country Name)** and **ISO316
 
 ## Demo
 
-[![Country-Region DropDown Menu Demo 1](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot1.png?)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
+[![Country-Region DropDown Menu Demo 1](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot1.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
 
-[![Country-Region DropDown Menu Demo 2](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot2.png?)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
+[![Country-Region DropDown Menu Demo 2](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot2.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
 
 Please check on [demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture about how it works.
 
@@ -130,11 +130,11 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 ## Country Flag Designs
 
 * Square Country Flag with ```<link rel="stylesheet" href="dist/geodatasource-countryflag.css">```
-![Square Country Flag](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot2.png?)
+![Square Country Flag](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot2.png)
 * Round Country Flag with ```<link rel="stylesheet" href="dist/geodatasource-countryflag-round.css">```
-![Round Country Flag](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot3.png?)
+![Round Country Flag](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot3.png)
 * Marker Country Flag with ```<link rel="stylesheet" href="dist/geodatasource-countryflag-marker.css">```
-![Marker Country Flag](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot4.png?)
+![Marker Country Flag](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot4.png)
 
 ## Sample page
 
