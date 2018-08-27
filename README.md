@@ -6,6 +6,8 @@ This plugin support the display of **ISO3166-1 (for Country Name)** and **ISO316
 * Total of 247 country name supported (except **Bouvet Island** and **Heard Island and Mcdonald Islands**, which have no region/subdivision defined)
 * Please visit [ISO3166-2 Subdivision Code](https://www.ip2location.com/free/iso3166-2) to learn more about the **ISO3166-2** supported.
 
+Please take a look on [How to add City DropDown to Country-Region DropDown Menu tutorial](https://www.geodatasource.com/resources/tutorials/add-city-dropdown-country-region-dropdown-menu/) to learn more about how City DropDown added.
+
 ## Demo
 
 [![Country-Region DropDown Menu Demo 1](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot1.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
