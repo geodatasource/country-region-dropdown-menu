@@ -1,7 +1,7 @@
 {
   "name": "country-region-dropdown-menu",
   "description": "A dropdown menu created with javascript that allows user to implement country-region dropdown list effortlessly.",
-  "main": "dist/geodatasource-cr.js",
+  "main": "assets/js/geodatasource-cr.js",
   "keywords": [
     "geodatasource",
     "country",
