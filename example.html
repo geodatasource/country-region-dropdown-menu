@@ -8,12 +8,15 @@
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" href="assets/css/geodatasource-countryflag.css">
+
+    <link rel="gettext" type="application/x-po" href="languages/en/LC_MESSAGES/en.po" />
+    <script type="text/javascript" src="assets/js/Gettext.js"></script>
+
   </head>
   <body>
-  
+
     <h2>Country-Region DropDown Menu</h2>
-	
-	
+
     <div>
         <!-- normal country-region dropdown menu -->
         <p>Example 1:</p>
@@ -21,7 +24,7 @@
         <p>
             Country: <select class="gds-cr" country-data-region-id="gds-cr-one" ></select>
 
-            Region: <select id="gds-cr-one" ></select>
+            Region: <select id="gds-cr-one" region-data-language="en"></select>
         </p>
     </div>
     <br />
@@ -32,7 +35,7 @@
         <p>
             Country: <select class="gds-cr" country-data-region-id="gds-cr-two" country-data-default-value="US" ></select>
 
-            Region: <select id="gds-cr-two" region-data-default-value="California"></select>
+            Region: <select id="gds-cr-two" region-data-language="en" region-data-default-value="California" ></select>
         </p>
     </div>
     <br />
@@ -43,7 +46,7 @@
         <p>
             Country: <select class="gds-cr gds-countryflag" country-data-region-id="gds-cr-three" ></select>
 
-            Region: <select id="gds-cr-three"></select>
+            Region: <select id="gds-cr-three" region-data-language="en"></select>
         </p>
     </div>
 
