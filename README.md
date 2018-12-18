@@ -1,12 +1,13 @@
 # Country-Region DropDown Menu
-This javascript enables user to easily implement a country-region dropdown menu.
-It is as simple as enter the pre-defined class name and attribute into the country and region dropdown menu (select box) respectively to make them works. After that, the region dropdown will be automatically refreshed upon the change of country selection.
+This javascript enables you to implement a country-region dropdown menu with ease.
+It is just as simple as to enter the pre-defined class name and attribute into the dropdown control (HTML select input box) to make them work. After that, the region dropdown will be automatically repopluated upon the selection of country name.
 
-This plugin supports the display of **ISO3166-1 (for Country Name)** and **ISO3166-2 (for Region Name)** standard.
+This plugin uses the ISO defined name for the display, namely **ISO3166-1 (for Country Name)** and **ISO3166-2 (for Region Name)**.
 * Total of 247 country name supported (except **Bouvet Island** and **Heard Island and Mcdonald Islands**, which have no region/subdivision defined)
 * Please visit [ISO3166-2 Subdivision Code](https://www.ip2location.com/free/iso3166-2) to learn more about the **ISO3166-2** supported.
 
-This plugin supports multilingual in various languages.
+## Multilingual Display Supported
+This plugin equipped with multiple languages for country and region name display. Please see the below of the supported languages.
 
 |Language code|Language Name|
 |---|---|
