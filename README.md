@@ -7,6 +7,7 @@ This plugin supports the display of **ISO3166-1 (for Country Name)** and **ISO31
 * Please visit [ISO3166-2 Subdivision Code](https://www.ip2location.com/free/iso3166-2) to learn more about the **ISO3166-2** supported.
 
 This plugin supports multilingual in various languages.
+
 |Language code|Language Name|
 |---|---|
 |en|English|
