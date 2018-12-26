@@ -13,6 +13,747 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Language: zh_tw\n"
 
+msgid "Andorra_AD_C"
+msgstr "安道爾"
+
+msgid "United Arab Emirates_AE_C"
+msgstr "阿拉伯聯合酋長國"
+
+msgid "Afghanistan_AF_C"
+msgstr "阿富汗"
+
+msgid "Antigua and Barbuda_AG_C"
+msgstr "安提瓜和巴布達"
+
+msgid "Anguilla_AI_C"
+msgstr "安圭拉"
+
+msgid "Albania_AL_C"
+msgstr "阿爾巴尼亞"
+
+msgid "Armenia_AM_C"
+msgstr "亞美尼亞"
+
+msgid "Angola_AO_C"
+msgstr "安哥拉"
+
+msgid "Antarctica_AQ_C"
+msgstr "南極洲"
+
+msgid "Argentina_AR_C"
+msgstr "阿根廷"
+
+msgid "American Samoa_AS_C"
+msgstr "美屬薩摩亞"
+
+msgid "Austria_AT_C"
+msgstr "奧地利"
+
+msgid "Australia_AU_C"
+msgstr "澳大利亞"
+
+msgid "Aruba_AW_C"
+msgstr "阿魯巴"
+
+msgid "Aland Islands_AX_C"
+msgstr "奧蘭"
+
+msgid "Azerbaijian_AZ_C"
+msgstr "阿塞拜疆"
+
+msgid "Bosnia and Herzegovina_BA_C"
+msgstr "波斯尼亞和黑塞哥維那"
+
+msgid "Barbados_BB_C"
+msgstr "巴巴多斯"
+
+msgid "Bangladesh_BD_C"
+msgstr "孟加拉國"
+
+msgid "Belgium_BE_C"
+msgstr "比利時"
+
+msgid "Burkina Faso_BF_C"
+msgstr "布吉納法索"
+
+msgid "Bulgaria_BG_C"
+msgstr "保加利亞"
+
+msgid "Bahrain_BH_C"
+msgstr "巴林"
+
+msgid "Burundi_BI_C"
+msgstr "蒲隆地"
+
+msgid "Benin_BJ_C"
+msgstr "貝寧"
+
+msgid "Saint Barthelemy_BL_C"
+msgstr "聖巴泰勒米"
+
+msgid "Bermuda_BM_C"
+msgstr "百慕大"
+
+msgid "Brunei Darussalam_BN_C"
+msgstr "汶萊"
+
+msgid "Bolivia, Plurinational State of_BO_C"
+msgstr "玻利維亞"
+
+msgid "Bonaire, Sint Eustatius and Saba_BQ_C"
+msgstr "荷蘭加勒比區"
+
+msgid "Brazil_BR_C"
+msgstr "巴西"
+
+msgid "Bahamas_BS_C"
+msgstr "巴哈馬"
+
+msgid "Bhutan_BT_C"
+msgstr "不丹"
+
+msgid "Botswana_BW_C"
+msgstr "波札那"
+
+msgid "Belarus_BY_C"
+msgstr "白俄羅斯"
+
+msgid "Belize_BZ_C"
+msgstr "伯利茲"
+
+msgid "Canada_CA_C"
+msgstr "加拿大"
+
+msgid "Cocos (Keeling) Islands_CC_C"
+msgstr "科科斯（基林）群島"
+
+msgid "Congo, The Democratic Republic of The_CD_C"
+msgstr "剛果民主共和國"
+
+msgid "Central African Republic_CF_C"
+msgstr "中非共和國"
+
+msgid "Congo_CG_C"
+msgstr "剛果"
+
+msgid "Switzerland_CH_C"
+msgstr "瑞士"
+
+msgid "Cote D'ivoire_CI_C"
+msgstr "科特迪瓦"
+
+msgid "Cook Islands_CK_C"
+msgstr "庫克群島"
+
+msgid "Chile_CL_C"
+msgstr "智利"
+
+msgid "Cameroon_CM_C"
+msgstr "喀麥隆"
+
+msgid "China_CN_C"
+msgstr "中華人民共和國"
+
+msgid "Colombia_CO_C"
+msgstr "哥倫比亞"
+
+msgid "Costa Rica_CR_C"
+msgstr "哥斯達黎加"
+
+msgid "Cuba_CU_C"
+msgstr "古巴"
+
+msgid "Cabo Verde_CV_C"
+msgstr "佛得角"
+
+msgid "Curacao_CW_C"
+msgstr "庫拉索"
+
+msgid "Christmas Island_CX_C"
+msgstr "聖誕島"
+
+msgid "Cyprus_CY_C"
+msgstr "賽普勒斯"
+
+msgid "Czech Republic_CZ_C"
+msgstr "捷克"
+
+msgid "Germany_DE_C"
+msgstr "德國"
+
+msgid "Djibouti_DJ_C"
+msgstr "吉布提"
+
+msgid "Denmark_DK_C"
+msgstr "丹麥"
+
+msgid "Dominica_DM_C"
+msgstr "多米尼克"
+
+msgid "Dominican Republic_DO_C"
+msgstr "多明尼加"
+
+msgid "Algeria_DZ_C"
+msgstr "阿爾及利亞"
+
+msgid "Ecuador_EC_C"
+msgstr "厄瓜多爾"
+
+msgid "Estonia_EE_C"
+msgstr "愛沙尼亞"
+
+msgid "Egypt_EG_C"
+msgstr "埃及"
+
+msgid "Western Sahara_EH_C"
+msgstr "西撒哈拉"
+
+msgid "Eritrea_ER_C"
+msgstr "厄立特裡亞"
+
+msgid "Spain_ES_C"
+msgstr "西班牙"
+
+msgid "Ethiopia_ET_C"
+msgstr "埃塞俄比亞"
+
+msgid "Finland_FI_C"
+msgstr "芬蘭"
+
+msgid "Fiji_FJ_C"
+msgstr "斐濟"
+
+msgid "Falkland Islands (Malvinas)_FK_C"
+msgstr "福克蘭群島"
+
+msgid "Micronesia, Federated States of_FM_C"
+msgstr "密克羅尼西亞聯邦"
+
+msgid "Faroe Islands_FO_C"
+msgstr "法羅群島"
+
+msgid "France_FR_C"
+msgstr "法國"
+
+msgid "Gabon_GA_C"
+msgstr "加蓬"
+
+msgid "United Kingdom_GB_C"
+msgstr "英國"
+
+msgid "Grenada_GD_C"
+msgstr "格林納達"
+
+msgid "Georgia_GE_C"
+msgstr "喬治亞"
+
+msgid "French Guiana_GF_C"
+msgstr "法屬圭亞那"
+
+msgid "Guernsey_GG_C"
+msgstr "根西"
+
+msgid "Ghana_GH_C"
+msgstr "加納"
+
+msgid "Gibraltar_GI_C"
+msgstr "直布羅陀"
+
+msgid "Greenland_GL_C"
+msgstr "格陵蘭"
+
+msgid "Gambia_GM_C"
+msgstr "岡比亞"
+
+msgid "Guinea_GN_C"
+msgstr "幾內亞"
+
+msgid "Guadeloupe_GP_C"
+msgstr "瓜德羅普"
+
+msgid "Equatorial Guinea_GQ_C"
+msgstr "赤道幾內亞"
+
+msgid "Greece_GR_C"
+msgstr "希臘"
+
+msgid "South Georgia and The South Sandwich Islands_GS_C"
+msgstr "南喬治亞和南桑威奇群島"
+
+msgid "Guatemala_GT_C"
+msgstr "危地馬拉"
+
+msgid "Guam_GU_C"
+msgstr "關島"
+
+msgid "Guinea-Bissau_GW_C"
+msgstr "幾內亞比索"
+
+msgid "Guyana_GY_C"
+msgstr "圭亞那"
+
+msgid "Hong Kong_HK_C"
+msgstr "香港"
+
+msgid "Honduras_HN_C"
+msgstr "洪都拉斯"
+
+msgid "Croatia_HR_C"
+msgstr "克羅地亞"
+
+msgid "Haiti_HT_C"
+msgstr "海地"
+
+msgid "Hungary_HU_C"
+msgstr "匈牙利"
+
+msgid "Indonesia_ID_C"
+msgstr "印度尼西亞"
+
+msgid "Ireland_IE_C"
+msgstr "愛爾蘭島"
+
+msgid "Israel_IL_C"
+msgstr "以色列"
+
+msgid "Isle of Man_IM_C"
+msgstr "曼島"
+
+msgid "India_IN_C"
+msgstr "印度"
+
+msgid "British Indian Ocean Territory_IO_C"
+msgstr "英屬印度洋領地"
+
+msgid "Iraq_IQ_C"
+msgstr "伊拉克"
+
+msgid "Iran, Islamic Republic of_IR_C"
+msgstr "伊朗"
+
+msgid "Iceland_IS_C"
+msgstr "冰島"
+
+msgid "Italy_IT_C"
+msgstr "意大利"
+
+msgid "Jersey_JE_C"
+msgstr "澤西"
+
+msgid "Jamaica_JM_C"
+msgstr "牙買加"
+
+msgid "Jordan_JO_C"
+msgstr "約旦"
+
+msgid "Japan_JP_C"
+msgstr "日本"
+
+msgid "Kenya_KE_C"
+msgstr "肯尼亞"
+
+msgid "Kyrgyzstan_KG_C"
+msgstr "吉爾吉斯斯坦"
+
+msgid "Cambodia_KH_C"
+msgstr "柬埔寨"
+
+msgid "Kiribati_KI_C"
+msgstr "基裡巴斯"
+
+msgid "Comoros_KM_C"
+msgstr "葛摩"
+
+msgid "Saint Kitts and Nevis_KN_C"
+msgstr "聖克裡斯多福與尼維斯"
+
+msgid "Korea, Democratic People's Republic of_KP_C"
+msgstr "朝鮮民主主義人民共和國"
+
+msgid "Korea, Republic of_KR_C"
+msgstr "大韓民國"
+
+msgid "Kuwait_KW_C"
+msgstr "科威特"
+
+msgid "Cayman Islands_KY_C"
+msgstr "開曼群島"
+
+msgid "Kazakhstan_KZ_C"
+msgstr "哈薩克斯坦"
+
+msgid "Lao People's Democratic Republic_LA_C"
+msgstr "老撾"
+
+msgid "Lebanon_LB_C"
+msgstr "黎巴嫩"
+
+msgid "Saint Lucia_LC_C"
+msgstr "聖盧西亞"
+
+msgid "Liechtenstein_LI_C"
+msgstr "列支敦斯登"
+
+msgid "Sri Lanka_LK_C"
+msgstr "斯裡蘭卡"
+
+msgid "Liberia_LR_C"
+msgstr "利比裡亞"
+
+msgid "Lesotho_LS_C"
+msgstr "萊索托"
+
+msgid "Lithuania_LT_C"
+msgstr "立陶宛"
+
+msgid "Luxembourg_LU_C"
+msgstr "盧森堡"
+
+msgid "Latvia_LV_C"
+msgstr "拉脫維亞"
+
+msgid "Libya_LY_C"
+msgstr "利比亞"
+
+msgid "Morocco_MA_C"
+msgstr "摩洛哥"
+
+msgid "Monaco_MC_C"
+msgstr "摩納哥"
+
+msgid "Moldova, Republic of_MD_C"
+msgstr "摩爾多瓦"
+
+msgid "Montenegro_ME_C"
+msgstr "蒙特內哥羅"
+
+msgid "Saint Martin (French Part)_MF_C"
+msgstr "法屬聖馬丁"
+
+msgid "Madagascar_MG_C"
+msgstr "馬達加斯加"
+
+msgid "Marshall Islands_MH_C"
+msgstr "馬紹爾群島"
+
+msgid "Macedonia, The Former Yugoslav Republic of_MK_C"
+msgstr "馬其頓共和國"
+
+msgid "Mali_ML_C"
+msgstr "馬裡"
+
+msgid "Myanmar_MM_C"
+msgstr "緬甸"
+
+msgid "Mongolia_MN_C"
+msgstr "蒙古國"
+
+msgid "Macao_MO_C"
+msgstr "澳門"
+
+msgid "Northern Mariana Islands_MP_C"
+msgstr "北馬裡亞納群島"
+
+msgid "Martinique_MQ_C"
+msgstr "馬提尼克"
+
+msgid "Mauritania_MR_C"
+msgstr "毛裡塔尼亞"
+
+msgid "Montserrat_MS_C"
+msgstr "蒙塞拉特島"
+
+msgid "Malta_MT_C"
+msgstr "馬耳他"
+
+msgid "Mauritius_MU_C"
+msgstr "毛裡求斯"
+
+msgid "Maldives_MV_C"
+msgstr "馬爾代夫"
+
+msgid "Malawi_MW_C"
+msgstr "馬拉維"
+
+msgid "Mexico_MX_C"
+msgstr "墨西哥"
+
+msgid "Malaysia_MY_C"
+msgstr "馬來西亞"
+
+msgid "Mozambique_MZ_C"
+msgstr "莫桑比克"
+
+msgid "Namibia_NA_C"
+msgstr "納米比亞"
+
+msgid "New Caledonia_NC_C"
+msgstr "新喀裡多尼亞"
+
+msgid "Niger_NE_C"
+msgstr "尼日爾"
+
+msgid "Norfolk Island_NF_C"
+msgstr "諾福克島"
+
+msgid "Nigeria_NG_C"
+msgstr "奈及利亞"
+
+msgid "Nicaragua_NI_C"
+msgstr "尼加拉瓜"
+
+msgid "Netherlands_NL_C"
+msgstr "荷蘭"
+
+msgid "Norway_NO_C"
+msgstr "挪威"
+
+msgid "Nepal_NP_C"
+msgstr "尼泊爾"
+
+msgid "Nauru_NR_C"
+msgstr "諾魯"
+
+msgid "Niue_NU_C"
+msgstr "紐埃"
+
+msgid "New Zealand_NZ_C"
+msgstr "新西蘭"
+
+msgid "Oman_OM_C"
+msgstr "阿曼"
+
+msgid "Panama_PA_C"
+msgstr "巴拿馬"
+
+msgid "Peru_PE_C"
+msgstr "秘魯"
+
+msgid "French Polynesia_PF_C"
+msgstr "法屬玻裡尼西亞"
+
+msgid "Papua New Guinea_PG_C"
+msgstr "巴布亞新幾內亞"
+
+msgid "Philippines_PH_C"
+msgstr "菲律賓"
+
+msgid "Pakistan_PK_C"
+msgstr "巴基斯坦"
+
+msgid "Poland_PL_C"
+msgstr "波蘭"
+
+msgid "Saint Pierre and Miquelon_PM_C"
+msgstr "聖皮埃爾和密克隆"
+
+msgid "Pitcairn_PN_C"
+msgstr "皮特凱恩群島"
+
+msgid "Puerto Rico_PR_C"
+msgstr "波多黎各"
+
+msgid "Palestine, State of_PS_C"
+msgstr "巴勒斯坦"
+
+msgid "Portugal_PT_C"
+msgstr "葡萄牙"
+
+msgid "Palau_PW_C"
+msgstr "帛琉"
+
+msgid "Paraguay_PY_C"
+msgstr "巴拉圭"
+
+msgid "Qatar_QA_C"
+msgstr "卡塔爾"
+
+msgid "Reunion_RE_C"
+msgstr "留尼汪"
+
+msgid "Romania_RO_C"
+msgstr "羅馬尼亞"
+
+msgid "Serbia_RS_C"
+msgstr "塞爾維亞"
+
+msgid "Russian Federation_RU_C"
+msgstr "俄羅斯"
+
+msgid "Rwanda_RW_C"
+msgstr "盧旺達"
+
+msgid "Saudi Arabia_SA_C"
+msgstr "沙特阿拉伯"
+
+msgid "Solomon Islands_SB_C"
+msgstr "所羅門群島"
+
+msgid "Seychelles_SC_C"
+msgstr "塞舌爾"
+
+msgid "Sudan_SD_C"
+msgstr "蘇丹共和國"
+
+msgid "Sweden_SE_C"
+msgstr "瑞典"
+
+msgid "Singapore_SG_C"
+msgstr "新加坡"
+
+msgid "Saint Helena, Ascension and Tristan Da Cunha_SH_C"
+msgstr "聖赫勒拿、阿森鬆和特裡斯坦-達庫尼亞"
+
+msgid "Slovenia_SI_C"
+msgstr "斯洛文尼亞"
+
+msgid "Svalbard and Jan Mayen_SJ_C"
+msgstr "斯瓦巴和揚馬延"
+
+msgid "Slovakia_SK_C"
+msgstr "斯洛伐克"
+
+msgid "Sierra Leone_SL_C"
+msgstr "塞拉利昂"
+
+msgid "San Marino_SM_C"
+msgstr "聖馬力諾"
+
+msgid "Senegal_SN_C"
+msgstr "塞內加爾"
+
+msgid "Somalia_SO_C"
+msgstr "索馬裡"
+
+msgid "Suriname_SR_C"
+msgstr "蘇利南"
+
+msgid "South Sudan_SS_C"
+msgstr "南蘇丹"
+
+msgid "Sao Tome and Principe_ST_C"
+msgstr "聖多美和普林西比"
+
+msgid "El Salvador_SV_C"
+msgstr "薩爾瓦多"
+
+msgid "Sint Maarten (Dutch Part)_SX_C"
+msgstr "荷屬聖馬丁"
+
+msgid "Syrian Arab Republic_SY_C"
+msgstr "敘利亞"
+
+msgid "Swaziland_SZ_C"
+msgstr "斯威士蘭"
+
+msgid "Turks and Caicos Islands_TC_C"
+msgstr "特克斯和凱科斯群島"
+
+msgid "Chad_TD_C"
+msgstr "乍得"
+
+msgid "French Southern Territories_TF_C"
+msgstr "法屬南部和南極領地"
+
+msgid "Togo_TG_C"
+msgstr "多哥"
+
+msgid "Thailand_TH_C"
+msgstr "泰國"
+
+msgid "Tajikistan_TJ_C"
+msgstr "塔吉克斯坦"
+
+msgid "Tokelau_TK_C"
+msgstr "托克勞"
+
+msgid "Timor-Leste_TL_C"
+msgstr "東帝汶"
+
+msgid "Turkmenistan_TM_C"
+msgstr "土庫曼斯坦"
+
+msgid "Tunisia_TN_C"
+msgstr "突尼西亞"
+
+msgid "Tonga_TO_C"
+msgstr "東加"
+
+msgid "Turkey_TR_C"
+msgstr "土耳其"
+
+msgid "Trinidad and Tobago_TT_C"
+msgstr "千裡達及托巴哥"
+
+msgid "Tuvalu_TV_C"
+msgstr "圖瓦盧"
+
+msgid "Taiwan, Province of China_TW_C"
+msgstr "中國台灣"
+
+msgid "Tanzania, United Republic of_TZ_C"
+msgstr "坦桑尼亞"
+
+msgid "Ukraine_UA_C"
+msgstr "烏克蘭"
+
+msgid "Uganda_UG_C"
+msgstr "烏干達"
+
+msgid "United States Minor Outlying Islands_UM_C"
+msgstr "美國本土外小島嶼"
+
+msgid "United States_US_C"
+msgstr "美國"
+
+msgid "Uruguay_UY_C"
+msgstr "烏拉圭"
+
+msgid "Uzbekistan_UZ_C"
+msgstr "烏茲別克斯坦"
+
+msgid "Holy See_VA_C"
+msgstr "聖座"
+
+msgid "Saint Vincent and The Grenadines_VC_C"
+msgstr "聖文森特和格林納丁斯"
+
+msgid "Venezuela, Bolivarian Republic of_VE_C"
+msgstr "委內瑞拉"
+
+msgid "Virgin Islands, British_VG_C"
+msgstr "英屬維爾京群島"
+
+msgid "Virgin Islands, U.S._VI_C"
+msgstr "美屬維爾京群島"
+
+msgid "Viet Nam_VN_C"
+msgstr "越南"
+
+msgid "Vanuatu_VU_C"
+msgstr "瓦努阿圖"
+
+msgid "Wallis and Futuna_WF_C"
+msgstr "瓦利斯和富圖納"
+
+msgid "Samoa_WS_C"
+msgstr "薩摩亞"
+
+msgid "Yemen_YE_C"
+msgstr "也門"
+
+msgid "Mayotte_YT_C"
+msgstr "馬約特"
+
+msgid "South Africa_ZA_C"
+msgstr "南非"
+
+msgid "Zambia_ZM_C"
+msgstr "贊比亞"
+
+msgid "Zimbabwe_ZW_C"
+msgstr "辛巴威"
+
 msgid "Andorra la Vella_AD"
 msgstr "安道爾城"
 

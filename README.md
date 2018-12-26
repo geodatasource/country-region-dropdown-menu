@@ -19,6 +19,7 @@ This plugin equipped with multiple languages for country and region name display
 |zh-cn|Chinese Simplified|
 |zh-tw|Chinese Traditional|
 
+## City DropDown Supported
 Please take a look on [How to add City DropDown to Country-Region DropDown Menu tutorial](https://www.geodatasource.com/resources/tutorials/add-city-dropdown-country-region-dropdown-menu/) to learn more about how City DropDown added.
 
 ## Demo
@@ -38,33 +39,37 @@ Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a5
     <html>
       <head>
         <meta charset="UTF-8">
-        <script src="assets/js/geodatasource-cr.min.js"></script>
+
+        <!-- link for jquery style -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
         <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+        <script src="assets/js/geodatasource-cr.min.js"></script>
         <link rel="stylesheet" href="assets/css/geodatasource-countryflag.css">
 
+        <!-- link to languages po files -->
         <link rel="gettext" type="application/x-po" href="languages/en/LC_MESSAGES/en.po" />
         <script type="text/javascript" src="assets/js/Gettext.js"></script>
       </head>
       <body>
 
         <div>
-            Country: <select class="gds-cr" country-data-region-id="gds-cr-one" ></select>
+            Country: <select class="gds-cr" country-data-region-id="gds-cr-one" data-language="en"></select>
 
-            Region: <select id="gds-cr-one" region-data-language="en"></select>
+            Region: <select id="gds-cr-one" ></select>
         </div>
 
         <div>
-            Country: <select class="gds-cr" country-data-region-id="gds-cr-two" country-data-default-value="US" ></select>
+            Country: <select class="gds-cr" country-data-region-id="gds-cr-two" data-language="en" country-data-default-value="US" ></select>
 
-            Region: <select id="gds-cr-two" region-data-language="en" region-data-default-value="California"></select>
+            Region: <select id="gds-cr-two" region-data-default-value="California" ></select>
         </div>
 
         <div>
-            Country: <select class="gds-cr gds-countryflag" country-data-region-id="gds-cr-three" ></select>
+            Country: <select class="gds-cr gds-countryflag" country-data-region-id="gds-cr-three" data-language="en"></select>
 
-            Region: <select id="gds-cr-three" region-data-language="en"></select>
+            Region: <select id="gds-cr-three"></select>
         </div>
 
       </body>
@@ -104,13 +109,13 @@ If you are using Twitter Bootstrap, you may refer to the below example for the i
                         <div class="form-group">
                             <label class="col-sm-2 control-label">Country</label>
                             <div class="col-sm-10">
-                                <select class="form-control gds-cr gds-countryflag" country-data-region-id="gds-cr-1"></select>
+                                <select class="form-control gds-cr gds-countryflag" country-data-region-id="gds-cr-1" data-language="en"></select>
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="gds-cr-1" class="col-sm-2 control-label">Region</label>
                             <div class="col-sm-10">
-                                <select class="form-control" id="gds-cr-1" region-data-language="en"></select>
+                                <select class="form-control" id="gds-cr-1"></select>
                             </div>
                         </div>
                     </form>
@@ -139,9 +144,9 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 13. Code for implementation:
 ```
     |Country:
-    select.gds-cr(country-data-region-id="gds-cr-one").gds-countryflag
+    select.gds-cr(country-data-region-id="gds-cr-one",data-language="en").gds-countryflag
     |Region:
-    select#gds-cr-one(region-data-language="en")
+    select#gds-cr-one
 ```
 
 ## Attributes
@@ -149,9 +154,9 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 * Country field **must** be given a class name as ```gds-cr``` .
 * ```gds-countryflag``` can be added to class name of country field to support country flag.
 * ```country-data-region-id``` is **required** in country field that contains the id of region field.
+* ```data-language``` is **required** in country field which use set the language used in both country and region data. Refer to [multilingual section](#multilingual-display-supported) for language code supported.
 * ```country-data-default-value``` is optional in country field which use to set the default selected country value, it supports both ISO3166-1 alpha-2 Country Code and country full name.
-* ```region-data-language``` is **required** in region field which use set the language used in region data. 
-* ```region-data-default-value``` is optional in region field which use set the default selected region value. 
+* ```region-data-default-value``` is optional in region field which use set the default selected region value.
 
 ## Country Flag Designs
 
