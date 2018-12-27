@@ -169,7 +169,7 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 
 ## Sample page
 
-Please refer to example.html file.
+Please refer to example-default.html file.
 
 ## Support
 
