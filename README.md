@@ -11,11 +11,22 @@ This plugin equipped with multiple languages for country and region name display
 
 |Language code|Language Name|
 |---|---|
+|ar|Arabic|
+|cs|Czech|
+|da|Danish|
+|de|German|
 |en|English|
 |es|Spanish|
 |fr|French|
 |it|Italian|
+|ja|Japanese|
+|ko|Korean|
+|ms|Malay|
+|nl|Dutch|
 |pt|Portuguese|
+|ru|Russian|
+|sv|Swedish|
+|vi|Vietnamese|
 |zh-cn|Chinese Simplified|
 |zh-tw|Chinese Traditional|
 

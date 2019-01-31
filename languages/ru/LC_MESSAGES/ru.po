@@ -1,0 +1,12647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-29 08:45+0800\n"
+"PO-Revision-Date: 2018-10-29 08:45+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ru\n"
+
+msgid "Andorra_AD_C"
+msgstr "Андорра"
+
+msgid "United Arab Emirates_AE_C"
+msgstr "Объединённые Арабские Эмираты"
+
+msgid "Afghanistan_AF_C"
+msgstr "Афганистан"
+
+msgid "Antigua and Barbuda_AG_C"
+msgstr "Антигуа и Барбуда"
+
+msgid "Anguilla_AI_C"
+msgstr "Ангилья"
+
+msgid "Albania_AL_C"
+msgstr "Албания"
+
+msgid "Armenia_AM_C"
+msgstr "Армения"
+
+msgid "Angola_AO_C"
+msgstr "Ангола"
+
+msgid "Antarctica_AQ_C"
+msgstr "Антарктида"
+
+msgid "Argentina_AR_C"
+msgstr "Аргентина"
+
+msgid "American Samoa_AS_C"
+msgstr "Американское Самоа"
+
+msgid "Austria_AT_C"
+msgstr "Австрия"
+
+msgid "Australia_AU_C"
+msgstr "Австралия"
+
+msgid "Aruba_AW_C"
+msgstr "Аруба"
+
+msgid "Aland Islands_AX_C"
+msgstr "Аландские острова"
+
+msgid "Azerbaijian_AZ_C"
+msgstr "Азербайджан"
+
+msgid "Bosnia and Herzegovina_BA_C"
+msgstr "Босния и Герцеговина"
+
+msgid "Barbados_BB_C"
+msgstr "Барбадос"
+
+msgid "Bangladesh_BD_C"
+msgstr "Бангладеш"
+
+msgid "Belgium_BE_C"
+msgstr "Бельгия"
+
+msgid "Burkina Faso_BF_C"
+msgstr "Буркина-Фасо"
+
+msgid "Bulgaria_BG_C"
+msgstr "Болгария"
+
+msgid "Bahrain_BH_C"
+msgstr "Бахрейн"
+
+msgid "Burundi_BI_C"
+msgstr "Бурунди"
+
+msgid "Benin_BJ_C"
+msgstr "Бенин"
+
+msgid "Saint Barthelemy_BL_C"
+msgstr "Сен-Бартелеми"
+
+msgid "Bermuda_BM_C"
+msgstr "Бермудские Острова"
+
+msgid "Brunei Darussalam_BN_C"
+msgstr "Бруней"
+
+msgid "Bolivia, Plurinational State of_BO_C"
+msgstr "Боливия"
+
+msgid "Bonaire, Sint Eustatius and Saba_BQ_C"
+msgstr "Бонэйр, Синт-Эстатиус и Саба"
+
+msgid "Brazil_BR_C"
+msgstr "Бразилия"
+
+msgid "Bahamas_BS_C"
+msgstr "Багамские Острова"
+
+msgid "Bhutan_BT_C"
+msgstr "Бутан"
+
+msgid "Botswana_BW_C"
+msgstr "Ботсвана"
+
+msgid "Belarus_BY_C"
+msgstr "Белоруссия"
+
+msgid "Belize_BZ_C"
+msgstr "Белиз"
+
+msgid "Canada_CA_C"
+msgstr "Канада"
+
+msgid "Cocos (Keeling) Islands_CC_C"
+msgstr "Кокосовые острова"
+
+msgid "Congo, The Democratic Republic of The_CD_C"
+msgstr "Демократическая Республика Конго"
+
+msgid "Central African Republic_CF_C"
+msgstr "Центральноафриканская Республика"
+
+msgid "Congo_CG_C"
+msgstr "Конго"
+
+msgid "Switzerland_CH_C"
+msgstr "Швейцария"
+
+msgid "Cote D'ivoire_CI_C"
+msgstr "Кот-д’Ивуар"
+
+msgid "Cook Islands_CK_C"
+msgstr "Острова Кука"
+
+msgid "Chile_CL_C"
+msgstr "Чили"
+
+msgid "Cameroon_CM_C"
+msgstr "Камерун"
+
+msgid "China_CN_C"
+msgstr "Китай"
+
+msgid "Colombia_CO_C"
+msgstr "Колумбия"
+
+msgid "Costa Rica_CR_C"
+msgstr "Коста-Рика"
+
+msgid "Cuba_CU_C"
+msgstr "Куба"
+
+msgid "Cabo Verde_CV_C"
+msgstr "Кабо-Верде"
+
+msgid "Curacao_CW_C"
+msgstr "Кюрасао"
+
+msgid "Christmas Island_CX_C"
+msgstr "Остров Рождества (Австралия)"
+
+msgid "Cyprus_CY_C"
+msgstr "Республика Кипр"
+
+msgid "Czech Republic_CZ_C"
+msgstr "Чехия"
+
+msgid "Germany_DE_C"
+msgstr "Германия"
+
+msgid "Djibouti_DJ_C"
+msgstr "Джибути"
+
+msgid "Denmark_DK_C"
+msgstr "Дания"
+
+msgid "Dominica_DM_C"
+msgstr "Доминика"
+
+msgid "Dominican Republic_DO_C"
+msgstr "Доминиканская Республика"
+
+msgid "Algeria_DZ_C"
+msgstr "Алжир"
+
+msgid "Ecuador_EC_C"
+msgstr "Эквадор"
+
+msgid "Estonia_EE_C"
+msgstr "Эстония"
+
+msgid "Egypt_EG_C"
+msgstr "Египет"
+
+msgid "Western Sahara_EH_C"
+msgstr "Западная Сахара"
+
+msgid "Eritrea_ER_C"
+msgstr "Эритрея"
+
+msgid "Spain_ES_C"
+msgstr "Испания"
+
+msgid "Ethiopia_ET_C"
+msgstr "Эфиопия"
+
+msgid "Finland_FI_C"
+msgstr "Финляндия"
+
+msgid "Fiji_FJ_C"
+msgstr "Фиджи"
+
+msgid "Falkland Islands (Malvinas)_FK_C"
+msgstr "Фолклендские острова"
+
+msgid "Micronesia, Federated States of_FM_C"
+msgstr "Федеративные Штаты Микронезии"
+
+msgid "Faroe Islands_FO_C"
+msgstr "Фарерские острова"
+
+msgid "France_FR_C"
+msgstr "Франция"
+
+msgid "Gabon_GA_C"
+msgstr "Габон"
+
+msgid "United Kingdom_GB_C"
+msgstr "Великобритания"
+
+msgid "Grenada_GD_C"
+msgstr "Гренада"
+
+msgid "Georgia_GE_C"
+msgstr "Джорджия (значения)"
+
+msgid "French Guiana_GF_C"
+msgstr "Гвиана (департамент Франции)"
+
+msgid "Guernsey_GG_C"
+msgstr "Guernsey"
+
+msgid "Ghana_GH_C"
+msgstr "Гана"
+
+msgid "Gibraltar_GI_C"
+msgstr "Гибралтар"
+
+msgid "Greenland_GL_C"
+msgstr "Гренландия (административная единица)"
+
+msgid "Gambia_GM_C"
+msgstr "Гамбия"
+
+msgid "Guinea_GN_C"
+msgstr "Гвинея"
+
+msgid "Guadeloupe_GP_C"
+msgstr "Гваделупа"
+
+msgid "Equatorial Guinea_GQ_C"
+msgstr "Экваториальная Гвинея"
+
+msgid "Greece_GR_C"
+msgstr "Греция"
+
+msgid "South Georgia and The South Sandwich Islands_GS_C"
+msgstr "Южная Георгия и Южные Сандвичевы Острова"
+
+msgid "Guatemala_GT_C"
+msgstr "Гватемала"
+
+msgid "Guam_GU_C"
+msgstr "Гуам"
+
+msgid "Guinea-Bissau_GW_C"
+msgstr "Гвинея-Бисау"
+
+msgid "Guyana_GY_C"
+msgstr "Гайана"
+
+msgid "Hong Kong_HK_C"
+msgstr "Гонконг"
+
+msgid "Honduras_HN_C"
+msgstr "Гондурас"
+
+msgid "Croatia_HR_C"
+msgstr "Хорватия"
+
+msgid "Haiti_HT_C"
+msgstr "Республика Гаити"
+
+msgid "Hungary_HU_C"
+msgstr "Венгрия"
+
+msgid "Indonesia_ID_C"
+msgstr "Индонезия"
+
+msgid "Ireland_IE_C"
+msgstr "Ирландия (остров)"
+
+msgid "Israel_IL_C"
+msgstr "Израиль"
+
+msgid "Isle of Man_IM_C"
+msgstr "Остров Мэн"
+
+msgid "India_IN_C"
+msgstr "Индия"
+
+msgid "British Indian Ocean Territory_IO_C"
+msgstr "Британская Территория в Индийском Океане"
+
+msgid "Iraq_IQ_C"
+msgstr "Ирак"
+
+msgid "Iran, Islamic Republic of_IR_C"
+msgstr "Иран"
+
+msgid "Iceland_IS_C"
+msgstr "Исландия"
+
+msgid "Italy_IT_C"
+msgstr "Италия"
+
+msgid "Jersey_JE_C"
+msgstr "Джерси (остров)"
+
+msgid "Jamaica_JM_C"
+msgstr "Ямайка"
+
+msgid "Jordan_JO_C"
+msgstr "Иордания"
+
+msgid "Japan_JP_C"
+msgstr "Япония"
+
+msgid "Kenya_KE_C"
+msgstr "Кения"
+
+msgid "Kyrgyzstan_KG_C"
+msgstr "Киргизия"
+
+msgid "Cambodia_KH_C"
+msgstr "Камбоджа"
+
+msgid "Kiribati_KI_C"
+msgstr "Кирибати"
+
+msgid "Comoros_KM_C"
+msgstr "Коморы"
+
+msgid "Saint Kitts and Nevis_KN_C"
+msgstr "Сент-Китс и Невис"
+
+msgid "Korea, Democratic People's Republic of_KP_C"
+msgstr "Корейская Народно-Демократическая Республика"
+
+msgid "Korea, Republic of_KR_C"
+msgstr "Республика Корея"
+
+msgid "Kuwait_KW_C"
+msgstr "Кувейт"
+
+msgid "Cayman Islands_KY_C"
+msgstr "Острова Кайман"
+
+msgid "Kazakhstan_KZ_C"
+msgstr "Казахстан"
+
+msgid "Lao People's Democratic Republic_LA_C"
+msgstr "Лаос"
+
+msgid "Lebanon_LB_C"
+msgstr "Ливан"
+
+msgid "Saint Lucia_LC_C"
+msgstr "Сент-Люсия"
+
+msgid "Liechtenstein_LI_C"
+msgstr "Лихтенштейн"
+
+msgid "Sri Lanka_LK_C"
+msgstr "Шри-Ланка"
+
+msgid "Liberia_LR_C"
+msgstr "Либерия"
+
+msgid "Lesotho_LS_C"
+msgstr "Лесото"
+
+msgid "Lithuania_LT_C"
+msgstr "Литва"
+
+msgid "Luxembourg_LU_C"
+msgstr "Люксембург"
+
+msgid "Latvia_LV_C"
+msgstr "Латвия"
+
+msgid "Libya_LY_C"
+msgstr "Ливия"
+
+msgid "Morocco_MA_C"
+msgstr "Марокко"
+
+msgid "Monaco_MC_C"
+msgstr "Монако"
+
+msgid "Moldova, Republic of_MD_C"
+msgstr "Молдавия"
+
+msgid "Montenegro_ME_C"
+msgstr "Черногория"
+
+msgid "Saint Martin (French Part)_MF_C"
+msgstr "Сен-Мартен (владение Франции)"
+
+msgid "Madagascar_MG_C"
+msgstr "Мадагаскар"
+
+msgid "Marshall Islands_MH_C"
+msgstr "Маршалловы Острова"
+
+msgid "Macedonia, The Former Yugoslav Republic of_MK_C"
+msgstr "Республика Македония"
+
+msgid "Mali_ML_C"
+msgstr "Мали"
+
+msgid "Myanmar_MM_C"
+msgstr "Мьянма"
+
+msgid "Mongolia_MN_C"
+msgstr "Монголия"
+
+msgid "Macao_MO_C"
+msgstr "Макао"
+
+msgid "Northern Mariana Islands_MP_C"
+msgstr "Северные Марианские Острова"
+
+msgid "Martinique_MQ_C"
+msgstr "Мартиника"
+
+msgid "Mauritania_MR_C"
+msgstr "Мавритания"
+
+msgid "Montserrat_MS_C"
+msgstr "Монтсеррат"
+
+msgid "Malta_MT_C"
+msgstr "Мальта"
+
+msgid "Mauritius_MU_C"
+msgstr "Маврикий"
+
+msgid "Maldives_MV_C"
+msgstr "Мальдивы"
+
+msgid "Malawi_MW_C"
+msgstr "Малави"
+
+msgid "Mexico_MX_C"
+msgstr "Мексика"
+
+msgid "Malaysia_MY_C"
+msgstr "Малайзия"
+
+msgid "Mozambique_MZ_C"
+msgstr "Мозамбик"
+
+msgid "Namibia_NA_C"
+msgstr "Намибия"
+
+msgid "New Caledonia_NC_C"
+msgstr "Новая Каледония"
+
+msgid "Niger_NE_C"
+msgstr "Нигер"
+
+msgid "Norfolk Island_NF_C"
+msgstr "Остров Норфолк"
+
+msgid "Nigeria_NG_C"
+msgstr "Нигерия"
+
+msgid "Nicaragua_NI_C"
+msgstr "Никарагуа"
+
+msgid "Netherlands_NL_C"
+msgstr "Нидерланды"
+
+msgid "Norway_NO_C"
+msgstr "Норвегия"
+
+msgid "Nepal_NP_C"
+msgstr "Непал"
+
+msgid "Nauru_NR_C"
+msgstr "Науру"
+
+msgid "Niue_NU_C"
+msgstr "Ниуэ"
+
+msgid "New Zealand_NZ_C"
+msgstr "Новая Зеландия"
+
+msgid "Oman_OM_C"
+msgstr "Оман"
+
+msgid "Panama_PA_C"
+msgstr "Панама"
+
+msgid "Peru_PE_C"
+msgstr "Перу"
+
+msgid "French Polynesia_PF_C"
+msgstr "Французская Полинезия"
+
+msgid "Papua New Guinea_PG_C"
+msgstr "Папуа — Новая Гвинея"
+
+msgid "Philippines_PH_C"
+msgstr "Филиппины"
+
+msgid "Pakistan_PK_C"
+msgstr "Пакистан"
+
+msgid "Poland_PL_C"
+msgstr "Польша"
+
+msgid "Saint Pierre and Miquelon_PM_C"
+msgstr "Сен-Пьер и Микелон"
+
+msgid "Pitcairn_PN_C"
+msgstr "Острова Питкэрн"
+
+msgid "Puerto Rico_PR_C"
+msgstr "Пуэрто-Рико"
+
+msgid "Palestine, State of_PS_C"
+msgstr "Государство Палестина"
+
+msgid "Portugal_PT_C"
+msgstr "Португалия"
+
+msgid "Palau_PW_C"
+msgstr "Палау"
+
+msgid "Paraguay_PY_C"
+msgstr "Парагвай"
+
+msgid "Qatar_QA_C"
+msgstr "Катар"
+
+msgid "Reunion_RE_C"
+msgstr "Реюньон (значения)"
+
+msgid "Romania_RO_C"
+msgstr "Румыния"
+
+msgid "Serbia_RS_C"
+msgstr "Сербия"
+
+msgid "Russian Federation_RU_C"
+msgstr "Россия"
+
+msgid "Rwanda_RW_C"
+msgstr "Руанда"
+
+msgid "Saudi Arabia_SA_C"
+msgstr "Саудовская Аравия"
+
+msgid "Solomon Islands_SB_C"
+msgstr "Соломоновы Острова"
+
+msgid "Seychelles_SC_C"
+msgstr "Сейшельские Острова"
+
+msgid "Sudan_SD_C"
+msgstr "Судан"
+
+msgid "Sweden_SE_C"
+msgstr "Швеция"
+
+msgid "Singapore_SG_C"
+msgstr "Сингапур"
+
+msgid "Saint Helena, Ascension and Tristan Da Cunha_SH_C"
+msgstr "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
+
+msgid "Slovenia_SI_C"
+msgstr "Словения"
+
+msgid "Svalbard and Jan Mayen_SJ_C"
+msgstr "Шпицберген и Ян-Майен"
+
+msgid "Slovakia_SK_C"
+msgstr "Словакия"
+
+msgid "Sierra Leone_SL_C"
+msgstr "Сьерра-Леоне"
+
+msgid "San Marino_SM_C"
+msgstr "Сан-Марино"
+
+msgid "Senegal_SN_C"
+msgstr "Сенегал"
+
+msgid "Somalia_SO_C"
+msgstr "Сомали"
+
+msgid "Suriname_SR_C"
+msgstr "Суринам"
+
+msgid "South Sudan_SS_C"
+msgstr "Южный Судан"
+
+msgid "Sao Tome and Principe_ST_C"
+msgstr "Сан-Томе и Принсипи"
+
+msgid "El Salvador_SV_C"
+msgstr "Сальвадор"
+
+msgid "Sint Maarten (Dutch Part)_SX_C"
+msgstr "Синт-Мартен"
+
+msgid "Syrian Arab Republic_SY_C"
+msgstr "Сирия"
+
+msgid "Swaziland_SZ_C"
+msgstr "Свазиленд"
+
+msgid "Turks and Caicos Islands_TC_C"
+msgstr "Теркс и Кайкос"
+
+msgid "Chad_TD_C"
+msgstr "Чад"
+
+msgid "French Southern Territories_TF_C"
+msgstr "Французские Южные и Антарктические территории"
+
+msgid "Togo_TG_C"
+msgstr "Того"
+
+msgid "Thailand_TH_C"
+msgstr "Таиланд"
+
+msgid "Tajikistan_TJ_C"
+msgstr "Таджикистан"
+
+msgid "Tokelau_TK_C"
+msgstr "Токелау"
+
+msgid "Timor-Leste_TL_C"
+msgstr "Восточный Тимор"
+
+msgid "Turkmenistan_TM_C"
+msgstr "Туркмения"
+
+msgid "Tunisia_TN_C"
+msgstr "Тунис"
+
+msgid "Tonga_TO_C"
+msgstr "Тонга"
+
+msgid "Turkey_TR_C"
+msgstr "Турция"
+
+msgid "Trinidad and Tobago_TT_C"
+msgstr "Тринидад и Тобаго"
+
+msgid "Tuvalu_TV_C"
+msgstr "Тувалу"
+
+msgid "Taiwan, Province of China_TW_C"
+msgstr "Китайская Республика"
+
+msgid "Tanzania, United Republic of_TZ_C"
+msgstr "Танзания"
+
+msgid "Ukraine_UA_C"
+msgstr "Украина"
+
+msgid "Uganda_UG_C"
+msgstr "Уганда"
+
+msgid "United States Minor Outlying Islands_UM_C"
+msgstr "Внешние малые острова США"
+
+msgid "United States_US_C"
+msgstr "Соединённые Штаты Америки"
+
+msgid "Uruguay_UY_C"
+msgstr "Уругвай"
+
+msgid "Uzbekistan_UZ_C"
+msgstr "Узбекистан"
+
+msgid "Holy See_VA_C"
+msgstr "Святой Престол"
+
+msgid "Saint Vincent and The Grenadines_VC_C"
+msgstr "Сент-Винсент и Гренадины"
+
+msgid "Venezuela, Bolivarian Republic of_VE_C"
+msgstr "Венесуэла"
+
+msgid "Virgin Islands, British_VG_C"
+msgstr "Виргинские Острова (Великобритания)"
+
+msgid "Virgin Islands, U.S._VI_C"
+msgstr "Виргинские Острова (США)"
+
+msgid "Viet Nam_VN_C"
+msgstr "Вьетнам"
+
+msgid "Vanuatu_VU_C"
+msgstr "Вануату"
+
+msgid "Wallis and Futuna_WF_C"
+msgstr "Уоллис и Футуна"
+
+msgid "Samoa_WS_C"
+msgstr "Самоа"
+
+msgid "Yemen_YE_C"
+msgstr "Йемен"
+
+msgid "Mayotte_YT_C"
+msgstr "Майотта"
+
+msgid "South Africa_ZA_C"
+msgstr "Южно-Африканская Республика"
+
+msgid "Zambia_ZM_C"
+msgstr "Замбия"
+
+msgid "Zimbabwe_ZW_C"
+msgstr "Зимбабве"
+
+msgid "Andorra la Vella_AD"
+msgstr "Андорра-ла-Велья"
+
+msgid "Canillo_AD"
+msgstr "Канильо"
+
+msgid "Encamp_AD"
+msgstr "Энкам"
+
+msgid "Escaldes-Engordany_AD"
+msgstr "Эскальдес-Энгордань"
+
+msgid "La Massana_AD"
+msgstr "Ла-Масана"
+
+msgid "Ordino_AD"
+msgstr "Ордино"
+
+msgid "Sant Julia de Loria_AD"
+msgstr "Сан-Жулиа́-де-Ло́рия"
+
+msgid "'Ajman_AE"
+msgstr "Аджма́н"
+
+msgid "Abu Zaby_AE"
+msgstr "А́бу́-Да́би"
+
+msgid "Al Fujayrah_AE"
+msgstr "Эль-Фуджа́йра"
+
+msgid "Ash Shariqah_AE"
+msgstr "Ша́рджа"
+
+msgid "Dubayy_AE"
+msgstr "Дуба́й"
+
+msgid "Ra's al Khaymah_AE"
+msgstr "Рас-эль-Ха́йма"
+
+msgid "Umm al Qaywayn_AE"
+msgstr "Умм-эль-Кайва́йн"
+
+msgid "Badakhshan_AF"
+msgstr "Бадахша́н"
+
+msgid "Badghis_AF"
+msgstr "Бадги́с"
+
+msgid "Baghlan_AF"
+msgstr "Ба́глан"
+
+msgid "Balkh_AF"
+msgstr "Балх"
+
+msgid "Bamyan_AF"
+msgstr "Бамиа́н"
+
+msgid "Daykundi_AF"
+msgstr "Дайкунди́"
+
+msgid "Farah_AF"
+msgstr "Фарах"
+
+msgid "Faryab_AF"
+msgstr "Фарья́б"
+
+msgid "Ghazni_AF"
+msgstr "Газни́"
+
+msgid "Ghor_AF"
+msgstr "Гор"
+
+msgid "Helmand_AF"
+msgstr "Гильме́нд"
+
+msgid "Herat_AF"
+msgstr "Гера́т"
+
+msgid "Jowzjan_AF"
+msgstr "Джаузджа́н"
+
+msgid "Kabul_AF"
+msgstr "Кабу́л"
+
+msgid "Kandahar_AF"
+msgstr "Кандага́р"
+
+msgid "Kapisa_AF"
+msgstr "Капи́са"
+
+msgid "Khost_AF"
+msgstr "Хост"
+
+msgid "Kunar_AF"
+msgstr "Кунар"
+
+msgid "Kunduz_AF"
+msgstr "Кунду́з"
+
+msgid "Laghman_AF"
+msgstr "Лагма́н"
+
+msgid "Logar_AF"
+msgstr "Ло́гар"
+
+msgid "Nangarhar_AF"
+msgstr "Нангарха́р"
+
+msgid "Nimroz_AF"
+msgstr "Нимро́з"
+
+msgid "Nuristan_AF"
+msgstr "Нуриста́н"
+
+msgid "Paktika_AF"
+msgstr "Пакти́ка"
+
+msgid "Paktiya_AF"
+msgstr "Пакти́я"
+
+msgid "Panjshayr_AF"
+msgstr "Панджше́р"
+
+msgid "Parwan_AF"
+msgstr "Парва́н"
+
+msgid "Samangan_AF"
+msgstr "Айба́к"
+
+msgid "Sar-e Pul_AF"
+msgstr "Са́ри-Пуль"
+
+msgid "Takhar_AF"
+msgstr "Таха́р"
+
+msgid "Uruzgan_AF"
+msgstr "Урузга́н"
+
+msgid "Wardak_AF"
+msgstr "Варда́к"
+
+msgid "Zabul_AF"
+msgstr "Забу́л"
+
+msgid "Barbuda_AG"
+msgstr "Барбу́да"
+
+msgid "Redonda_AG"
+msgstr "Редо́нда"
+
+msgid "Saint George_AG"
+msgstr "Святой Георгий"
+
+msgid "Saint John_AG"
+msgstr "Сент-Джон"
+
+msgid "Saint Mary_AG"
+msgstr "Святая мария"
+
+msgid "Saint Paul_AG"
+msgstr "Святой Павел"
+
+msgid "Saint Peter_AG"
+msgstr "Святой петр"
+
+msgid "Saint Philip_AG"
+msgstr "Святой Филипп"
+
+msgid "Anguilla_AI"
+msgstr "Анги́лья"
+
+msgid "Berat_AL"
+msgstr "Бера́т"
+
+msgid "Diber_AL"
+msgstr "Дибра"
+
+msgid "Durres_AL"
+msgstr "Ду́ррес"
+
+msgid "Elbasan_AL"
+msgstr "Эльбаса́н"
+
+msgid "Fier_AL"
+msgstr "Фиери"
+
+msgid "Gjirokaster_AL"
+msgstr "Гирока́стра"
+
+msgid "Korce_AL"
+msgstr "Ко́рча"
+
+msgid "Kukes_AL"
+msgstr "Ку́кес"
+
+msgid "Lezhe_AL"
+msgstr "Ле́жа"
+
+msgid "Shkoder_AL"
+msgstr "Шко́дер"
+
+msgid "Tirane_AL"
+msgstr "Тира́на"
+
+msgid "Vlore_AL"
+msgstr "Влёра"
+
+msgid "Aragacotn_AM"
+msgstr "Арагацо́тнская о́бласть"
+
+msgid "Ararat_AM"
+msgstr "Арара́т"
+
+msgid "Armavir_AM"
+msgstr "Армави́р"
+
+msgid "Erevan_AM"
+msgstr "Ерева́н"
+
+msgid "Gegark'unik'_AM"
+msgstr "Гехаркуни́кская о́бласть"
+
+msgid "Kotayk'_AM"
+msgstr "Кота́йк"
+
+msgid "Lori_AM"
+msgstr "Лори"
+
+msgid "Sirak_AM"
+msgstr "Шира́кская область"
+
+msgid "Syunik'_AM"
+msgstr "Сюни́кская о́бласть"
+
+msgid "Tavus_AM"
+msgstr "Таву́шская область"
+
+msgid "Vayoc Jor_AM"
+msgstr "Вайоцдзо́рская о́бласть"
+
+msgid "Bengo_AO"
+msgstr "Бенго"
+
+msgid "Benguela_AO"
+msgstr "Бенгела"
+
+msgid "Bie_AO"
+msgstr "Бие́"
+
+msgid "Cabinda_AO"
+msgstr "Каби́нда"
+
+msgid "Cunene_AO"
+msgstr "Кунене"
+
+msgid "Huambo_AO"
+msgstr "Уамбо"
+
+msgid "Huila_AO"
+msgstr "Уила"
+
+msgid "Kuando Kubango_AO"
+msgstr "Ква́ндо-Куба́нго"
+
+msgid "Kwanza Norte_AO"
+msgstr "Се́верная Ква́нза"
+
+msgid "Kwanza Sul_AO"
+msgstr "Ю́жная Ква́нза"
+
+msgid "Luanda_AO"
+msgstr "Луа́нда"
+
+msgid "Lunda Norte_AO"
+msgstr "Северная Лунда"
+
+msgid "Lunda Sul_AO"
+msgstr "Южная Лунда"
+
+msgid "Malange_AO"
+msgstr "Мала́нже"
+
+msgid "Moxico_AO"
+msgstr "Мошико"
+
+msgid "Namibe_AO"
+msgstr "Мосамедиш"
+
+msgid "Uige_AO"
+msgstr "Уиже"
+
+msgid "Zaire_AO"
+msgstr "Заир"
+
+msgid "Antarctica_AQ"
+msgstr "Антаркти́да"
+
+msgid "Buenos Aires_AR"
+msgstr "Буэ́нос-А́йрес"
+
+msgid "Catamarca_AR"
+msgstr "Катама́рка"
+
+msgid "Chaco_AR"
+msgstr "Чако"
+
+msgid "Chubut_AR"
+msgstr "Чубут"
+
+msgid "Ciudad Autonoma de Buenos Aires_AR"
+msgstr "Буэнос-Айрес"
+
+msgid "Cordoba_AR"
+msgstr "Кóрдова, Кóрдоба"
+
+msgid "Corrientes_AR"
+msgstr "Корриентес"
+
+msgid "Entre Rios_AR"
+msgstr "Энтри-Риус"
+
+msgid "Formosa_AR"
+msgstr "Формоса"
+
+msgid "Jujuy_AR"
+msgstr "Жужуй"
+
+msgid "La Pampa_AR"
+msgstr "Ла-Па́мпа"
+
+msgid "La Rioja_AR"
+msgstr "Риоха"
+
+msgid "Mendoza_AR"
+msgstr "Мендо́са"
+
+msgid "Misiones_AR"
+msgstr "Мисьонес"
+
+msgid "Neuquen_AR"
+msgstr "Неуке́н"
+
+msgid "Rio Negro_AR"
+msgstr "Ри́о-Не́гро"
+
+msgid "Salta_AR"
+msgstr "Са́льта"
+
+msgid "San Juan_AR"
+msgstr "Сан-Хуан"
+
+msgid "San Luis_AR"
+msgstr "Сан-Луис"
+
+msgid "Santa Cruz_AR"
+msgstr "Санта-Крус"
+
+msgid "Santa Fe_AR"
+msgstr "Санта-Фе"
+
+msgid "Santiago del Estero_AR"
+msgstr "Сантьяго-дель-Эстеро"
+
+msgid "Tierra del Fuego_AR"
+msgstr "О́гненная Земля́"
+
+msgid "Tucuman_AR"
+msgstr "Тукумáн"
+
+msgid "Eastern District_AS"
+msgstr "Восточный округ"
+
+msgid "Western District_AS"
+msgstr "Западный округ"
+
+msgid "Burgenland_AT"
+msgstr "Бу́ргенла́нд"
+
+msgid "Karnten_AT"
+msgstr "Кари́нтия"
+
+msgid "Niederosterreich_AT"
+msgstr "Нижняя Австрия"
+
+msgid "Oberosterreich_AT"
+msgstr "Ве́рхняя А́встрия"
+
+msgid "Salzburg_AT"
+msgstr "За́льцбург"
+
+msgid "Steiermark_AT"
+msgstr "Шти́рия"
+
+msgid "Tirol_AT"
+msgstr "Тироль"
+
+msgid "Vorarlberg_AT"
+msgstr "Фо́рарльберг"
+
+msgid "Wien_AT"
+msgstr "Ве́на"
+
+msgid "Australian Capital Territory_AU"
+msgstr "Австралийская столичная территория"
+
+msgid "New South Wales_AU"
+msgstr "Но́вый Ю́жный Уэ́льс"
+
+msgid "Northern Territory_AU"
+msgstr "Северная территория"
+
+msgid "Queensland_AU"
+msgstr "Кви́нсленд"
+
+msgid "South Australia_AU"
+msgstr "Ю́жная Австра́лия"
+
+msgid "Tasmania_AU"
+msgstr "Тасма́ния"
+
+msgid "Victoria_AU"
+msgstr "Victoria"
+
+msgid "Western Australia_AU"
+msgstr "За́падная Австра́лия"
+
+msgid "Aruba_AW"
+msgstr "Ару́ба"
+
+msgid "Eckeroe_AX"
+msgstr "Эккерё"
+
+msgid "Finstroem_AX"
+msgstr "Финстрём"
+
+msgid "Hammarland_AX"
+msgstr "Ха́ммарланд"
+
+msgid "Jomala_AX"
+msgstr "Йомала"
+
+msgid "Lemland_AX"
+msgstr "Лемланд"
+
+msgid "Mariehamn_AX"
+msgstr "Ма́арианхамина"
+
+msgid "Saltvik_AX"
+msgstr "Сальтвик"
+
+msgid "Sund_AX"
+msgstr "Сунд"
+
+msgid "Abseron_AZ"
+msgstr "Апшеронский"
+
+msgid "Agcabadi_AZ"
+msgstr "Агджабеди́нский райо́н"
+
+msgid "Agdam_AZ"
+msgstr "Агдам"
+
+msgid "Agdas_AZ"
+msgstr "Агдашский район"
+
+msgid "Agstafa_AZ"
+msgstr "Агстафа"
+
+msgid "Agsu_AZ"
+msgstr "Аксу"
+
+msgid "Astara_AZ"
+msgstr "Астаринский район"
+
+msgid "Baki_AZ"
+msgstr "Баки"
+
+msgid "Balakan_AZ"
+msgstr "Белоканский район"
+
+msgid "Barda_AZ"
+msgstr "Барда"
+
+msgid "Beylaqan_AZ"
+msgstr "Бейлаганский район"
+
+msgid "Bilasuvar_AZ"
+msgstr "Билясувар"
+
+msgid "Cabrayil_AZ"
+msgstr "Джебраильский район"
+
+msgid "Calilabad_AZ"
+msgstr "Джалильабадский район"
+
+msgid "Daskasan_AZ"
+msgstr "Дашкесанский район"
+
+msgid "Fuzuli_AZ"
+msgstr "Физулинский район"
+
+msgid "Gadabay_AZ"
+msgstr "Кедабекский район"
+
+msgid "Ganca_AZ"
+msgstr "Гянджа́"
+
+msgid "Goranboy_AZ"
+msgstr "Геранбойский район"
+
+msgid "Goycay_AZ"
+msgstr "Гёйчайский район"
+
+msgid "Goygol_AZ"
+msgstr "Гёйгёль"
+
+msgid "Haciqabul_AZ"
+msgstr "Аджигабульский район"
+
+msgid "Imisli_AZ"
+msgstr "Имишлинский район"
+
+msgid "Ismayilli_AZ"
+msgstr "Исмаиллинский район"
+
+msgid "Kalbacar_AZ"
+msgstr "Кельбаджарский район"
+
+msgid "Kurdamir_AZ"
+msgstr "Кюрдамир"
+
+msgid "Lacin_AZ"
+msgstr "Лачи́нский район"
+
+msgid "Lankaran_AZ"
+msgstr "Ленкорань"
+
+msgid "Lerik_AZ"
+msgstr "Лерикский район"
+
+msgid "Masalli_AZ"
+msgstr "Масаллы́"
+
+msgid "Mingacevir_AZ"
+msgstr "Мингечевир"
+
+msgid "Naftalan_AZ"
+msgstr "Нафтала́н"
+
+msgid "Naxcivan_AZ"
+msgstr "Нахичевань"
+
+msgid "Neftcala_AZ"
+msgstr "Нефтечали́нский райо́н"
+
+msgid "Oguz_AZ"
+msgstr "Огу́зский райо́н"
+
+msgid "Qabala_AZ"
+msgstr "Габала́"
+
+msgid "Qax_AZ"
+msgstr "Гахский район"
+
+msgid "Qazax_AZ"
+msgstr "Газах"
+
+msgid "Qobustan_AZ"
+msgstr "Гобуста́нский райо́н"
+
+msgid "Quba_AZ"
+msgstr "Губа́"
+
+msgid "Qubadli_AZ"
+msgstr "Кубатлы"
+
+msgid "Qusar_AZ"
+msgstr "Гусарский район"
+
+msgid "Saatli_AZ"
+msgstr "Саатлинский район"
+
+msgid "Sabirabad_AZ"
+msgstr "Сабирабадский район"
+
+msgid "Saki_AZ"
+msgstr "Саки"
+
+msgid "Salyan_AZ"
+msgstr "Сальян"
+
+msgid "Samaxi_AZ"
+msgstr "Шемахинский район"
+
+msgid "Samkir_AZ"
+msgstr "Шамкирский район"
+
+msgid "Samux_AZ"
+msgstr "Самухский район"
+
+msgid "Sirvan_AZ"
+msgstr "Ширва́н"
+
+msgid "Siyazan_AZ"
+msgstr "Сиазаньский"
+
+msgid "Sumqayit_AZ"
+msgstr "Сумгайыт"
+
+msgid "Susa_AZ"
+msgstr "Су́зы"
+
+msgid "Tartar_AZ"
+msgstr "Тертерский район"
+
+msgid "Tovuz_AZ"
+msgstr "Товузский район"
+
+msgid "Ucar_AZ"
+msgstr "Уджарский район"
+
+msgid "Xacmaz_AZ"
+msgstr "Хачмазский район"
+
+msgid "Xankandi_AZ"
+msgstr "Степанаке́рт"
+
+msgid "Xizi_AZ"
+msgstr "Хызинский район"
+
+msgid "Xocali_AZ"
+msgstr "Ходжалинский район"
+
+msgid "Xocavand_AZ"
+msgstr "Ходжаве́ндский райо́н"
+
+msgid "Yardimli_AZ"
+msgstr "Ярдымлинский район"
+
+msgid "Yevlax_AZ"
+msgstr "Евлах"
+
+msgid "Zangilan_AZ"
+msgstr "Зангелан"
+
+msgid "Zaqatala_AZ"
+msgstr "Закатальский район"
+
+msgid "Zardab_AZ"
+msgstr "Зердабский район"
+
+msgid "Brcko distrikt_BA"
+msgstr "О́круг Брчко"
+
+msgid "Federacija Bosne i Hercegovine_BA"
+msgstr "Федерация Боснии и Герцеговины"
+
+msgid "Republika Srpska_BA"
+msgstr "Респу́блика Се́рбская"
+
+msgid "Christ Church_BB"
+msgstr "Крайст-Чёрч"
+
+msgid "Saint Andrew_BB"
+msgstr "Святой Андрей"
+
+msgid "Saint George_BB"
+msgstr "Святой Георгий"
+
+msgid "Saint James_BB"
+msgstr "Святой Джеймс"
+
+msgid "Saint John_BB"
+msgstr "Сент-Джон"
+
+msgid "Saint Joseph_BB"
+msgstr "Святой Иосиф"
+
+msgid "Saint Lucy_BB"
+msgstr "Святая люси"
+
+msgid "Saint Michael_BB"
+msgstr "Сент-Мишель"
+
+msgid "Saint Peter_BB"
+msgstr "Святой петр"
+
+msgid "Saint Philip_BB"
+msgstr "Святой Филипп"
+
+msgid "Saint Thomas_BB"
+msgstr "Сент-То́мас"
+
+msgid "Barisal_BD"
+msgstr "Бариса́л"
+
+msgid "Chittagong_BD"
+msgstr "Читтагонг"
+
+msgid "Dhaka_BD"
+msgstr "Да́кка"
+
+msgid "Khulna_BD"
+msgstr "Кху́лна"
+
+msgid "Rajshahi_BD"
+msgstr "Раджшахи"
+
+msgid "Rangpur_BD"
+msgstr "Рангпур"
+
+msgid "Sylhet_BD"
+msgstr "Си́лхет"
+
+msgid "Antwerpen_BE"
+msgstr "Антве́рпен"
+
+msgid "Brabant wallon_BE"
+msgstr "Валлонский Браба́нт"
+
+msgid "Brussels Hoofdstedelijk Gewest_BE"
+msgstr "Брюссе́льский столи́чный регио́н"
+
+msgid "Hainaut_BE"
+msgstr "Эно"
+
+msgid "Liege_BE"
+msgstr "Льеж"
+
+msgid "Limburg_BE"
+msgstr "Ли́мбург"
+
+msgid "Luxembourg_BE"
+msgstr "Люксембу́рг"
+
+msgid "Namur_BE"
+msgstr "Намю́р"
+
+msgid "Oost-Vlaanderen_BE"
+msgstr "Восточная Фландрия"
+
+msgid "Vlaams-Brabant_BE"
+msgstr "Фламандский Браба́нт"
+
+msgid "West-Vlaanderen_BE"
+msgstr "За́падная Фла́ндрия"
+
+msgid "Bale_BF"
+msgstr "Бале"
+
+msgid "Bam_BF"
+msgstr "Бам"
+
+msgid "Banwa_BF"
+msgstr "Банва"
+
+msgid "Bazega_BF"
+msgstr "Базега"
+
+msgid "Bougouriba_BF"
+msgstr "Бугуриба"
+
+msgid "Boulgou_BF"
+msgstr "Бульгу"
+
+msgid "Boulkiemde_BF"
+msgstr "Булькиемде"
+
+msgid "Comoe_BF"
+msgstr "Комоэ"
+
+msgid "Ganzourgou_BF"
+msgstr "Ганзургу"
+
+msgid "Gnagna_BF"
+msgstr "Ньянья"
+
+msgid "Gourma_BF"
+msgstr "Гу́рма"
+
+msgid "Houet_BF"
+msgstr "Уэ"
+
+msgid "Ioba_BF"
+msgstr "Иоба"
+
+msgid "Kadiogo_BF"
+msgstr "Кадиого"
+
+msgid "Kenedougou_BF"
+msgstr "Кенедугу"
+
+msgid "Komondjari_BF"
+msgstr "Комонджари"
+
+msgid "Kompienga_BF"
+msgstr "Компьенга"
+
+msgid "Kossi_BF"
+msgstr "Косси"
+
+msgid "Koulpelogo_BF"
+msgstr "Кульпелого"
+
+msgid "Kouritenga_BF"
+msgstr "Куритенга"
+
+msgid "Kourweogo_BF"
+msgstr "Курвеого"
+
+msgid "Leraba_BF"
+msgstr "Лераба"
+
+msgid "Loroum_BF"
+msgstr "Лорум"
+
+msgid "Mouhoun_BF"
+msgstr "Мухун"
+
+msgid "Nahouri_BF"
+msgstr "Нахури"
+
+msgid "Namentenga_BF"
+msgstr "Наментенга"
+
+msgid "Nayala_BF"
+msgstr "Наяла"
+
+msgid "Noumbiel_BF"
+msgstr "Наумбиел"
+
+msgid "Oubritenga_BF"
+msgstr "Убритенга"
+
+msgid "Oudalan_BF"
+msgstr "Удалан"
+
+msgid "Passore_BF"
+msgstr "Пассор"
+
+msgid "Poni_BF"
+msgstr "Пони"
+
+msgid "Sanguie_BF"
+msgstr "Сангуие"
+
+msgid "Sanmatenga_BF"
+msgstr "Санматенга"
+
+msgid "Seno_BF"
+msgstr "Сено"
+
+msgid "Sissili_BF"
+msgstr "Сиссили"
+
+msgid "Soum_BF"
+msgstr "Сум"
+
+msgid "Sourou_BF"
+msgstr "Суру"
+
+msgid "Tapoa_BF"
+msgstr "Тапоа"
+
+msgid "Tuy_BF"
+msgstr "Туй"
+
+msgid "Yagha_BF"
+msgstr "Яга"
+
+msgid "Yatenga_BF"
+msgstr "Ятенга"
+
+msgid "Ziro_BF"
+msgstr "Зиро"
+
+msgid "Zondoma_BF"
+msgstr "Зондома"
+
+msgid "Zoundweogo_BF"
+msgstr "Зундвеого"
+
+msgid "Blagoevgrad_BG"
+msgstr "Благо́евград"
+
+msgid "Burgas_BG"
+msgstr "Бурга́с"
+
+msgid "Dobrich_BG"
+msgstr "До́брич"
+
+msgid "Gabrovo_BG"
+msgstr "Га́брово"
+
+msgid "Haskovo_BG"
+msgstr "Ха́сково"
+
+msgid "Kardzhali_BG"
+msgstr "Кы́рджали"
+
+msgid "Kyustendil_BG"
+msgstr "Кюстенди́л"
+
+msgid "Lovech_BG"
+msgstr "Ло́веч"
+
+msgid "Montana_BG"
+msgstr "Монтана"
+
+msgid "Pazardzhik_BG"
+msgstr "Па́зарджик"
+
+msgid "Pernik_BG"
+msgstr "Пе́рник"
+
+msgid "Pleven_BG"
+msgstr "Пле́вен"
+
+msgid "Plovdiv_BG"
+msgstr "Пло́вдив"
+
+msgid "Razgrad_BG"
+msgstr "Ра́зград"
+
+msgid "Ruse_BG"
+msgstr "Ру́сенская о́бласть"
+
+msgid "Shumen_BG"
+msgstr "Шу́мен"
+
+msgid "Silistra_BG"
+msgstr "Сили́стра"
+
+msgid "Sliven_BG"
+msgstr "Сли́вен"
+
+msgid "Smolyan_BG"
+msgstr "Смо́лян"
+
+msgid "Sofia_BG"
+msgstr "Софи́я"
+
+msgid "Sofia (stolitsa)_BG"
+msgstr "Софи́я"
+
+msgid "Stara Zagora_BG"
+msgstr "Ста́ра-Заго́ра"
+
+msgid "Targovishte_BG"
+msgstr "Тырго́виште"
+
+msgid "Varna_BG"
+msgstr "Ва́рна"
+
+msgid "Veliko Tarnovo_BG"
+msgstr "Вели́ко-Ты́рново"
+
+msgid "Vidin_BG"
+msgstr "Ви́дин"
+
+msgid "Vratsa_BG"
+msgstr "Вра́ца"
+
+msgid "Yambol_BG"
+msgstr "Я́мбол"
+
+msgid "Al 'Asimah_BH"
+msgstr "Столичная мухафаза"
+
+msgid "Al Janubiyah_BH"
+msgstr "Аль Джанубия"
+
+msgid "Al Muharraq_BH"
+msgstr "Муха́ррак"
+
+msgid "Ash Shamaliyah_BH"
+msgstr "Се́верная прови́нция"
+
+msgid "Bubanza_BI"
+msgstr "Бубанза"
+
+msgid "Bujumbura Mairie_BI"
+msgstr "Бужумбура-Мери"
+
+msgid "Bururi_BI"
+msgstr "Бурури"
+
+msgid "Cankuzo_BI"
+msgstr "Чанкузо"
+
+msgid "Cibitoke_BI"
+msgstr "Чибитоке"
+
+msgid "Gitega_BI"
+msgstr "Гите́га"
+
+msgid "Karuzi_BI"
+msgstr "Карузи"
+
+msgid "Kayanza_BI"
+msgstr "Каянза"
+
+msgid "Kirundo_BI"
+msgstr "Кирундо"
+
+msgid "Makamba_BI"
+msgstr "Макамба"
+
+msgid "Muramvya_BI"
+msgstr "Мурамвья"
+
+msgid "Muyinga_BI"
+msgstr "Муйинга"
+
+msgid "Mwaro_BI"
+msgstr "Мваро"
+
+msgid "Ngozi_BI"
+msgstr "Нгози"
+
+msgid "Rutana_BI"
+msgstr "Рутана"
+
+msgid "Ruyigi_BI"
+msgstr "Руйиги"
+
+msgid "Alibori_BJ"
+msgstr "Алибори"
+
+msgid "Atacora_BJ"
+msgstr "Атакора"
+
+msgid "Atlantique_BJ"
+msgstr "Атлантический"
+
+msgid "Borgou_BJ"
+msgstr "Боргу"
+
+msgid "Collines_BJ"
+msgstr "Колли́н"
+
+msgid "Couffo_BJ"
+msgstr "Куффо"
+
+msgid "Donga_BJ"
+msgstr "Донга"
+
+msgid "Littoral_BJ"
+msgstr "Прибрежный регион"
+
+msgid "Mono_BJ"
+msgstr "Моно"
+
+msgid "Oueme_BJ"
+msgstr "Вéме"
+
+msgid "Plateau_BJ"
+msgstr "Плато"
+
+msgid "Zou_BJ"
+msgstr "Зу"
+
+msgid "Saint Barthelemy_BL"
+msgstr "Сен-Бартелеми́"
+
+msgid "Hamilton_BM"
+msgstr "Га́мильтон"
+
+msgid "Saint George_BM"
+msgstr "Святой Георгий"
+
+msgid "Belait_BN"
+msgstr "Белайт"
+
+msgid "Brunei-Muara_BN"
+msgstr "Бруней-Муара"
+
+msgid "Temburong_BN"
+msgstr "Тембуронг"
+
+msgid "Tutong_BN"
+msgstr "Тутонг"
+
+msgid "Chuquisaca_BO"
+msgstr "Чукисака"
+
+msgid "Cochabamba_BO"
+msgstr "Кочаба́мба"
+
+msgid "El Beni_BO"
+msgstr "Бе́ни"
+
+msgid "La Paz_BO"
+msgstr "Ла-Пас"
+
+msgid "Oruro_BO"
+msgstr "Ору́ро"
+
+msgid "Pando_BO"
+msgstr "Пандо"
+
+msgid "Potosi_BO"
+msgstr "Потоси"
+
+msgid "Santa Cruz_BO"
+msgstr "Санта-Крус"
+
+msgid "Tarija_BO"
+msgstr "Тариха"
+
+msgid "Bonaire_BQ"
+msgstr "Бона́йре"
+
+msgid "Saba_BQ"
+msgstr "Саба"
+
+msgid "Sint Eustatius_BQ"
+msgstr "Синт-Эста́тиус"
+
+msgid "Acre_BR"
+msgstr "Акр"
+
+msgid "Alagoas_BR"
+msgstr "Алаго́ас"
+
+msgid "Amapa_BR"
+msgstr "Амапа́"
+
+msgid "Amazonas_BR"
+msgstr "Амазо́нас"
+
+msgid "Bahia_BR"
+msgstr "Баи́я"
+
+msgid "Ceara_BR"
+msgstr "Сеара́"
+
+msgid "Distrito Federal_BR"
+msgstr "Федеральный округ"
+
+msgid "Espirito Santo_BR"
+msgstr "Эспи́риту-Са́нту"
+
+msgid "Goias_BR"
+msgstr "Гоя́с"
+
+msgid "Maranhao_BR"
+msgstr "Маранья́н"
+
+msgid "Mato Grosso_BR"
+msgstr "Ма́ту-Гро́су"
+
+msgid "Mato Grosso do Sul_BR"
+msgstr "Ма́ту-Гро́су-ду-Сул"
+
+msgid "Minas Gerais_BR"
+msgstr "Ми́нас-Жера́йс"
+
+msgid "Para_BR"
+msgstr "Па́ра"
+
+msgid "Paraiba_BR"
+msgstr "Параи́ба"
+
+msgid "Parana_BR"
+msgstr "Парана"
+
+msgid "Pernambuco_BR"
+msgstr "Пернамбу́ку"
+
+msgid "Piaui_BR"
+msgstr "Пиауи́"
+
+msgid "Rio de Janeiro_BR"
+msgstr "Ри́о-де-Жане́йро"
+
+msgid "Rio Grande do Norte_BR"
+msgstr "Ри́у-Гра́нди-ду-Но́рти"
+
+msgid "Rio Grande do Sul_BR"
+msgstr "Ри́у-Гра́нди-ду-Сул"
+
+msgid "Rondonia_BR"
+msgstr "Рондо́ния"
+
+msgid "Roraima_BR"
+msgstr "Рора́йма"
+
+msgid "Santa Catarina_BR"
+msgstr "Санта-Катари́на"
+
+msgid "Sao Paulo_BR"
+msgstr "Сан-Па́улу"
+
+msgid "Sergipe_BR"
+msgstr "Сержи́пи"
+
+msgid "Tocantins_BR"
+msgstr "Тока́нтинс"
+
+msgid "Central Andros_BS"
+msgstr "Центральный Андрос"
+
+msgid "City of Freeport_BS"
+msgstr "Фрипорт"
+
+msgid "East Grand Bahama_BS"
+msgstr "Восточный Большой Багама"
+
+msgid "Harbour Island_BS"
+msgstr "Остров Харбор"
+
+msgid "Hope Town_BS"
+msgstr "Город надежды"
+
+msgid "Long Island_BS"
+msgstr "Лонг-А́йленд"
+
+msgid "New Providence_BS"
+msgstr "Нью-Про́виденс"
+
+msgid "South Eleuthera_BS"
+msgstr "Южная элеутера"
+
+msgid "Bumthang_BT"
+msgstr "Бумтанг"
+
+msgid "Chhukha_BT"
+msgstr "Мебиса"
+
+msgid "Dagana_BT"
+msgstr "Дагана"
+
+msgid "Gasa_BT"
+msgstr "Гаса"
+
+msgid "Haa_BT"
+msgstr "Ха"
+
+msgid "Lhuentse_BT"
+msgstr "Лхунце"
+
+msgid "Monggar_BT"
+msgstr "Монгар"
+
+msgid "Paro_BT"
+msgstr "Паро"
+
+msgid "Pemagatshel_BT"
+msgstr "Пемагацел"
+
+msgid "Punakha_BT"
+msgstr "Пунакха"
+
+msgid "Samdrup Jongkhar_BT"
+msgstr "Самдруп-Джонгхар"
+
+msgid "Samtse_BT"
+msgstr "Самце"
+
+msgid "Thimphu_BT"
+msgstr "Тхимпху́"
+
+msgid "Trashi Yangtse_BT"
+msgstr "Трашиянгце"
+
+msgid "Trashigang_BT"
+msgstr "Трашиганг"
+
+msgid "Trongsa_BT"
+msgstr "Тронгса"
+
+msgid "Tsirang_BT"
+msgstr "Циранг"
+
+msgid "Wangdue Phodrang_BT"
+msgstr "Вангди-Пходранг"
+
+msgid "Zhemgang_BT"
+msgstr "Жемганг"
+
+msgid "Central_BW"
+msgstr "Центра́льный о́круг"
+
+msgid "Ghanzi_BW"
+msgstr "Ганзи"
+
+msgid "Kgalagadi_BW"
+msgstr "Кгалага́ди"
+
+msgid "Kgatleng_BW"
+msgstr "Кга́тленг"
+
+msgid "Kweneng_BW"
+msgstr "Квене́нг"
+
+msgid "North East_BW"
+msgstr "Се́веро-Восто́чный о́круг"
+
+msgid "North West_BW"
+msgstr "Се́веро-За́падный о́круг"
+
+msgid "South East_BW"
+msgstr "Юго-Восто́чный о́круг"
+
+msgid "Southern_BW"
+msgstr "Ю́жный о́круг"
+
+msgid "Brestskaya voblasts'_BY"
+msgstr "Бре́стская о́бласть"
+
+msgid "Homyel'skaya voblasts'_BY"
+msgstr "Го́мельская область"
+
+msgid "Horad Minsk_BY"
+msgstr "Минск"
+
+msgid "Hrodzenskaya voblasts'_BY"
+msgstr "Гро́дненская о́бласть"
+
+msgid "Mahilyowskaya voblasts'_BY"
+msgstr "Могилёвская о́бласть"
+
+msgid "Minskaya voblasts'_BY"
+msgstr "Ми́нская о́бласть"
+
+msgid "Vitsyebskaya voblasts'_BY"
+msgstr "Ви́тебская о́бласть"
+
+msgid "Belize_BZ"
+msgstr "Бели́з"
+
+msgid "Cayo_BZ"
+msgstr "Ка́йо"
+
+msgid "Corozal_BZ"
+msgstr "Коросаль"
+
+msgid "Orange Walk_BZ"
+msgstr "О́риндж-Уо́лк"
+
+msgid "Stann Creek_BZ"
+msgstr "Станн-Крик"
+
+msgid "Toledo_BZ"
+msgstr "Толе́до"
+
+msgid "Alberta_CA"
+msgstr "Альбе́рта"
+
+msgid "British Columbia_CA"
+msgstr "Брита́нская Колу́мбия"
+
+msgid "Manitoba_CA"
+msgstr "Манитоба"
+
+msgid "New Brunswick_CA"
+msgstr "Нью-Бра́нсуик"
+
+msgid "Newfoundland and Labrador_CA"
+msgstr "Ньюфа́ундленд и Лабрадо́р"
+
+msgid "Northwest Territories_CA"
+msgstr "Северо-За́падные террито́рии"
+
+msgid "Nova Scotia_CA"
+msgstr "Но́вая Шотла́ндия"
+
+msgid "Nunavut_CA"
+msgstr "Нунавут"
+
+msgid "Ontario_CA"
+msgstr "Онта́рио"
+
+msgid "Prince Edward Island_CA"
+msgstr "Остров Принца Эдуарда"
+
+msgid "Quebec_CA"
+msgstr "Квебе́к"
+
+msgid "Saskatchewan_CA"
+msgstr "Саска́чеван"
+
+msgid "Yukon_CA"
+msgstr "Ю́кон"
+
+msgid "Cocos (Keeling) Islands_CC"
+msgstr "Кокосовые острова"
+
+msgid "Bas-Uele_CD"
+msgstr "Нижнее Уэле"
+
+msgid "Equateur_CD"
+msgstr "Экваториальная провинция"
+
+msgid "Haut-Katanga_CD"
+msgstr "Верхняя Ката́нга"
+
+msgid "Haut-Lomami_CD"
+msgstr "Верхнее Ломами"
+
+msgid "Haut-Uele_CD"
+msgstr "Верхнее Уэле"
+
+msgid "Ituri_CD"
+msgstr "Итури"
+
+msgid "Kasai_CD"
+msgstr "Касай"
+
+msgid "Kasai Central_CD"
+msgstr "Лулуа"
+
+msgid "Kasai Oriental_CD"
+msgstr "Касаи Ориенталь"
+
+msgid "Kinshasa_CD"
+msgstr "Кинша́са"
+
+msgid "Kongo Central_CD"
+msgstr "Центральное Конго"
+
+msgid "Kwango_CD"
+msgstr "Кванго"
+
+msgid "Kwilu_CD"
+msgstr "Кви́лу"
+
+msgid "Lomami_CD"
+msgstr "Ломами"
+
+msgid "Lualaba_CD"
+msgstr "Луалаба"
+
+msgid "Mai-Ndombe_CD"
+msgstr "Маи-Ндомбе"
+
+msgid "Maniema_CD"
+msgstr "Маниема"
+
+msgid "Mongala_CD"
+msgstr "Монгала"
+
+msgid "Nord-Kivu_CD"
+msgstr "Северное Киву"
+
+msgid "Nord-Ubangi_CD"
+msgstr "Северное Убанги"
+
+msgid "Sankuru_CD"
+msgstr "Санкуру"
+
+msgid "Sud-Kivu_CD"
+msgstr "Южное Киву"
+
+msgid "Sud-Ubangi_CD"
+msgstr "Южное Убанги"
+
+msgid "Tanganyika_CD"
+msgstr "Республика Танганьика"
+
+msgid "Tshopo_CD"
+msgstr "Чопо"
+
+msgid "Tshuapa_CD"
+msgstr "Чуапа"
+
+msgid "Bamingui-Bangoran_CF"
+msgstr "Баминги-Бангоран"
+
+msgid "Bangui_CF"
+msgstr "Банги́"
+
+msgid "Basse-Kotto_CF"
+msgstr "Нижнее Котто"
+
+msgid "Gribingui_CF"
+msgstr "Нана-Гребизи"
+
+msgid "Haut-Mbomou_CF"
+msgstr "Верхнее Мбому"
+
+msgid "Haute-Kotto_CF"
+msgstr "Верхнее Котто"
+
+msgid "Kemo-Gribingui_CF"
+msgstr "Кемо"
+
+msgid "Lobaye_CF"
+msgstr "Лобае"
+
+msgid "Mambere-Kadei_CF"
+msgstr "Мамбере-Кадеи"
+
+msgid "Mbomou_CF"
+msgstr "Мбо́му"
+
+msgid "Nana-Mambere_CF"
+msgstr "Нана-Мамбере"
+
+msgid "Ombella-Mpoko_CF"
+msgstr "Омбелла-Мпоко"
+
+msgid "Ouaka_CF"
+msgstr "Уака"
+
+msgid "Ouham_CF"
+msgstr "Уам"
+
+msgid "Ouham-Pende_CF"
+msgstr "Уам-Пенде"
+
+msgid "Sangha_CF"
+msgstr "Санга"
+
+msgid "Vakaga_CF"
+msgstr "Вакага"
+
+msgid "Bouenza_CG"
+msgstr "Буэнза"
+
+msgid "Brazzaville_CG"
+msgstr "Браззави́ль"
+
+msgid "Cuvette_CG"
+msgstr "Кюве́та"
+
+msgid "Cuvette-Ouest_CG"
+msgstr "За́падный Кюве́т"
+
+msgid "Lekoumou_CG"
+msgstr "Леку́му"
+
+msgid "Likouala_CG"
+msgstr "Ликуала"
+
+msgid "Niari_CG"
+msgstr "Ниари"
+
+msgid "Plateaux_CG"
+msgstr "Плато"
+
+msgid "Pointe-Noire_CG"
+msgstr "Пуэ́нт-Нуа́р"
+
+msgid "Pool_CG"
+msgstr "Пул"
+
+msgid "Sangha_CG"
+msgstr "Санга"
+
+msgid "Aargau_CH"
+msgstr "А́ргау"
+
+msgid "Appenzell Ausserrhoden_CH"
+msgstr "А́ппенцелль-А́усерроден"
+
+msgid "Appenzell Innerrhoden_CH"
+msgstr "А́ппенцелль-И́ннерроден"
+
+msgid "Basel-Landschaft_CH"
+msgstr "Ба́зель-Ланд"
+
+msgid "Basel-Stadt_CH"
+msgstr "Ба́зель-Штадт"
+
+msgid "Bern_CH"
+msgstr "Бе́рн"
+
+msgid "Fribourg_CH"
+msgstr "Фрибу́р"
+
+msgid "Geneve_CH"
+msgstr "Жене́ва"
+
+msgid "Glarus_CH"
+msgstr "Гла́рус"
+
+msgid "Graubunden_CH"
+msgstr "Граубю́нден"
+
+msgid "Jura_CH"
+msgstr "Юра"
+
+msgid "Luzern_CH"
+msgstr "Люце́рн"
+
+msgid "Neuchatel_CH"
+msgstr "Невшате́ль"
+
+msgid "Nidwalden_CH"
+msgstr "Ни́двальден"
+
+msgid "Obwalden_CH"
+msgstr "О́бвальден"
+
+msgid "Sankt Gallen_CH"
+msgstr "Санкт-Га́ллен"
+
+msgid "Schaffhausen_CH"
+msgstr "Шаффхаузен"
+
+msgid "Schwyz_CH"
+msgstr "Швиц"
+
+msgid "Solothurn_CH"
+msgstr "Зо́лотурн"
+
+msgid "Thurgau_CH"
+msgstr "Ту́ргау"
+
+msgid "Ticino_CH"
+msgstr "Тичи́но"
+
+msgid "Uri_CH"
+msgstr "Ури"
+
+msgid "Valais_CH"
+msgstr "Валé"
+
+msgid "Vaud_CH"
+msgstr "Во"
+
+msgid "Zug_CH"
+msgstr "Цуг"
+
+msgid "Zurich_CH"
+msgstr "Цю́рих"
+
+msgid "Abidjan_CI"
+msgstr "Абиджа́н"
+
+msgid "Bas-Sassandra_CI"
+msgstr "Нижняя Сасандра"
+
+msgid "Comoe_CI"
+msgstr "Комоэ"
+
+msgid "Denguele_CI"
+msgstr "Денгеле́"
+
+msgid "Goh-Djiboua_CI"
+msgstr "Гох-Djiboua"
+
+msgid "Lacs_CI"
+msgstr "Лак"
+
+msgid "Lagunes_CI"
+msgstr "Лагю́н"
+
+msgid "Montagnes_CI"
+msgstr "Монтань"
+
+msgid "Sassandra-Marahoue_CI"
+msgstr "Сассандра-Мараху"
+
+msgid "Savanes_CI"
+msgstr "Саванес"
+
+msgid "Vallee du Bandama_CI"
+msgstr "Vallee du Bandama"
+
+msgid "Woroba_CI"
+msgstr "Woroba"
+
+msgid "Yamoussoukro_CI"
+msgstr "Ямусу́кро"
+
+msgid "Zanzan_CI"
+msgstr "Занза́н"
+
+msgid "Cook Islands_CK"
+msgstr "Острова Кука"
+
+msgid "Aisen del General Carlos Ibanez del Campo_CL"
+msgstr "Айсен-дель-Хенераль-Карлос-Ибаньес-дель-Кампо"
+
+msgid "Antofagasta_CL"
+msgstr "Антофага́ста"
+
+msgid "Arica y Parinacota_CL"
+msgstr "Арика-и-Паринакота"
+
+msgid "Atacama_CL"
+msgstr "Пусты́ня Атака́ма"
+
+msgid "Biobio_CL"
+msgstr "Био-Био"
+
+msgid "Coquimbo_CL"
+msgstr "Коки́мбо"
+
+msgid "La Araucania_CL"
+msgstr "Арауко"
+
+msgid "Libertador General Bernardo O'Higgins_CL"
+msgstr "Либертадо́р-Хенера́ль-Берна́рдо-О’Хи́ггинс"
+
+msgid "Los Lagos_CL"
+msgstr "Лос-Лагос"
+
+msgid "Los Rios_CL"
+msgstr "Лос-Риос"
+
+msgid "Magallanes_CL"
+msgstr "Магальянес"
+
+msgid "Maule_CL"
+msgstr "Мауле"
+
+msgid "Region Metropolitana de Santiago_CL"
+msgstr "Столичная область"
+
+msgid "Tarapaca_CL"
+msgstr "Тарапака́"
+
+msgid "Valparaiso_CL"
+msgstr "Вальпараи́со"
+
+msgid "Adamaoua_CM"
+msgstr "Адамава"
+
+msgid "Centre_CM"
+msgstr "Центральный регион"
+
+msgid "Est_CM"
+msgstr "Восточный регион"
+
+msgid "Extreme-Nord_CM"
+msgstr "Крайнесеверный регион"
+
+msgid "Littoral_CM"
+msgstr "Прибрежный регион"
+
+msgid "Nord_CM"
+msgstr "Северный регион"
+
+msgid "Nord-Ouest_CM"
+msgstr "Северо-Западный регион"
+
+msgid "Ouest_CM"
+msgstr "За́падный регио́н"
+
+msgid "Sud_CM"
+msgstr "Южный регион"
+
+msgid "Sud-Ouest_CM"
+msgstr "Ю́го-Запа́дный регио́н"
+
+msgid "Anhui_CN"
+msgstr "Аньхо́й"
+
+msgid "Beijing_CN"
+msgstr "Пеки́н"
+
+msgid "Chongqing_CN"
+msgstr "Чунци́н"
+
+msgid "Fujian_CN"
+msgstr "Фуцзянь"
+
+msgid "Gansu_CN"
+msgstr "Ганьсу́"
+
+msgid "Guangdong_CN"
+msgstr "Гуанду́н"
+
+msgid "Guangxi_CN"
+msgstr "Гуанси́-Чжуа́нский автоно́мный райо́н"
+
+msgid "Guizhou_CN"
+msgstr "Гуйчжо́у"
+
+msgid "Hainan_CN"
+msgstr "Хайна́нь"
+
+msgid "Hebei_CN"
+msgstr "Хэбэ́й"
+
+msgid "Heilongjiang_CN"
+msgstr "Хэйлунцзя́н"
+
+msgid "Henan_CN"
+msgstr "Хэна́нь"
+
+msgid "Hubei_CN"
+msgstr "Хубэ́й"
+
+msgid "Hunan_CN"
+msgstr "Хуна́нь"
+
+msgid "Jiangsu_CN"
+msgstr "Цзянсу́"
+
+msgid "Jiangxi_CN"
+msgstr "Цзянси́"
+
+msgid "Jilin_CN"
+msgstr "Гири́н"
+
+msgid "Liaoning_CN"
+msgstr "Ляони́н"
+
+msgid "Nei Mongol_CN"
+msgstr "Вну́тренняя Монго́лия"
+
+msgid "Ningxia_CN"
+msgstr "Нинся́-Хуэйский автоно́мный райо́н"
+
+msgid "Qinghai_CN"
+msgstr "Цинха́й"
+
+msgid "Shaanxi_CN"
+msgstr "Шэньси́"
+
+msgid "Shandong_CN"
+msgstr "Шаньду́н"
+
+msgid "Shanghai_CN"
+msgstr "Шанха́й"
+
+msgid "Shanxi_CN"
+msgstr "Шаньси́"
+
+msgid "Sichuan_CN"
+msgstr "Сычуа́нь"
+
+msgid "Tianjin_CN"
+msgstr "Тяньцзи́нь"
+
+msgid "Xinjiang_CN"
+msgstr "Синьцзя́н-Уйгу́рский автоно́мный райо́н"
+
+msgid "Xizang_CN"
+msgstr "Тибетский автономный район"
+
+msgid "Yunnan_CN"
+msgstr "Юньна́нь"
+
+msgid "Zhejiang_CN"
+msgstr "Чжэцзян"
+
+msgid "Amazonas_CO"
+msgstr "Амазо́нас"
+
+msgid "Antioquia_CO"
+msgstr "Антьо́кия"
+
+msgid "Arauca_CO"
+msgstr "Ара́ука — топоним"
+
+msgid "Atlantico_CO"
+msgstr "Атла́нтико"
+
+msgid "Bolivar_CO"
+msgstr "Боливар"
+
+msgid "Boyaca_CO"
+msgstr "Бояка́"
+
+msgid "Caldas_CO"
+msgstr "Калдас"
+
+msgid "Caqueta_CO"
+msgstr "Какета"
+
+msgid "Casanare_CO"
+msgstr "Касана́ре"
+
+msgid "Cauca_CO"
+msgstr "Ка́ука"
+
+msgid "Cesar_CO"
+msgstr "Сезар"
+
+msgid "Choco_CO"
+msgstr "Чоко"
+
+msgid "Cordoba_CO"
+msgstr "Кóрдова, Кóрдоба"
+
+msgid "Cundinamarca_CO"
+msgstr "Кундинама́рка"
+
+msgid "Distrito Capital de Bogota_CO"
+msgstr "Богота́"
+
+msgid "Guainia_CO"
+msgstr "Гуайни́я"
+
+msgid "Guaviare_CO"
+msgstr "Гуавьяре"
+
+msgid "Huila_CO"
+msgstr "Уила"
+
+msgid "La Guajira_CO"
+msgstr "Гуахи́ра"
+
+msgid "Magdalena_CO"
+msgstr "Магдале́на"
+
+msgid "Meta_CO"
+msgstr "Мета-"
+
+msgid "Narino_CO"
+msgstr "Нариньо"
+
+msgid "Norte de Santander_CO"
+msgstr "Се́верный Сантанде́р"
+
+msgid "Putumayo_CO"
+msgstr "Путумайо"
+
+msgid "Quindio_CO"
+msgstr "Кинди́о"
+
+msgid "Risaralda_CO"
+msgstr "Рисара́льда"
+
+msgid "San Andres, Providencia y Santa Catalina_CO"
+msgstr "Сан-Андре́с-и-Провиде́нсия"
+
+msgid "Santander_CO"
+msgstr "Сантанде́р"
+
+msgid "Sucre_CO"
+msgstr "Су́кре"
+
+msgid "Tolima_CO"
+msgstr "Толима"
+
+msgid "Valle del Cauca_CO"
+msgstr "Ва́лье-дель-Ка́ука"
+
+msgid "Vaupes_CO"
+msgstr "Ваупе́с"
+
+msgid "Vichada_CO"
+msgstr "Вичада"
+
+msgid "Alajuela_CR"
+msgstr "Алахуэ́ла"
+
+msgid "Cartago_CR"
+msgstr "Картаго"
+
+msgid "Guanacaste_CR"
+msgstr "Гуанакасте"
+
+msgid "Heredia_CR"
+msgstr "Эре́дия"
+
+msgid "Limon_CR"
+msgstr "Лимо́н"
+
+msgid "Puntarenas_CR"
+msgstr "Пунтаре́нас"
+
+msgid "San Jose_CR"
+msgstr "Сан-Хосе́"
+
+msgid "Artemisa_CU"
+msgstr "Артемиса"
+
+msgid "Camaguey_CU"
+msgstr "Камагуэ́й"
+
+msgid "Ciego de Avila_CU"
+msgstr "Сьего-де-Авила"
+
+msgid "Cienfuegos_CU"
+msgstr "Сьенфуэ́гос"
+
+msgid "Granma_CU"
+msgstr "Гранма"
+
+msgid "Guantanamo_CU"
+msgstr "Гуанта́намо"
+
+msgid "Holguin_CU"
+msgstr "Ольги́н"
+
+msgid "Isla de la Juventud_CU"
+msgstr "Хувенту́д"
+
+msgid "La Habana_CU"
+msgstr "Гавана"
+
+msgid "Las Tunas_CU"
+msgstr "Лас-Тунас"
+
+msgid "Matanzas_CU"
+msgstr "Мата́нсас"
+
+msgid "Mayabeque_CU"
+msgstr "Маябе́ке"
+
+msgid "Pinar del Rio_CU"
+msgstr "Пинар-дель-Рио"
+
+msgid "Sancti Spiritus_CU"
+msgstr "Санкти-Спиритус"
+
+msgid "Santiago de Cuba_CU"
+msgstr "Сантьяго-де-Куба"
+
+msgid "Villa Clara_CU"
+msgstr "Ви́лья-Кла́ра"
+
+msgid "Boa Vista_CV"
+msgstr "Боа-Виста"
+
+msgid "Brava_CV"
+msgstr "Брава"
+
+msgid "Maio_CV"
+msgstr "Maio"
+
+msgid "Mosteiros_CV"
+msgstr "Моштейруш"
+
+msgid "Paul_CV"
+msgstr "Па́уль"
+
+msgid "Porto Novo_CV"
+msgstr "По́рто-Но́во"
+
+msgid "Praia_CV"
+msgstr "Пра́я"
+
+msgid "Ribeira Brava_CV"
+msgstr "Рибейра-Брава"
+
+msgid "Ribeira Grande_CV"
+msgstr "Рибейра Гранде"
+
+msgid "Ribeira Grande de Santiago_CV"
+msgstr "Рибейра Гранде де Сантьяго"
+
+msgid "Sal_CV"
+msgstr "Сал"
+
+msgid "Santa Catarina_CV"
+msgstr "Санта-Катари́на"
+
+msgid "Santa Catarina do Fogo_CV"
+msgstr "Санта-Катарина-ду-Фого"
+
+msgid "Santa Cruz_CV"
+msgstr "Санта-Крус"
+
+msgid "Sao Domingos_CV"
+msgstr "Сан-Домингус"
+
+msgid "Sao Filipe_CV"
+msgstr "Сан Филипе"
+
+msgid "Sao Lourenco dos Orgaos_CV"
+msgstr "Сан-Лоренцо душ Оргаос"
+
+msgid "Sao Miguel_CV"
+msgstr "Сан Мигель"
+
+msgid "Sao Salvador do Mundo_CV"
+msgstr "Сан-Сальвадор-ду-Мундо"
+
+msgid "Sao Vicente_CV"
+msgstr "Сан-Висе́нти"
+
+msgid "Tarrafal_CV"
+msgstr "Таррафа́л"
+
+msgid "Tarrafal de Sao Nicolau_CV"
+msgstr "Таррафа́л"
+
+msgid "Curacao_CW"
+msgstr "Кюраса́о"
+
+msgid "Christmas Island_CX"
+msgstr "О́стров Рождества́"
+
+msgid "Ammochostos_CY"
+msgstr "Фамагу́ста"
+
+msgid "Keryneia_CY"
+msgstr "Кири́ния"
+
+msgid "Larnaka_CY"
+msgstr "Ла́рнака"
+
+msgid "Lefkosia_CY"
+msgstr "Никоси́я"
+
+msgid "Lemesos_CY"
+msgstr "Лимасол"
+
+msgid "Pafos_CY"
+msgstr "Пафос"
+
+msgid "Jihocesky kraj_CZ"
+msgstr "Южночешский край"
+
+msgid "Jihomoravsky kraj_CZ"
+msgstr "Южноморавский край"
+
+msgid "Karlovarsky kraj_CZ"
+msgstr "Карлова́рский край"
+
+msgid "Kraj Vysocina_CZ"
+msgstr "Край Вы́сочина"
+
+msgid "Kralovehradecky kraj_CZ"
+msgstr "Краловегра́децкий край"
+
+msgid "Liberecky kraj_CZ"
+msgstr "Либерецкий край"
+
+msgid "Moravskoslezsky kraj_CZ"
+msgstr "Моравскосилезский край"
+
+msgid "Olomoucky kraj_CZ"
+msgstr "Оломо́уцкий край"
+
+msgid "Pardubicky kraj_CZ"
+msgstr "Па́рдубицкий край"
+
+msgid "Plzensky kraj_CZ"
+msgstr "Пльзеньский край"
+
+msgid "Praha, Hlavni mesto_CZ"
+msgstr "Пра́га"
+
+msgid "Stredocesky kraj_CZ"
+msgstr "Среднечешский край"
+
+msgid "Ustecky kraj_CZ"
+msgstr "Устецкий край"
+
+msgid "Zlinsky kraj_CZ"
+msgstr "Злинский край"
+
+msgid "Baden-Wurttemberg_DE"
+msgstr "Ба́ден-Вю́ртемберг"
+
+msgid "Bayern_DE"
+msgstr "Бава́рия"
+
+msgid "Berlin_DE"
+msgstr "Берли́н"
+
+msgid "Brandenburg_DE"
+msgstr "Бра́нденбург"
+
+msgid "Bremen_DE"
+msgstr "Бре́мен"
+
+msgid "Hamburg_DE"
+msgstr "Га́мбург"
+
+msgid "Hessen_DE"
+msgstr "Ге́ссен"
+
+msgid "Mecklenburg-Vorpommern_DE"
+msgstr "Ме́кленбург-Пере́дняя Помера́ния"
+
+msgid "Niedersachsen_DE"
+msgstr "Ни́жняя Саксо́ния"
+
+msgid "Nordrhein-Westfalen_DE"
+msgstr "Се́верный Рейн-Вестфа́лия"
+
+msgid "Rheinland-Pfalz_DE"
+msgstr "Рейнланд-Пфальц"
+
+msgid "Saarland_DE"
+msgstr "Саа́р"
+
+msgid "Sachsen_DE"
+msgstr "Саксо́ния"
+
+msgid "Sachsen-Anhalt_DE"
+msgstr "Саксо́ния-А́нхальт"
+
+msgid "Schleswig-Holstein_DE"
+msgstr "Шле́звиг-Гольште́йн"
+
+msgid "Thuringen_DE"
+msgstr "Тюрингия"
+
+msgid "Ali Sabieh_DJ"
+msgstr "Али-Сабих"
+
+msgid "Arta_DJ"
+msgstr "Арта"
+
+msgid "Dikhil_DJ"
+msgstr "Дикиль"
+
+msgid "Djibouti_DJ"
+msgstr "Джибу́ти"
+
+msgid "Obock_DJ"
+msgstr "Обок"
+
+msgid "Tadjourah_DJ"
+msgstr "Таджура"
+
+msgid "Hovedstaden_DK"
+msgstr "Ховедстаден"
+
+msgid "Midtjylland_DK"
+msgstr "Центральная Ютландия"
+
+msgid "Nordjylland_DK"
+msgstr "Северная Ютландия"
+
+msgid "Sjaelland_DK"
+msgstr "Зела́ндия"
+
+msgid "Syddanmark_DK"
+msgstr "Южная Дания"
+
+msgid "Saint Andrew_DM"
+msgstr "Святой Андрей"
+
+msgid "Saint David_DM"
+msgstr "Святой Давид"
+
+msgid "Saint George_DM"
+msgstr "Святой Георгий"
+
+msgid "Saint John_DM"
+msgstr "Сент-Джон"
+
+msgid "Saint Joseph_DM"
+msgstr "Святой Иосиф"
+
+msgid "Saint Luke_DM"
+msgstr "Святой Лука"
+
+msgid "Saint Mark_DM"
+msgstr "Святой Марк"
+
+msgid "Saint Patrick_DM"
+msgstr "Святой Патрик"
+
+msgid "Saint Paul_DM"
+msgstr "Святой Павел"
+
+msgid "Saint Peter_DM"
+msgstr "Святой петр"
+
+msgid "Azua_DO"
+msgstr "Асуа"
+
+msgid "Baoruco_DO"
+msgstr "Баоруко"
+
+msgid "Barahona_DO"
+msgstr "Бараона"
+
+msgid "Dajabon_DO"
+msgstr "Дахабон"
+
+msgid "Distrito Nacional (Santo Domingo)_DO"
+msgstr "Национальный округ (Санто-Доминго)"
+
+msgid "Duarte_DO"
+msgstr "Дуарте"
+
+msgid "El Seibo_DO"
+msgstr "Эль-Сейбо"
+
+msgid "Elias Pina_DO"
+msgstr "Элиас-Пинья"
+
+msgid "Espaillat_DO"
+msgstr "Эспайльят"
+
+msgid "Hato Mayor_DO"
+msgstr "Ато-Майор"
+
+msgid "Hermanas Mirabal_DO"
+msgstr "Эрманас-Мирабаль"
+
+msgid "Independencia_DO"
+msgstr "Индепенденсия"
+
+msgid "La Altagracia_DO"
+msgstr "Ла-Альтагра́сия"
+
+msgid "La Romana_DO"
+msgstr "Ла-Романа"
+
+msgid "La Vega_DO"
+msgstr "Ла-Вега"
+
+msgid "Maria Trinidad Sanchez_DO"
+msgstr "Мария-Тринидад-Санчес"
+
+msgid "Monsenor Nouel_DO"
+msgstr "Монсеньор-Ноуэль"
+
+msgid "Monte Cristi_DO"
+msgstr "Монте-Кристи"
+
+msgid "Monte Plata_DO"
+msgstr "Мо́нте-Пла́та"
+
+msgid "Pedernales_DO"
+msgstr "Педерналес"
+
+msgid "Peravia_DO"
+msgstr "Перавия"
+
+msgid "Puerto Plata_DO"
+msgstr "Пуэ́рто-Пла́та"
+
+msgid "Samana_DO"
+msgstr "Самана"
+
+msgid "San Cristobal_DO"
+msgstr "Сан-Кристо́баль"
+
+msgid "San Jose de Ocoa_DO"
+msgstr "Сан-Хосе-де-Окоа"
+
+msgid "San Juan_DO"
+msgstr "Сан-Хуан"
+
+msgid "San Pedro de Macoris_DO"
+msgstr "Сан-Педро-де-Макорис"
+
+msgid "Sanchez Ramirez_DO"
+msgstr "Санчес-Рамирес"
+
+msgid "Santiago_DO"
+msgstr "Сантья́го"
+
+msgid "Santiago Rodriguez_DO"
+msgstr "Сантьяго-Родригес"
+
+msgid "Valverde_DO"
+msgstr "Валверде"
+
+msgid "Adrar_DZ"
+msgstr "Адрар"
+
+msgid "Ain Defla_DZ"
+msgstr "Айн-Дефла"
+
+msgid "Ain Temouchent_DZ"
+msgstr "Айн-Темушент"
+
+msgid "Alger_DZ"
+msgstr "Алджер"
+
+msgid "Annaba_DZ"
+msgstr "Анна́ба"
+
+msgid "Batna_DZ"
+msgstr "Батна"
+
+msgid "Bechar_DZ"
+msgstr "Бешар"
+
+msgid "Bejaia_DZ"
+msgstr "Беджа́я"
+
+msgid "Biskra_DZ"
+msgstr "Би́скра"
+
+msgid "Blida_DZ"
+msgstr "Бли́да"
+
+msgid "Bordj Bou Arreridj_DZ"
+msgstr "Бордж-Бу-Арреридж"
+
+msgid "Bouira_DZ"
+msgstr "Буира"
+
+msgid "Boumerdes_DZ"
+msgstr "Бумердес"
+
+msgid "Chlef_DZ"
+msgstr "Эш-Шели́фф"
+
+msgid "Constantine_DZ"
+msgstr "Константи́на"
+
+msgid "Djelfa_DZ"
+msgstr "Дже́льфа"
+
+msgid "El Bayadh_DZ"
+msgstr "Эль-Баяд"
+
+msgid "El Oued_DZ"
+msgstr "Эль-Уэд"
+
+msgid "El Tarf_DZ"
+msgstr "Эль-Тарф"
+
+msgid "Ghardaia_DZ"
+msgstr "Гарда́я"
+
+msgid "Guelma_DZ"
+msgstr "Гельма́"
+
+msgid "Illizi_DZ"
+msgstr "Иллизи"
+
+msgid "Jijel_DZ"
+msgstr "Джи́джель"
+
+msgid "Khenchela_DZ"
+msgstr "Хеншела"
+
+msgid "Laghouat_DZ"
+msgstr "Лагуа́т"
+
+msgid "M'sila_DZ"
+msgstr "Мси́ла"
+
+msgid "Mascara_DZ"
+msgstr "Тушь для ресниц"
+
+msgid "Medea_DZ"
+msgstr "Меде́я"
+
+msgid "Mila_DZ"
+msgstr "Ми́ла"
+
+msgid "Mostaganem_DZ"
+msgstr "Мостаганем"
+
+msgid "Naama_DZ"
+msgstr "Наама"
+
+msgid "Oran_DZ"
+msgstr "Ора́н"
+
+msgid "Ouargla_DZ"
+msgstr "Уа́ргла"
+
+msgid "Oum el Bouaghi_DZ"
+msgstr "Умм-эль-Буаги"
+
+msgid "Relizane_DZ"
+msgstr "Гализан"
+
+msgid "Saida_DZ"
+msgstr "Саида"
+
+msgid "Setif_DZ"
+msgstr "Се́тиф"
+
+msgid "Sidi Bel Abbes_DZ"
+msgstr "Си́ди-Бель-Аббе́с"
+
+msgid "Skikda_DZ"
+msgstr "Ски́кда"
+
+msgid "Souk Ahras_DZ"
+msgstr "Сук-Ахрас"
+
+msgid "Tamanrasset_DZ"
+msgstr "Таманрассе́т"
+
+msgid "Tebessa_DZ"
+msgstr "Тебесса"
+
+msgid "Tiaret_DZ"
+msgstr "Тиаре́т"
+
+msgid "Tindouf_DZ"
+msgstr "Тиндуф"
+
+msgid "Tipaza_DZ"
+msgstr "Типа́за"
+
+msgid "Tissemsilt_DZ"
+msgstr "Тисемсильт"
+
+msgid "Tizi Ouzou_DZ"
+msgstr "Тизи-Узу"
+
+msgid "Tlemcen_DZ"
+msgstr "Тлемсе́н"
+
+msgid "Azuay_EC"
+msgstr "Асуай"
+
+msgid "Bolivar_EC"
+msgstr "Боливар"
+
+msgid "Canar_EC"
+msgstr "Каньяр"
+
+msgid "Carchi_EC"
+msgstr "Ка́рчи"
+
+msgid "Chimborazo_EC"
+msgstr "Чимбора́со"
+
+msgid "Cotopaxi_EC"
+msgstr "Котопахи"
+
+msgid "El Oro_EC"
+msgstr "Эль-Оро"
+
+msgid "Esmeraldas_EC"
+msgstr "Эсмеральдас"
+
+msgid "Galapagos_EC"
+msgstr "Гала́пагос"
+
+msgid "Guayas_EC"
+msgstr "Гуа́яс"
+
+msgid "Imbabura_EC"
+msgstr "Имбабура"
+
+msgid "Loja_EC"
+msgstr "Лоха"
+
+msgid "Los Rios_EC"
+msgstr "Лос-Риос"
+
+msgid "Manabi_EC"
+msgstr "Манаби́"
+
+msgid "Morona Santiago_EC"
+msgstr "Морона-Сантьяго"
+
+msgid "Napo_EC"
+msgstr "Напо"
+
+msgid "Orellana_EC"
+msgstr "Орельяна"
+
+msgid "Pastaza_EC"
+msgstr "Пастаса"
+
+msgid "Pichincha_EC"
+msgstr "Пичинча"
+
+msgid "Santa Elena_EC"
+msgstr "Санта-Элена"
+
+msgid "Santo Domingo de los Tsachilas_EC"
+msgstr "Санто-Доминго-де-лос-Тсачилас"
+
+msgid "Sucumbios_EC"
+msgstr "Сукумбиос"
+
+msgid "Tungurahua_EC"
+msgstr "Тунгурауа"
+
+msgid "Zamora Chinchipe_EC"
+msgstr "Самора-Чинчипе"
+
+msgid "Harjumaa_EE"
+msgstr "Харьюмаа"
+
+msgid "Hiiumaa_EE"
+msgstr "Хи́йумаа"
+
+msgid "Ida-Virumaa_EE"
+msgstr "И́да-Ви́румаа"
+
+msgid "Jarvamaa_EE"
+msgstr "Ярвамаа"
+
+msgid "Jogevamaa_EE"
+msgstr "Йыгевамаа"
+
+msgid "Laane-Virumaa_EE"
+msgstr "Ля́эне-Ви́румаа"
+
+msgid "Laanemaa_EE"
+msgstr "Ляэнемаа"
+
+msgid "Parnumaa_EE"
+msgstr "Пярнумаа"
+
+msgid "Polvamaa_EE"
+msgstr "Пы́лвамаа"
+
+msgid "Raplamaa_EE"
+msgstr "Рапламаа"
+
+msgid "Saaremaa_EE"
+msgstr "Са́аремаа"
+
+msgid "Tartumaa_EE"
+msgstr "Та́ртумаа"
+
+msgid "Valgamaa_EE"
+msgstr "Валгамаа"
+
+msgid "Viljandimaa_EE"
+msgstr "Ви́льяндимаа"
+
+msgid "Vorumaa_EE"
+msgstr "Вырумаа"
+
+msgid "Ad Daqahliyah_EG"
+msgstr "Дакахли́я"
+
+msgid "Al Bahr al Ahmar_EG"
+msgstr "Кра́сное Мо́ре"
+
+msgid "Al Buhayrah_EG"
+msgstr "Бухе́йра"
+
+msgid "Al Fayyum_EG"
+msgstr "Эль-Файю́м"
+
+msgid "Al Gharbiyah_EG"
+msgstr "Гарби́я"
+
+msgid "Al Iskandariyah_EG"
+msgstr "Александри́я"
+
+msgid "Al Isma'iliyah_EG"
+msgstr "Исмаили́я"
+
+msgid "Al Jizah_EG"
+msgstr "Эль-Ги́за"
+
+msgid "Al Minufiyah_EG"
+msgstr "Мину́фия"
+
+msgid "Al Minya_EG"
+msgstr "Эль-Ми́нья"
+
+msgid "Al Qahirah_EG"
+msgstr "Каи́р"
+
+msgid "Al Qalyubiyah_EG"
+msgstr "Кальюби́я"
+
+msgid "Al Uqsur_EG"
+msgstr "Луксо́р"
+
+msgid "Al Wadi al Jadid_EG"
+msgstr "Ва́ди-эль-Геди́д"
+
+msgid "As Suways_EG"
+msgstr "Суэ́ц"
+
+msgid "Ash Sharqiyah_EG"
+msgstr "Эш-Шарки́я"
+
+msgid "Aswan_EG"
+msgstr "Асуа́н"
+
+msgid "Asyut_EG"
+msgstr "Асью́т"
+
+msgid "Bani Suwayf_EG"
+msgstr "Бе́ни-Суэ́йф"
+
+msgid "Bur Sa'id_EG"
+msgstr "Порт-Саи́д"
+
+msgid "Dumyat_EG"
+msgstr "Думья́т"
+
+msgid "Janub Sina'_EG"
+msgstr "Ю́жный Сина́й"
+
+msgid "Kafr ash Shaykh_EG"
+msgstr "Кафр-эш-Шейх"
+
+msgid "Matruh_EG"
+msgstr "Матру́х"
+
+msgid "Qina_EG"
+msgstr "Ке́на"
+
+msgid "Shamal Sina'_EG"
+msgstr "Се́верный Сина́й"
+
+msgid "Suhaj_EG"
+msgstr "Соха́г"
+
+msgid "Western Sahara_EH"
+msgstr "За́падная Саха́ра"
+
+msgid "Al Awsat_ER"
+msgstr "Маэкель"
+
+msgid "Al Janubi_ER"
+msgstr "Дэбу́б"
+
+msgid "Ansaba_ER"
+msgstr "Ансэба"
+
+msgid "Janubi al Bahri al Ahmar_ER"
+msgstr "Дэбуб-Кэй-Бахри"
+
+msgid "Qash-Barkah_ER"
+msgstr "Гаш-Барка"
+
+msgid "Shimali al Bahri al Ahmar_ER"
+msgstr "Сэмиэн-Кэй-Бахри"
+
+msgid "Andalucia_ES"
+msgstr "Андалу́си́я"
+
+msgid "Aragon_ES"
+msgstr "Араго́н"
+
+msgid "Asturias, Principado de_ES"
+msgstr "Асту́рия"
+
+msgid "Canarias_ES"
+msgstr "Кана́рские острова́"
+
+msgid "Cantabria_ES"
+msgstr "Канта́брия"
+
+msgid "Castilla y Leon_ES"
+msgstr "Касти́лия-Лео́н"
+
+msgid "Castilla-La Mancha_ES"
+msgstr "Касти́лия-Ла-Ма́нча"
+
+msgid "Catalunya_ES"
+msgstr "Катало́ния"
+
+msgid "Ceuta_ES"
+msgstr "Сеу́та"
+
+msgid "Extremadura_ES"
+msgstr "Эстремаду́ра"
+
+msgid "Galicia_ES"
+msgstr "Галисия"
+
+msgid "Illes Balears_ES"
+msgstr "Балеа́рские острова́"
+
+msgid "La Rioja_ES"
+msgstr "Риоха"
+
+msgid "Madrid, Comunidad de_ES"
+msgstr "Мадрид"
+
+msgid "Melilla_ES"
+msgstr "Мели́лья"
+
+msgid "Murcia, Region de_ES"
+msgstr "Мурсия"
+
+msgid "Navarra, Comunidad Foral de_ES"
+msgstr "Нава́рра"
+
+msgid "Pais Vasco_ES"
+msgstr "Страна́ Ба́сков"
+
+msgid "Valenciana, Comunidad_ES"
+msgstr "Вале́нсия"
+
+msgid "Adis Abeba_ET"
+msgstr "Адди́с-Абе́ба"
+
+msgid "Afar_ET"
+msgstr "Афа́р"
+
+msgid "Amara_ET"
+msgstr "Амара"
+
+msgid "Binshangul Gumuz_ET"
+msgstr "Бенишангу́ль-Гуму́з"
+
+msgid "Dire Dawa_ET"
+msgstr "Ды́ре-Да́уа"
+
+msgid "Gambela Hizboch_ET"
+msgstr "Гамбе́ла"
+
+msgid "Hareri Hizb_ET"
+msgstr "Хара́ри"
+
+msgid "Oromiya_ET"
+msgstr "Оро́мия"
+
+msgid "Sumale_ET"
+msgstr "Сомали"
+
+msgid "Tigray_ET"
+msgstr "Тыгра́й"
+
+msgid "YeDebub Biheroch Bihereseboch na Hizboch_ET"
+msgstr "Область Народностей Южной Эфиопии"
+
+msgid "Etela-Karjala_FI"
+msgstr "Южная Карелия"
+
+msgid "Etela-Pohjanmaa_FI"
+msgstr "Ю́жная Остробо́тния"
+
+msgid "Etela-Savo_FI"
+msgstr "Ю́жное Са́во"
+
+msgid "Kainuu_FI"
+msgstr "Ка́йнуу"
+
+msgid "Kanta-Hame_FI"
+msgstr "Канта-Хяме"
+
+msgid "Keski-Pohjanmaa_FI"
+msgstr "Центральная Остроботния"
+
+msgid "Keski-Suomi_FI"
+msgstr "Центра́льная Финля́ндия"
+
+msgid "Kymenlaakso_FI"
+msgstr "Кюменлааксо"
+
+msgid "Lappi_FI"
+msgstr "Лаппи"
+
+msgid "Paijat-Hame_FI"
+msgstr "Пя́йят-Хя́ме"
+
+msgid "Pirkanmaa_FI"
+msgstr "Пирканмаа"
+
+msgid "Pohjanmaa_FI"
+msgstr "Остробо́тния"
+
+msgid "Pohjois-Karjala_FI"
+msgstr "Се́верная Каре́лия"
+
+msgid "Pohjois-Pohjanmaa_FI"
+msgstr "Се́верная Остробо́тния"
+
+msgid "Pohjois-Savo_FI"
+msgstr "Се́верное Са́во"
+
+msgid "Satakunta_FI"
+msgstr "Са́таку́нта"
+
+msgid "Uusimaa_FI"
+msgstr "У́усимаа"
+
+msgid "Varsinais-Suomi_FI"
+msgstr "Ва́рсинайс-Суо́ми"
+
+msgid "Central_FJ"
+msgstr "Центральный округ"
+
+msgid "Eastern_FJ"
+msgstr "Восточный округ"
+
+msgid "Northern_FJ"
+msgstr "Северный округ"
+
+msgid "Rotuma_FJ"
+msgstr "Ротума"
+
+msgid "Western_FJ"
+msgstr "Западный округ"
+
+msgid "Falkland Islands (Malvinas)_FK"
+msgstr "Фолкле́ндские острова́"
+
+msgid "Chuuk_FM"
+msgstr "Трук"
+
+msgid "Kosrae_FM"
+msgstr "Кусаие"
+
+msgid "Pohnpei_FM"
+msgstr "Понпеи"
+
+msgid "Yap_FM"
+msgstr "Острова Яп"
+
+msgid "Eysturoy_FO"
+msgstr "Э́стурой"
+
+msgid "Nordoyar_FO"
+msgstr "Норойар"
+
+msgid "Sandoy_FO"
+msgstr "Са́ндой"
+
+msgid "Streymoy_FO"
+msgstr "Стре́ймой"
+
+msgid "Suduroy_FO"
+msgstr "Су́вурой"
+
+msgid "Vagar_FO"
+msgstr "Воар"
+
+msgid "Auvergne-Rhone-Alpes_FR"
+msgstr "Ове́рнь — Ро́на — А́льпы"
+
+msgid "Bourgogne-Franche-Comte_FR"
+msgstr "Бургундия — Франш-Конте"
+
+msgid "Bretagne_FR"
+msgstr "Бретань"
+
+msgid "Centre-Val de Loire_FR"
+msgstr "Центр — Долина Луары"
+
+msgid "Corse_FR"
+msgstr "Ко́рсика"
+
+msgid "Grand-Est_FR"
+msgstr "Гранд-Эст"
+
+msgid "Hauts-de-France_FR"
+msgstr "О-де-Франс"
+
+msgid "Ile-de-France_FR"
+msgstr "Иль-де-Фра́нс"
+
+msgid "Normandie_FR"
+msgstr "Норма́ндия"
+
+msgid "Nouvelle-Aquitaine_FR"
+msgstr "Но́вая Аквита́ния"
+
+msgid "Occitanie_FR"
+msgstr "Оксита́ния"
+
+msgid "Pays-de-la-Loire_FR"
+msgstr "Пеи-де-ла-Луар"
+
+msgid "Provence-Alpes-Cote-d'Azur_FR"
+msgstr "Прованс — Альпы — Лазурный Берег"
+
+msgid "Estuaire_GA"
+msgstr "Эстуарий"
+
+msgid "Haut-Ogooue_GA"
+msgstr "Верхнее Огове"
+
+msgid "Moyen-Ogooue_GA"
+msgstr "Среднее Огове"
+
+msgid "Ngounie_GA"
+msgstr "Нгуние"
+
+msgid "Nyanga_GA"
+msgstr "Ньянга"
+
+msgid "Ogooue-Ivindo_GA"
+msgstr "Огове-Ивиндо"
+
+msgid "Ogooue-Lolo_GA"
+msgstr "Огове-Лоло"
+
+msgid "Ogooue-Maritime_GA"
+msgstr "Приморское Огове"
+
+msgid "Woleu-Ntem_GA"
+msgstr "Волё-Нтем"
+
+msgid "England_GB"
+msgstr "А́нглия"
+
+msgid "Northern Ireland_GB"
+msgstr "Се́верная Ирла́ндия"
+
+msgid "Scotland_GB"
+msgstr "Шотла́ндия"
+
+msgid "Wales_GB"
+msgstr "Уэ́льс"
+
+msgid "Saint Andrew_GD"
+msgstr "Святой Андрей"
+
+msgid "Saint David_GD"
+msgstr "Святой Давид"
+
+msgid "Saint George_GD"
+msgstr "Святой Георгий"
+
+msgid "Saint John_GD"
+msgstr "Сент-Джон"
+
+msgid "Saint Mark_GD"
+msgstr "Святой Марк"
+
+msgid "Saint Patrick_GD"
+msgstr "Святой Патрик"
+
+msgid "Southern Grenadine Islands_GD"
+msgstr "Карриаку и Малый Мартиник"
+
+msgid "Abkhazia_GE"
+msgstr "Абха́зия"
+
+msgid "Ajaria_GE"
+msgstr "Аджа́рия"
+
+msgid "Guria_GE"
+msgstr "Гу́рия"
+
+msgid "Imereti_GE"
+msgstr "Имере́тия"
+
+msgid "K'akheti_GE"
+msgstr "Кахе́тия"
+
+msgid "Kvemo Kartli_GE"
+msgstr "Нижняя Карталиния"
+
+msgid "Mtskheta-Mtianeti_GE"
+msgstr "Мцхета-Мтианети"
+
+msgid "Rach'a-Lechkhumi-Kvemo Svaneti_GE"
+msgstr "Рача-Лечхуми и Нижняя Сванетия"
+
+msgid "Samegrelo-Zemo Svaneti_GE"
+msgstr "Самегре́ло-Ве́рхняя Сване́тия"
+
+msgid "Samtskhe-Javakheti_GE"
+msgstr "Са́мцхе-Джавахе́ти"
+
+msgid "Shida Kartli_GE"
+msgstr "Шида-Картли"
+
+msgid "Tbilisi_GE"
+msgstr "Тбили́си"
+
+msgid "Guyane_GF"
+msgstr "Гвиана"
+
+msgid "Guernsey_GG"
+msgstr "Округ Гернси"
+
+msgid "Ashanti_GH"
+msgstr "Аша́нти"
+
+msgid "Brong-Ahafo_GH"
+msgstr "Brong-Ahafo"
+
+msgid "Central_GH"
+msgstr "Централь"
+
+msgid "Eastern_GH"
+msgstr "восточный"
+
+msgid "Greater Accra_GH"
+msgstr "Большая Аккра"
+
+msgid "Northern_GH"
+msgstr "северный"
+
+msgid "Upper East_GH"
+msgstr "Верхний Восток"
+
+msgid "Upper West_GH"
+msgstr "Верхний Запад"
+
+msgid "Volta_GH"
+msgstr "Вольта"
+
+msgid "Western_GH"
+msgstr "Уэстерн"
+
+msgid "Gibraltar_GI"
+msgstr "Гибралта́р"
+
+msgid "Avannaata Kommunia_GL"
+msgstr "Avannaata Kommunia"
+
+msgid "Kommune Kujalleq_GL"
+msgstr "Куяллек"
+
+msgid "Kommune Qeqertalik_GL"
+msgstr "Коммуне Кекерталик"
+
+msgid "Kommuneqarfik Sermersooq_GL"
+msgstr "Сермерсоок"
+
+msgid "Qeqqata Kommunia_GL"
+msgstr "Кекката"
+
+msgid "Banjul_GM"
+msgstr "Банжу́л"
+
+msgid "Central River_GM"
+msgstr "Центра́льная Река́"
+
+msgid "Lower River_GM"
+msgstr "Нижняя река"
+
+msgid "North Bank_GM"
+msgstr "Се́верный Бе́рег"
+
+msgid "Upper River_GM"
+msgstr "Ве́рхняя Река́"
+
+msgid "Western_GM"
+msgstr "За́падный райо́н"
+
+msgid "Beyla_GN"
+msgstr "Beyla"
+
+msgid "Boffa_GN"
+msgstr "Боффа"
+
+msgid "Boke_GN"
+msgstr "Боке́"
+
+msgid "Conakry_GN"
+msgstr "Конакри́"
+
+msgid "Coyah_GN"
+msgstr "Коя"
+
+msgid "Dabola_GN"
+msgstr "Дабо́ла"
+
+msgid "Dalaba_GN"
+msgstr "Dalaba"
+
+msgid "Dinguiraye_GN"
+msgstr "Dinguiraye"
+
+msgid "Dubreka_GN"
+msgstr "Дубрека"
+
+msgid "Faranah_GN"
+msgstr "Фарана"
+
+msgid "Forecariah_GN"
+msgstr "Форекарья"
+
+msgid "Fria_GN"
+msgstr "Фрия"
+
+msgid "Gaoual_GN"
+msgstr "Gaoual"
+
+msgid "Guekedou_GN"
+msgstr "Гекеду"
+
+msgid "Kankan_GN"
+msgstr "Канка́н"
+
+msgid "Kerouane_GN"
+msgstr "Керуане"
+
+msgid "Kindia_GN"
+msgstr "Ки́ндиа"
+
+msgid "Kissidougou_GN"
+msgstr "Кисиду́гу"
+
+msgid "Koubia_GN"
+msgstr "Кубиа"
+
+msgid "Koundara_GN"
+msgstr "Кундара"
+
+msgid "Kouroussa_GN"
+msgstr "Kouroussa"
+
+msgid "Labe_GN"
+msgstr "Лабе́"
+
+msgid "Lelouma_GN"
+msgstr "Лелума"
+
+msgid "Lola_GN"
+msgstr "Лола"
+
+msgid "Macenta_GN"
+msgstr "Масента"
+
+msgid "Mali_GN"
+msgstr "Мали́"
+
+msgid "Mamou_GN"
+msgstr "Маму"
+
+msgid "Mandiana_GN"
+msgstr "Мандиана"
+
+msgid "Nzerekore_GN"
+msgstr "Нзереко́ре"
+
+msgid "Pita_GN"
+msgstr "Пи́та"
+
+msgid "Siguiri_GN"
+msgstr "Сигири"
+
+msgid "Telimele_GN"
+msgstr "Телимеле"
+
+msgid "Tougue_GN"
+msgstr "Tougue"
+
+msgid "Yomou_GN"
+msgstr "Йому"
+
+msgid "Guadeloupe_GP"
+msgstr "Гваделу́па"
+
+msgid "Annobon_GQ"
+msgstr "Аннобон"
+
+msgid "Bioko Norte_GQ"
+msgstr "Северный Биоко"
+
+msgid "Bioko Sur_GQ"
+msgstr "Южный Биоко"
+
+msgid "Centro Sur_GQ"
+msgstr "Сентро-Сур"
+
+msgid "Kie-Ntem_GQ"
+msgstr "Ке-Нтем"
+
+msgid "Litoral_GQ"
+msgstr "Литорал"
+
+msgid "Wele-Nzas_GQ"
+msgstr "Веле-Нзас"
+
+msgid "Agion Oros_GR"
+msgstr "Афо́н"
+
+msgid "Anatoliki Makedonia kai Thraki_GR"
+msgstr "Восто́чная Македо́ния и Фра́кия"
+
+msgid "Attiki_GR"
+msgstr "А́ттика"
+
+msgid "Dytiki Ellada_GR"
+msgstr "За́падная Гре́ция"
+
+msgid "Dytiki Makedonia_GR"
+msgstr "Западная Македония"
+
+msgid "Ionia Nisia_GR"
+msgstr "Иони́ческие острова́"
+
+msgid "Ipeiros_GR"
+msgstr "Эпи́р"
+
+msgid "Kentriki Makedonia_GR"
+msgstr "Центра́льная Македо́ния"
+
+msgid "Kriti_GR"
+msgstr "Крит"
+
+msgid "Notio Aigaio_GR"
+msgstr "Ю́жные Эге́йские острова́"
+
+msgid "Peloponnisos_GR"
+msgstr "Пелопонне́с"
+
+msgid "Sterea Ellada_GR"
+msgstr "Стереа Эллада"
+
+msgid "Thessalia_GR"
+msgstr "Фесса́лия"
+
+msgid "Voreio Aigaio_GR"
+msgstr "Северные Эгейские острова"
+
+msgid "South Georgia and the South Sandwich Islands_GS"
+msgstr "Южная Георгия и Южные Сандвичевы Острова"
+
+msgid "Alta Verapaz_GT"
+msgstr "А́льта-Верапа́с"
+
+msgid "Baja Verapaz_GT"
+msgstr "Ба́ха-Верапа́с"
+
+msgid "Chimaltenango_GT"
+msgstr "Чимальтенанго"
+
+msgid "Chiquimula_GT"
+msgstr "Чикимула"
+
+msgid "El Progreso_GT"
+msgstr "Эль-Прогре́со"
+
+msgid "Escuintla_GT"
+msgstr "Эскуинтла"
+
+msgid "Guatemala_GT"
+msgstr "Гватема́ла"
+
+msgid "Huehuetenango_GT"
+msgstr "Уэуэтенанго"
+
+msgid "Izabal_GT"
+msgstr "Исабаль"
+
+msgid "Jalapa_GT"
+msgstr "Хала́па-Энри́кес"
+
+msgid "Jutiapa_GT"
+msgstr "Хутья́па"
+
+msgid "Peten_GT"
+msgstr "Петен"
+
+msgid "Quetzaltenango_GT"
+msgstr "Кесальтенанго"
+
+msgid "Quiche_GT"
+msgstr "Киш"
+
+msgid "Retalhuleu_GT"
+msgstr "Реталуле́у"
+
+msgid "Sacatepequez_GT"
+msgstr "Сакатепе́кес"
+
+msgid "San Marcos_GT"
+msgstr "Сан-Маркос"
+
+msgid "Santa Rosa_GT"
+msgstr "Санта-Роза"
+
+msgid "Solola_GT"
+msgstr "Солола́"
+
+msgid "Suchitepequez_GT"
+msgstr "Сучитепе́кес"
+
+msgid "Totonicapan_GT"
+msgstr "Тотоникапа́н"
+
+msgid "Zacapa_GT"
+msgstr "Сака́па"
+
+msgid "Agana Heights_GU"
+msgstr "Агана Хайтс"
+
+msgid "Agat_GU"
+msgstr "Агат"
+
+msgid "Asan-Maina_GU"
+msgstr "Асан-Майна"
+
+msgid "Barrigada_GU"
+msgstr "Barrigada"
+
+msgid "Chalan Pago-Ordot_GU"
+msgstr "Чалан Паго-Ордот"
+
+msgid "Dededo_GU"
+msgstr "Дедедо"
+
+msgid "Hagatna_GU"
+msgstr "Хагатна"
+
+msgid "Inarajan_GU"
+msgstr "Inarajan"
+
+msgid "Mangilao_GU"
+msgstr "Манджилао"
+
+msgid "Merizo_GU"
+msgstr "Merizo"
+
+msgid "Mongmong-Toto-Maite_GU"
+msgstr "Монгомонг Тото-Майте"
+
+msgid "Piti_GU"
+msgstr "Пити"
+
+msgid "Santa Rita_GU"
+msgstr "Санта-Ри́та"
+
+msgid "Sinajana_GU"
+msgstr "Sinajana"
+
+msgid "Talofofo_GU"
+msgstr "Талофофо"
+
+msgid "Tamuning-Tumon-Harmon_GU"
+msgstr "Тамунинг"
+
+msgid "Umatac_GU"
+msgstr "Уматак"
+
+msgid "Yigo_GU"
+msgstr "Йиго"
+
+msgid "Yona_GU"
+msgstr "Дзонья́"
+
+msgid "Bafata_GW"
+msgstr "Бафата"
+
+msgid "Biombo_GW"
+msgstr "Биомбо"
+
+msgid "Bissau_GW"
+msgstr "Биса́у"
+
+msgid "Bolama_GW"
+msgstr "Болама"
+
+msgid "Cacheu_GW"
+msgstr "Кашеу"
+
+msgid "Gabu_GW"
+msgstr "Габу"
+
+msgid "Oio_GW"
+msgstr "Ойо"
+
+msgid "Quinara_GW"
+msgstr "Кинара"
+
+msgid "Tombali_GW"
+msgstr "Томбали"
+
+msgid "Barima-Waini_GY"
+msgstr "Барима-Уайни"
+
+msgid "Cuyuni-Mazaruni_GY"
+msgstr "Куюни-Мазаруни"
+
+msgid "Demerara-Mahaica_GY"
+msgstr "Демерара-Махайка"
+
+msgid "East Berbice-Corentyne_GY"
+msgstr "Ист-Бербис-Корентайн"
+
+msgid "Essequibo Islands-West Demerara_GY"
+msgstr "Эссекибо-Айлендс-Уэст-Демерара"
+
+msgid "Mahaica-Berbice_GY"
+msgstr "Махайка-Бербис"
+
+msgid "Pomeroon-Supenaam_GY"
+msgstr "Померун-Супенаам"
+
+msgid "Potaro-Siparuni_GY"
+msgstr "Потаро-Сипаруни"
+
+msgid "Upper Demerara-Berbice_GY"
+msgstr "Аппер-Демерара-Бербис"
+
+msgid "Upper Takutu-Upper Essequibo_GY"
+msgstr "Аппер-Такуту-Аппер-Эссекибо"
+
+msgid "Hong Kong_HK"
+msgstr "Специальный администрати́вный райо́н Гонко́нг"
+
+msgid "Atlantida_HN"
+msgstr "Атланти́да"
+
+msgid "Choluteca_HN"
+msgstr "Чолуте́ка"
+
+msgid "Colon_HN"
+msgstr "Колóн"
+
+msgid "Comayagua_HN"
+msgstr "Комаягуа"
+
+msgid "Copan_HN"
+msgstr "Копа́н"
+
+msgid "Cortes_HN"
+msgstr "Кортес"
+
+msgid "El Paraiso_HN"
+msgstr "Эль-Параи́со"
+
+msgid "Francisco Morazan_HN"
+msgstr "Хосе Франсиско Морасан Кесада"
+
+msgid "Gracias a Dios_HN"
+msgstr "Гра́сьяс-а-Дьос"
+
+msgid "Intibuca_HN"
+msgstr "Интибука́"
+
+msgid "Islas de la Bahia_HN"
+msgstr "И́слас-де-ла-Баи́я"
+
+msgid "La Paz_HN"
+msgstr "Ла-Пас"
+
+msgid "Lempira_HN"
+msgstr "Лемпи́ра"
+
+msgid "Ocotepeque_HN"
+msgstr "Окотепе́ке"
+
+msgid "Olancho_HN"
+msgstr "Ола́нчо"
+
+msgid "Santa Barbara_HN"
+msgstr "Санта-Ба́рбара"
+
+msgid "Valle_HN"
+msgstr "Валье"
+
+msgid "Yoro_HN"
+msgstr "Йоро"
+
+msgid "Bjelovarsko-bilogorska zupanija_HR"
+msgstr "Бьеловарско-Билогорска"
+
+msgid "Brodsko-posavska zupanija_HR"
+msgstr "Бродско-Посавска"
+
+msgid "Dubrovacko-neretvanska zupanija_HR"
+msgstr "Дубровачко-Неретванска"
+
+msgid "Grad Zagreb_HR"
+msgstr "За́греб"
+
+msgid "Istarska zupanija_HR"
+msgstr "Истарска"
+
+msgid "Karlovacka zupanija_HR"
+msgstr "Карловачка"
+
+msgid "Koprivnicko-krizevacka zupanija_HR"
+msgstr "Копривничко-Крижевачка"
+
+msgid "Krapinsko-zagorska zupanija_HR"
+msgstr "Крапинско-Загорска"
+
+msgid "Licko-senjska zupanija_HR"
+msgstr "Личко-Сеньска"
+
+msgid "Medimurska zupanija_HR"
+msgstr "Меджимурска"
+
+msgid "Osjecko-baranjska zupanija_HR"
+msgstr "Осьечко-Бараньска"
+
+msgid "Pozesko-slavonska zupanija_HR"
+msgstr "Пожешко-Славонска"
+
+msgid "Primorsko-goranska zupanija_HR"
+msgstr "Приморско-Горанска"
+
+msgid "Sibensko-kninska zupanija_HR"
+msgstr "Шибенско-Книнска"
+
+msgid "Sisacko-moslavacka zupanija_HR"
+msgstr "Сисачко-Мославачка"
+
+msgid "Splitsko-dalmatinska zupanija_HR"
+msgstr "Сплитско-Далматинска"
+
+msgid "Varazdinska zupanija_HR"
+msgstr "Вараждинска"
+
+msgid "Viroviticko-podravska zupanija_HR"
+msgstr "Вировитичко-Подравска"
+
+msgid "Vukovarsko-srijemska zupanija_HR"
+msgstr "Вуковарско-Сриемска"
+
+msgid "Zadarska zupanija_HR"
+msgstr "Задарска"
+
+msgid "Zagrebacka zupanija_HR"
+msgstr "Загребачка"
+
+msgid "Artibonite_HT"
+msgstr "Артибони́т"
+
+msgid "Centre_HT"
+msgstr "Центральный департамент Гаити"
+
+msgid "Grande'Anse_HT"
+msgstr "Гранд-Анс"
+
+msgid "Nippes_HT"
+msgstr "Нип"
+
+msgid "Nord_HT"
+msgstr "Северный департамент Гаити"
+
+msgid "Nord-Est_HT"
+msgstr "Северо-Восточный департамент Гаити"
+
+msgid "Nord-Ouest_HT"
+msgstr "Северо-Западный департамент Гаити"
+
+msgid "Ouest_HT"
+msgstr "Западный департамент"
+
+msgid "Sud_HT"
+msgstr "Южный департамент"
+
+msgid "Sud-Est_HT"
+msgstr "Юго-Восточный департамент"
+
+msgid "Bacs-Kiskun_HU"
+msgstr "Ба́ч-Ки́шкун"
+
+msgid "Baranya_HU"
+msgstr "Баранья"
+
+msgid "Bekes_HU"
+msgstr "Бе́кеш"
+
+msgid "Borsod-Abauj-Zemplen_HU"
+msgstr "Боршод-Абауй-Земплен"
+
+msgid "Budapest_HU"
+msgstr "Будапе́шт"
+
+msgid "Csongrad_HU"
+msgstr "Чонград"
+
+msgid "Fejer_HU"
+msgstr "Фейер"
+
+msgid "Gyor-Moson-Sopron_HU"
+msgstr "Дьёр-Мо́шон-Шо́прон"
+
+msgid "Hajdu-Bihar_HU"
+msgstr "Хайду-Бихар"
+
+msgid "Heves_HU"
+msgstr "Хевеш"
+
+msgid "Jasz-Nagykun-Szolnok_HU"
+msgstr "Яс-Надькун-Сольнок"
+
+msgid "Komarom-Esztergom_HU"
+msgstr "Комаром-Эстергом"
+
+msgid "Nograd_HU"
+msgstr "Но́град"
+
+msgid "Pest_HU"
+msgstr "Пешт"
+
+msgid "Somogy_HU"
+msgstr "Шомодь"
+
+msgid "Szabolcs-Szatmar-Bereg_HU"
+msgstr "Сабольч-Сатмар-Берег"
+
+msgid "Tolna_HU"
+msgstr "Тольна"
+
+msgid "Vas_HU"
+msgstr "Ваш"
+
+msgid "Veszprem_HU"
+msgstr "Ве́спрем"
+
+msgid "Zala_HU"
+msgstr "Зала"
+
+msgid "Aceh_ID"
+msgstr "А́чех"
+
+msgid "Bali_ID"
+msgstr "Ба́ли"
+
+msgid "Banten_ID"
+msgstr "Бантен"
+
+msgid "Bengkulu_ID"
+msgstr "Бенкулу"
+
+msgid "Gorontalo_ID"
+msgstr "Горонта́ло"
+
+msgid "Jakarta Raya_ID"
+msgstr "Джакарта Рай"
+
+msgid "Jambi_ID"
+msgstr "Джамби"
+
+msgid "Jawa Barat_ID"
+msgstr "Западная Ява"
+
+msgid "Jawa Tengah_ID"
+msgstr "Центральная Ява"
+
+msgid "Jawa Timur_ID"
+msgstr "Восточная Ява"
+
+msgid "Kalimantan Barat_ID"
+msgstr "Западный Калимантан"
+
+msgid "Kalimantan Selatan_ID"
+msgstr "Южный Калимантан"
+
+msgid "Kalimantan Tengah_ID"
+msgstr "Центральный Калимантан"
+
+msgid "Kalimantan Timur_ID"
+msgstr "Восто́чный Калиманта́н"
+
+msgid "Kalimantan Utara_ID"
+msgstr "Калимантан Утара"
+
+msgid "Kepulauan Bangka Belitung_ID"
+msgstr "Банка-Белитунг"
+
+msgid "Kepulauan Riau_ID"
+msgstr "Кепулауан-Риау"
+
+msgid "Lampung_ID"
+msgstr "Ла́мпун(г)"
+
+msgid "Maluku_ID"
+msgstr "Малуку"
+
+msgid "Maluku Utara_ID"
+msgstr "Северное Малуку"
+
+msgid "Nusa Tenggara Barat_ID"
+msgstr "Западная Нуса-Тенгара"
+
+msgid "Nusa Tenggara Timur_ID"
+msgstr "Восточная Нуса-Тенгара"
+
+msgid "Papua_ID"
+msgstr "Папуа"
+
+msgid "Papua Barat_ID"
+msgstr "Западное Папуа"
+
+msgid "Riau_ID"
+msgstr "Риау"
+
+msgid "Sulawesi Barat_ID"
+msgstr "Западный Сулаве́си"
+
+msgid "Sulawesi Selatan_ID"
+msgstr "Южный Сулавеси"
+
+msgid "Sulawesi Tengah_ID"
+msgstr "Центральный Сулаве́си"
+
+msgid "Sulawesi Tenggara_ID"
+msgstr "Юго-Восточный Сулаве́си"
+
+msgid "Sulawesi Utara_ID"
+msgstr "Северный Сулаве́си"
+
+msgid "Sumatera Barat_ID"
+msgstr "Западная Суматра"
+
+msgid "Sumatera Selatan_ID"
+msgstr "Южная Суматра"
+
+msgid "Sumatera Utara_ID"
+msgstr "Северная Суматра"
+
+msgid "Yogyakarta_ID"
+msgstr "Джокьяка́рта"
+
+msgid "Carlow_IE"
+msgstr "Карлоу"
+
+msgid "Cavan_IE"
+msgstr "Каван"
+
+msgid "Clare_IE"
+msgstr "Округ Клэр"
+
+msgid "Cork_IE"
+msgstr "Корк"
+
+msgid "Donegal_IE"
+msgstr "Донегол"
+
+msgid "Dublin_IE"
+msgstr "Ду́блин"
+
+msgid "Galway_IE"
+msgstr "Го́луэй"
+
+msgid "Kerry_IE"
+msgstr "Керри"
+
+msgid "Kildare_IE"
+msgstr "Килдэ́р"
+
+msgid "Kilkenny_IE"
+msgstr "Килке́нни"
+
+msgid "Laois_IE"
+msgstr "Лиишь"
+
+msgid "Leitrim_IE"
+msgstr "Ли́трим"
+
+msgid "Limerick_IE"
+msgstr "Ли́мерик"
+
+msgid "Longford_IE"
+msgstr "Лонгфорд"
+
+msgid "Louth_IE"
+msgstr "Лаут"
+
+msgid "Mayo_IE"
+msgstr "Майо́"
+
+msgid "Meath_IE"
+msgstr "Мит"
+
+msgid "Monaghan_IE"
+msgstr "Монахан"
+
+msgid "Offaly_IE"
+msgstr "Оффали"
+
+msgid "Roscommon_IE"
+msgstr "Роскоммон"
+
+msgid "Sligo_IE"
+msgstr "Сла́йго"
+
+msgid "Tipperary_IE"
+msgstr "Типперери"
+
+msgid "Waterford_IE"
+msgstr "Уотерфорд"
+
+msgid "Westmeath_IE"
+msgstr "Уэ́стмит"
+
+msgid "Wexford_IE"
+msgstr "Уэ́ксфорд"
+
+msgid "Wicklow_IE"
+msgstr "Уиклоу"
+
+msgid "HaDarom_IL"
+msgstr "Южный округ"
+
+msgid "HaMerkaz_IL"
+msgstr "Центральный округ"
+
+msgid "HaTsafon_IL"
+msgstr "Северный округ"
+
+msgid "Hefa_IL"
+msgstr "Ха́йфа"
+
+msgid "Tel Aviv_IL"
+msgstr "Тель-Ави́в—Я́ффа"
+
+msgid "Yerushalayim_IL"
+msgstr "Иерусали́м"
+
+msgid "Isle of Man_IM"
+msgstr "О́стров Мэн"
+
+msgid "Andaman and Nicobar Islands_IN"
+msgstr "Андаманские и Никобарские острова"
+
+msgid "Andhra Pradesh_IN"
+msgstr "А́ндхра-Праде́ш"
+
+msgid "Arunachal Pradesh_IN"
+msgstr "Арунача́л-Праде́ш"
+
+msgid "Assam_IN"
+msgstr "Асса́м"
+
+msgid "Bihar_IN"
+msgstr "Биха́р"
+
+msgid "Chandigarh_IN"
+msgstr "Чандига́рх"
+
+msgid "Chhattisgarh_IN"
+msgstr "Чхаттисга́рх"
+
+msgid "Dadra and Nagar Haveli_IN"
+msgstr "Дадра и Нагар-Хавели"
+
+msgid "Daman and Diu_IN"
+msgstr "Дама́н и Ди́у"
+
+msgid "Delhi_IN"
+msgstr "Де́ли"
+
+msgid "Goa_IN"
+msgstr "Го́а"
+
+msgid "Gujarat_IN"
+msgstr "Гуджара́т"
+
+msgid "Haryana_IN"
+msgstr "Харья́на"
+
+msgid "Himachal Pradesh_IN"
+msgstr "Химача́л-Праде́ш"
+
+msgid "Jammu and Kashmir_IN"
+msgstr "Джа́мму и Кашми́р"
+
+msgid "Jharkhand_IN"
+msgstr "Джаркха́нд"
+
+msgid "Karnataka_IN"
+msgstr "Карна́така"
+
+msgid "Kerala_IN"
+msgstr "Ке́рала"
+
+msgid "Lakshadweep_IN"
+msgstr "Лакшадви́п"
+
+msgid "Madhya Pradesh_IN"
+msgstr "Ма́дхья-Праде́ш"
+
+msgid "Maharashtra_IN"
+msgstr "Махара́штра"
+
+msgid "Manipur_IN"
+msgstr "Манипу́р"
+
+msgid "Meghalaya_IN"
+msgstr "Мегхала́я"
+
+msgid "Mizoram_IN"
+msgstr "Мизора́м"
+
+msgid "Nagaland_IN"
+msgstr "Нагале́нд"
+
+msgid "Odisha_IN"
+msgstr "Ори́сса"
+
+msgid "Puducherry_IN"
+msgstr "Пондичерри"
+
+msgid "Punjab_IN"
+msgstr "Пенджаб"
+
+msgid "Rajasthan_IN"
+msgstr "Раджастха́н"
+
+msgid "Sikkim_IN"
+msgstr "Сикким"
+
+msgid "Tamil Nadu_IN"
+msgstr "Тамилна́д"
+
+msgid "Telangana_IN"
+msgstr "Телингана"
+
+msgid "Tripura_IN"
+msgstr "Трипу́ра"
+
+msgid "Uttar Pradesh_IN"
+msgstr "У́ттар-Праде́ш"
+
+msgid "Uttarakhand_IN"
+msgstr "Уттаракха́нд"
+
+msgid "West Bengal_IN"
+msgstr "За́падная Бенга́лия"
+
+msgid "British Indian Ocean Territory_IO"
+msgstr "Брита́нская Террито́рия в Инди́йском Океа́не"
+
+msgid "Al Anbar_IQ"
+msgstr "Анбар"
+
+msgid "Al Basrah_IQ"
+msgstr "Ба́сра"
+
+msgid "Al Muthanna_IQ"
+msgstr "Мутанна"
+
+msgid "Al Qadisiyah_IQ"
+msgstr "Кадисия"
+
+msgid "An Najaf_IQ"
+msgstr "Эн-На́джаф"
+
+msgid "Arbil_IQ"
+msgstr "Эрби́ль"
+
+msgid "As Sulaymaniyah_IQ"
+msgstr "Сулеймани́я"
+
+msgid "Babil_IQ"
+msgstr "Вавило́н"
+
+msgid "Baghdad_IQ"
+msgstr "Багда́д"
+
+msgid "Dahuk_IQ"
+msgstr "Даху́к"
+
+msgid "Dhi Qar_IQ"
+msgstr "Ди-Кар"
+
+msgid "Diyala_IQ"
+msgstr "Дияла"
+
+msgid "Karbala'_IQ"
+msgstr "Кербела́"
+
+msgid "Kirkuk_IQ"
+msgstr "Кирку́к"
+
+msgid "Maysan_IQ"
+msgstr "мухафаза Майсан"
+
+msgid "Ninawa_IQ"
+msgstr "Найнава"
+
+msgid "Salah ad Din_IQ"
+msgstr "Салахудди́н"
+
+msgid "Wasit_IQ"
+msgstr "Васит"
+
+msgid "Alborz_IR"
+msgstr "Эльбу́рс"
+
+msgid "Ardabil_IR"
+msgstr "Ардеби́ль"
+
+msgid "Azarbayjan-e Gharbi_IR"
+msgstr "За́падный Азербайджа́н"
+
+msgid "Azarbayjan-e Sharqi_IR"
+msgstr "Восто́чный Азербайджа́н"
+
+msgid "Bushehr_IR"
+msgstr "Буши́р"
+
+msgid "Chahar Mahal va Bakhtiari_IR"
+msgstr "Чехармеха́ль и Бахтиа́рия"
+
+msgid "Esfahan_IR"
+msgstr "Исфаха́н"
+
+msgid "Fars_IR"
+msgstr "Фарс"
+
+msgid "Gilan_IR"
+msgstr "Гиля́н"
+
+msgid "Golestan_IR"
+msgstr "Гулистан"
+
+msgid "Hamadan_IR"
+msgstr "Хамада́н"
+
+msgid "Hormozgan_IR"
+msgstr "Хормозга́н"
+
+msgid "Ilam_IR"
+msgstr "Илам"
+
+msgid "Kerman_IR"
+msgstr "Керма́н"
+
+msgid "Kermanshah_IR"
+msgstr "Керманша́х"
+
+msgid "Khorasan-e Jonubi_IR"
+msgstr "Ю́жный Хораса́н"
+
+msgid "Khorasan-e Razavi_IR"
+msgstr "Хораса́н-Резави́"
+
+msgid "Khorasan-e Shomali_IR"
+msgstr "Се́верный Хораса́н"
+
+msgid "Khuzestan_IR"
+msgstr "Хузеста́н"
+
+msgid "Kohgiluyeh va Bowyer Ahmad_IR"
+msgstr "Кохгилуйе и Бойерахмед"
+
+msgid "Kordestan_IR"
+msgstr "Курдиста́н"
+
+msgid "Lorestan_IR"
+msgstr "Луреста́н"
+
+msgid "Markazi_IR"
+msgstr "Центра́льный оста́н"
+
+msgid "Mazandaran_IR"
+msgstr "Мазендера́н"
+
+msgid "Qazvin_IR"
+msgstr "Казви́н"
+
+msgid "Qom_IR"
+msgstr "Кум"
+
+msgid "Semnan_IR"
+msgstr "Семнан"
+
+msgid "Sistan va Baluchestan_IR"
+msgstr "Систа́н и Белуджиста́н"
+
+msgid "Tehran_IR"
+msgstr "Тегера́н"
+
+msgid "Yazd_IR"
+msgstr "Йезд"
+
+msgid "Zanjan_IR"
+msgstr "Зенджа́н"
+
+msgid "Austurland_IS"
+msgstr "Э́йстюрланд"
+
+msgid "Hofudborgarsvaedi_IS"
+msgstr "Хёвюдборгарсвайдид"
+
+msgid "Nordurland eystra_IS"
+msgstr "Нордюрланд-Эйстра"
+
+msgid "Nordurland vestra_IS"
+msgstr "Но́рдюрланд-Ве́стра"
+
+msgid "Sudurland_IS"
+msgstr "Сюдюрланд"
+
+msgid "Sudurnes_IS"
+msgstr "Сюдюрнес"
+
+msgid "Vestfirdir_IS"
+msgstr "Вестфирдир"
+
+msgid "Vesturland_IS"
+msgstr "Вестюрланд"
+
+msgid "Abruzzo_IT"
+msgstr "Абру́цци"
+
+msgid "Basilicata_IT"
+msgstr "Базилика́та"
+
+msgid "Calabria_IT"
+msgstr "Кала́брия"
+
+msgid "Campania_IT"
+msgstr "Кампа́ния"
+
+msgid "Emilia-Romagna_IT"
+msgstr "Эми́лия-Рома́нья"
+
+msgid "Friuli-Venezia Giulia_IT"
+msgstr "Фри́ули — Вене́ция-Джу́лия"
+
+msgid "Lazio_IT"
+msgstr "Ла́цио"
+
+msgid "Liguria_IT"
+msgstr "Лигу́рия"
+
+msgid "Lombardia_IT"
+msgstr "Ломба́рдия"
+
+msgid "Marche_IT"
+msgstr "Ма́рке"
+
+msgid "Molise_IT"
+msgstr "Моли́зе"
+
+msgid "Piemonte_IT"
+msgstr "Пьемо́нт"
+
+msgid "Puglia_IT"
+msgstr "Апу́лия"
+
+msgid "Sardegna_IT"
+msgstr "Сарди́ния"
+
+msgid "Sicilia_IT"
+msgstr "Сици́лия"
+
+msgid "Toscana_IT"
+msgstr "Тоска́на"
+
+msgid "Trentino-Alto Adige_IT"
+msgstr "Тренти́но — А́льто-А́дидже"
+
+msgid "Umbria_IT"
+msgstr "У́мбрия"
+
+msgid "Valle d'Aosta_IT"
+msgstr "Ва́лле-д’Ао́ста"
+
+msgid "Veneto_IT"
+msgstr "Вене́ция"
+
+msgid "Jersey_JE"
+msgstr "Дже́рси"
+
+msgid "Clarendon_JM"
+msgstr "Кларендон"
+
+msgid "Hanover_JM"
+msgstr "Ганно́вер"
+
+msgid "Kingston_JM"
+msgstr "Ки́нгстон"
+
+msgid "Manchester_JM"
+msgstr "Манче́стер"
+
+msgid "Portland_JM"
+msgstr "По́ртленд"
+
+msgid "Saint Andrew_JM"
+msgstr "Святой Андрей"
+
+msgid "Saint Ann_JM"
+msgstr "Свята́я А́нна"
+
+msgid "Saint Catherine_JM"
+msgstr "Сент-Кэтрин"
+
+msgid "Saint Elizabeth_JM"
+msgstr "Святая Елизавета"
+
+msgid "Saint James_JM"
+msgstr "Святой Джеймс"
+
+msgid "Saint Mary_JM"
+msgstr "Святая мария"
+
+msgid "Saint Thomas_JM"
+msgstr "Сент-То́мас"
+
+msgid "Trelawny_JM"
+msgstr "Трелони"
+
+msgid "Westmoreland_JM"
+msgstr "Уэстморленд (Вестморленд)"
+
+msgid "'Ajlun_JO"
+msgstr "Аджлу́н"
+
+msgid "Al 'Aqabah_JO"
+msgstr "Áкаба"
+
+msgid "Al 'Asimah_JO"
+msgstr "Амма́н"
+
+msgid "Al Balqa'_JO"
+msgstr "Эль-Балка́"
+
+msgid "Al Karak_JO"
+msgstr "Эль-Ка́рак"
+
+msgid "Al Mafraq_JO"
+msgstr "Эль-Мафрак"
+
+msgid "At Tafilah_JO"
+msgstr "Эт-Тафи́ла"
+
+msgid "Az Zarqa'_JO"
+msgstr "Эз-Зарка́"
+
+msgid "Irbid_JO"
+msgstr "И́рбид"
+
+msgid "Jarash_JO"
+msgstr "Джараш"
+
+msgid "Ma'an_JO"
+msgstr "Маа́н"
+
+msgid "Madaba_JO"
+msgstr "Мадаба"
+
+msgid "Aichi_JP"
+msgstr "А́йти"
+
+msgid "Akita_JP"
+msgstr "А́кита"
+
+msgid "Aomori_JP"
+msgstr "Аомори"
+
+msgid "Chiba_JP"
+msgstr "Тиба."
+
+msgid "Ehime_JP"
+msgstr "Эхиме́"
+
+msgid "Fukui_JP"
+msgstr "Фукуи"
+
+msgid "Fukuoka_JP"
+msgstr "Фукуо́ка"
+
+msgid "Fukushima_JP"
+msgstr "Фукусима"
+
+msgid "Gifu_JP"
+msgstr "Ги́фу"
+
+msgid "Gunma_JP"
+msgstr "Гумма"
+
+msgid "Hiroshima_JP"
+msgstr "Хироси́ма"
+
+msgid "Hokkaido_JP"
+msgstr "Хокка́йдо"
+
+msgid "Hyogo_JP"
+msgstr "Хиого"
+
+msgid "Ibaraki_JP"
+msgstr "Ибараки"
+
+msgid "Ishikawa_JP"
+msgstr "Исикава"
+
+msgid "Iwate_JP"
+msgstr "Ивате"
+
+msgid "Kagawa_JP"
+msgstr "Кагава"
+
+msgid "Kagoshima_JP"
+msgstr "Каго́сима"
+
+msgid "Kanagawa_JP"
+msgstr "Канага́ва"
+
+msgid "Kochi_JP"
+msgstr "Кочи́н"
+
+msgid "Kumamoto_JP"
+msgstr "Кумамо́то"
+
+msgid "Kyoto_JP"
+msgstr "Кио́то"
+
+msgid "Mie_JP"
+msgstr "Миэ"
+
+msgid "Miyagi_JP"
+msgstr "Мия́ги"
+
+msgid "Miyazaki_JP"
+msgstr "Миядзаки"
+
+msgid "Nagano_JP"
+msgstr "Нага́но"
+
+msgid "Nagasaki_JP"
+msgstr "Нагаса́ки"
+
+msgid "Nara_JP"
+msgstr "Нара"
+
+msgid "Niigata_JP"
+msgstr "Ниигата"
+
+msgid "Oita_JP"
+msgstr "О́ита"
+
+msgid "Okayama_JP"
+msgstr "Окаяма"
+
+msgid "Okinawa_JP"
+msgstr "Окина́ва"
+
+msgid "Osaka_JP"
+msgstr "О́сака"
+
+msgid "Saga_JP"
+msgstr "Са́га"
+
+msgid "Saitama_JP"
+msgstr "Сайтама"
+
+msgid "Shiga_JP"
+msgstr "Си́га"
+
+msgid "Shimane_JP"
+msgstr "Сима́не"
+
+msgid "Shizuoka_JP"
+msgstr "Сидзуока"
+
+msgid "Tochigi_JP"
+msgstr "Тотиги"
+
+msgid "Tokushima_JP"
+msgstr "Токуси́ма"
+
+msgid "Tokyo_JP"
+msgstr "То́кио"
+
+msgid "Tottori_JP"
+msgstr "Тоттори"
+
+msgid "Toyama_JP"
+msgstr "Тояма"
+
+msgid "Wakayama_JP"
+msgstr "Вакаяма"
+
+msgid "Yamagata_JP"
+msgstr "Ямагата"
+
+msgid "Yamaguchi_JP"
+msgstr "Ямагути"
+
+msgid "Yamanashi_JP"
+msgstr "Яманаси"
+
+msgid "Baringo_KE"
+msgstr "Баринго"
+
+msgid "Bomet_KE"
+msgstr "Бомет"
+
+msgid "Bungoma_KE"
+msgstr "Бунгома"
+
+msgid "Busia_KE"
+msgstr "Бусиа"
+
+msgid "Elgeyo/Marakwet_KE"
+msgstr "Elgeyo/Marakwet"
+
+msgid "Embu_KE"
+msgstr "Эмбу"
+
+msgid "Garissa_KE"
+msgstr "Гарисса"
+
+msgid "Homa Bay_KE"
+msgstr "Хома Бэй"
+
+msgid "Isiolo_KE"
+msgstr "Исиоло"
+
+msgid "Kajiado_KE"
+msgstr "Каджиадо"
+
+msgid "Kakamega_KE"
+msgstr "Какамега"
+
+msgid "Kericho_KE"
+msgstr "Керичо"
+
+msgid "Kiambu_KE"
+msgstr "Kiambu"
+
+msgid "Kilifi_KE"
+msgstr "Килифи"
+
+msgid "Kirinyaga_KE"
+msgstr "Kirinyaga"
+
+msgid "Kisii_KE"
+msgstr "Kisii"
+
+msgid "Kisumu_KE"
+msgstr "Кису́му"
+
+msgid "Kitui_KE"
+msgstr "Китуи"
+
+msgid "Kwale_KE"
+msgstr "Kwale"
+
+msgid "Laikipia_KE"
+msgstr "Laikipia"
+
+msgid "Lamu_KE"
+msgstr "Ламу"
+
+msgid "Machakos_KE"
+msgstr "Мачакос"
+
+msgid "Makueni_KE"
+msgstr "Makueni"
+
+msgid "Mandera_KE"
+msgstr "Мандера"
+
+msgid "Marsabit_KE"
+msgstr "Марсабит"
+
+msgid "Meru_KE"
+msgstr "Меру"
+
+msgid "Migori_KE"
+msgstr "Мигори"
+
+msgid "Mombasa_KE"
+msgstr "Момбаса"
+
+msgid "Murang'a_KE"
+msgstr "Murang'a"
+
+msgid "Nairobi City_KE"
+msgstr "Город Найроби"
+
+msgid "Nakuru_KE"
+msgstr "Наку́ру"
+
+msgid "Nandi_KE"
+msgstr "Нанди"
+
+msgid "Narok_KE"
+msgstr "Нарок"
+
+msgid "Nyamira_KE"
+msgstr "Nyamira"
+
+msgid "Nyandarua_KE"
+msgstr "Nyandarua"
+
+msgid "Nyeri_KE"
+msgstr "Ньери"
+
+msgid "Samburu_KE"
+msgstr "Самберу"
+
+msgid "Siaya_KE"
+msgstr "Siaya"
+
+msgid "Taita/Taveta_KE"
+msgstr "Taita/Taveta"
+
+msgid "Tana River_KE"
+msgstr "Река Тана"
+
+msgid "Tharaka-Nithi_KE"
+msgstr "Тарака-Nithi"
+
+msgid "Trans Nzoia_KE"
+msgstr "Транс Нзоя"
+
+msgid "Turkana_KE"
+msgstr "Туркана"
+
+msgid "Uasin Gishu_KE"
+msgstr "Уасин Гишу"
+
+msgid "Vihiga_KE"
+msgstr "Вихига"
+
+msgid "Wajir_KE"
+msgstr "Ваджир"
+
+msgid "West Pokot_KE"
+msgstr "Западный Покот"
+
+msgid "Batken_KG"
+msgstr "Батке́н"
+
+msgid "Bishkek_KG"
+msgstr "Бишке́к"
+
+msgid "Chuy_KG"
+msgstr "Чуй"
+
+msgid "Jalal-Abad_KG"
+msgstr "Джала́л-Аба́д"
+
+msgid "Naryn_KG"
+msgstr "Нары́н"
+
+msgid "Osh_KG"
+msgstr "Ош"
+
+msgid "Talas_KG"
+msgstr "Таласская область"
+
+msgid "Ysyk-Kol_KG"
+msgstr "Иссы́к-Ку́ль"
+
+msgid "Baat Dambang_KH"
+msgstr "Баттамба́нг"
+
+msgid "Banteay Mean Chey_KH"
+msgstr "Бантеймеантье́й"
+
+msgid "Kampong Chaam_KH"
+msgstr "Кампонгтя́м"
+
+msgid "Kampong Chhnang_KH"
+msgstr "Кампонгчна́нг"
+
+msgid "Kampong Spueu_KH"
+msgstr "Кампонгспы́"
+
+msgid "Kampong Thum_KH"
+msgstr "Кампонгтхо́м"
+
+msgid "Kampot_KH"
+msgstr "Кампо́т"
+
+msgid "Kandaal_KH"
+msgstr "Канда́ль"
+
+msgid "Kaoh Kong_KH"
+msgstr "Кохконг"
+
+msgid "Kracheh_KH"
+msgstr "Кратьэ́х"
+
+msgid "Krong Kaeb_KH"
+msgstr "Каеп"
+
+msgid "Krong Pailin_KH"
+msgstr "Пайлин"
+
+msgid "Krong Preah Sihanouk_KH"
+msgstr "Сиануквиль"
+
+msgid "Mondol Kiri_KH"
+msgstr "Мондолькири"
+
+msgid "Otdar Mean Chey_KH"
+msgstr "Оддармеантье́й"
+
+msgid "Phnom Penh_KH"
+msgstr "Пномпе́нь"
+
+msgid "Pousaat_KH"
+msgstr "Поусат"
+
+msgid "Preah Vihear_KH"
+msgstr "Прэахвихеа"
+
+msgid "Prey Veaeng_KH"
+msgstr "Прейвэнг"
+
+msgid "Rotanak Kiri_KH"
+msgstr "Ратанакири"
+
+msgid "Siem Reab_KH"
+msgstr "Сиемриеп"
+
+msgid "Stueng Traeng_KH"
+msgstr "Стынгтраенг"
+
+msgid "Svaay Rieng_KH"
+msgstr "Свайрие́нг"
+
+msgid "Taakaev_KH"
+msgstr "Таке́о"
+
+msgid "Gilbert Islands_KI"
+msgstr "Острова Ги́лберта"
+
+msgid "Line Islands_KI"
+msgstr "Острова Лайн"
+
+msgid "Anjouan_KM"
+msgstr "Ндзуани"
+
+msgid "Grande Comore_KM"
+msgstr "Нгазиджа"
+
+msgid "Moheli_KM"
+msgstr "Мва́ли"
+
+msgid "Christ Church Nichola Town_KN"
+msgstr "Крайст-Черч-Никола-Таун"
+
+msgid "Saint Anne Sandy Point_KN"
+msgstr "Сент-Энн-Сэнди-Пойнт"
+
+msgid "Saint George Basseterre_KN"
+msgstr "Сент-Джордж-Бастер"
+
+msgid "Saint George Gingerland_KN"
+msgstr "Сент-Джордж-Джинджерланд"
+
+msgid "Saint James Windward_KN"
+msgstr "Сент-Джеймс-Уиндуорд"
+
+msgid "Saint John Capisterre_KN"
+msgstr "Сент-Джон-Капестер"
+
+msgid "Saint John Figtree_KN"
+msgstr "Сент-Джон-Фигтри"
+
+msgid "Saint Mary Cayon_KN"
+msgstr "Сент-Мери-Кайон"
+
+msgid "Saint Paul Capisterre_KN"
+msgstr "Сент-Паул-Капестер"
+
+msgid "Saint Paul Charlestown_KN"
+msgstr "Сент-Паул-Чарлстаун"
+
+msgid "Saint Peter Basseterre_KN"
+msgstr "Сент-Петер-Бастер"
+
+msgid "Saint Thomas Lowland_KN"
+msgstr "Сент-Томас-Лоуленд"
+
+msgid "Saint Thomas Middle Island_KN"
+msgstr "Сент-Томас-Мидл-Айленд"
+
+msgid "Trinity Palmetto Point_KN"
+msgstr "Тринити-Палметто-Пойнт"
+
+msgid "Chagang-do_KP"
+msgstr "Чагандо́"
+
+msgid "Hamgyong-bukto_KP"
+msgstr "Хамгён-Пукто́"
+
+msgid "Hamgyong-namdo_KP"
+msgstr "Хамгён-Намдо́"
+
+msgid "Hwanghae-bukto_KP"
+msgstr "Хванхэ́-Пукто́"
+
+msgid "Hwanghae-namdo_KP"
+msgstr "Хванхэ́-Намдо́"
+
+msgid "Kangwon-do_KP"
+msgstr "Канвондо"
+
+msgid "P'yongan-bukto_KP"
+msgstr "Пхёнан-Пукто"
+
+msgid "P'yongan-namdo_KP"
+msgstr "Пхёнан-Намдо"
+
+msgid "P'yongyang_KP"
+msgstr "Пхенья́н"
+
+msgid "Rason_KP"
+msgstr "Насон"
+
+msgid "Ryanggang-do_KP"
+msgstr "Янгандо"
+
+msgid "Busan-gwangyeoksi_KR"
+msgstr "Пуса́н"
+
+msgid "Chungcheongbuk-do_KR"
+msgstr "Чхунчхон-Пукто"
+
+msgid "Chungcheongnam-do_KR"
+msgstr "Чхунчхо́н-Намдо́"
+
+msgid "Daegu-gwangyeoksi_KR"
+msgstr "Тэгу́"
+
+msgid "Daejeon-gwangyeoksi_KR"
+msgstr "Тэджо́н"
+
+msgid "Gangwon-do_KR"
+msgstr "Канвондо"
+
+msgid "Gwangju-gwangyeoksi_KR"
+msgstr "Кванджу́"
+
+msgid "Gyeonggi-do_KR"
+msgstr "Кёнгидо́"
+
+msgid "Gyeongsangbuk-do_KR"
+msgstr "Кёнсан-Пукто"
+
+msgid "Gyeongsangnam-do_KR"
+msgstr "Кёнсан-Намдо"
+
+msgid "Incheon-gwangyeoksi_KR"
+msgstr "Инчхо́н"
+
+msgid "Jeju-teukbyeoljachido_KR"
+msgstr "Чеджудо́"
+
+msgid "Jeollabuk-do_KR"
+msgstr "Чолла-Пукто"
+
+msgid "Jeollanam-do_KR"
+msgstr "Чолла-Намдо"
+
+msgid "Seoul-teukbyeolsi_KR"
+msgstr "Сеу́л"
+
+msgid "Ulsan-gwangyeoksi_KR"
+msgstr "Ульса́н"
+
+msgid "Al 'Asimah_KW"
+msgstr "Эль-Асима"
+
+msgid "Al Ahmadi_KW"
+msgstr "Эль-Ахмади"
+
+msgid "Al Farwaniyah_KW"
+msgstr "Эль-Фарвания"
+
+msgid "Al Jahra'_KW"
+msgstr "Эль-Джа́хра"
+
+msgid "Hawalli_KW"
+msgstr "Хавалли"
+
+msgid "Mubarak al Kabir_KW"
+msgstr "Мубарак аль-Кабир"
+
+msgid "Cayman Islands_KY"
+msgstr "Острова́ Кайма́н"
+
+msgid "Almaty_KZ"
+msgstr "Алма́-Ата́"
+
+msgid "Almaty oblysy_KZ"
+msgstr "Алматинская область"
+
+msgid "Aqmola oblysy_KZ"
+msgstr "Акмо́линская о́бласть"
+
+msgid "Aqtobe oblysy_KZ"
+msgstr "Актю́бинская о́бласть"
+
+msgid "Astana_KZ"
+msgstr "Астана́"
+
+msgid "Atyrau oblysy_KZ"
+msgstr "Атырауская область"
+
+msgid "Batys Qazaqstan oblysy_KZ"
+msgstr "Западно-Казахстанская область"
+
+msgid "Bayqongyr_KZ"
+msgstr "Байкону́р"
+
+msgid "Mangghystau oblysy_KZ"
+msgstr "Мангиста́уская о́бласть"
+
+msgid "Ongtustik Qazaqstan oblysy_KZ"
+msgstr "Туркестанская область"
+
+msgid "Pavlodar oblysy_KZ"
+msgstr "Павлодарская область"
+
+msgid "Qaraghandy oblysy_KZ"
+msgstr "Караганди́нская о́бласть"
+
+msgid "Qostanay oblysy_KZ"
+msgstr "Костана́йская о́бласть"
+
+msgid "Qyzylorda oblysy_KZ"
+msgstr "Кызылординская область"
+
+msgid "Shyghys Qazaqstan oblysy_KZ"
+msgstr "Восточно-Казахстанская область"
+
+msgid "Soltustik Qazaqstan oblysy_KZ"
+msgstr "Се́веро-Казахста́нская о́бласть"
+
+msgid "Zhambyl oblysy_KZ"
+msgstr "Жамбы́лская область"
+
+msgid "Attapu_LA"
+msgstr "Аттапы"
+
+msgid "Bokeo_LA"
+msgstr "Бокэ́у"
+
+msgid "Bolikhamxai_LA"
+msgstr "Боликха́мсай"
+
+msgid "Champasak_LA"
+msgstr "Тямпасак"
+
+msgid "Houaphan_LA"
+msgstr "Хуапхан"
+
+msgid "Khammouan_LA"
+msgstr "Кхаммуан"
+
+msgid "Louang Namtha_LA"
+msgstr "Луангнамтха"
+
+msgid "Louangphabang_LA"
+msgstr "Луа́нгпхаба́нг"
+
+msgid "Oudomxai_LA"
+msgstr "Удомсай"
+
+msgid "Phongsali_LA"
+msgstr "Пхонгсали́"
+
+msgid "Salavan_LA"
+msgstr "Сараван"
+
+msgid "Savannakhet_LA"
+msgstr "Саваннакхе́т"
+
+msgid "Viangchan_LA"
+msgstr "Вьентья́н"
+
+msgid "Xaignabouli_LA"
+msgstr "Сайнябули́"
+
+msgid "Xekong_LA"
+msgstr "Ламам"
+
+msgid "Xiangkhouang_LA"
+msgstr "Сиангкхуанг"
+
+msgid "Aakkar_LB"
+msgstr "Аккар"
+
+msgid "Baalbek-Hermel_LB"
+msgstr "Баальбек-Хермель"
+
+msgid "Beqaa_LB"
+msgstr "Бека́а"
+
+msgid "Beyrouth_LB"
+msgstr "Бейрут"
+
+msgid "Liban-Nord_LB"
+msgstr "Северный Ливан"
+
+msgid "Liban-Sud_LB"
+msgstr "Южный Ливан"
+
+msgid "Mont-Liban_LB"
+msgstr "Горный Ливан"
+
+msgid "Nabatiye_LB"
+msgstr "Эн-Набати́я"
+
+msgid "Anse la Raye_LC"
+msgstr "Анс-Лавуа"
+
+msgid "Castries_LC"
+msgstr "Кастри́"
+
+msgid "Choiseul_LC"
+msgstr "Географические объекты"
+
+msgid "Dennery_LC"
+msgstr "Деннери"
+
+msgid "Gros Islet_LC"
+msgstr "Грос Айлет"
+
+msgid "Laborie_LC"
+msgstr "Лабори"
+
+msgid "Micoud_LC"
+msgstr "Мику"
+
+msgid "Soufriere_LC"
+msgstr "Суфриер"
+
+msgid "Vieux Fort_LC"
+msgstr "Вьё-Фор"
+
+msgid "Balzers_LI"
+msgstr "Бальцерс"
+
+msgid "Eschen_LI"
+msgstr "Э́шен"
+
+msgid "Gamprin_LI"
+msgstr "Гамприн"
+
+msgid "Mauren_LI"
+msgstr "Маурен"
+
+msgid "Planken_LI"
+msgstr "Пла́нкен"
+
+msgid "Ruggell_LI"
+msgstr "Руггелль"
+
+msgid "Schaan_LI"
+msgstr "Шан"
+
+msgid "Schellenberg_LI"
+msgstr "Ше́лленберг"
+
+msgid "Triesen_LI"
+msgstr "Три́зен"
+
+msgid "Triesenberg_LI"
+msgstr "Тризенберг"
+
+msgid "Vaduz_LI"
+msgstr "Ваду́ц"
+
+msgid "Central Province_LK"
+msgstr "Центра́льная прови́нция"
+
+msgid "Eastern Province_LK"
+msgstr "Восто́чная прови́нция"
+
+msgid "North Central Province_LK"
+msgstr "Се́веро-Центра́льная прови́нция"
+
+msgid "North Western Province_LK"
+msgstr "Северо-За́падная прови́нция"
+
+msgid "Northern Province_LK"
+msgstr "Се́верная прови́нция"
+
+msgid "Sabaragamuwa Province_LK"
+msgstr "Сабарагамува"
+
+msgid "Southern Province_LK"
+msgstr "Ю́жная прови́нция"
+
+msgid "Uva Province_LK"
+msgstr "Ува"
+
+msgid "Western Province_LK"
+msgstr "Западная провинция"
+
+msgid "Bomi_LR"
+msgstr "Боми"
+
+msgid "Bong_LR"
+msgstr "Бонг"
+
+msgid "Gbarpolu_LR"
+msgstr "Гбарполу"
+
+msgid "Grand Bassa_LR"
+msgstr "Гранд-Басса"
+
+msgid "Grand Cape Mount_LR"
+msgstr "Гранд-Кейп-Маунт"
+
+msgid "Grand Gedeh_LR"
+msgstr "Гранд-Джиде"
+
+msgid "Grand Kru_LR"
+msgstr "Гранд-Кру"
+
+msgid "Lofa_LR"
+msgstr "Лофа"
+
+msgid "Margibi_LR"
+msgstr "Маргиби"
+
+msgid "Maryland_LR"
+msgstr "Мэриленд"
+
+msgid "Montserrado_LR"
+msgstr "Монтсеррадо"
+
+msgid "Nimba_LR"
+msgstr "Нимба"
+
+msgid "River Cess_LR"
+msgstr "Ривер-Сесс"
+
+msgid "River Gee_LR"
+msgstr "Ривер-Ги"
+
+msgid "Sinoe_LR"
+msgstr "Сино"
+
+msgid "Berea_LS"
+msgstr "Берея́"
+
+msgid "Butha-Buthe_LS"
+msgstr "Бута-Буте"
+
+msgid "Leribe_LS"
+msgstr "Лерибе"
+
+msgid "Mafeteng_LS"
+msgstr "Мафетенг"
+
+msgid "Maseru_LS"
+msgstr "Ма́серу"
+
+msgid "Mohale's Hoek_LS"
+msgstr "Мохалес-Хук"
+
+msgid "Mokhotlong_LS"
+msgstr "Мохотлонг"
+
+msgid "Qacha's Nek_LS"
+msgstr "Цгачаснек"
+
+msgid "Quthing_LS"
+msgstr "Цгутинг"
+
+msgid "Thaba-Tseka_LS"
+msgstr "Таба-Тсека"
+
+msgid "Alytaus apskritis_LT"
+msgstr "Али́тусский уе́зд"
+
+msgid "Kauno apskritis_LT"
+msgstr "Ка́унасский округ"
+
+msgid "Klaipedos apskritis_LT"
+msgstr "Кла́йпедский уе́зд"
+
+msgid "Marijampoles apskritis_LT"
+msgstr "Мария́мпольский уе́зд"
+
+msgid "Panevezio apskritis_LT"
+msgstr "Паневе́жский уе́зд"
+
+msgid "Siauliu apskritis_LT"
+msgstr "Шяуля́йский уе́зд"
+
+msgid "Taurages apskritis_LT"
+msgstr "Таура́гский уе́зд"
+
+msgid "Telsiu apskritis_LT"
+msgstr "Тельшя́йский уе́зд"
+
+msgid "Utenos apskritis_LT"
+msgstr "Уте́нский округ"
+
+msgid "Vilniaus apskritis_LT"
+msgstr "Ви́льнюсский уе́зд"
+
+msgid "Diekirch_LU"
+msgstr "Дикирх"
+
+msgid "Grevenmacher_LU"
+msgstr "Гревенмахер"
+
+msgid "Luxembourg_LU"
+msgstr "Люксембу́рг"
+
+msgid "Adazu novads_LV"
+msgstr "А́дажский край"
+
+msgid "Aglonas novads_LV"
+msgstr "А́глонский край"
+
+msgid "Aizkraukles novads_LV"
+msgstr "А́йзкраукльский край"
+
+msgid "Aizputes novads_LV"
+msgstr "А́йзпутский край"
+
+msgid "Alojas novads_LV"
+msgstr "А́лойский край"
+
+msgid "Aluksnes novads_LV"
+msgstr "А́луксненский край"
+
+msgid "Babites novads_LV"
+msgstr "Ба́битский край"
+
+msgid "Baldones novads_LV"
+msgstr "Ба́лдонский край"
+
+msgid "Baltinavas novads_LV"
+msgstr "Ба́лтинавский край"
+
+msgid "Balvu novads_LV"
+msgstr "Ба́лвский край"
+
+msgid "Bauskas novads_LV"
+msgstr "Ба́уский край"
+
+msgid "Beverinas novads_LV"
+msgstr "Бе́веринский край"
+
+msgid "Brocenu novads_LV"
+msgstr "Бро́ценский край"
+
+msgid "Carnikavas novads_LV"
+msgstr "Ца́рникавский край"
+
+msgid "Cesu novads_LV"
+msgstr "Це́сисский край"
+
+msgid "Cesvaines novads_LV"
+msgstr "Це́свайнский край"
+
+msgid "Ciblas novads_LV"
+msgstr "Ци́блский край"
+
+msgid "Daugavpils novads_LV"
+msgstr "Да́угавпилсский край"
+
+msgid "Dobeles novads_LV"
+msgstr "До́бельский край"
+
+msgid "Dundagas novads_LV"
+msgstr "Ду́ндагский край"
+
+msgid "Erglu novads_LV"
+msgstr "Э́ргльский край"
+
+msgid "Gulbenes novads_LV"
+msgstr "Гу́лбенский край"
+
+msgid "Iecavas novads_LV"
+msgstr "Ие́цавский край"
+
+msgid "Ikskiles novads_LV"
+msgstr "Икшкильский край"
+
+msgid "Incukalna novads_LV"
+msgstr "И́нчукалнский край"
+
+msgid "Jaunjelgavas novads_LV"
+msgstr "Я́унелгавский край"
+
+msgid "Jaunpiebalgas novads_LV"
+msgstr "Я́унпиебалгский край"
+
+msgid "Jaunpils novads_LV"
+msgstr "Я́унпилсский край"
+
+msgid "Jekabpils novads_LV"
+msgstr "Е́кабпилсский край"
+
+msgid "Jelgava_LV"
+msgstr "Éлгава"
+
+msgid "Jelgavas novads_LV"
+msgstr "Е́лгавский край"
+
+msgid "Jurmala_LV"
+msgstr "Ю́рмала"
+
+msgid "Kekavas novads_LV"
+msgstr "Ке́кавский край"
+
+msgid "Kokneses novads_LV"
+msgstr "Ко́кнесский край"
+
+msgid "Kraslavas novads_LV"
+msgstr "Кра́славский край"
+
+msgid "Kuldigas novads_LV"
+msgstr "Ку́лдигский край"
+
+msgid "Lielvardes novads_LV"
+msgstr "Лие́лвардский край"
+
+msgid "Liepaja_LV"
+msgstr "Ли́епая"
+
+msgid "Limbazu novads_LV"
+msgstr "Ли́мбажский край"
+
+msgid "Livanu novads_LV"
+msgstr "Ли́ванский край"
+
+msgid "Lubanas novads_LV"
+msgstr "Лу́банский край"
+
+msgid "Ludzas novads_LV"
+msgstr "Лу́дзенский край"
+
+msgid "Madonas novads_LV"
+msgstr "Ма́донский край"
+
+msgid "Malpils novads_LV"
+msgstr "Ма́лпилсский край"
+
+msgid "Nauksenu novads_LV"
+msgstr "На́укшенский край"
+
+msgid "Ogres novads_LV"
+msgstr "О́грский край"
+
+msgid "Olaines novads_LV"
+msgstr "О́лайнский край"
+
+msgid "Ozolnieku novads_LV"
+msgstr "О́золниекский край"
+
+msgid "Preilu novads_LV"
+msgstr "Пре́йльский край"
+
+msgid "Rezeknes novads_LV"
+msgstr "Ре́зекненский край"
+
+msgid "Riebinu novads_LV"
+msgstr "Рие́бинский край"
+
+msgid "Riga_LV"
+msgstr "Ри́га"
+
+msgid "Rojas novads_LV"
+msgstr "Ро́йский край"
+
+msgid "Ropazu novads_LV"
+msgstr "Ро́пажский край"
+
+msgid "Rugaju novads_LV"
+msgstr "Ру́гайский край"
+
+msgid "Rundales novads_LV"
+msgstr "Ру́ндальский край"
+
+msgid "Salacgrivas novads_LV"
+msgstr "Са́лацгривский край"
+
+msgid "Salaspils novads_LV"
+msgstr "Са́ласпилсский край"
+
+msgid "Saldus novads_LV"
+msgstr "Са́лдусский край"
+
+msgid "Saulkrastu novads_LV"
+msgstr "Са́улкрастский край"
+
+msgid "Sejas novads_LV"
+msgstr "Се́йский край"
+
+msgid "Siguldas novads_LV"
+msgstr "Си́гулдский край"
+
+msgid "Skrundas novads_LV"
+msgstr "Скру́ндский край"
+
+msgid "Stopinu novads_LV"
+msgstr "Сто́пинский край"
+
+msgid "Strencu novads_LV"
+msgstr "Стре́нчский край"
+
+msgid "Talsu novads_LV"
+msgstr "Та́лсинский край"
+
+msgid "Tukuma novads_LV"
+msgstr "Ту́кумский край"
+
+msgid "Vainodes novads_LV"
+msgstr "Ва́йнёдский край"
+
+msgid "Valkas novads_LV"
+msgstr "Ва́лкский край"
+
+msgid "Valmiera_LV"
+msgstr "Ва́лмиера"
+
+msgid "Varkavas novads_LV"
+msgstr "Ва́ркавский край"
+
+msgid "Vecumnieku novads_LV"
+msgstr "Ве́цумниекский край"
+
+msgid "Ventspils novads_LV"
+msgstr "Ве́нтспилсский край"
+
+msgid "Al Butnan_LY"
+msgstr "Эль-Бутнан"
+
+msgid "Al Jabal al Akhdar_LY"
+msgstr "Эль-Джебель-эль-Ахдар"
+
+msgid "Al Jabal al Gharbi_LY"
+msgstr "Эль-Джебель-эль-Гарби"
+
+msgid "Al Jafarah_LY"
+msgstr "Эль-Джифара"
+
+msgid "Al Jufrah_LY"
+msgstr "Эль-Джуфра"
+
+msgid "Al Kufrah_LY"
+msgstr "Эль-Куфра"
+
+msgid "Al Marj_LY"
+msgstr "Эль-Мардж"
+
+msgid "Al Marqab_LY"
+msgstr "Эль-Маргаб"
+
+msgid "Al Wahat_LY"
+msgstr "Эль-Вахат"
+
+msgid "An Nuqat al Khams_LY"
+msgstr "Эн-Нугат-эль-Хумс"
+
+msgid "Az Zawiyah_LY"
+msgstr "Эз-Зави́я"
+
+msgid "Banghazi_LY"
+msgstr "Бенга́зи"
+
+msgid "Darnah_LY"
+msgstr "Дерна"
+
+msgid "Ghat_LY"
+msgstr "Гхат"
+
+msgid "Misratah_LY"
+msgstr "Мисра́та"
+
+msgid "Murzuq_LY"
+msgstr "Марзук"
+
+msgid "Nalut_LY"
+msgstr "Налут"
+
+msgid "Sabha_LY"
+msgstr "Сабха"
+
+msgid "Surt_LY"
+msgstr "Сурт"
+
+msgid "Tarabulus_LY"
+msgstr "Три́поли"
+
+msgid "Wadi al Hayat_LY"
+msgstr "Вади-эль-Хаят"
+
+msgid "Wadi ash Shati'_LY"
+msgstr "Вади аш Шати"
+
+msgid "Beni-Mellal-Khenifra_MA"
+msgstr "Бени-Меллаль — Хенифра"
+
+msgid "Casablanca-Settat_MA"
+msgstr "Касабланка — Сеттат"
+
+msgid "Draa-Tafilalet_MA"
+msgstr "Драа — Тафилалет"
+
+msgid "Fes- Meknes_MA"
+msgstr "Фес — Мекнес"
+
+msgid "Guelmim-Oued Noun (EH-partial)_MA"
+msgstr "Существительное Guelmim-Oued (EH-частичное)"
+
+msgid "L'Oriental_MA"
+msgstr "Восточная область"
+
+msgid "Laayoune-Sakia El Hamra (EH-partial)_MA"
+msgstr "Лааюн-Сакья Эль Хамра (EH-частичный)"
+
+msgid "Marrakech-Safi_MA"
+msgstr "Марракеш — Сафи"
+
+msgid "Rabat-Sale-Kenitra_MA"
+msgstr "Рабат — Сале — Кенитра"
+
+msgid "Souss-Massa_MA"
+msgstr "Сус — Масса"
+
+msgid "Tanger-Tetouan-Al Hoceima_MA"
+msgstr "Танжер — Тетуан — Эль-Хосейма"
+
+msgid "Fontvieille_MC"
+msgstr "Фонвьей"
+
+msgid "La Condamine_MC"
+msgstr "Ла-Кондами́н"
+
+msgid "Monaco-Ville_MC"
+msgstr "Мона́ко"
+
+msgid "Moneghetti_MC"
+msgstr "Монеге́тти"
+
+msgid "Monte-Carlo_MC"
+msgstr "Мо́нте-Ка́рло"
+
+msgid "Saint-Roman_MC"
+msgstr "Санкт-римской"
+
+msgid "Anenii Noi_MD"
+msgstr "Анений-Ной"
+
+msgid "Balti_MD"
+msgstr "Балти"
+
+msgid "Basarabeasca_MD"
+msgstr "Бессара́бка"
+
+msgid "Bender_MD"
+msgstr "Бендер"
+
+msgid "Briceni_MD"
+msgstr "Брича́ны"
+
+msgid "Cahul_MD"
+msgstr "Кагу́л"
+
+msgid "Calarasi_MD"
+msgstr "Кэлэра́ши"
+
+msgid "Cantemir_MD"
+msgstr "Кантеми́р"
+
+msgid "Causeni_MD"
+msgstr "Кауша́ны"
+
+msgid "Chisinau_MD"
+msgstr "Кишинёв"
+
+msgid "Cimislia_MD"
+msgstr "Чимишли́я"
+
+msgid "Criuleni_MD"
+msgstr "Криуля́ны"
+
+msgid "Donduseni_MD"
+msgstr "Дондюша́ны"
+
+msgid "Drochia_MD"
+msgstr "Дро́кия"
+
+msgid "Dubasari_MD"
+msgstr "Дубосса́ры"
+
+msgid "Edinet_MD"
+msgstr "Е́динцы"
+
+msgid "Falesti_MD"
+msgstr "Фале́шты"
+
+msgid "Floresti_MD"
+msgstr "Флоре́шты"
+
+msgid "Gagauzia, Unitatea teritoriala autonoma_MD"
+msgstr "Гагау́зия"
+
+msgid "Glodeni_MD"
+msgstr "Глодя́ны"
+
+msgid "Hincesti_MD"
+msgstr "Хынче́шты"
+
+msgid "Ialoveni_MD"
+msgstr "Ялове́ны"
+
+msgid "Leova_MD"
+msgstr "Лео́ва"
+
+msgid "Nisporeni_MD"
+msgstr "Ниспоре́ны"
+
+msgid "Ocnita_MD"
+msgstr "О́кница"
+
+msgid "Orhei_MD"
+msgstr "Орге́ев"
+
+msgid "Rezina_MD"
+msgstr "Рези́на"
+
+msgid "Riscani_MD"
+msgstr "Рышка́ны"
+
+msgid "Singerei_MD"
+msgstr "Сынжере́й"
+
+msgid "Soldanesti_MD"
+msgstr "Шолдане́шты"
+
+msgid "Soroca_MD"
+msgstr "Соро́ки"
+
+msgid "Stefan Voda_MD"
+msgstr "Штефан Водэ"
+
+msgid "Stinga Nistrului, unitatea teritoriala din_MD"
+msgstr "Административно-территориальные единицы левобережья Днестра"
+
+msgid "Straseni_MD"
+msgstr "Страше́ны"
+
+msgid "Taraclia_MD"
+msgstr "Таракли́я"
+
+msgid "Telenesti_MD"
+msgstr "Телене́шты"
+
+msgid "Ungheni_MD"
+msgstr "Унгены"
+
+msgid "Andrijevica_ME"
+msgstr "Андриевица"
+
+msgid "Bar_ME"
+msgstr "Бар"
+
+msgid "Berane_ME"
+msgstr "Беране"
+
+msgid "Bijelo Polje_ME"
+msgstr "Биело-Поле"
+
+msgid "Budva_ME"
+msgstr "Бу́два"
+
+msgid "Cetinje_ME"
+msgstr "Це́тине"
+
+msgid "Danilovgrad_ME"
+msgstr "Даниловград"
+
+msgid "Herceg-Novi_ME"
+msgstr "Хе́рцег-Но́ви"
+
+msgid "Kolasin_ME"
+msgstr "Колашин"
+
+msgid "Kotor_ME"
+msgstr "Ко́тор"
+
+msgid "Mojkovac_ME"
+msgstr "Мо́йковац"
+
+msgid "Niksic_ME"
+msgstr "Ни́кшич"
+
+msgid "Plav_ME"
+msgstr "Плав"
+
+msgid "Pljevlja_ME"
+msgstr "Пле́вля"
+
+msgid "Pluzine_ME"
+msgstr "Плу́жине"
+
+msgid "Podgorica_ME"
+msgstr "Подго́рица"
+
+msgid "Rozaje_ME"
+msgstr "Рожае"
+
+msgid "Savnik_ME"
+msgstr "Шавник"
+
+msgid "Tivat_ME"
+msgstr "Тиват"
+
+msgid "Ulcinj_ME"
+msgstr "У́лцинь"
+
+msgid "Zabljak_ME"
+msgstr "Жа́бляк"
+
+msgid "Saint Martin (French Part)_MF"
+msgstr "Сен-Марте́н"
+
+msgid "Antananarivo_MG"
+msgstr "Антананари́ву"
+
+msgid "Antsiranana_MG"
+msgstr "Анцира́нана"
+
+msgid "Fianarantsoa_MG"
+msgstr "Фианаранцу́а"
+
+msgid "Mahajanga_MG"
+msgstr "Махадзанга"
+
+msgid "Toamasina_MG"
+msgstr "Туама́сина"
+
+msgid "Toliara_MG"
+msgstr "Тулиа́ра"
+
+msgid "Ailinglaplap_MH"
+msgstr "Аилинглаплап"
+
+msgid "Ailuk_MH"
+msgstr "Аилук (Аэлёк)"
+
+msgid "Arno_MH"
+msgstr "А́рно"
+
+msgid "Aur_MH"
+msgstr "А́ур"
+
+msgid "Bikini & Kili_MH"
+msgstr "Кили"
+
+msgid "Ebon_MH"
+msgstr "Эбон"
+
+msgid "Enewetak & Ujelang_MH"
+msgstr "Эниветок"
+
+msgid "Jabat_MH"
+msgstr "Джабат"
+
+msgid "Jaluit_MH"
+msgstr "Джа́луит (Тялёэть)"
+
+msgid "Kwajalein_MH"
+msgstr "Ква́джалейн (Куазьлень)"
+
+msgid "Lae_MH"
+msgstr "Лаэ"
+
+msgid "Lib_MH"
+msgstr "Либ"
+
+msgid "Likiep_MH"
+msgstr "Ликиеп"
+
+msgid "Majuro_MH"
+msgstr "Ма́джуро"
+
+msgid "Maloelap_MH"
+msgstr "Малоэлап (Аракчеева)"
+
+msgid "Mejit_MH"
+msgstr "Меджит (Мязеть)"
+
+msgid "Mili_MH"
+msgstr "Милли"
+
+msgid "Namdrik_MH"
+msgstr "Намдрик (Наморик)"
+
+msgid "Namu_MH"
+msgstr "Наму"
+
+msgid "Rongelap_MH"
+msgstr "Ронгелап (Римского-Корсакова)"
+
+msgid "Ujae_MH"
+msgstr "Уджаэ (Узяэ)"
+
+msgid "Utrik_MH"
+msgstr "Утирик (Кутузова)"
+
+msgid "Wotho_MH"
+msgstr "Вото"
+
+msgid "Wotje_MH"
+msgstr "Вотье (Румянцева)"
+
+msgid "Aracinovo_MK"
+msgstr "Арачи́ново"
+
+msgid "Berovo_MK"
+msgstr "Бе́рово"
+
+msgid "Bitola_MK"
+msgstr "Би́тола"
+
+msgid "Bogdanci_MK"
+msgstr "Бо́гданци"
+
+msgid "Bogovinje_MK"
+msgstr "Бого́винье"
+
+msgid "Bosilovo_MK"
+msgstr "Босилово"
+
+msgid "Brvenica_MK"
+msgstr "Брвеница"
+
+msgid "Caska_MK"
+msgstr "Чашка"
+
+msgid "Centar Zupa_MK"
+msgstr "Centar Zupa"
+
+msgid "Cesinovo-Oblesevo_MK"
+msgstr "Чешиново-Облешево"
+
+msgid "Cucer Sandevo_MK"
+msgstr "Cucer Sandevo"
+
+msgid "Debar_MK"
+msgstr "Де́бар"
+
+msgid "Debarca_MK"
+msgstr "Дебарца"
+
+msgid "Delcevo_MK"
+msgstr "Де́лчево"
+
+msgid "Demir Hisar_MK"
+msgstr "Демир-Хисар"
+
+msgid "Demir Kapija_MK"
+msgstr "Деми́р-Ка́пия"
+
+msgid "Dojran_MK"
+msgstr "Dojran"
+
+msgid "Dolneni_MK"
+msgstr "До́лнени"
+
+msgid "Gevgelija_MK"
+msgstr "Гевге́лия"
+
+msgid "Gostivar_MK"
+msgstr "Го́стивар"
+
+msgid "Gradsko_MK"
+msgstr "Градско"
+
+msgid "Ilinden_MK"
+msgstr "Или́нден"
+
+msgid "Jegunovce_MK"
+msgstr "Егуновце"
+
+msgid "Karbinci_MK"
+msgstr "Ка́рбинци"
+
+msgid "Kavadarci_MK"
+msgstr "Кава́дарци"
+
+msgid "Kicevo_MK"
+msgstr "Ки́чево"
+
+msgid "Kocani_MK"
+msgstr "Ко́чани"
+
+msgid "Konce_MK"
+msgstr "Конче"
+
+msgid "Kratovo_MK"
+msgstr "Кратово"
+
+msgid "Kriva Palanka_MK"
+msgstr "Кри́ва-Па́ланка"
+
+msgid "Krivogastani_MK"
+msgstr "Кривога́штани"
+
+msgid "Krusevo_MK"
+msgstr "Кру́шево"
+
+msgid "Kumanovo_MK"
+msgstr "Ку́маново"
+
+msgid "Lipkovo_MK"
+msgstr "Ли́пково"
+
+msgid "Lozovo_MK"
+msgstr "Ло́зово"
+
+msgid "Makedonska Kamenica_MK"
+msgstr "Маке́донска-Каме́ница"
+
+msgid "Makedonski Brod_MK"
+msgstr "Маке́донски-Брод"
+
+msgid "Mavrovo i Rostusa_MK"
+msgstr "Маврово и Ростуса"
+
+msgid "Mogila_MK"
+msgstr "Могилы"
+
+msgid "Negotino_MK"
+msgstr "Него́тино"
+
+msgid "Novaci_MK"
+msgstr "Novaci"
+
+msgid "Novo Selo_MK"
+msgstr "Ново-Село"
+
+msgid "Ohrid_MK"
+msgstr "О́хрид"
+
+msgid "Pehcevo_MK"
+msgstr "Пе́хчево"
+
+msgid "Petrovec_MK"
+msgstr "Petrovec"
+
+msgid "Plasnica_MK"
+msgstr "Пласница"
+
+msgid "Prilep_MK"
+msgstr "При́леп"
+
+msgid "Probistip_MK"
+msgstr "Про́биштип"
+
+msgid "Radovis_MK"
+msgstr "Ра́довиш"
+
+msgid "Rankovce_MK"
+msgstr "Ранковце"
+
+msgid "Resen_MK"
+msgstr "Ресен"
+
+msgid "Rosoman_MK"
+msgstr "Ро́соман"
+
+msgid "Skopje_MK"
+msgstr "Ско́пье"
+
+msgid "Sopiste_MK"
+msgstr "Сопиште"
+
+msgid "Staro Nagoricane_MK"
+msgstr "Старо Нагорикане"
+
+msgid "Stip_MK"
+msgstr "Stip"
+
+msgid "Struga_MK"
+msgstr "Стру́га"
+
+msgid "Strumica_MK"
+msgstr "Стру́мица"
+
+msgid "Studenicani_MK"
+msgstr "Студеничани"
+
+msgid "Sveti Nikole_MK"
+msgstr "Све́ти-Ни́коле"
+
+msgid "Tearce_MK"
+msgstr "Теарце"
+
+msgid "Tetovo_MK"
+msgstr "Те́тово"
+
+msgid "Valandovo_MK"
+msgstr "Вала́ндово"
+
+msgid "Vasilevo_MK"
+msgstr "Василёво"
+
+msgid "Veles_MK"
+msgstr "Велес"
+
+msgid "Vevcani_MK"
+msgstr "Вевчани"
+
+msgid "Vinica_MK"
+msgstr "Виница"
+
+msgid "Vrapciste_MK"
+msgstr "Вра́пчиште"
+
+msgid "Zelenikovo_MK"
+msgstr "Зелениково"
+
+msgid "Zelino_MK"
+msgstr "Же́лино"
+
+msgid "Zrnovci_MK"
+msgstr "Зрновци"
+
+msgid "Bamako_ML"
+msgstr "Бамако́"
+
+msgid "Gao_ML"
+msgstr "Га́о"
+
+msgid "Kayes_ML"
+msgstr "Кае́с"
+
+msgid "Kidal_ML"
+msgstr "Кидаль"
+
+msgid "Koulikoro_ML"
+msgstr "Кулико́ро"
+
+msgid "Mopti_ML"
+msgstr "Мопти"
+
+msgid "Segou_ML"
+msgstr "Сегу́"
+
+msgid "Sikasso_ML"
+msgstr "Сика́со"
+
+msgid "Tombouctou_ML"
+msgstr "Томбу́кту"
+
+msgid "Ayeyarwady_MM"
+msgstr "Ирава́ди"
+
+msgid "Bago_MM"
+msgstr "Округ Пегу"
+
+msgid "Chin_MM"
+msgstr "Штат Чин"
+
+msgid "Kachin_MM"
+msgstr "Качи́н"
+
+msgid "Kayah_MM"
+msgstr "Кая́"
+
+msgid "Kayin_MM"
+msgstr "Каре́н"
+
+msgid "Magway_MM"
+msgstr "Магуэ"
+
+msgid "Mandalay_MM"
+msgstr "Мандала́й"
+
+msgid "Mon_MM"
+msgstr "Мон"
+
+msgid "Nay Pyi Taw_MM"
+msgstr "Нейпьидо́"
+
+msgid "Rakhine_MM"
+msgstr "Ракха́йн"
+
+msgid "Sagaing_MM"
+msgstr "Сикайн"
+
+msgid "Shan_MM"
+msgstr "Шан"
+
+msgid "Tanintharyi_MM"
+msgstr "Танинтайи"
+
+msgid "Yangon_MM"
+msgstr "Янгон"
+
+msgid "Arhangay_MN"
+msgstr "Архангай"
+
+msgid "Bayan-Olgiy_MN"
+msgstr "Баян-Улгий"
+
+msgid "Bayanhongor_MN"
+msgstr "Ба́янхо́нгор"
+
+msgid "Bulgan_MN"
+msgstr "Булган"
+
+msgid "Darhan uul_MN"
+msgstr "Да́рхан-Уул"
+
+msgid "Dornod_MN"
+msgstr "Дорнод"
+
+msgid "Dornogovi_MN"
+msgstr "Дорноговь"
+
+msgid "Dundgovi_MN"
+msgstr "Дундговь"
+
+msgid "Dzavhan_MN"
+msgstr "За́вхан"
+
+msgid "Govi-Altay_MN"
+msgstr "Говь-Алта́й"
+
+msgid "Govi-Sumber_MN"
+msgstr "Говь-Сумбэр"
+
+msgid "Hentiy_MN"
+msgstr "Хэнтий"
+
+msgid "Hovd_MN"
+msgstr "Ховд"
+
+msgid "Hovsgol_MN"
+msgstr "Ху́всгел"
+
+msgid "Omnogovi_MN"
+msgstr "Умнеговь"
+
+msgid "Orhon_MN"
+msgstr "Орхо́н"
+
+msgid "Ovorhangay_MN"
+msgstr "Уверхангай"
+
+msgid "Selenge_MN"
+msgstr "Сэлэнгэ"
+
+msgid "Suhbaatar_MN"
+msgstr "Сухэ-Батор"
+
+msgid "Tov_MN"
+msgstr "Тов"
+
+msgid "Ulaanbaatar_MN"
+msgstr "Ула́н-Ба́тор"
+
+msgid "Uvs_MN"
+msgstr "Увс"
+
+msgid "Macao_MO"
+msgstr "Мака́о"
+
+msgid "Northern Mariana Islands_MP"
+msgstr "Се́верные Мариа́нские Острова́"
+
+msgid "Martinique_MQ"
+msgstr "Мартини́ка"
+
+msgid "Adrar_MR"
+msgstr "Адрар"
+
+msgid "Assaba_MR"
+msgstr "Асаба"
+
+msgid "Brakna_MR"
+msgstr "Бракна"
+
+msgid "Dakhlet Nouadhibou_MR"
+msgstr "Дахлет-Нуадибу"
+
+msgid "Gorgol_MR"
+msgstr "Горголь"
+
+msgid "Guidimaka_MR"
+msgstr "Кудимага"
+
+msgid "Hodh ech Chargui_MR"
+msgstr "Ход-эш-Шарки"
+
+msgid "Hodh el Gharbi_MR"
+msgstr "Ход-эль-Гарби"
+
+msgid "Inchiri_MR"
+msgstr "Иншири"
+
+msgid "Nouakchott Nord_MR"
+msgstr "Нуакшот-Нор"
+
+msgid "Tagant_MR"
+msgstr "Тагант"
+
+msgid "Tiris Zemmour_MR"
+msgstr "Тирис-Земмур"
+
+msgid "Trarza_MR"
+msgstr "Трарза"
+
+msgid "Saint Anthony_MS"
+msgstr "Монтсеррат"
+
+msgid "Saint Peter_MS"
+msgstr "Святой петр"
+
+msgid "Attard_MT"
+msgstr "Аттард"
+
+msgid "Balzan_MT"
+msgstr "Бальцан"
+
+msgid "Birgu_MT"
+msgstr "Биргу"
+
+msgid "Birkirkara_MT"
+msgstr "Биркиркара"
+
+msgid "Birzebbuga_MT"
+msgstr "Бирзеббуджа"
+
+msgid "Bormla_MT"
+msgstr "Бормла"
+
+msgid "Dingli_MT"
+msgstr "Динли"
+
+msgid "Fgura_MT"
+msgstr "Фгура"
+
+msgid "Floriana_MT"
+msgstr "Флориана"
+
+msgid "Fontana_MT"
+msgstr "Фонтана"
+
+msgid "Ghajnsielem_MT"
+msgstr "Айнсилем"
+
+msgid "Gharb_MT"
+msgstr "Gharb"
+
+msgid "Gharghur_MT"
+msgstr "Гаргур"
+
+msgid "Ghasri_MT"
+msgstr "Асри"
+
+msgid "Ghaxaq_MT"
+msgstr "Ашак"
+
+msgid "Gudja_MT"
+msgstr "Гудья"
+
+msgid "Gzira_MT"
+msgstr "Гзира"
+
+msgid "Hamrun_MT"
+msgstr "Хамрун"
+
+msgid "Iklin_MT"
+msgstr "Иклин"
+
+msgid "Isla_MT"
+msgstr "И́сла"
+
+msgid "Kalkara_MT"
+msgstr "Калкара"
+
+msgid "Kercem_MT"
+msgstr "Керчем"
+
+msgid "Kirkop_MT"
+msgstr "Киркоп"
+
+msgid "Lija_MT"
+msgstr "Lija"
+
+msgid "Luqa_MT"
+msgstr "Лука"
+
+msgid "Marsa_MT"
+msgstr "Марса"
+
+msgid "Marsaskala_MT"
+msgstr "Marsaskala"
+
+msgid "Marsaxlokk_MT"
+msgstr "Марсашлок"
+
+msgid "Mdina_MT"
+msgstr "Мдина"
+
+msgid "Mellieha_MT"
+msgstr "Меллиха"
+
+msgid "Mgarr_MT"
+msgstr "Мджарр"
+
+msgid "Mosta_MT"
+msgstr "Моста"
+
+msgid "Mqabba_MT"
+msgstr "М'абба"
+
+msgid "Msida_MT"
+msgstr "Мсида"
+
+msgid "Mtarfa_MT"
+msgstr "Мтарфа"
+
+msgid "Munxar_MT"
+msgstr "Муншар"
+
+msgid "Nadur_MT"
+msgstr "Nadur"
+
+msgid "Naxxar_MT"
+msgstr "Naxxar"
+
+msgid "Paola_MT"
+msgstr "Паола"
+
+msgid "Pembroke_MT"
+msgstr "Пе́мбрук"
+
+msgid "Pieta_MT"
+msgstr "Пьета"
+
+msgid "Qala_MT"
+msgstr "Калы"
+
+msgid "Qormi_MT"
+msgstr "Корми"
+
+msgid "Qrendi_MT"
+msgstr "Ренди"
+
+msgid "Rabat Gozo_MT"
+msgstr "Виктория"
+
+msgid "Rabat Malta_MT"
+msgstr "Рабат"
+
+msgid "Safi_MT"
+msgstr "Сафи"
+
+msgid "Saint John_MT"
+msgstr "Сент-Джон"
+
+msgid "Saint Julian's_MT"
+msgstr "Сент-Джу́лианс"
+
+msgid "Saint Lucia's_MT"
+msgstr "Сент-Люсия"
+
+msgid "Saint Paul's Bay_MT"
+msgstr "Сан-Пауль-иль-Бахар"
+
+msgid "Sannat_MT"
+msgstr "Sannat"
+
+msgid "Santa Venera_MT"
+msgstr "Санта-Венера"
+
+msgid "Siggiewi_MT"
+msgstr "Siggiewi"
+
+msgid "Sliema_MT"
+msgstr "Слима"
+
+msgid "Swieqi_MT"
+msgstr "Свийи"
+
+msgid "Ta' Xbiex_MT"
+msgstr "Та-Шбиш"
+
+msgid "Tarxien_MT"
+msgstr "Таршин"
+
+msgid "Valletta_MT"
+msgstr "Валле́тта"
+
+msgid "Xaghra_MT"
+msgstr "Шаара"
+
+msgid "Xewkija_MT"
+msgstr "Xewkija"
+
+msgid "Xghajra_MT"
+msgstr "Шайра"
+
+msgid "Zabbar_MT"
+msgstr "Заббар"
+
+msgid "Zebbug Gozo_MT"
+msgstr "Зеббуг Гозо"
+
+msgid "Zejtun_MT"
+msgstr "Зейтун"
+
+msgid "Zurrieq_MT"
+msgstr "Зуррик"
+
+msgid "Agalega Islands_MU"
+msgstr "Агале́га"
+
+msgid "Black River_MU"
+msgstr "Блэк-Ривер"
+
+msgid "Flacq_MU"
+msgstr "Флак"
+
+msgid "Grand Port_MU"
+msgstr "Гран-Порт"
+
+msgid "Moka_MU"
+msgstr "Мока"
+
+msgid "Pamplemousses_MU"
+msgstr "Памплемус"
+
+msgid "Plaines Wilhems_MU"
+msgstr "Плен-Вилем"
+
+msgid "Port Louis_MU"
+msgstr "Порт-Луи́"
+
+msgid "Riviere du Rempart_MU"
+msgstr "Ривьер-дю-Рампар"
+
+msgid "Rodrigues Islands_MU"
+msgstr "Остров Родригес"
+
+msgid "Savanne_MU"
+msgstr "Сава́н"
+
+msgid "Alifu Alifu_MV"
+msgstr "Атолл Алиф-Алиф"
+
+msgid "Baa_MV"
+msgstr "Атолл Баа"
+
+msgid "Dhaalu_MV"
+msgstr "Атолл Дхаалу"
+
+msgid "Gaafu Dhaalu_MV"
+msgstr "Атолл Гаафу-Дхаалу"
+
+msgid "Gnaviyani_MV"
+msgstr "Атолл Гнавийяни"
+
+msgid "Haa Alifu_MV"
+msgstr "Атолл Хаа-Алиф"
+
+msgid "Haa Dhaalu_MV"
+msgstr "Атолл Хаа-Дхаалу"
+
+msgid "Kaafu_MV"
+msgstr "Атолл Каафу"
+
+msgid "Laamu_MV"
+msgstr "Атолл Лааму"
+
+msgid "Maale_MV"
+msgstr "Ма́ле"
+
+msgid "Meemu_MV"
+msgstr "Атолл Меему"
+
+msgid "Noonu_MV"
+msgstr "Атолл Нууну"
+
+msgid "Raa_MV"
+msgstr "Атолл Раа"
+
+msgid "Seenu_MV"
+msgstr "Сиину"
+
+msgid "Shaviyani_MV"
+msgstr "Атолл Шавийани"
+
+msgid "Thaa_MV"
+msgstr "Thaa"
+
+msgid "Vaavu_MV"
+msgstr "Атолл Вааву"
+
+msgid "Balaka_MW"
+msgstr "Балака"
+
+msgid "Blantyre_MW"
+msgstr "Бланта́йр"
+
+msgid "Chikwawa_MW"
+msgstr "Чиквава"
+
+msgid "Chiradzulu_MW"
+msgstr "Чирадзулу"
+
+msgid "Chitipa_MW"
+msgstr "Читипа"
+
+msgid "Dedza_MW"
+msgstr "Дедза"
+
+msgid "Dowa_MW"
+msgstr "Дова"
+
+msgid "Karonga_MW"
+msgstr "Каронга"
+
+msgid "Kasungu_MW"
+msgstr "Касу́нгу"
+
+msgid "Likoma_MW"
+msgstr "Ликома"
+
+msgid "Lilongwe_MW"
+msgstr "Лило́нгве"
+
+msgid "Machinga_MW"
+msgstr "Мачинга"
+
+msgid "Mangochi_MW"
+msgstr "Мангоче"
+
+msgid "Mchinji_MW"
+msgstr "Мчинджи"
+
+msgid "Mulanje_MW"
+msgstr "Муландже"
+
+msgid "Mwanza_MW"
+msgstr "Мванза"
+
+msgid "Mzimba_MW"
+msgstr "Мзимба"
+
+msgid "Neno_MW"
+msgstr "Neno"
+
+msgid "Nkhata Bay_MW"
+msgstr "Нката-Бей"
+
+msgid "Nkhotakota_MW"
+msgstr "Нкота-Кота"
+
+msgid "Nsanje_MW"
+msgstr "Нсандже"
+
+msgid "Ntcheu_MW"
+msgstr "Нчеу"
+
+msgid "Ntchisi_MW"
+msgstr "Нчиси"
+
+msgid "Phalombe_MW"
+msgstr "Фаломбе"
+
+msgid "Rumphi_MW"
+msgstr "Румпи"
+
+msgid "Salima_MW"
+msgstr "Салима"
+
+msgid "Thyolo_MW"
+msgstr "Тайоло"
+
+msgid "Zomba_MW"
+msgstr "Zomba"
+
+msgid "Aguascalientes_MX"
+msgstr "Агуаскалье́нтес"
+
+msgid "Baja California_MX"
+msgstr "Ни́жняя Калифо́рния"
+
+msgid "Baja California Sur_MX"
+msgstr "Южная Нижняя Калифорния"
+
+msgid "Campeche_MX"
+msgstr "Кампе́че"
+
+msgid "Chiapas_MX"
+msgstr "Чьяпас"
+
+msgid "Chihuahua_MX"
+msgstr "Чиуауа"
+
+msgid "Ciudad de Mexico_MX"
+msgstr "Ме́хико"
+
+msgid "Coahuila de Zaragoza_MX"
+msgstr "Коауила"
+
+msgid "Colima_MX"
+msgstr "Коли́ма"
+
+msgid "Durango_MX"
+msgstr "Дура́нго"
+
+msgid "Guanajuato_MX"
+msgstr "Гуанахуа́то"
+
+msgid "Guerrero_MX"
+msgstr "Герре́ро"
+
+msgid "Hidalgo_MX"
+msgstr "Ида́льго"
+
+msgid "Jalisco_MX"
+msgstr "Хали́ско"
+
+msgid "Mexico_MX"
+msgstr "Ме́ксика"
+
+msgid "Michoacan de Ocampo_MX"
+msgstr "Мичоака́н"
+
+msgid "Morelos_MX"
+msgstr "Морелос"
+
+msgid "Nayarit_MX"
+msgstr "Наяри́т"
+
+msgid "Nuevo Leon_MX"
+msgstr "Нуэво-Леон"
+
+msgid "Oaxaca_MX"
+msgstr "Оаха́ка"
+
+msgid "Puebla_MX"
+msgstr "Пуэ́бла"
+
+msgid "Queretaro_MX"
+msgstr "Кере́таро"
+
+msgid "Quintana Roo_MX"
+msgstr "Кинта́на-Ро́о"
+
+msgid "San Luis Potosi_MX"
+msgstr "Сан-Луи́с-Потоси́"
+
+msgid "Sinaloa_MX"
+msgstr "Синало́а"
+
+msgid "Sonora_MX"
+msgstr "Соно́ра"
+
+msgid "Tabasco_MX"
+msgstr "Таба́ско"
+
+msgid "Tamaulipas_MX"
+msgstr "Тамаули́пас"
+
+msgid "Tlaxcala_MX"
+msgstr "Тласка́ла (Тлакска́ла)"
+
+msgid "Veracruz de Ignacio de la Llave_MX"
+msgstr "Веракру́с"
+
+msgid "Yucatan_MX"
+msgstr "Юкатан"
+
+msgid "Zacatecas_MX"
+msgstr "Сакатéкас"
+
+msgid "Johor_MY"
+msgstr "Джохо́р"
+
+msgid "Kedah_MY"
+msgstr "Кеда́х"
+
+msgid "Kelantan_MY"
+msgstr "Кела́нтан"
+
+msgid "Melaka_MY"
+msgstr "Мала́кка"
+
+msgid "Negeri Sembilan_MY"
+msgstr "Негери́-Семби́лан"
+
+msgid "Pahang_MY"
+msgstr "Паханг"
+
+msgid "Perak_MY"
+msgstr "Перак"
+
+msgid "Perlis_MY"
+msgstr "Перлис"
+
+msgid "Pulau Pinang_MY"
+msgstr "Пинанг"
+
+msgid "Sabah_MY"
+msgstr "Сабах"
+
+msgid "Sarawak_MY"
+msgstr "Саравáк"
+
+msgid "Selangor_MY"
+msgstr "Селангор"
+
+msgid "Terengganu_MY"
+msgstr "Тренга́ну"
+
+msgid "Wilayah Persekutuan Kuala Lumpur_MY"
+msgstr "Куа́ла-Лу́мпур"
+
+msgid "Wilayah Persekutuan Labuan_MY"
+msgstr "Лабуа́н"
+
+msgid "Wilayah Persekutuan Putrajaya_MY"
+msgstr "Путраджая"
+
+msgid "Cabo Delgado_MZ"
+msgstr "Кабу-Делгаду"
+
+msgid "Gaza_MZ"
+msgstr "Газа"
+
+msgid "Inhambane_MZ"
+msgstr "Иньямба́не"
+
+msgid "Manica_MZ"
+msgstr "Маника"
+
+msgid "Maputo_MZ"
+msgstr "Мапу́ту"
+
+msgid "Nampula_MZ"
+msgstr "Нампу́ла"
+
+msgid "Niassa_MZ"
+msgstr "Нья́са"
+
+msgid "Sofala_MZ"
+msgstr "Софала"
+
+msgid "Tete_MZ"
+msgstr "Те́те"
+
+msgid "Zambezia_MZ"
+msgstr "Замбе́зия"
+
+msgid "Erongo_NA"
+msgstr "Эронго"
+
+msgid "Hardap_NA"
+msgstr "Хардап"
+
+msgid "Karas_NA"
+msgstr "Карас"
+
+msgid "Kavango East_NA"
+msgstr "Восто́чное Кава́нго"
+
+msgid "Khomas_NA"
+msgstr "Кхомас"
+
+msgid "Kunene_NA"
+msgstr "Кунене"
+
+msgid "Ohangwena_NA"
+msgstr "Охангвена"
+
+msgid "Omaheke_NA"
+msgstr "Омахеке"
+
+msgid "Omusati_NA"
+msgstr "Омусати"
+
+msgid "Oshana_NA"
+msgstr "Ошана"
+
+msgid "Oshikoto_NA"
+msgstr "Ошикото"
+
+msgid "Otjozondjupa_NA"
+msgstr "Очозондьюпа"
+
+msgid "Zambezi_NA"
+msgstr "Замбе́зи"
+
+msgid "Province des iles Loyaute_NC"
+msgstr "Луайоте́"
+
+msgid "Province Nord_NC"
+msgstr "провинция Nord"
+
+msgid "Province Sud_NC"
+msgstr "провинция юг"
+
+msgid "Agadez_NE"
+msgstr "Агаде́с"
+
+msgid "Diffa_NE"
+msgstr "Диффа"
+
+msgid "Dosso_NE"
+msgstr "Досо"
+
+msgid "Maradi_NE"
+msgstr "Маради"
+
+msgid "Niamey_NE"
+msgstr "Ниаме́й"
+
+msgid "Tahoua_NE"
+msgstr "Тахуа"
+
+msgid "Tillaberi_NE"
+msgstr "Тиллабери"
+
+msgid "Zinder_NE"
+msgstr "Зиндер"
+
+msgid "Norfolk Island_NF"
+msgstr "О́стров Но́рфолк"
+
+msgid "Abia_NG"
+msgstr "Абия"
+
+msgid "Abuja Federal Capital Territory_NG"
+msgstr "Федеральная столичная территория"
+
+msgid "Adamawa_NG"
+msgstr "Адамава"
+
+msgid "Akwa Ibom_NG"
+msgstr "Аква-Ибом"
+
+msgid "Anambra_NG"
+msgstr "Ана́мбра"
+
+msgid "Bauchi_NG"
+msgstr "Ба́учи"
+
+msgid "Bayelsa_NG"
+msgstr "Байельса"
+
+msgid "Benue_NG"
+msgstr "Бенуэ"
+
+msgid "Borno_NG"
+msgstr "Борно"
+
+msgid "Cross River_NG"
+msgstr "Кросс-Ривер"
+
+msgid "Delta_NG"
+msgstr "Де́льта"
+
+msgid "Ebonyi_NG"
+msgstr "Эбоньи"
+
+msgid "Edo_NG"
+msgstr "Э́до"
+
+msgid "Ekiti_NG"
+msgstr "Экити"
+
+msgid "Enugu_NG"
+msgstr "Эну́гу"
+
+msgid "Gombe_NG"
+msgstr "Гомбе"
+
+msgid "Imo_NG"
+msgstr "И́мо"
+
+msgid "Jigawa_NG"
+msgstr "Джигава"
+
+msgid "Kaduna_NG"
+msgstr "Каду́на"
+
+msgid "Kano_NG"
+msgstr "Ка́но"
+
+msgid "Katsina_NG"
+msgstr "Кацина"
+
+msgid "Kebbi_NG"
+msgstr "Кебби"
+
+msgid "Kogi_NG"
+msgstr "Коги"
+
+msgid "Kwara_NG"
+msgstr "Квара"
+
+msgid "Lagos_NG"
+msgstr "Ла́гос"
+
+msgid "Nasarawa_NG"
+msgstr "Насарава"
+
+msgid "Niger_NG"
+msgstr "Ни́гер"
+
+msgid "Ogun_NG"
+msgstr "Огун"
+
+msgid "Ondo_NG"
+msgstr "Ондо"
+
+msgid "Osun_NG"
+msgstr "Осун"
+
+msgid "Oyo_NG"
+msgstr "О́йо"
+
+msgid "Plateau_NG"
+msgstr "Плато"
+
+msgid "Rivers_NG"
+msgstr "Река́"
+
+msgid "Sokoto_NG"
+msgstr "Соко́то"
+
+msgid "Taraba_NG"
+msgstr "Тараба"
+
+msgid "Yobe_NG"
+msgstr "Йобе"
+
+msgid "Zamfara_NG"
+msgstr "Замфара"
+
+msgid "Boaco_NI"
+msgstr "Боако"
+
+msgid "Carazo_NI"
+msgstr "Карасо"
+
+msgid "Chinandega_NI"
+msgstr "Чинандега"
+
+msgid "Chontales_NI"
+msgstr "Чонта́лес"
+
+msgid "Costa Caribe Norte_NI"
+msgstr "Атла́нтико-Но́рте"
+
+msgid "Costa Caribe Sur_NI"
+msgstr "Атла́нтико-Сур"
+
+msgid "Esteli_NI"
+msgstr "Эстели"
+
+msgid "Granada_NI"
+msgstr "Грана́да"
+
+msgid "Jinotega_NI"
+msgstr "Хиноте́га"
+
+msgid "Leon_NI"
+msgstr "Лео́н"
+
+msgid "Madriz_NI"
+msgstr "Мадри́с"
+
+msgid "Managua_NI"
+msgstr "Мана́гуа"
+
+msgid "Masaya_NI"
+msgstr "Масая"
+
+msgid "Matagalpa_NI"
+msgstr "Матага́льпа"
+
+msgid "Nueva Segovia_NI"
+msgstr "Нуэ́ва-Сего́вия"
+
+msgid "Rio San Juan_NI"
+msgstr "Ри́о-Сан-Хуа́н"
+
+msgid "Rivas_NI"
+msgstr "Ривас"
+
+msgid "Drenthe_NL"
+msgstr "Дренте"
+
+msgid "Flevoland_NL"
+msgstr "Флеволанд"
+
+msgid "Fryslan_NL"
+msgstr "Фрисла́ндия"
+
+msgid "Gelderland_NL"
+msgstr "Ге́лдерланд"
+
+msgid "Groningen_NL"
+msgstr "Гро́нинген"
+
+msgid "Limburg_NL"
+msgstr "Ли́мбург"
+
+msgid "Noord-Brabant_NL"
+msgstr "Северный Брабант"
+
+msgid "Noord-Holland_NL"
+msgstr "Северная Голландия"
+
+msgid "Overijssel_NL"
+msgstr "Оверэ́йссел"
+
+msgid "Utrecht_NL"
+msgstr "У́трехт"
+
+msgid "Zeeland_NL"
+msgstr "Зела́ндия"
+
+msgid "Zuid-Holland_NL"
+msgstr "Южная Голландия"
+
+msgid "Akershus_NO"
+msgstr "А́керсхус"
+
+msgid "Aust-Agder_NO"
+msgstr "Э́уст-А́гдер"
+
+msgid "Buskerud_NO"
+msgstr "Бу́скеруд"
+
+msgid "Finnmark_NO"
+msgstr "Фи́ннмарк"
+
+msgid "Hedmark_NO"
+msgstr "Хе́дмарк"
+
+msgid "Hordaland_NO"
+msgstr "Хордаланн"
+
+msgid "More og Romsdal_NO"
+msgstr "Мё́ре-ог-Ро́мсдал"
+
+msgid "Nord-Trondelag_NO"
+msgstr "Нур-Трёнделаг"
+
+msgid "Nordland_NO"
+msgstr "Ну́рланн"
+
+msgid "Oppland_NO"
+msgstr "О́ппланн"
+
+msgid "Oslo_NO"
+msgstr "О́сло"
+
+msgid "Ostfold_NO"
+msgstr "Э́стфолл"
+
+msgid "Rogaland_NO"
+msgstr "Ру́галанн"
+
+msgid "Sogn og Fjordane_NO"
+msgstr "Согн-ог-Фью́ране"
+
+msgid "Sor-Trondelag_NO"
+msgstr "Сёр-Трёнделаг"
+
+msgid "Telemark_NO"
+msgstr "Те́лемарк"
+
+msgid "Troms_NO"
+msgstr "Тромс"
+
+msgid "Vest-Agder_NO"
+msgstr "Вест-А́гдер"
+
+msgid "Vestfold_NO"
+msgstr "Ве́стфолл"
+
+msgid "Bagmati_NP"
+msgstr "Багмати"
+
+msgid "Bheri_NP"
+msgstr "Бхери"
+
+msgid "Dhawalagiri_NP"
+msgstr "Дхаулагири"
+
+msgid "Gandaki_NP"
+msgstr "Гандаки Прадеш"
+
+msgid "Janakpur_NP"
+msgstr "Джанакпу́р"
+
+msgid "Karnali_NP"
+msgstr "Карнали Прадеш"
+
+msgid "Kosi_NP"
+msgstr "Коси"
+
+msgid "Lumbini_NP"
+msgstr "Лумбини"
+
+msgid "Mahakali_NP"
+msgstr "Махакали"
+
+msgid "Mechi_NP"
+msgstr "Мечи"
+
+msgid "Narayani_NP"
+msgstr "Нараяни"
+
+msgid "Rapti_NP"
+msgstr "Рапти"
+
+msgid "Sagarmatha_NP"
+msgstr "Сагарматха"
+
+msgid "Seti_NP"
+msgstr "Сети"
+
+msgid "Aiwo_NR"
+msgstr "Айво"
+
+msgid "Anabar_NR"
+msgstr "Анабар"
+
+msgid "Anetan_NR"
+msgstr "Анетан"
+
+msgid "Anibare_NR"
+msgstr "Ани́бар"
+
+msgid "Baitsi_NR"
+msgstr "Баити"
+
+msgid "Buada_NR"
+msgstr "Буада"
+
+msgid "Ewa_NR"
+msgstr "Ева"
+
+msgid "Ijuw_NR"
+msgstr "Июв"
+
+msgid "Uaboe_NR"
+msgstr "Уабо"
+
+msgid "Yaren_NR"
+msgstr "Ярен"
+
+msgid "Niue_NU"
+msgstr "Ниуэ"
+
+msgid "Auckland_NZ"
+msgstr "О́кленд"
+
+msgid "Bay of Plenty_NZ"
+msgstr "Бей-оф-Пленти"
+
+msgid "Canterbury_NZ"
+msgstr "Ке́нтербери"
+
+msgid "Chatham Islands Territory_NZ"
+msgstr "Ча́тем"
+
+msgid "Gisborne_NZ"
+msgstr "Гисборн"
+
+msgid "Hawke's Bay_NZ"
+msgstr "Хокс-Бей"
+
+msgid "Manawatu-Wanganui_NZ"
+msgstr "Манавату-Уангануи"
+
+msgid "Marlborough_NZ"
+msgstr "Ма́рлборо"
+
+msgid "Nelson_NZ"
+msgstr "Нельсон"
+
+msgid "Northland_NZ"
+msgstr "Нортленд"
+
+msgid "Otago_NZ"
+msgstr "Отаго"
+
+msgid "Southland_NZ"
+msgstr "Саутленд"
+
+msgid "Taranaki_NZ"
+msgstr "Таранаки"
+
+msgid "Tasman_NZ"
+msgstr "Тасман"
+
+msgid "Waikato_NZ"
+msgstr "Уаикато"
+
+msgid "Wellington_NZ"
+msgstr "Веллингто́н"
+
+msgid "West Coast_NZ"
+msgstr "Уэст-Кост"
+
+msgid "Ad Dakhiliyah_OM"
+msgstr "Эд-Дахили́я"
+
+msgid "Al Buraymi_OM"
+msgstr "Бура́йми"
+
+msgid "Al Wusta_OM"
+msgstr "Эль-Ву́ста"
+
+msgid "Az Zahirah_OM"
+msgstr "Эз-За́хира"
+
+msgid "Janub al Batinah_OM"
+msgstr "Джануб аль Батина"
+
+msgid "Janub ash Sharqiyah_OM"
+msgstr "Южная Эш-Шаркия"
+
+msgid "Masqat_OM"
+msgstr "Мáскат"
+
+msgid "Musandam_OM"
+msgstr "Муса́ндам"
+
+msgid "Shamal al Batinah_OM"
+msgstr "Шамаль аль Батина"
+
+msgid "Shamal ash Sharqiyah_OM"
+msgstr "Северная Эш-Шаркия"
+
+msgid "Zufar_OM"
+msgstr "Дофа́р"
+
+msgid "Bocas del Toro_PA"
+msgstr "Бокас-дель-Торо"
+
+msgid "Chiriqui_PA"
+msgstr "Чирики"
+
+msgid "Cocle_PA"
+msgstr "Кокле́"
+
+msgid "Colon_PA"
+msgstr "Колóн"
+
+msgid "Darien_PA"
+msgstr "Дарьен"
+
+msgid "Embera_PA"
+msgstr "эмбера"
+
+msgid "Guna Yala_PA"
+msgstr "Гуна-Яла"
+
+msgid "Herrera_PA"
+msgstr "Эрре́ра"
+
+msgid "Los Santos_PA"
+msgstr "Лос-Сантос, Лос Сантос"
+
+msgid "Ngobe-Bugle_PA"
+msgstr "Нгобе-Бугле"
+
+msgid "Panama_PA"
+msgstr "Пана́ма"
+
+msgid "Veraguas_PA"
+msgstr "Верагуас"
+
+msgid "Amazonas_PE"
+msgstr "Амазо́нас"
+
+msgid "Ancash_PE"
+msgstr "А́нкаш"
+
+msgid "Apurimac_PE"
+msgstr "Апуримак"
+
+msgid "Arequipa_PE"
+msgstr "Ареки́па"
+
+msgid "Ayacucho_PE"
+msgstr "Аяку́чо"
+
+msgid "Cajamarca_PE"
+msgstr "Кахама́рка"
+
+msgid "Cusco_PE"
+msgstr "Ку́ско"
+
+msgid "El Callao_PE"
+msgstr "Калья́о"
+
+msgid "Huancavelica_PE"
+msgstr "Уанкавелика"
+
+msgid "Huanuco_PE"
+msgstr "Уа́нуко"
+
+msgid "Ica_PE"
+msgstr "Ика"
+
+msgid "Junin_PE"
+msgstr "Хунин"
+
+msgid "La Libertad_PE"
+msgstr "Ла-Либертад"
+
+msgid "Lambayeque_PE"
+msgstr "Ламбае́ке"
+
+msgid "Lima_PE"
+msgstr "Ли́ма"
+
+msgid "Loreto_PE"
+msgstr "Лоре́то"
+
+msgid "Madre de Dios_PE"
+msgstr "Ма́дре-де-Дьос"
+
+msgid "Moquegua_PE"
+msgstr "Мокегуа"
+
+msgid "Pasco_PE"
+msgstr "Паско"
+
+msgid "Piura_PE"
+msgstr "Пью́ра"
+
+msgid "Puno_PE"
+msgstr "Пу́но"
+
+msgid "San Martin_PE"
+msgstr "Сан-Марти́н"
+
+msgid "Tacna_PE"
+msgstr "Та́кна"
+
+msgid "Tumbes_PE"
+msgstr "Тумбес"
+
+msgid "Ucayali_PE"
+msgstr "Укая́ли"
+
+msgid "Iles Australes_PF"
+msgstr "Тубуа́и"
+
+msgid "Iles du Vent_PF"
+msgstr "Наве́тренные острова́"
+
+msgid "Iles Marquises_PF"
+msgstr "Марки́зские острова́"
+
+msgid "Iles Sous-le-Vent_PF"
+msgstr "Подве́тренные острова́"
+
+msgid "Iles Tuamotu-Gambier_PF"
+msgstr "Туамоту-Гамбье"
+
+msgid "Bougainville_PG"
+msgstr "Республика Мекамуи (Автономный регион Бугенви́ль)"
+
+msgid "Central_PG"
+msgstr "Центральная провинция"
+
+msgid "Chimbu_PG"
+msgstr "Чимбу"
+
+msgid "East New Britain_PG"
+msgstr "Восточная Новая Британия"
+
+msgid "East Sepik_PG"
+msgstr "Ист-Сепик"
+
+msgid "Eastern Highlands_PG"
+msgstr "Восточное нагорье"
+
+msgid "Enga_PG"
+msgstr "Энга"
+
+msgid "Gulf_PG"
+msgstr "Галф"
+
+msgid "Madang_PG"
+msgstr "Маданг"
+
+msgid "Manus_PG"
+msgstr "Манус"
+
+msgid "Milne Bay_PG"
+msgstr "Милн-Бей"
+
+msgid "Morobe_PG"
+msgstr "Моробе"
+
+msgid "National Capital District (Port Moresby)_PG"
+msgstr "Национальный столичный округ"
+
+msgid "New Ireland_PG"
+msgstr "Новая Ирландия"
+
+msgid "Northern_PG"
+msgstr "Оро"
+
+msgid "Southern Highlands_PG"
+msgstr "Южное нагорье"
+
+msgid "West New Britain_PG"
+msgstr "Западная Новая Британия"
+
+msgid "West Sepik_PG"
+msgstr "Санда́ун"
+
+msgid "Western_PG"
+msgstr "Западная провинция"
+
+msgid "Western Highlands_PG"
+msgstr "Западное нагорье"
+
+msgid "Abra_PH"
+msgstr "Абра"
+
+msgid "Agusan del Norte_PH"
+msgstr "Северный Агусан"
+
+msgid "Agusan del Sur_PH"
+msgstr "Южный Агусан"
+
+msgid "Aklan_PH"
+msgstr "Аклан"
+
+msgid "Albay_PH"
+msgstr "Албай"
+
+msgid "Antique_PH"
+msgstr "Антике"
+
+msgid "Apayao_PH"
+msgstr "Апаяо"
+
+msgid "Aurora_PH"
+msgstr "Аурора"
+
+msgid "Basilan_PH"
+msgstr "Басилан"
+
+msgid "Bataan_PH"
+msgstr "Батаан"
+
+msgid "Batanes_PH"
+msgstr "Батанес"
+
+msgid "Batangas_PH"
+msgstr "Батангас"
+
+msgid "Benguet_PH"
+msgstr "Бенгет"
+
+msgid "Biliran_PH"
+msgstr "Билиран"
+
+msgid "Bohol_PH"
+msgstr "Бохоль"
+
+msgid "Bukidnon_PH"
+msgstr "Букиднон"
+
+msgid "Bulacan_PH"
+msgstr "Булакан"
+
+msgid "Cagayan_PH"
+msgstr "Кагаян"
+
+msgid "Camarines Norte_PH"
+msgstr "Северный Камаринес"
+
+msgid "Camarines Sur_PH"
+msgstr "Южный Камаринес"
+
+msgid "Camiguin_PH"
+msgstr "Камигин"
+
+msgid "Capiz_PH"
+msgstr "Капис"
+
+msgid "Catanduanes_PH"
+msgstr "Катандуанес"
+
+msgid "Cavite_PH"
+msgstr "Кави́те"
+
+msgid "Cebu_PH"
+msgstr "Себу"
+
+msgid "Compostela Valley_PH"
+msgstr "Долина Компостела"
+
+msgid "Cotabato_PH"
+msgstr "Котабато"
+
+msgid "Davao del Norte_PH"
+msgstr "Северный Давао"
+
+msgid "Davao del Sur_PH"
+msgstr "Южный Давао"
+
+msgid "Davao Oriental_PH"
+msgstr "Восточный Давао"
+
+msgid "Dinagat Islands_PH"
+msgstr "Острова Динагат"
+
+msgid "Eastern Samar_PH"
+msgstr "Восточный Самар"
+
+msgid "Guimaras_PH"
+msgstr "Гимарас"
+
+msgid "Ifugao_PH"
+msgstr "Ифугао"
+
+msgid "Ilocos Norte_PH"
+msgstr "Северный Илокос"
+
+msgid "Ilocos Sur_PH"
+msgstr "Южный Илокос"
+
+msgid "Iloilo_PH"
+msgstr "Илои́ло"
+
+msgid "Isabela_PH"
+msgstr "Исабела"
+
+msgid "Kalinga_PH"
+msgstr "Калинга"
+
+msgid "La Union_PH"
+msgstr "Ла-Унион"
+
+msgid "Laguna_PH"
+msgstr "Лагу́на"
+
+msgid "Lanao del Norte_PH"
+msgstr "Северный Ланао"
+
+msgid "Lanao del Sur_PH"
+msgstr "Южный Ланао"
+
+msgid "Leyte_PH"
+msgstr "Ле́йте"
+
+msgid "Maguindanao_PH"
+msgstr "Магинданао"
+
+msgid "Marinduque_PH"
+msgstr "Мариндуке"
+
+msgid "Masbate_PH"
+msgstr "Масба́те"
+
+msgid "Mindoro Occidental_PH"
+msgstr "Западный Миндоро"
+
+msgid "Mindoro Oriental_PH"
+msgstr "Восточный Миндоро"
+
+msgid "Misamis Occidental_PH"
+msgstr "Западный Мисамис"
+
+msgid "Misamis Oriental_PH"
+msgstr "Восточный Мисамис"
+
+msgid "Mountain Province_PH"
+msgstr "Горная провинция"
+
+msgid "National Capital Region_PH"
+msgstr "Столичная область"
+
+msgid "Negros Occidental_PH"
+msgstr "Западный Негрос"
+
+msgid "Negros Oriental_PH"
+msgstr "Восточный Негрос"
+
+msgid "Northern Samar_PH"
+msgstr "Северный Самар"
+
+msgid "Nueva Ecija_PH"
+msgstr "Нуэва-Эсиха"
+
+msgid "Nueva Vizcaya_PH"
+msgstr "Нуэва-Виская"
+
+msgid "Palawan_PH"
+msgstr "Палаван"
+
+msgid "Pampanga_PH"
+msgstr "Пампанга"
+
+msgid "Pangasinan_PH"
+msgstr "Пангасинан"
+
+msgid "Quezon_PH"
+msgstr "Кесон"
+
+msgid "Quirino_PH"
+msgstr "Кирино"
+
+msgid "Rizal_PH"
+msgstr "Рисаль"
+
+msgid "Romblon_PH"
+msgstr "Ромблон"
+
+msgid "Samar_PH"
+msgstr "Са́мар"
+
+msgid "Sarangani_PH"
+msgstr "Сарангани"
+
+msgid "Siquijor_PH"
+msgstr "Сикихор"
+
+msgid "Sorsogon_PH"
+msgstr "Сорсогон"
+
+msgid "South Cotabato_PH"
+msgstr "Южный Котабато"
+
+msgid "Southern Leyte_PH"
+msgstr "Южный Лейте"
+
+msgid "Sultan Kudarat_PH"
+msgstr "Султан-Кударат"
+
+msgid "Sulu_PH"
+msgstr "Сулу"
+
+msgid "Surigao del Norte_PH"
+msgstr "Северный Суригао"
+
+msgid "Surigao del Sur_PH"
+msgstr "Южный Суригао"
+
+msgid "Tarlac_PH"
+msgstr "Тарла́к"
+
+msgid "Tawi-Tawi_PH"
+msgstr "Тави-Тави"
+
+msgid "Zambales_PH"
+msgstr "Самбалес"
+
+msgid "Zamboanga del Norte_PH"
+msgstr "Северная Замбоанга"
+
+msgid "Zamboanga del Sur_PH"
+msgstr "Южная Замбоанга"
+
+msgid "Zamboanga Sibugay_PH"
+msgstr "Замбоанга-Сибугай"
+
+msgid "Azad Jammu and Kashmir_PK"
+msgstr "Аза́д Джа́мму и Кашми́р"
+
+msgid "Balochistan_PK"
+msgstr "Белуджиста́н"
+
+msgid "Federally Administered Tribal Areas_PK"
+msgstr "Террито́рия племён федера́льного управле́ния"
+
+msgid "Gilgit-Baltistan_PK"
+msgstr "Гилги́т-Балтиста́н"
+
+msgid "Islamabad_PK"
+msgstr "Исламаба́д"
+
+msgid "Khyber Pakhtunkhwa_PK"
+msgstr "Хайбе́р-Пахтунхва́"
+
+msgid "Punjab_PK"
+msgstr "Пенджаб"
+
+msgid "Sindh_PK"
+msgstr "Синд"
+
+msgid "Dolnoslaskie_PL"
+msgstr "Нижнесиле́зское воево́дство"
+
+msgid "Kujawsko-pomorskie_PL"
+msgstr "Куявско-Поморское воеводство"
+
+msgid "Lodzkie_PL"
+msgstr "Лодзинское воеводство"
+
+msgid "Lubelskie_PL"
+msgstr "Лю́блинское воево́дство"
+
+msgid "Lubuskie_PL"
+msgstr "Любуское воево́дство"
+
+msgid "Malopolskie_PL"
+msgstr "Малопо́льское воево́дство"
+
+msgid "Mazowieckie_PL"
+msgstr "Мазовецкое воеводство"
+
+msgid "Opolskie_PL"
+msgstr "Опольское воеводство"
+
+msgid "Podkarpackie_PL"
+msgstr "Подкарпа́тское воево́дство"
+
+msgid "Podlaskie_PL"
+msgstr "Подляское воеводство"
+
+msgid "Pomorskie_PL"
+msgstr "Поморское воеводство"
+
+msgid "Slaskie_PL"
+msgstr "Силезское воеводство"
+
+msgid "Swietokrzyskie_PL"
+msgstr "Свентокши́ское воеводство"
+
+msgid "Warminsko-mazurskie_PL"
+msgstr "Варминьско-Мазурское воеводство"
+
+msgid "Wielkopolskie_PL"
+msgstr "Великопольское воеводство"
+
+msgid "Zachodniopomorskie_PL"
+msgstr "Западно-Поморское воеводство"
+
+msgid "Saint Pierre and Miquelon_PM"
+msgstr "Сен-Пье́р и Микело́н"
+
+msgid "Pitcairn_PN"
+msgstr "Острова́ Пи́ткэрн"
+
+msgid "Adjuntas_PR"
+msgstr "Adjuntas"
+
+msgid "Aguada_PR"
+msgstr "Aguada"
+
+msgid "Aguadilla_PR"
+msgstr "Агуади́лья"
+
+msgid "Aguas Buenas_PR"
+msgstr "Агуас Буэнас"
+
+msgid "Aibonito_PR"
+msgstr "Aibonito"
+
+msgid "Anasco_PR"
+msgstr "Анаско"
+
+msgid "Arecibo_PR"
+msgstr "Аресибо"
+
+msgid "Arroyo_PR"
+msgstr "Арройо"
+
+msgid "Barceloneta_PR"
+msgstr "Barceloneta"
+
+msgid "Barranquitas_PR"
+msgstr "Barranquitas"
+
+msgid "Bayamon_PR"
+msgstr "Баямо́н"
+
+msgid "Cabo Rojo_PR"
+msgstr "Кабо Рохо"
+
+msgid "Caguas_PR"
+msgstr "Ка́гуас"
+
+msgid "Camuy_PR"
+msgstr "Камуи"
+
+msgid "Canovanas_PR"
+msgstr "Canovanas"
+
+msgid "Carolina_PR"
+msgstr "Каролина"
+
+msgid "Catano_PR"
+msgstr "Catano"
+
+msgid "Cayey_PR"
+msgstr "Кайей"
+
+msgid "Ceiba_PR"
+msgstr "Се́йба"
+
+msgid "Ciales_PR"
+msgstr "Ciales"
+
+msgid "Cidra_PR"
+msgstr "Cidra"
+
+msgid "Coamo_PR"
+msgstr "Коамо"
+
+msgid "Comerio_PR"
+msgstr "Комерио"
+
+msgid "Corozal_PR"
+msgstr "Коросаль"
+
+msgid "Culebra_PR"
+msgstr "Culebra"
+
+msgid "Dorado_PR"
+msgstr "корифена"
+
+msgid "Fajardo_PR"
+msgstr "Фахардо"
+
+msgid "Florida_PR"
+msgstr "Флорида"
+
+msgid "Guanica_PR"
+msgstr "Гуаника"
+
+msgid "Guayama_PR"
+msgstr "Гуаяма"
+
+msgid "Guayanilla_PR"
+msgstr "Guayanilla"
+
+msgid "Guaynabo_PR"
+msgstr "Guaynabo"
+
+msgid "Gurabo_PR"
+msgstr "Gurabo"
+
+msgid "Hatillo_PR"
+msgstr "Hatillo"
+
+msgid "Hormigueros_PR"
+msgstr "Hormigueros"
+
+msgid "Humacao_PR"
+msgstr "Умакао"
+
+msgid "Isabela_PR"
+msgstr "Исабела"
+
+msgid "Juana Diaz_PR"
+msgstr "Хуана Диас"
+
+msgid "Lajas_PR"
+msgstr "Lajas"
+
+msgid "Lares_PR"
+msgstr "Ла́ры"
+
+msgid "Las Marias_PR"
+msgstr "Лас Мариас"
+
+msgid "Las Piedras_PR"
+msgstr "Лас Пьедрас"
+
+msgid "Loiza_PR"
+msgstr "Loiza"
+
+msgid "Luquillo_PR"
+msgstr "Луки́льо"
+
+msgid "Manati_PR"
+msgstr "Manati"
+
+msgid "Maricao_PR"
+msgstr "Maricao"
+
+msgid "Maunabo_PR"
+msgstr "Maunabo"
+
+msgid "Mayaguez_PR"
+msgstr "Маягуэс"
+
+msgid "Moca_PR"
+msgstr "Мока"
+
+msgid "Morovis_PR"
+msgstr "Morovis"
+
+msgid "Municipio de Jayuya_PR"
+msgstr "Муниципалитет де Jayuya"
+
+msgid "Municipio de Juncos_PR"
+msgstr "Муниципалитет де Хункос"
+
+msgid "Naguabo_PR"
+msgstr "Naguabo"
+
+msgid "Naranjito_PR"
+msgstr "Naranjito"
+
+msgid "Patillas_PR"
+msgstr "Patillas"
+
+msgid "Penuelas_PR"
+msgstr "Peñuelas"
+
+msgid "Ponce_PR"
+msgstr "По́нсе"
+
+msgid "Quebradillas_PR"
+msgstr "Quebradillas"
+
+msgid "Rincon_PR"
+msgstr "Ринко́н"
+
+msgid "Rio Grande_PR"
+msgstr "Ри́о-Гра́нде"
+
+msgid "Sabana Grande_PR"
+msgstr "Сабана Гранде"
+
+msgid "Salinas_PR"
+msgstr "Сали́нас"
+
+msgid "San German_PR"
+msgstr "Сан-Герман"
+
+msgid "San Juan_PR"
+msgstr "Сан-Хуан"
+
+msgid "San Lorenzo_PR"
+msgstr "Сан-Лоренсо"
+
+msgid "San Sebastian_PR"
+msgstr "Донóстия-Сан-Себастья́н"
+
+msgid "Santa Isabel Municipio_PR"
+msgstr "Santa Isabel Municipio"
+
+msgid "Toa Alta_PR"
+msgstr "Тоа Альта"
+
+msgid "Toa Baja_PR"
+msgstr "Тоа Баха"
+
+msgid "Trujillo Alto_PR"
+msgstr "Трухильо Альто"
+
+msgid "Utuado_PR"
+msgstr "Utuado"
+
+msgid "Vega Alta_PR"
+msgstr "Вега Альта"
+
+msgid "Vega Baja_PR"
+msgstr "Вега Баха"
+
+msgid "Vieques_PR"
+msgstr "Вье́кес"
+
+msgid "Villalba_PR"
+msgstr "Вильяльба"
+
+msgid "Yabucoa_PR"
+msgstr "Ябукоа"
+
+msgid "Yauco_PR"
+msgstr "Yauco"
+
+msgid "Bethlehem_PS"
+msgstr "Вифлее́м"
+
+msgid "Gaza_PS"
+msgstr "Газа"
+
+msgid "Hebron_PS"
+msgstr "Хевро́н"
+
+msgid "Jenin_PS"
+msgstr "Джени́н"
+
+msgid "Jericho and Al Aghwar_PS"
+msgstr "Иерихо́н (провинция)"
+
+msgid "Jerusalem_PS"
+msgstr "Иерусали́м"
+
+msgid "Nablus_PS"
+msgstr "На́блус"
+
+msgid "Qalqilya_PS"
+msgstr "Калькилия"
+
+msgid "Ramallah_PS"
+msgstr "Рама́лла"
+
+msgid "Salfit_PS"
+msgstr "Сальфит"
+
+msgid "Tubas_PS"
+msgstr "Тубас"
+
+msgid "Tulkarm_PS"
+msgstr "Ту́лькарм"
+
+msgid "Aveiro_PT"
+msgstr "Авейру"
+
+msgid "Beja_PT"
+msgstr "Округ Бежа"
+
+msgid "Braga_PT"
+msgstr "Бра́га"
+
+msgid "Braganca_PT"
+msgstr "Браганса"
+
+msgid "Castelo Branco_PT"
+msgstr "О́круг Каште́лу-Бра́нку"
+
+msgid "Coimbra_PT"
+msgstr "Кои́мбра"
+
+msgid "Evora_PT"
+msgstr "Э́вора"
+
+msgid "Faro_PT"
+msgstr "Фаро"
+
+msgid "Guarda_PT"
+msgstr "Округ Гуарда"
+
+msgid "Leiria_PT"
+msgstr "Лейри́я"
+
+msgid "Lisboa_PT"
+msgstr "Лиссабо́н"
+
+msgid "Portalegre_PT"
+msgstr "Порталегри"
+
+msgid "Porto_PT"
+msgstr "По́рту"
+
+msgid "Regiao Autonoma da Madeira_PT"
+msgstr "Маде́йра"
+
+msgid "Regiao Autonoma dos Acores_PT"
+msgstr "Азо́рские острова́"
+
+msgid "Santarem_PT"
+msgstr "Сантарен"
+
+msgid "Setubal_PT"
+msgstr "Сету́бал"
+
+msgid "Viana do Castelo_PT"
+msgstr "Виа́на-ду-Каште́лу"
+
+msgid "Vila Real_PT"
+msgstr "Ви́ла-Реа́л"
+
+msgid "Viseu_PT"
+msgstr "Визе́у"
+
+msgid "Aimeliik_PW"
+msgstr "Аимелиик"
+
+msgid "Airai_PW"
+msgstr "Airai"
+
+msgid "Angaur_PW"
+msgstr "Ангаур"
+
+msgid "Hatohobei_PW"
+msgstr "Хатохобеи"
+
+msgid "Kayangel_PW"
+msgstr "Кайангел"
+
+msgid "Koror_PW"
+msgstr "Корор"
+
+msgid "Melekeok_PW"
+msgstr "Мелекеок"
+
+msgid "Ngaraard_PW"
+msgstr "Нгараард"
+
+msgid "Ngarchelong_PW"
+msgstr "Нгархелонг"
+
+msgid "Ngardmau_PW"
+msgstr "Нгардмау"
+
+msgid "Ngatpang_PW"
+msgstr "Нгатпанг"
+
+msgid "Ngchesar_PW"
+msgstr "Нгечесар"
+
+msgid "Ngeremlengui_PW"
+msgstr "Нгеремленгуи"
+
+msgid "Ngiwal_PW"
+msgstr "Нгивал"
+
+msgid "Peleliu_PW"
+msgstr "Peleliu"
+
+msgid "Sonsorol_PW"
+msgstr "Сонсорол"
+
+msgid "Alto Paraguay_PY"
+msgstr "А́льто-Парагва́й"
+
+msgid "Alto Parana_PY"
+msgstr "Альто-Парана"
+
+msgid "Amambay_PY"
+msgstr "Амамбай"
+
+msgid "Asuncion_PY"
+msgstr "Асунсьо́н"
+
+msgid "Boqueron_PY"
+msgstr "Бокерон"
+
+msgid "Caaguazu_PY"
+msgstr "Каагуасу"
+
+msgid "Caazapa_PY"
+msgstr "Каасапа"
+
+msgid "Canindeyu_PY"
+msgstr "Канендию"
+
+msgid "Central_PY"
+msgstr "Централь"
+
+msgid "Concepcion_PY"
+msgstr "Консепсьон"
+
+msgid "Cordillera_PY"
+msgstr "Кордильера"
+
+msgid "Guaira_PY"
+msgstr "Гуаира"
+
+msgid "Itapua_PY"
+msgstr "Итапуа"
+
+msgid "Misiones_PY"
+msgstr "Мисьонес"
+
+msgid "Neembucu_PY"
+msgstr "Ньеэмбуку"
+
+msgid "Paraguari_PY"
+msgstr "Парагуари"
+
+msgid "Presidente Hayes_PY"
+msgstr "Пресиденте-Аес"
+
+msgid "San Pedro_PY"
+msgstr "Сан-Пе́дро"
+
+msgid "Ad Dawhah_QA"
+msgstr "Доха"
+
+msgid "Al Khawr wa adh Dhakhirah_QA"
+msgstr "Муниципалитет Эль-Хаур"
+
+msgid "Al Wakrah_QA"
+msgstr "Эль-Ва́кра"
+
+msgid "Ar Rayyan_QA"
+msgstr "Эр-Райян"
+
+msgid "Ash Shamal_QA"
+msgstr "Эш-Шамаль"
+
+msgid "Az Za'ayin_QA"
+msgstr "Эд-Дайиан"
+
+msgid "Umm Salal_QA"
+msgstr "Умм-Салаль"
+
+msgid "Reunion_RE"
+msgstr "Реюньо́н"
+
+msgid "Alba_RO"
+msgstr "Жуде́ц А́лба"
+
+msgid "Arad_RO"
+msgstr "Арад"
+
+msgid "Arges_RO"
+msgstr "Арджеш"
+
+msgid "Bacau_RO"
+msgstr "Бакэ́у"
+
+msgid "Bihor_RO"
+msgstr "Жуде́ц Бихо́р"
+
+msgid "Bistrita-Nasaud_RO"
+msgstr "Жуде́ц Би́стрица-Нэсэу́д"
+
+msgid "Botosani_RO"
+msgstr "Ботоша́ни"
+
+msgid "Braila_RO"
+msgstr "Брэи́ла"
+
+msgid "Brasov_RO"
+msgstr "Брашо́в"
+
+msgid "Bucuresti_RO"
+msgstr "Бухаре́ст"
+
+msgid "Buzau_RO"
+msgstr "Бузэ́у"
+
+msgid "Calarasi_RO"
+msgstr "Кэлэра́ши"
+
+msgid "Caras-Severin_RO"
+msgstr "Жуде́ц Ка́раш-Севери́н"
+
+msgid "Cluj_RO"
+msgstr "Клуж-Напо́ка"
+
+msgid "Constanta_RO"
+msgstr "Конста́нца"
+
+msgid "Covasna_RO"
+msgstr "Ковасна"
+
+msgid "Dambovita_RO"
+msgstr "Жуде́ц Ды́мбовица"
+
+msgid "Dolj_RO"
+msgstr "Жуде́ц Долж"
+
+msgid "Galati_RO"
+msgstr "Гала́ц"
+
+msgid "Giurgiu_RO"
+msgstr "Джурджу"
+
+msgid "Gorj_RO"
+msgstr "Жуде́ц Горж"
+
+msgid "Harghita_RO"
+msgstr "Харги́та"
+
+msgid "Hunedoara_RO"
+msgstr "Хунедоа́ра"
+
+msgid "Ialomita_RO"
+msgstr "Яломица"
+
+msgid "Iasi_RO"
+msgstr "Я́ссы"
+
+msgid "Ilfov_RO"
+msgstr "Жуде́ц И́лфов"
+
+msgid "Maramures_RO"
+msgstr "Мараму́реш"
+
+msgid "Mehedinti_RO"
+msgstr "Жуде́ц Мехеди́нци"
+
+msgid "Mures_RO"
+msgstr "Жуде́ц Му́реш"
+
+msgid "Neamt_RO"
+msgstr "Жуде́ц Нямц"
+
+msgid "Olt_RO"
+msgstr "Олт"
+
+msgid "Prahova_RO"
+msgstr "Прахова"
+
+msgid "Salaj_RO"
+msgstr "Жуде́ц Сэла́ж"
+
+msgid "Satu Mare_RO"
+msgstr "Са́ту-Ма́ре"
+
+msgid "Sibiu_RO"
+msgstr "Сиби́у"
+
+msgid "Suceava_RO"
+msgstr "Суча́ва"
+
+msgid "Teleorman_RO"
+msgstr "Жуде́ц Телеорма́н"
+
+msgid "Timis_RO"
+msgstr "Тимиш"
+
+msgid "Tulcea_RO"
+msgstr "Ту́лча"
+
+msgid "Valcea_RO"
+msgstr "Жуде́ц Вы́лча"
+
+msgid "Vaslui_RO"
+msgstr "Васлуй"
+
+msgid "Vrancea_RO"
+msgstr "Жуде́ц Вра́нча"
+
+msgid "Beograd_RS"
+msgstr "Белгра́д"
+
+msgid "Borski okrug_RS"
+msgstr "Борский округ"
+
+msgid "Branicevski okrug_RS"
+msgstr "Браничевский округ"
+
+msgid "Jablanicki okrug_RS"
+msgstr "Ябланичский округ"
+
+msgid "Juznobacki okrug_RS"
+msgstr "Южно-Бачский округ"
+
+msgid "Juznobanatski okrug_RS"
+msgstr "Южно-Банатский округ"
+
+msgid "Kolubarski okrug_RS"
+msgstr "Колубарский округ"
+
+msgid "Kosovsko-Mitrovacki okrug_RS"
+msgstr "Косовско-Митровицкий округ"
+
+msgid "Macvanski okrug_RS"
+msgstr "Мачванский округ"
+
+msgid "Moravicki okrug_RS"
+msgstr "Моравичский округ"
+
+msgid "Nisavski okrug_RS"
+msgstr "Ниша́вский о́круг"
+
+msgid "Pcinjski okrug_RS"
+msgstr "Пчиньский округ"
+
+msgid "Pecki okrug_RS"
+msgstr "Печский округ"
+
+msgid "Pirotski okrug_RS"
+msgstr "Пиротский округ"
+
+msgid "Podunavski okrug_RS"
+msgstr "Подунайский округ"
+
+msgid "Pomoravski okrug_RS"
+msgstr "Поморавский округ"
+
+msgid "Prizrenski okrug_RS"
+msgstr "Призренский  округ"
+
+msgid "Rasinski okrug_RS"
+msgstr "Расинский округ"
+
+msgid "Raski okrug_RS"
+msgstr "Округ Рашка"
+
+msgid "Severnobacki okrug_RS"
+msgstr "Северно-Бачский округ"
+
+msgid "Severnobanatski okrug_RS"
+msgstr "Северно-Банатский округ"
+
+msgid "Srednjebanatski okrug_RS"
+msgstr "Средне-Банатский округ"
+
+msgid "Sremski okrug_RS"
+msgstr "Сремский округ"
+
+msgid "Sumadijski okrug_RS"
+msgstr "Шумадийский округ"
+
+msgid "Toplicki okrug_RS"
+msgstr "Топличский округ"
+
+msgid "Zajecarski okrug_RS"
+msgstr "Заечарский округ"
+
+msgid "Zapadnobacki okrug_RS"
+msgstr "Западно-Бачский округ"
+
+msgid "Zlatiborski okrug_RS"
+msgstr "Златиборский округ"
+
+msgid "Adygeya, Respublika_RU"
+msgstr "Респу́блика Адыге́я"
+
+msgid "Altay, Respublika_RU"
+msgstr "Респу́блика Алта́й"
+
+msgid "Altayskiy kray_RU"
+msgstr "Алтайский край"
+
+msgid "Amurskaya oblast'_RU"
+msgstr "Аму́рская о́бласть"
+
+msgid "Arkhangel'skaya oblast'_RU"
+msgstr "Арха́нгельская о́бласть"
+
+msgid "Astrakhanskaya oblast'_RU"
+msgstr "Астраха́нская о́бласть"
+
+msgid "Bashkortostan, Respublika_RU"
+msgstr "Башкортоста́н"
+
+msgid "Belgorodskaya oblast'_RU"
+msgstr "Белгоро́дская о́бласть"
+
+msgid "Bryanskaya oblast'_RU"
+msgstr "Бря́нская о́бласть"
+
+msgid "Buryatiya, Respublika_RU"
+msgstr "Буря́тия"
+
+msgid "Chechenskaya Respublika_RU"
+msgstr "Чече́нская Респу́блика"
+
+msgid "Chelyabinskaya oblast'_RU"
+msgstr "Челя́бинская о́бласть"
+
+msgid "Chukotskiy avtonomnyy okrug_RU"
+msgstr "Чуко́тский автоно́мный о́круг"
+
+msgid "Chuvashskaya Respublika_RU"
+msgstr "Чува́шская Респу́блика— Чувашия"
+
+msgid "Dagestan, Respublika_RU"
+msgstr "Республика Дагеста́н"
+
+msgid "Ingushetiya, Respublika_RU"
+msgstr "Респу́блика Ингуше́тия"
+
+msgid "Irkutskaya oblast'_RU"
+msgstr "Ирку́тская о́бласть"
+
+msgid "Ivanovskaya oblast'_RU"
+msgstr "Ива́новская о́бласть"
+
+msgid "Kabardino-Balkarskaya Respublika_RU"
+msgstr "Кабарди́но-Балка́рская Респу́блика"
+
+msgid "Kaliningradskaya oblast'_RU"
+msgstr "Калинингра́дская о́бласть"
+
+msgid "Kalmykiya, Respublika_RU"
+msgstr "Респу́блика Калмы́кия"
+
+msgid "Kaluzhskaya oblast'_RU"
+msgstr "Калу́жская о́бласть"
+
+msgid "Kamchatskiy kray_RU"
+msgstr "Камча́тский край"
+
+msgid "Karachayevo-Cherkesskaya Respublika_RU"
+msgstr "Карача́ево-Черке́сская Респу́блика"
+
+msgid "Kareliya, Respublika_RU"
+msgstr "Респу́блика Каре́лия"
+
+msgid "Kemerovskaya oblast'_RU"
+msgstr "Ке́меровская о́бласть"
+
+msgid "Khabarovskiy kray_RU"
+msgstr "Хаба́ровский край"
+
+msgid "Khakasiya, Respublika_RU"
+msgstr "Респу́блика Хака́сия"
+
+msgid "Khanty-Mansiyskiy avtonomnyy okrug_RU"
+msgstr "Ха́нты-Манси́йский автоно́мный о́круг — Югра́"
+
+msgid "Kirovskaya oblast'_RU"
+msgstr "Ки́ровская о́бласть"
+
+msgid "Komi, Respublika_RU"
+msgstr "Респу́блика Ко́ми"
+
+msgid "Kostromskaya oblast'_RU"
+msgstr "Костромска́я о́бласть"
+
+msgid "Krasnodarskiy kray_RU"
+msgstr "Краснода́рский край"
+
+msgid "Krasnoyarskiy kray_RU"
+msgstr "Красноя́рский край"
+
+msgid "Kurganskaya oblast'_RU"
+msgstr "Курга́нская о́бласть"
+
+msgid "Kurskaya oblast'_RU"
+msgstr "Ку́рская о́бласть"
+
+msgid "Leningradskaya oblast'_RU"
+msgstr "Ленинградская область"
+
+msgid "Lipetskaya oblast'_RU"
+msgstr "Ли́пецкая о́бласть"
+
+msgid "Magadanskaya oblast'_RU"
+msgstr "Магада́нская о́бласть"
+
+msgid "Mariy El, Respublika_RU"
+msgstr "Респу́блика Мари́й Эл"
+
+msgid "Mordoviya, Respublika_RU"
+msgstr "Респу́блика Мордо́вия"
+
+msgid "Moskovskaya oblast'_RU"
+msgstr "Московская область"
+
+msgid "Moskva_RU"
+msgstr "Москва́"
+
+msgid "Murmanskaya oblast'_RU"
+msgstr "Му́рманская о́бласть"
+
+msgid "Nenetskiy avtonomnyy okrug_RU"
+msgstr "Не́нецкий автоно́мный о́круг"
+
+msgid "Nizhegorodskaya oblast'_RU"
+msgstr "Нижегоро́дская о́бласть"
+
+msgid "Novgorodskaya oblast'_RU"
+msgstr "Новгоро́дская о́бласть"
+
+msgid "Novosibirskaya oblast'_RU"
+msgstr "Новосиби́рская о́бласть"
+
+msgid "Omskaya oblast'_RU"
+msgstr "О́мская о́бласть"
+
+msgid "Orenburgskaya oblast'_RU"
+msgstr "Оренбу́ргская область"
+
+msgid "Orlovskaya oblast'_RU"
+msgstr "Орло́вская область"
+
+msgid "Penzenskaya oblast'_RU"
+msgstr "Пе́нзенская о́бласть"
+
+msgid "Permskiy kray_RU"
+msgstr "Пе́рмский край"
+
+msgid "Primorskiy kray_RU"
+msgstr "Примо́рский край"
+
+msgid "Pskovskaya oblast'_RU"
+msgstr "Пско́вская о́бласть"
+
+msgid "Rostovskaya oblast'_RU"
+msgstr "Росто́вская о́бласть"
+
+msgid "Ryazanskaya oblast'_RU"
+msgstr "Ряза́нская о́бласть"
+
+msgid "Saha, Respublika_RU"
+msgstr "Респу́блика Саха́ (Якутия)"
+
+msgid "Sakhalinskaya oblast'_RU"
+msgstr "Сахали́нская о́бласть"
+
+msgid "Samarskaya oblast'_RU"
+msgstr "Сама́рская о́бласть"
+
+msgid "Sankt-Peterburg_RU"
+msgstr "Санкт-Петербург"
+
+msgid "Saratovskaya oblast'_RU"
+msgstr "Сара́товская о́бласть"
+
+msgid "Severnaya Osetiya, Respublika_RU"
+msgstr "Респу́блика Се́верная Осе́тия— Ала́ния"
+
+msgid "Smolenskaya oblast'_RU"
+msgstr "Смоле́нская о́бласть"
+
+msgid "Stavropol'skiy kray_RU"
+msgstr "Ставропо́льский край"
+
+msgid "Sverdlovskaya oblast'_RU"
+msgstr "Свердло́вская о́бласть"
+
+msgid "Tambovskaya oblast'_RU"
+msgstr "Тамбо́вская о́бласть"
+
+msgid "Tatarstan, Respublika_RU"
+msgstr "Респу́блика Татарста́н"
+
+msgid "Tomskaya oblast'_RU"
+msgstr "То́мская о́бласть"
+
+msgid "Tul'skaya oblast'_RU"
+msgstr "Ту́льская о́бласть"
+
+msgid "Tverskaya oblast'_RU"
+msgstr "Тверска́я о́бласть"
+
+msgid "Tyumenskaya oblast'_RU"
+msgstr "Тюме́нская о́бласть"
+
+msgid "Tyva, Respublika_RU"
+msgstr "Респу́блика Тыва́"
+
+msgid "Udmurtskaya Respublika_RU"
+msgstr "Удму́ртская Респу́блика"
+
+msgid "Ul'yanovskaya oblast'_RU"
+msgstr "Улья́новская о́бласть"
+
+msgid "Vladimirskaya oblast'_RU"
+msgstr "Влади́мирская о́бласть"
+
+msgid "Volgogradskaya oblast'_RU"
+msgstr "Волгогра́дская о́бласть"
+
+msgid "Vologodskaya oblast'_RU"
+msgstr "Волого́дская о́бласть"
+
+msgid "Voronezhskaya oblast'_RU"
+msgstr "Воро́нежская о́бласть"
+
+msgid "Yamalo-Nenetskiy avtonomnyy okrug_RU"
+msgstr "Яма́ло-Не́нецкий автоно́мный о́круг"
+
+msgid "Yaroslavskaya oblast'_RU"
+msgstr "Яросла́вская о́бласть"
+
+msgid "Yevreyskaya avtonomnaya oblast'_RU"
+msgstr "Евре́йская автоно́мная о́бласть"
+
+msgid "Zabaykal'skiy kray_RU"
+msgstr "Забайка́льская Республика"
+
+msgid "Est_RW"
+msgstr "Восточная провинция"
+
+msgid "Nord_RW"
+msgstr "Северная провинция"
+
+msgid "Ouest_RW"
+msgstr "Западная провинция"
+
+msgid "Sud_RW"
+msgstr "Южная провинция"
+
+msgid "Ville de Kigali_RW"
+msgstr "Кига́ли"
+
+msgid "'Asir_SA"
+msgstr "Асир"
+
+msgid "Al Bahah_SA"
+msgstr "Эль-Баха"
+
+msgid "Al Hudud ash Shamaliyah_SA"
+msgstr "Эль-Худуд-эш-Шамалия"
+
+msgid "Al Jawf_SA"
+msgstr "Эль-Джауф"
+
+msgid "Al Madinah al Munawwarah_SA"
+msgstr "Меди́на"
+
+msgid "Al Qasim_SA"
+msgstr "Эль-Касим"
+
+msgid "Ar Riyad_SA"
+msgstr "Эр-Рия́д"
+
+msgid "Ash Sharqiyah_SA"
+msgstr "Эш-Шарки́я"
+
+msgid "Ha'il_SA"
+msgstr "Ха́иль"
+
+msgid "Jazan_SA"
+msgstr "Джизан"
+
+msgid "Makkah al Mukarramah_SA"
+msgstr "Ме́кка"
+
+msgid "Najran_SA"
+msgstr "Наджран"
+
+msgid "Tabuk_SA"
+msgstr "Табук"
+
+msgid "Central_SB"
+msgstr "Центральная провинция"
+
+msgid "Choiseul_SB"
+msgstr "Географические объекты"
+
+msgid "Guadalcanal_SB"
+msgstr "Гуадалкана́л"
+
+msgid "Isabel_SB"
+msgstr "Изабе́лла"
+
+msgid "Makira-Ulawa_SB"
+msgstr "Макира-Улава"
+
+msgid "Malaita_SB"
+msgstr "Мала́ита"
+
+msgid "Rennell and Bellona_SB"
+msgstr "Реннелл и Беллона"
+
+msgid "Temotu_SB"
+msgstr "Темоту"
+
+msgid "Western_SB"
+msgstr "Западная провинция"
+
+msgid "Anse aux Pins_SC"
+msgstr "Anse aux Pins"
+
+msgid "Anse Boileau_SC"
+msgstr "Анс Буало"
+
+msgid "Anse Royale_SC"
+msgstr "Анс Рояль"
+
+msgid "Baie Lazare_SC"
+msgstr "Бэй Лазар"
+
+msgid "Beau Vallon_SC"
+msgstr "Бо Валлон"
+
+msgid "Bel Ombre_SC"
+msgstr "Бель Омбре"
+
+msgid "Cascade_SC"
+msgstr "каскадный"
+
+msgid "English River_SC"
+msgstr "Английская река"
+
+msgid "Grand Anse Mahe_SC"
+msgstr "Grand Anse Mahe"
+
+msgid "La Digue_SC"
+msgstr "Ла-Диг"
+
+msgid "Pointe Larue_SC"
+msgstr "Pointe Larue"
+
+msgid "Port Glaud_SC"
+msgstr "Порт Глод"
+
+msgid "Takamaka_SC"
+msgstr "Takamaka"
+
+msgid "Blue Nile_SD"
+msgstr "Голубо́й Нил"
+
+msgid "Gedaref_SD"
+msgstr "Гедареф"
+
+msgid "Gezira_SD"
+msgstr "Аль-Джазира"
+
+msgid "Kassala_SD"
+msgstr "Ка́ссала"
+
+msgid "Khartoum_SD"
+msgstr "Харту́м"
+
+msgid "North Darfur_SD"
+msgstr "Се́верный Дарфу́р"
+
+msgid "North Kordofan_SD"
+msgstr "Се́верный Кордофа́н"
+
+msgid "Northern_SD"
+msgstr "Се́верная прови́нция"
+
+msgid "Red Sea_SD"
+msgstr "Кра́сное Мо́ре"
+
+msgid "River Nile_SD"
+msgstr "Нил"
+
+msgid "Sennar_SD"
+msgstr "Сенна́р"
+
+msgid "South Darfur_SD"
+msgstr "Ю́жный Дарфу́р"
+
+msgid "South Kordofan_SD"
+msgstr "Ю́жный Кордофа́н"
+
+msgid "West Darfur_SD"
+msgstr "За́падный Дарфу́р"
+
+msgid "White Nile_SD"
+msgstr "Бе́лый Нил"
+
+msgid "Blekinge lan_SE"
+msgstr "Лен Бле́кинге"
+
+msgid "Dalarnas lan_SE"
+msgstr "Да́ларна"
+
+msgid "Gavleborgs lan_SE"
+msgstr "Е́влеборг"
+
+msgid "Gotlands lan_SE"
+msgstr "Лен Го́тланд"
+
+msgid "Hallands lan_SE"
+msgstr "Лен Ха́лланд"
+
+msgid "Jamtlands lan_SE"
+msgstr "Лен Е́мтланд"
+
+msgid "Jonkopings lan_SE"
+msgstr "Лен Йёнчёпинг"
+
+msgid "Kalmar lan_SE"
+msgstr "Лен Ка́льмар"
+
+msgid "Kronobergs lan_SE"
+msgstr "Лен Кру́нуберг"
+
+msgid "Norrbottens lan_SE"
+msgstr "Но́ррботтен"
+
+msgid "Orebro lan_SE"
+msgstr "Э́ребру"
+
+msgid "Ostergotlands lan_SE"
+msgstr "Лен Э́стергётланд"
+
+msgid "Skane lan_SE"
+msgstr "Лен Ско́не"
+
+msgid "Sodermanlands lan_SE"
+msgstr "Лен Сёдерманланд"
+
+msgid "Stockholms lan_SE"
+msgstr "Лен Стокго́льм"
+
+msgid "Uppsala lan_SE"
+msgstr "Лен Уппса́ла"
+
+msgid "Varmlands lan_SE"
+msgstr "Лен Ве́рмланд"
+
+msgid "Vasterbottens lan_SE"
+msgstr "Лен Ве́стерботтен"
+
+msgid "Vasternorrlands lan_SE"
+msgstr "Лен Ве́стерноррланд"
+
+msgid "Vastmanlands lan_SE"
+msgstr "Лен Ве́стманланд"
+
+msgid "Vastra Gotalands lan_SE"
+msgstr "Лен Ве́стра-Гёталанд"
+
+msgid "Singapore_SG"
+msgstr "Республика Сингапу́р"
+
+msgid "Ascension_SH"
+msgstr "Асенсьон"
+
+msgid "Saint Helena_SH"
+msgstr "Остров Святой Елены"
+
+msgid "Tristan da Cunha_SH"
+msgstr "Триста́н-да-Ку́нья"
+
+msgid "Ajdovscina_SI"
+msgstr "Айдовшчина"
+
+msgid "Apace_SI"
+msgstr "Апаче"
+
+msgid "Beltinci_SI"
+msgstr "Beltinci"
+
+msgid "Benedikt_SI"
+msgstr "Бенеди́кт"
+
+msgid "Bistrica ob Sotli_SI"
+msgstr "Быстрица об Сотли"
+
+msgid "Bled_SI"
+msgstr "Блед"
+
+msgid "Bloke_SI"
+msgstr "Блоке"
+
+msgid "Bohinj_SI"
+msgstr "Бохинь"
+
+msgid "Borovnica_SI"
+msgstr "Borovnica"
+
+msgid "Bovec_SI"
+msgstr "Бовец"
+
+msgid "Braslovce_SI"
+msgstr "Braslovce"
+
+msgid "Brda_SI"
+msgstr "Брда"
+
+msgid "Brezice_SI"
+msgstr "Бре́жице"
+
+msgid "Brezovica_SI"
+msgstr "Brezovica"
+
+msgid "Cankova_SI"
+msgstr "Cankova"
+
+msgid "Celje_SI"
+msgstr "Це́ле"
+
+msgid "Cerklje na Gorenjskem_SI"
+msgstr "Церкль на Гореньском"
+
+msgid "Cerknica_SI"
+msgstr "Церкница"
+
+msgid "Cerkno_SI"
+msgstr "Cerkno"
+
+msgid "Cirkulane_SI"
+msgstr "Cirkulane"
+
+msgid "Crensovci_SI"
+msgstr "Crensovci"
+
+msgid "Crnomelj_SI"
+msgstr "Чрноме́ль"
+
+msgid "Destrnik_SI"
+msgstr "Destrnik"
+
+msgid "Divaca_SI"
+msgstr "Диваца"
+
+msgid "Dobje_SI"
+msgstr "Dobje"
+
+msgid "Dobrepolje_SI"
+msgstr "Dobrepolje"
+
+msgid "Dobrna_SI"
+msgstr "Добрна"
+
+msgid "Dobrova-Polhov Gradec_SI"
+msgstr "Доброва-Полхов Градец"
+
+msgid "Dobrovnik_SI"
+msgstr "Dobrovnik"
+
+msgid "Domzale_SI"
+msgstr "Домжáле"
+
+msgid "Dornava_SI"
+msgstr "Dornava"
+
+msgid "Dravograd_SI"
+msgstr "Дравоград"
+
+msgid "Duplek_SI"
+msgstr "Duplek"
+
+msgid "Gorje_SI"
+msgstr "Горье"
+
+msgid "Gornja Radgona_SI"
+msgstr "Горня Радгона"
+
+msgid "Gornji Petrovci_SI"
+msgstr "Горни Петровцы"
+
+msgid "Grad_SI"
+msgstr "Гра́д"
+
+msgid "Grosuplje_SI"
+msgstr "Hrpelje-Козина"
+
+msgid "Hajdina_SI"
+msgstr "Hajdina"
+
+msgid "Hoce-Slivnica_SI"
+msgstr "Hoce-Slivnica"
+
+msgid "Hodos_SI"
+msgstr "Ходош"
+
+msgid "Horjul_SI"
+msgstr "Horjul"
+
+msgid "Hrastnik_SI"
+msgstr "Храстник"
+
+msgid "Hrpelje-Kozina_SI"
+msgstr "Hrpelje-Козина"
+
+msgid "Idrija_SI"
+msgstr "Идрия"
+
+msgid "Ig_SI"
+msgstr "Ig"
+
+msgid "Ilirska Bistrica_SI"
+msgstr "Илирска-Бистрица"
+
+msgid "Ivancna Gorica_SI"
+msgstr "Иванна Горица"
+
+msgid "Izola_SI"
+msgstr "Изола"
+
+msgid "Jesenice_SI"
+msgstr "Е́сенице"
+
+msgid "Jursinci_SI"
+msgstr "Jursinci"
+
+msgid "Kamnik_SI"
+msgstr "Камник"
+
+msgid "Kanal_SI"
+msgstr "Кана́л"
+
+msgid "Kidricevo_SI"
+msgstr "Kidricevo"
+
+msgid "Kobarid_SI"
+msgstr "Кобарид"
+
+msgid "Kobilje_SI"
+msgstr "Kobilje"
+
+msgid "Kocevje_SI"
+msgstr "Коче́вье"
+
+msgid "Komen_SI"
+msgstr "Komen"
+
+msgid "Komenda_SI"
+msgstr "Komenda"
+
+msgid "Koper_SI"
+msgstr "Ко́пер"
+
+msgid "Kosanjevica na Krki_SI"
+msgstr "Косаневица на Крк"
+
+msgid "Kostel_SI"
+msgstr "Костел"
+
+msgid "Kranj_SI"
+msgstr "Крань"
+
+msgid "Kranjska Gora_SI"
+msgstr "Кра́ньска-Го́ра"
+
+msgid "Krizevci_SI"
+msgstr "Krizevci"
+
+msgid "Krsko_SI"
+msgstr "Кршко"
+
+msgid "Kungota_SI"
+msgstr "Kungota"
+
+msgid "Kuzma_SI"
+msgstr "Кузма"
+
+msgid "Lasko_SI"
+msgstr "Лашко"
+
+msgid "Lenart_SI"
+msgstr "Lenart"
+
+msgid "Lendava_SI"
+msgstr "Лендава"
+
+msgid "Litija_SI"
+msgstr "Лития"
+
+msgid "Ljubljana_SI"
+msgstr "Любля́на"
+
+msgid "Ljutomer_SI"
+msgstr "Ljutomer"
+
+msgid "Log-Dragomer_SI"
+msgstr "Log-Dragomer"
+
+msgid "Logatec_SI"
+msgstr "Логатец"
+
+msgid "Loska Dolina_SI"
+msgstr "Лошка-Долина"
+
+msgid "Loski Potok_SI"
+msgstr "Лоски Поток"
+
+msgid "Lovrenc na Pohorju_SI"
+msgstr "Ловренц на Похорью"
+
+msgid "Luce_SI"
+msgstr "Люце"
+
+msgid "Lukovica_SI"
+msgstr "Lukovica"
+
+msgid "Majsperk_SI"
+msgstr "Majsperk"
+
+msgid "Makole_SI"
+msgstr "Makole"
+
+msgid "Maribor_SI"
+msgstr "Ма́рибор"
+
+msgid "Markovci_SI"
+msgstr "Markovci"
+
+msgid "Medvode_SI"
+msgstr "Медводе"
+
+msgid "Menges_SI"
+msgstr "Менгеш"
+
+msgid "Metlika_SI"
+msgstr "Metlika"
+
+msgid "Mezica_SI"
+msgstr "Межица"
+
+msgid "Miklavz na Dravskem Polju_SI"
+msgstr "Миклавз на Драванском поле"
+
+msgid "Miren-Kostanjevica_SI"
+msgstr "Miren-Костаньевица"
+
+msgid "Mirna Pec_SI"
+msgstr "Мирна Печ"
+
+msgid "Mislinja_SI"
+msgstr "Ми́слинья"
+
+msgid "Mokronog-Trebelno_SI"
+msgstr "Mokronog-Trebelno"
+
+msgid "Moravce_SI"
+msgstr "Moravce"
+
+msgid "Mozirje_SI"
+msgstr "Mozirje"
+
+msgid "Murska Sobota_SI"
+msgstr "Мурска-Собота"
+
+msgid "Muta_SI"
+msgstr "Мута"
+
+msgid "Naklo_SI"
+msgstr "Накловский повят"
+
+msgid "Nazarje_SI"
+msgstr "Nazarje"
+
+msgid "Nova Gorica_SI"
+msgstr "Но́ва-Гори́ца"
+
+msgid "Novo Mesto_SI"
+msgstr "Но́во-Ме́сто"
+
+msgid "Odranci_SI"
+msgstr "Odranci"
+
+msgid "Oplotnica_SI"
+msgstr "Oplotnica"
+
+msgid "Ormoz_SI"
+msgstr "О́рмож"
+
+msgid "Piran_SI"
+msgstr "Пира́н"
+
+msgid "Pivka_SI"
+msgstr "Пивка"
+
+msgid "Podcetrtek_SI"
+msgstr "Подчетртек"
+
+msgid "Podlehnik_SI"
+msgstr "Podlehnik"
+
+msgid "Poljcane_SI"
+msgstr "Poljčanah"
+
+msgid "Polzela_SI"
+msgstr "Ползела"
+
+msgid "Postojna_SI"
+msgstr "Посто́йна"
+
+msgid "Prebold_SI"
+msgstr "Prebold"
+
+msgid "Preddvor_SI"
+msgstr "Preddvor"
+
+msgid "Prevalje_SI"
+msgstr "Превалье"
+
+msgid "Ptuj_SI"
+msgstr "Птуй"
+
+msgid "Puconci_SI"
+msgstr "Пуцонци"
+
+msgid "Race-Fram_SI"
+msgstr "Race-Фрам"
+
+msgid "Radece_SI"
+msgstr "Radece"
+
+msgid "Radenci_SI"
+msgstr "Radenci"
+
+msgid "Radlje ob Dravi_SI"
+msgstr "Радле-об-Дравы"
+
+msgid "Radovljica_SI"
+msgstr "Радовлица"
+
+msgid "Ravne na Koroskem_SI"
+msgstr "Равне-на-Корошкем"
+
+msgid "Razkrizje_SI"
+msgstr "Razkrizje"
+
+msgid "Recica ob Savinji_SI"
+msgstr "Речика возле Савиньи"
+
+msgid "Rence-Vogrsko_SI"
+msgstr "Renče-Vogrsko"
+
+msgid "Ribnica_SI"
+msgstr "Рибница"
+
+msgid "Rogaska Slatina_SI"
+msgstr "Ро́гашка-Сла́тина"
+
+msgid "Rogasovci_SI"
+msgstr "Rogasovci"
+
+msgid "Ruse_SI"
+msgstr "Ру́сенская о́бласть"
+
+msgid "Salovci_SI"
+msgstr "мыльный камень"
+
+msgid "Semic_SI"
+msgstr "Semic"
+
+msgid "Sempeter-Vrtojba_SI"
+msgstr "Šempeter-Vrtojba"
+
+msgid "Sencur_SI"
+msgstr "Шенкур"
+
+msgid "Sentilj_SI"
+msgstr "Šentilj"
+
+msgid "Sentjernej_SI"
+msgstr "Sentjernej"
+
+msgid "Sentjur_SI"
+msgstr "Шентюр"
+
+msgid "Sentrupert_SI"
+msgstr "Sentrupert"
+
+msgid "Sevnica_SI"
+msgstr "Севница"
+
+msgid "Sezana_SI"
+msgstr "Сежа́на"
+
+msgid "Skocjan_SI"
+msgstr "Шкоцян"
+
+msgid "Skofja Loka_SI"
+msgstr "Шкофья-Лока"
+
+msgid "Skofljica_SI"
+msgstr "Skofljica"
+
+msgid "Slovenj Gradec_SI"
+msgstr "Словень-Градец"
+
+msgid "Slovenska Bistrica_SI"
+msgstr "Словенска-Бистрица"
+
+msgid "Slovenske Konjice_SI"
+msgstr "Словенске-Конице"
+
+msgid "Smarje pri Jelsah_SI"
+msgstr "Смарье при Джелса"
+
+msgid "Smarjeske Toplice_SI"
+msgstr "Шмарьешке Топлице"
+
+msgid "Smartno ob Paki_SI"
+msgstr "Смело в пака"
+
+msgid "Smartno pri Litiji_SI"
+msgstr "Смело в Литии"
+
+msgid "Sodrazica_SI"
+msgstr "Sodrazica"
+
+msgid "Solcava_SI"
+msgstr "Solcava"
+
+msgid "Sostanj_SI"
+msgstr "Sostanj"
+
+msgid "Starse_SI"
+msgstr "Starse"
+
+msgid "Store_SI"
+msgstr "хранить"
+
+msgid "Straza_SI"
+msgstr "Стра́жа"
+
+msgid "Sveta Trojica v Slovenskih Goricah_SI"
+msgstr "Святая Троица в Словенских Горицах"
+
+msgid "Sveti Andraz v Slovenskih Goricah_SI"
+msgstr "Святой Андраз в Словенске Горице"
+
+msgid "Sveti Jurij_SI"
+msgstr "Святой Георгий"
+
+msgid "Sveti Jurij v Slovenskih Goricah_SI"
+msgstr "Святой Георгий в Словенских Горицах"
+
+msgid "Sveti Tomaz_SI"
+msgstr "Святой Фома"
+
+msgid "Tabor_SI"
+msgstr "Табор"
+
+msgid "Tisina_SI"
+msgstr "Tisina"
+
+msgid "Tolmin_SI"
+msgstr "Толми́н"
+
+msgid "Trbovlje_SI"
+msgstr "Трбо́вле"
+
+msgid "Trebnje_SI"
+msgstr "Требнье"
+
+msgid "Trnovska Vas_SI"
+msgstr "Трновска Ваш"
+
+msgid "Trzic_SI"
+msgstr "Trzic"
+
+msgid "Trzin_SI"
+msgstr "Trzin"
+
+msgid "Turnisce_SI"
+msgstr "Turnišče"
+
+msgid "Velenje_SI"
+msgstr "Веле́нье"
+
+msgid "Velika Polana_SI"
+msgstr "Великая Поляна"
+
+msgid "Velike Lasce_SI"
+msgstr "Великая ложь"
+
+msgid "Verzej_SI"
+msgstr "Verzej"
+
+msgid "Videm_SI"
+msgstr "Видеме"
+
+msgid "Vipava_SI"
+msgstr "Община Випава"
+
+msgid "Vitanje_SI"
+msgstr "Vitanje"
+
+msgid "Vodice_SI"
+msgstr "Водице"
+
+msgid "Vojnik_SI"
+msgstr "Vojnik"
+
+msgid "Vransko_SI"
+msgstr "Vransko"
+
+msgid "Vrhnika_SI"
+msgstr "Врхника"
+
+msgid "Vuzenica_SI"
+msgstr "Вузеница"
+
+msgid "Zagorje ob Savi_SI"
+msgstr "Загорье об Сави"
+
+msgid "Zalec_SI"
+msgstr "Zalec"
+
+msgid "Zavrc_SI"
+msgstr "Zavrč"
+
+msgid "Zelezniki_SI"
+msgstr "Zelezniki"
+
+msgid "Zetale_SI"
+msgstr "Žetale"
+
+msgid "Ziri_SI"
+msgstr "Зири"
+
+msgid "Zrece_SI"
+msgstr "Zrece"
+
+msgid "Zuzemberk_SI"
+msgstr "Žužemberk"
+
+msgid "Svalbard and Jan Mayen_SJ"
+msgstr "Шпицберген и Ян-Майен"
+
+msgid "Banskobystricky kraj_SK"
+msgstr "Банска-Бистрицкий край"
+
+msgid "Bratislavsky kraj_SK"
+msgstr "Братиславский край"
+
+msgid "Kosicky kraj_SK"
+msgstr "Кошицкий край"
+
+msgid "Nitriansky kraj_SK"
+msgstr "Нитрьянский край"
+
+msgid "Presovsky kraj_SK"
+msgstr "Прешовский край"
+
+msgid "Trenciansky kraj_SK"
+msgstr "Тренчьянский край"
+
+msgid "Trnavsky kraj_SK"
+msgstr "Трнавский край"
+
+msgid "Zilinsky kraj_SK"
+msgstr "Жилинский край"
+
+msgid "Eastern_SL"
+msgstr "Восто́чная прови́нция"
+
+msgid "Northern_SL"
+msgstr "Се́верная прови́нция"
+
+msgid "Southern_SL"
+msgstr "Ю́жная прови́нция"
+
+msgid "Western Area_SL"
+msgstr "За́падная о́бласть"
+
+msgid "Acquaviva_SM"
+msgstr "Аккуавива"
+
+msgid "Borgo Maggiore_SM"
+msgstr "Борго-Маджоре"
+
+msgid "Chiesanuova_SM"
+msgstr "Кьезануова"
+
+msgid "Domagnano_SM"
+msgstr "Доманьяно"
+
+msgid "Faetano_SM"
+msgstr "Фаэтано"
+
+msgid "Fiorentino_SM"
+msgstr "Фьорентино"
+
+msgid "Montegiardino_SM"
+msgstr "Монте-Джардино"
+
+msgid "San Marino_SM"
+msgstr "Сан-Мари́но"
+
+msgid "Serravalle_SM"
+msgstr "Серравалле"
+
+msgid "Dakar_SN"
+msgstr "Дака́р"
+
+msgid "Diourbel_SN"
+msgstr "Диурбе́ль"
+
+msgid "Fatick_SN"
+msgstr "Фатик"
+
+msgid "Kaffrine_SN"
+msgstr "Кафрин"
+
+msgid "Kaolack_SN"
+msgstr "Каола́к"
+
+msgid "Kedougou_SN"
+msgstr "Кеду́гу"
+
+msgid "Kolda_SN"
+msgstr "Ко́лда"
+
+msgid "Louga_SN"
+msgstr "Луга́"
+
+msgid "Matam_SN"
+msgstr "Матам"
+
+msgid "Saint-Louis_SN"
+msgstr "Сен-Луи"
+
+msgid "Sedhiou_SN"
+msgstr "Седиу"
+
+msgid "Tambacounda_SN"
+msgstr "Тамбаку́нда"
+
+msgid "Thies_SN"
+msgstr "Тиес"
+
+msgid "Ziguinchor_SN"
+msgstr "Зигиншо́р"
+
+msgid "Awdal_SO"
+msgstr "Аудаль"
+
+msgid "Bakool_SO"
+msgstr "Баколь"
+
+msgid "Banaadir_SO"
+msgstr "Банадир"
+
+msgid "Bari_SO"
+msgstr "Ба́ри"
+
+msgid "Bay_SO"
+msgstr "Бай"
+
+msgid "Galguduud_SO"
+msgstr "Гальгудуд"
+
+msgid "Gedo_SO"
+msgstr "Гедо"
+
+msgid "Hiiraan_SO"
+msgstr "Хиран"
+
+msgid "Jubbada Dhexe_SO"
+msgstr "Средняя Джубба"
+
+msgid "Jubbada Hoose_SO"
+msgstr "Нижняя Джубба"
+
+msgid "Mudug_SO"
+msgstr "Мудуг"
+
+msgid "Nugaal_SO"
+msgstr "Нугаль"
+
+msgid "Sanaag_SO"
+msgstr "Санаг"
+
+msgid "Shabeellaha Dhexe_SO"
+msgstr "Средняя Шабелле"
+
+msgid "Shabeellaha Hoose_SO"
+msgstr "Нижняя Шабелле"
+
+msgid "Sool_SO"
+msgstr "Соль"
+
+msgid "Togdheer_SO"
+msgstr "Тогдер"
+
+msgid "Woqooyi Galbeed_SO"
+msgstr "Северо-Западная область"
+
+msgid "Brokopondo_SR"
+msgstr "Брокопондо"
+
+msgid "Commewijne_SR"
+msgstr "Коммевейне"
+
+msgid "Coronie_SR"
+msgstr "Корони"
+
+msgid "Marowijne_SR"
+msgstr "Маровейне"
+
+msgid "Nickerie_SR"
+msgstr "Никке́ри"
+
+msgid "Para_SR"
+msgstr "Па́ра"
+
+msgid "Paramaribo_SR"
+msgstr "Парама́ри́бо"
+
+msgid "Saramacca_SR"
+msgstr "Сарамакка"
+
+msgid "Sipaliwini_SR"
+msgstr "Сипаливини"
+
+msgid "Wanica_SR"
+msgstr "Ваника"
+
+msgid "Central Equatoria_SS"
+msgstr "Центра́льная Экваториа́льная прови́нция"
+
+msgid "Eastern Equatoria_SS"
+msgstr "Восто́чная Экваториа́льная прови́нция"
+
+msgid "Jonglei_SS"
+msgstr "Джонглей"
+
+msgid "Lakes_SS"
+msgstr "О́зеро"
+
+msgid "Northern Bahr el Ghazal_SS"
+msgstr "Се́верный Бахр-эль-Газа́ль"
+
+msgid "Unity_SS"
+msgstr "Unity"
+
+msgid "Upper Nile_SS"
+msgstr "Ве́рхний Нил"
+
+msgid "Warrap_SS"
+msgstr "Вараб"
+
+msgid "Western Bahr el Ghazal_SS"
+msgstr "За́падный Бахр-эль-Газа́ль"
+
+msgid "Western Equatoria_SS"
+msgstr "За́падная Экваториа́льная прови́нция"
+
+msgid "Principe_ST"
+msgstr "При́нсипи"
+
+msgid "Sao Tome_ST"
+msgstr "Сан-Томе́"
+
+msgid "Ahuachapan_SV"
+msgstr "Ауачапа́н"
+
+msgid "Cabanas_SV"
+msgstr "Каба́ньяс"
+
+msgid "Chalatenango_SV"
+msgstr "Чалатенанго"
+
+msgid "Cuscatlan_SV"
+msgstr "Кускатлан"
+
+msgid "La Libertad_SV"
+msgstr "Ла-Либертад"
+
+msgid "La Paz_SV"
+msgstr "Ла-Пас"
+
+msgid "La Union_SV"
+msgstr "Ла-Унион"
+
+msgid "Morazan_SV"
+msgstr "Морасан"
+
+msgid "San Miguel_SV"
+msgstr "Сан-Миге́ль"
+
+msgid "San Salvador_SV"
+msgstr "Сан-Сальвадо́р"
+
+msgid "San Vicente_SV"
+msgstr "Сан-Висе́нте"
+
+msgid "Santa Ana_SV"
+msgstr "Са́нта-А́на"
+
+msgid "Sonsonate_SV"
+msgstr "Сонсонате"
+
+msgid "Usulutan_SV"
+msgstr "Усулута́н"
+
+msgid "Sint Maarten (Dutch Part)_SX"
+msgstr "Синт-Ма́ртен"
+
+msgid "Al Hasakah_SY"
+msgstr "Эль-Ха́сака"
+
+msgid "Al Ladhiqiyah_SY"
+msgstr "Латаки́я"
+
+msgid "Al Qunaytirah_SY"
+msgstr "Эль-Куне́йтра"
+
+msgid "Ar Raqqah_SY"
+msgstr "Эр-Ра́кка"
+
+msgid "As Suwayda'_SY"
+msgstr "Эс-Сува́йда"
+
+msgid "Dar'a_SY"
+msgstr "Даръа́"
+
+msgid "Dayr az Zawr_SY"
+msgstr "Дайр-эз-Заур"
+
+msgid "Dimashq_SY"
+msgstr "Дама́ск"
+
+msgid "Halab_SY"
+msgstr "Але́ппо"
+
+msgid "Hamah_SY"
+msgstr "Ха́ма"
+
+msgid "Hims_SY"
+msgstr "Хомс"
+
+msgid "Idlib_SY"
+msgstr "И́длиб"
+
+msgid "Rif Dimashq_SY"
+msgstr "Дама́ск"
+
+msgid "Tartus_SY"
+msgstr "Тарту́с"
+
+msgid "Hhohho_SZ"
+msgstr "Хохо"
+
+msgid "Lubombo_SZ"
+msgstr "Лубомбо"
+
+msgid "Manzini_SZ"
+msgstr "Манзини"
+
+msgid "Shiselweni_SZ"
+msgstr "Шиселвени"
+
+msgid "Turks and Caicos Islands_TC"
+msgstr "Теркс и Ка́йкос"
+
+msgid "Bahr el Gazel_TD"
+msgstr "Бахр-эль-Газа́ль"
+
+msgid "Batha_TD"
+msgstr "Ба́тха"
+
+msgid "Borkou_TD"
+msgstr "Борку́"
+
+msgid "Chari-Baguirmi_TD"
+msgstr "Шари-Багирми"
+
+msgid "Guera_TD"
+msgstr "Гера́"
+
+msgid "Hadjer Lamis_TD"
+msgstr "Хаджер-Ламис"
+
+msgid "Kanem_TD"
+msgstr "Канем"
+
+msgid "Lac_TD"
+msgstr "Лак"
+
+msgid "Logone-Occidental_TD"
+msgstr "За́падный Лого́н"
+
+msgid "Logone-Oriental_TD"
+msgstr "Восто́чный Лого́н"
+
+msgid "Mandoul_TD"
+msgstr "Манду́ль"
+
+msgid "Mayo-Kebbi-Est_TD"
+msgstr "Восточное Майо-Кеби"
+
+msgid "Mayo-Kebbi-Ouest_TD"
+msgstr "Западное Майо-Кеби"
+
+msgid "Moyen-Chari_TD"
+msgstr "Сре́днее Ша́ри"
+
+msgid "Ouaddai_TD"
+msgstr "Ваддай"
+
+msgid "Salamat_TD"
+msgstr "Саламат"
+
+msgid "Sila_TD"
+msgstr "Сила"
+
+msgid "Tandjile_TD"
+msgstr "Танджиле"
+
+msgid "Tibesti_TD"
+msgstr "Тибе́сти"
+
+msgid "Ville de Ndjamena_TD"
+msgstr "Нджаме́на"
+
+msgid "Wadi Fira_TD"
+msgstr "Вади-Фера"
+
+msgid "French Southern Territories_TF"
+msgstr "Францу́зские Ю́жные и Антаркти́ческие террито́рии"
+
+msgid "Centrale_TG"
+msgstr "Центральная область"
+
+msgid "Kara_TG"
+msgstr "Кара"
+
+msgid "Maritime_TG"
+msgstr "Приморская область"
+
+msgid "Plateaux_TG"
+msgstr "Плато"
+
+msgid "Savanes_TG"
+msgstr "Саванн"
+
+msgid "Amnat Charoen_TH"
+msgstr "Амнатчарен"
+
+msgid "Ang Thong_TH"
+msgstr "Ангтхонг"
+
+msgid "Bueng Kan_TH"
+msgstr "Бынгкан"
+
+msgid "Buri Ram_TH"
+msgstr "Бурирам"
+
+msgid "Chachoengsao_TH"
+msgstr "Чаченгсау"
+
+msgid "Chai Nat_TH"
+msgstr "Чайнат"
+
+msgid "Chaiyaphum_TH"
+msgstr "Чайяпхум"
+
+msgid "Chanthaburi_TH"
+msgstr "Чантхабури"
+
+msgid "Chiang Mai_TH"
+msgstr "Чиангмай"
+
+msgid "Chiang Rai_TH"
+msgstr "Чианграй"
+
+msgid "Chon Buri_TH"
+msgstr "Чонбури"
+
+msgid "Chumphon_TH"
+msgstr "Чумпхон"
+
+msgid "Kalasin_TH"
+msgstr "Каласин"
+
+msgid "Kamphaeng Phet_TH"
+msgstr "Провинция Кампхэнгпхет"
+
+msgid "Kanchanaburi_TH"
+msgstr "Канчанабу́ри"
+
+msgid "Khon Kaen_TH"
+msgstr "Кхонкэ́н"
+
+msgid "Krabi_TH"
+msgstr "Краби́"
+
+msgid "Krung Thep Maha Nakhon_TH"
+msgstr "Бангко́к"
+
+msgid "Lampang_TH"
+msgstr "Лампа́нг"
+
+msgid "Lamphun_TH"
+msgstr "Лампхун"
+
+msgid "Loei_TH"
+msgstr "Лей"
+
+msgid "Lop Buri_TH"
+msgstr "Лопбури"
+
+msgid "Mae Hong Son_TH"
+msgstr "Мэхонгсон"
+
+msgid "Maha Sarakham_TH"
+msgstr "Махасаракхам"
+
+msgid "Mukdahan_TH"
+msgstr "Мукдахан"
+
+msgid "Nakhon Nayok_TH"
+msgstr "Накхоннайок"
+
+msgid "Nakhon Pathom_TH"
+msgstr "Накхонпатхом"
+
+msgid "Nakhon Phanom_TH"
+msgstr "Накхонпханом"
+
+msgid "Nakhon Ratchasima_TH"
+msgstr "Накхо́нратчасима́"
+
+msgid "Nakhon Sawan_TH"
+msgstr "Накхо́нсава́н"
+
+msgid "Nakhon Si Thammarat_TH"
+msgstr "Накхо́нситхаммара́т"
+
+msgid "Nan_TH"
+msgstr "Нан"
+
+msgid "Narathiwat_TH"
+msgstr "Наратхиват"
+
+msgid "Nong Bua Lam Phu_TH"
+msgstr "Нонгбуалампху"
+
+msgid "Nong Khai_TH"
+msgstr "Нонгкха́й"
+
+msgid "Nonthaburi_TH"
+msgstr "Нонтхабури"
+
+msgid "Pathum Thani_TH"
+msgstr "Патхумтхани"
+
+msgid "Pattani_TH"
+msgstr "Паттани"
+
+msgid "Phangnga_TH"
+msgstr "Пхангнга"
+
+msgid "Phatthalung_TH"
+msgstr "Пхаттхалу́нг"
+
+msgid "Phayao_TH"
+msgstr "Пхаяу"
+
+msgid "Phetchabun_TH"
+msgstr "Пхетчабун"
+
+msgid "Phetchaburi_TH"
+msgstr "Пхетбу́ри"
+
+msgid "Phichit_TH"
+msgstr "Пхичит"
+
+msgid "Phitsanulok_TH"
+msgstr "Пхитсанулок"
+
+msgid "Phra Nakhon Si Ayutthaya_TH"
+msgstr "Аюттха́я"
+
+msgid "Phrae_TH"
+msgstr "Пхрэ"
+
+msgid "Phuket_TH"
+msgstr "Пхуке́т"
+
+msgid "Prachin Buri_TH"
+msgstr "Прачи́нбури"
+
+msgid "Prachuap Khiri Khan_TH"
+msgstr "Прачу́апкхирикха́н"
+
+msgid "Ranong_TH"
+msgstr "Ранонг"
+
+msgid "Ratchaburi_TH"
+msgstr "Ра́тбури"
+
+msgid "Rayong_TH"
+msgstr "Районг"
+
+msgid "Roi Et_TH"
+msgstr "Ройе́т"
+
+msgid "Sa Kaeo_TH"
+msgstr "Сакэу"
+
+msgid "Sakon Nakhon_TH"
+msgstr "Саконнакхон"
+
+msgid "Samut Prakan_TH"
+msgstr "Самутпракан"
+
+msgid "Samut Sakhon_TH"
+msgstr "Самутсакхон"
+
+msgid "Samut Songkhram_TH"
+msgstr "Самутсонгкхрам"
+
+msgid "Saraburi_TH"
+msgstr "Сарабури"
+
+msgid "Satun_TH"
+msgstr "Сатун"
+
+msgid "Si Sa Ket_TH"
+msgstr "Сисакет"
+
+msgid "Sing Buri_TH"
+msgstr "Сингбури"
+
+msgid "Songkhla_TH"
+msgstr "Сонгкхла"
+
+msgid "Sukhothai_TH"
+msgstr "Сукотаи"
+
+msgid "Suphan Buri_TH"
+msgstr "Супханбури"
+
+msgid "Surat Thani_TH"
+msgstr "Сура́ттха́ни"
+
+msgid "Surin_TH"
+msgstr "Сурин"
+
+msgid "Tak_TH"
+msgstr "Так"
+
+msgid "Trang_TH"
+msgstr "Транг"
+
+msgid "Trat_TH"
+msgstr "Трат"
+
+msgid "Ubon Ratchathani_TH"
+msgstr "Убонратчатхани"
+
+msgid "Udon Thani_TH"
+msgstr "Удонтхани"
+
+msgid "Uthai Thani_TH"
+msgstr "Утхайтхани"
+
+msgid "Uttaradit_TH"
+msgstr "Уттарадит"
+
+msgid "Yala_TH"
+msgstr "Яла"
+
+msgid "Yasothon_TH"
+msgstr "Ясотхон"
+
+msgid "Dushanbe_TJ"
+msgstr "Душанбе́"
+
+msgid "Khatlon_TJ"
+msgstr "Хатло́нская область"
+
+msgid "Kuhistoni Badakhshon_TJ"
+msgstr "Го́рно-Бадахша́нская автоно́мная о́бласть"
+
+msgid "Nohiyahoi Tobei Jumhuri_TJ"
+msgstr "Районы республиканского подчинения"
+
+msgid "Sughd_TJ"
+msgstr "Согди́йская о́бласть"
+
+msgid "Tokelau_TK"
+msgstr "Токела́у"
+
+msgid "Aileu_TL"
+msgstr "Айлеу"
+
+msgid "Ainaro_TL"
+msgstr "Айнару"
+
+msgid "Baucau_TL"
+msgstr "Баукау"
+
+msgid "Bobonaro_TL"
+msgstr "Бобонару"
+
+msgid "Cova Lima_TL"
+msgstr "Кова-Лима"
+
+msgid "Dili_TL"
+msgstr "Ди́ли"
+
+msgid "Ermera_TL"
+msgstr "Эрмера"
+
+msgid "Lautem_TL"
+msgstr "Лаутен"
+
+msgid "Liquica_TL"
+msgstr "Ликиса"
+
+msgid "Manatuto_TL"
+msgstr "Манатуту"
+
+msgid "Manufahi_TL"
+msgstr "Мануфахи"
+
+msgid "Oecussi_TL"
+msgstr "Окуси-Амбену"
+
+msgid "Viqueque_TL"
+msgstr "Вике́ке"
+
+msgid "Ahal_TM"
+msgstr "Ахалский велаят"
+
+msgid "Balkan_TM"
+msgstr "Балка́нский полуо́стров"
+
+msgid "Dasoguz_TM"
+msgstr "Дашогу́з, Ташауз"
+
+msgid "Lebap_TM"
+msgstr "Лебапский велаят"
+
+msgid "Mary_TM"
+msgstr "Мары"
+
+msgid "Beja_TN"
+msgstr "Округ Бежа"
+
+msgid "Ben Arous_TN"
+msgstr "Бен-Арус"
+
+msgid "Bizerte_TN"
+msgstr "Бизе́рта"
+
+msgid "Gabes_TN"
+msgstr "Габес"
+
+msgid "Gafsa_TN"
+msgstr "Га́фса"
+
+msgid "Jendouba_TN"
+msgstr "Дженду́ба"
+
+msgid "Kairouan_TN"
+msgstr "Кайруа́н"
+
+msgid "Kasserine_TN"
+msgstr "Ка́ссерин"
+
+msgid "Kebili_TN"
+msgstr "Кеби́ли"
+
+msgid "L'Ariana_TN"
+msgstr "Арьяна"
+
+msgid "La Manouba_TN"
+msgstr "Мануба"
+
+msgid "Le Kef_TN"
+msgstr "Эль-Кеф"
+
+msgid "Mahdia_TN"
+msgstr "Махди́я"
+
+msgid "Medenine_TN"
+msgstr "Медени́н"
+
+msgid "Monastir_TN"
+msgstr "Монастир"
+
+msgid "Nabeul_TN"
+msgstr "На́буль"
+
+msgid "Sfax_TN"
+msgstr "Сфакс"
+
+msgid "Sidi Bouzid_TN"
+msgstr "Сиди Бузид (Гаммуда)"
+
+msgid "Siliana_TN"
+msgstr "Силья́на"
+
+msgid "Sousse_TN"
+msgstr "Сус"
+
+msgid "Tataouine_TN"
+msgstr "Татавин"
+
+msgid "Tozeur_TN"
+msgstr "Тауза́р (Тозёр)"
+
+msgid "Tunis_TN"
+msgstr "Туни́с"
+
+msgid "Zaghouan_TN"
+msgstr "Загван"
+
+msgid "'Eua_TO"
+msgstr "Эуа"
+
+msgid "Ha'apai_TO"
+msgstr "Острова Хаапай"
+
+msgid "Niuas_TO"
+msgstr "Острова Ниуас"
+
+msgid "Tongatapu_TO"
+msgstr "Тонгата́пу"
+
+msgid "Vava'u_TO"
+msgstr "Острова́ Вава́у"
+
+msgid "Adana_TR"
+msgstr "А́дана"
+
+msgid "Adiyaman_TR"
+msgstr "Адыяма́н"
+
+msgid "Afyonkarahisar_TR"
+msgstr "Афьонкарахисар"
+
+msgid "Agri_TR"
+msgstr "Агри"
+
+msgid "Aksaray_TR"
+msgstr "Аксарай"
+
+msgid "Amasya_TR"
+msgstr "Ама́сья"
+
+msgid "Ankara_TR"
+msgstr "Анкара́"
+
+msgid "Antalya_TR"
+msgstr "Анта́лья"
+
+msgid "Ardahan_TR"
+msgstr "Ардаган"
+
+msgid "Artvin_TR"
+msgstr "Артви́н"
+
+msgid "Aydin_TR"
+msgstr "Айды́н"
+
+msgid "Balikesir_TR"
+msgstr "Балыкеси́р"
+
+msgid "Bartin_TR"
+msgstr "Бартын"
+
+msgid "Batman_TR"
+msgstr "Батма́н"
+
+msgid "Bayburt_TR"
+msgstr "Байбурт"
+
+msgid "Bilecik_TR"
+msgstr "Биледжи́к"
+
+msgid "Bingol_TR"
+msgstr "Бингё́ль"
+
+msgid "Bitlis_TR"
+msgstr "Битлис"
+
+msgid "Bolu_TR"
+msgstr "Болу"
+
+msgid "Burdur_TR"
+msgstr "Бурдур"
+
+msgid "Bursa_TR"
+msgstr "Бу́рса"
+
+msgid "Canakkale_TR"
+msgstr "Чанаккале́"
+
+msgid "Cankiri_TR"
+msgstr "Чанкыры"
+
+msgid "Corum_TR"
+msgstr "Чорум"
+
+msgid "Denizli_TR"
+msgstr "Денизли́"
+
+msgid "Diyarbakir_TR"
+msgstr "Диярбакы́р"
+
+msgid "Duzce_TR"
+msgstr "Дюздже"
+
+msgid "Edirne_TR"
+msgstr "Эди́рне"
+
+msgid "Elazig_TR"
+msgstr "Элязы́г"
+
+msgid "Erzincan_TR"
+msgstr "Эрзинджа́н"
+
+msgid "Erzurum_TR"
+msgstr "Эрзуру́м"
+
+msgid "Eskisehir_TR"
+msgstr "Эскишехи́р"
+
+msgid "Gaziantep_TR"
+msgstr "Газиантеп"
+
+msgid "Giresun_TR"
+msgstr "Гиресу́н"
+
+msgid "Gumushane_TR"
+msgstr "Гюмюшхане"
+
+msgid "Hakkari_TR"
+msgstr "Хаккяри"
+
+msgid "Hatay_TR"
+msgstr "Хатай"
+
+msgid "Igdir_TR"
+msgstr "Ыгды́р"
+
+msgid "Isparta_TR"
+msgstr "Ыспарта́"
+
+msgid "Istanbul_TR"
+msgstr "Стамбу́л"
+
+msgid "Izmir_TR"
+msgstr "Изми́р"
+
+msgid "Kahramanmaras_TR"
+msgstr "Кахраманмара́ш"
+
+msgid "Karabuk_TR"
+msgstr "Карабюк"
+
+msgid "Karaman_TR"
+msgstr "Караман"
+
+msgid "Kars_TR"
+msgstr "Карс"
+
+msgid "Kastamonu_TR"
+msgstr "Кастамону́"
+
+msgid "Kayseri_TR"
+msgstr "Ка́йсери"
+
+msgid "Kilis_TR"
+msgstr "Кили́с"
+
+msgid "Kirikkale_TR"
+msgstr "Кыры́ккале́"
+
+msgid "Kirklareli_TR"
+msgstr "Кыркларели́"
+
+msgid "Kirsehir_TR"
+msgstr "Кыршехир"
+
+msgid "Kocaeli_TR"
+msgstr "Коджаэли́"
+
+msgid "Konya_TR"
+msgstr "Ко́нья"
+
+msgid "Kutahya_TR"
+msgstr "Кюта́хья"
+
+msgid "Malatya_TR"
+msgstr "Мала́тья"
+
+msgid "Manisa_TR"
+msgstr "Мани́са"
+
+msgid "Mardin_TR"
+msgstr "Марди́н"
+
+msgid "Mersin_TR"
+msgstr "Мерси́н"
+
+msgid "Mugla_TR"
+msgstr "Му́гла"
+
+msgid "Mus_TR"
+msgstr "Муш"
+
+msgid "Nevsehir_TR"
+msgstr "Невшехир"
+
+msgid "Nigde_TR"
+msgstr "Ни́где"
+
+msgid "Ordu_TR"
+msgstr "Орду́"
+
+msgid "Osmaniye_TR"
+msgstr "Османие́"
+
+msgid "Rize_TR"
+msgstr "Ризе"
+
+msgid "Sakarya_TR"
+msgstr "Сакарья"
+
+msgid "Samsun_TR"
+msgstr "Самсу́н"
+
+msgid "Sanliurfa_TR"
+msgstr "Шанлыу́рфа"
+
+msgid "Siirt_TR"
+msgstr "Сии́рт"
+
+msgid "Sinop_TR"
+msgstr "Сино́п"
+
+msgid "Sirnak_TR"
+msgstr "Ширнак"
+
+msgid "Sivas_TR"
+msgstr "Сива́с"
+
+msgid "Tekirdag_TR"
+msgstr "Текирда́г"
+
+msgid "Tokat_TR"
+msgstr "Токат"
+
+msgid "Trabzon_TR"
+msgstr "Трабзо́н"
+
+msgid "Tunceli_TR"
+msgstr "Ту́нджели"
+
+msgid "Usak_TR"
+msgstr "Ушак"
+
+msgid "Van_TR"
+msgstr "Фурго́н"
+
+msgid "Yalova_TR"
+msgstr "Ялова"
+
+msgid "Yozgat_TR"
+msgstr "Йозгат"
+
+msgid "Zonguldak_TR"
+msgstr "Зонгулда́к"
+
+msgid "Arima_TT"
+msgstr "Arima"
+
+msgid "Chaguanas_TT"
+msgstr "Чагуа́нас"
+
+msgid "Couva-Tabaquite-Talparo_TT"
+msgstr "Couva-Табакит-Тальпаро"
+
+msgid "Diego Martin_TT"
+msgstr "Диего Мартин"
+
+msgid "Mayaro-Rio Claro_TT"
+msgstr "Майаро-Рио Кларо"
+
+msgid "Penal-Debe_TT"
+msgstr "Пенал-Деб"
+
+msgid "Point Fortin_TT"
+msgstr "Пойнт Фортин"
+
+msgid "Port of Spain_TT"
+msgstr "Порт-оф-Спейн"
+
+msgid "Princes Town_TT"
+msgstr "Город Принцев"
+
+msgid "San Fernando_TT"
+msgstr "Сан-Фернандо"
+
+msgid "San Juan-Laventille_TT"
+msgstr "Сан-Хуан-Лавентиль"
+
+msgid "Sangre Grande_TT"
+msgstr "Сангре Гранде"
+
+msgid "Siparia_TT"
+msgstr "Сипария"
+
+msgid "Tobago_TT"
+msgstr "Тоба́го"
+
+msgid "Tunapuna-Piarco_TT"
+msgstr "Tunapuna-Piarco"
+
+msgid "Funafuti_TV"
+msgstr "Фунафу́ти"
+
+msgid "Nanumaga_TV"
+msgstr "Нануманга"
+
+msgid "Nanumea_TV"
+msgstr "Нанумеа"
+
+msgid "Niutao_TV"
+msgstr "Ниутао"
+
+msgid "Nui_TV"
+msgstr "Нуи"
+
+msgid "Nukufetau_TV"
+msgstr "Нукуфетау"
+
+msgid "Nukulaelae_TV"
+msgstr "Нукулаэлаэ"
+
+msgid "Vaitupu_TV"
+msgstr "Ваитупу"
+
+msgid "Changhua_TW"
+msgstr "Чжанхуа"
+
+msgid "Chiayi_TW"
+msgstr "Цзяи"
+
+msgid "Hsinchu_TW"
+msgstr "Синьчжу"
+
+msgid "Hualien_TW"
+msgstr "Хуалянь"
+
+msgid "Kaohsiung_TW"
+msgstr "Гаосю́н"
+
+msgid "Keelung_TW"
+msgstr "Цзилу́н"
+
+msgid "Kinmen_TW"
+msgstr "Цзиньмыньцюньдао"
+
+msgid "Lienchiang_TW"
+msgstr "Мацзу"
+
+msgid "Miaoli_TW"
+msgstr "Мяоли́"
+
+msgid "Nantou_TW"
+msgstr "Уезд Наньто́у"
+
+msgid "New Taipei_TW"
+msgstr "Синьбэ́й"
+
+msgid "Penghu_TW"
+msgstr "Уезд Пэнху́"
+
+msgid "Pingtung_TW"
+msgstr "Уезд Пинду́н"
+
+msgid "Taichung_TW"
+msgstr "Тайчжун"
+
+msgid "Tainan_TW"
+msgstr "Тайнань"
+
+msgid "Taipei_TW"
+msgstr "Тайбэ́й"
+
+msgid "Taitung_TW"
+msgstr "Тайдун"
+
+msgid "Taoyuan_TW"
+msgstr "Таоюань"
+
+msgid "Yilan_TW"
+msgstr "Илань"
+
+msgid "Yunlin_TW"
+msgstr "Уезд Юньли́нь"
+
+msgid "Arusha_TZ"
+msgstr "Ару́ша"
+
+msgid "Dar es Salaam_TZ"
+msgstr "Дар-эс-Сала́м"
+
+msgid "Dodoma_TZ"
+msgstr "Додо́ма"
+
+msgid "Geita_TZ"
+msgstr "Geita"
+
+msgid "Iringa_TZ"
+msgstr "Иринга"
+
+msgid "Kagera_TZ"
+msgstr "Кагера"
+
+msgid "Kaskazini Pemba_TZ"
+msgstr "Пемба Северная"
+
+msgid "Kaskazini Unguja_TZ"
+msgstr "Северный Занзибар"
+
+msgid "Katavi_TZ"
+msgstr "Katavi"
+
+msgid "Kigoma_TZ"
+msgstr "Киго́ма"
+
+msgid "Kilimanjaro_TZ"
+msgstr "Килиманджа́ро"
+
+msgid "Kusini Pemba_TZ"
+msgstr "Пемба Южная"
+
+msgid "Kusini Unguja_TZ"
+msgstr "Центрально-Южный Занзибар"
+
+msgid "Lindi_TZ"
+msgstr "Линди"
+
+msgid "Manyara_TZ"
+msgstr "Маньяра"
+
+msgid "Mara_TZ"
+msgstr "Ма́ра"
+
+msgid "Mbeya_TZ"
+msgstr "Мбе́я"
+
+msgid "Mjini Magharibi_TZ"
+msgstr "Западный Занзибар"
+
+msgid "Morogoro_TZ"
+msgstr "Морого́ро"
+
+msgid "Mtwara_TZ"
+msgstr "Мтва́ра"
+
+msgid "Mwanza_TZ"
+msgstr "Мванза"
+
+msgid "Njombe_TZ"
+msgstr "Njombe"
+
+msgid "Pwani_TZ"
+msgstr "Прибрежная провинция"
+
+msgid "Rukwa_TZ"
+msgstr "Руква"
+
+msgid "Ruvuma_TZ"
+msgstr "Руву́ма"
+
+msgid "Shinyanga_TZ"
+msgstr "Шиньянга"
+
+msgid "Simiyu_TZ"
+msgstr "Simiyu"
+
+msgid "Singida_TZ"
+msgstr "Сингида"
+
+msgid "Tabora_TZ"
+msgstr "Табо́ра"
+
+msgid "Tanga_TZ"
+msgstr "Танга"
+
+msgid "Avtonomna Respublika Krym_UA"
+msgstr "Автоно́мная Респу́блика Крым"
+
+msgid "Cherkaska oblast_UA"
+msgstr "Черка́сская о́бласть"
+
+msgid "Chernihivska oblast_UA"
+msgstr "Черни́говская о́бласть"
+
+msgid "Chernivetska oblast_UA"
+msgstr "Черновицкая о́бласть"
+
+msgid "Dnipropetrovska oblast_UA"
+msgstr "Днепропетро́вская о́бласть"
+
+msgid "Donetska oblast_UA"
+msgstr "Доне́цкая о́бласть"
+
+msgid "Ivano-Frankivska oblast_UA"
+msgstr "Ива́но-Франко́вская о́бласть"
+
+msgid "Kharkivska oblast_UA"
+msgstr "Ха́рьковская о́бласть"
+
+msgid "Khersonska oblast_UA"
+msgstr "Херсо́нская о́бласть"
+
+msgid "Khmelnytska oblast_UA"
+msgstr "Хмельни́цкая о́бласть"
+
+msgid "Kirovohradska oblast_UA"
+msgstr "Кировогра́дская о́бласть"
+
+msgid "Kyiv_UA"
+msgstr "Ки́ев"
+
+msgid "Kyivska oblast_UA"
+msgstr "Ки́евская о́бласть"
+
+msgid "Luhanska oblast_UA"
+msgstr "Луга́нская о́бласть"
+
+msgid "Lvivska oblast_UA"
+msgstr "Льво́вская о́бласть"
+
+msgid "Mykolaivska oblast_UA"
+msgstr "Никола́евская о́бласть"
+
+msgid "Odeska oblast_UA"
+msgstr "Оде́сская о́бласть"
+
+msgid "Poltavska oblast_UA"
+msgstr "Полта́вская о́бласть"
+
+msgid "Rivnenska oblast_UA"
+msgstr "Ро́вненская о́бласть"
+
+msgid "Sevastopol_UA"
+msgstr "Севасто́поль"
+
+msgid "Sumska oblast_UA"
+msgstr "Су́мска́я о́бласть"
+
+msgid "Ternopilska oblast_UA"
+msgstr "Терно́польская о́бласть"
+
+msgid "Vinnytska oblast_UA"
+msgstr "Ви́нницкая о́бласть"
+
+msgid "Volynska oblast_UA"
+msgstr "Волы́нская о́бласть"
+
+msgid "Zakarpatska oblast_UA"
+msgstr "Закарпа́тская о́бласть"
+
+msgid "Zaporizka oblast_UA"
+msgstr "Запоро́жская о́бласть"
+
+msgid "Zhytomyrska oblast_UA"
+msgstr "Жито́мирская о́бласть"
+
+msgid "Abim_UG"
+msgstr "Абим"
+
+msgid "Adjumani_UG"
+msgstr "Аджумани"
+
+msgid "Agago_UG"
+msgstr "Agago"
+
+msgid "Alebtong_UG"
+msgstr "Alebtong"
+
+msgid "Amolatar_UG"
+msgstr "Амолатар"
+
+msgid "Amudat_UG"
+msgstr "Amudat"
+
+msgid "Amuria_UG"
+msgstr "Амурия"
+
+msgid "Amuru_UG"
+msgstr "Амуру"
+
+msgid "Apac_UG"
+msgstr "Apac"
+
+msgid "Arua_UG"
+msgstr "Аруа"
+
+msgid "Budaka_UG"
+msgstr "Будака"
+
+msgid "Bududa_UG"
+msgstr "Bududa"
+
+msgid "Bugiri_UG"
+msgstr "Бугири"
+
+msgid "Buhweju_UG"
+msgstr "Buhweju"
+
+msgid "Buikwe_UG"
+msgstr "Buikwe"
+
+msgid "Bukedea_UG"
+msgstr "Bukedea"
+
+msgid "Bukomansibi_UG"
+msgstr "Bukomansibi"
+
+msgid "Bukwa_UG"
+msgstr "Баква"
+
+msgid "Bulambuli_UG"
+msgstr "Bulambuli"
+
+msgid "Buliisa_UG"
+msgstr "Buliisa"
+
+msgid "Bundibugyo_UG"
+msgstr "Бундибугио"
+
+msgid "Bushenyi_UG"
+msgstr "Бушеньи"
+
+msgid "Busia_UG"
+msgstr "Бусиа"
+
+msgid "Butaleja_UG"
+msgstr "Буталеджа"
+
+msgid "Buvuma_UG"
+msgstr "Buvuma"
+
+msgid "Buyende_UG"
+msgstr "Buyende"
+
+msgid "Dokolo_UG"
+msgstr "Доколо"
+
+msgid "Gomba_UG"
+msgstr "Gomba"
+
+msgid "Gulu_UG"
+msgstr "Гулу"
+
+msgid "Hoima_UG"
+msgstr "Хои́ма"
+
+msgid "Ibanda_UG"
+msgstr "Ибанда"
+
+msgid "Iganga_UG"
+msgstr "Иганга"
+
+msgid "Isingiro_UG"
+msgstr "Исингиро"
+
+msgid "Jinja_UG"
+msgstr "дзиндзя"
+
+msgid "Kaabong_UG"
+msgstr "Kaabong"
+
+msgid "Kabale_UG"
+msgstr "Кабале"
+
+msgid "Kabarole_UG"
+msgstr "Кабароле"
+
+msgid "Kaberamaido_UG"
+msgstr "Каберамаидо"
+
+msgid "Kalangala_UG"
+msgstr "Калангала"
+
+msgid "Kaliro_UG"
+msgstr "Калиро"
+
+msgid "Kalungu_UG"
+msgstr "Kalungu"
+
+msgid "Kampala_UG"
+msgstr "Кампа́ла"
+
+msgid "Kamuli_UG"
+msgstr "Камули"
+
+msgid "Kamwenge_UG"
+msgstr "Камвенге"
+
+msgid "Kanungu_UG"
+msgstr "Канунгу"
+
+msgid "Kapchorwa_UG"
+msgstr "Капчорва"
+
+msgid "Kasese_UG"
+msgstr "Касесе"
+
+msgid "Katakwi_UG"
+msgstr "Katakwi"
+
+msgid "Kayunga_UG"
+msgstr "Каюнга"
+
+msgid "Kibaale_UG"
+msgstr "Ки́баале"
+
+msgid "Kiboga_UG"
+msgstr "Кибога"
+
+msgid "Kibuku_UG"
+msgstr "Kibuku"
+
+msgid "Kiruhura_UG"
+msgstr "Кирухура"
+
+msgid "Kiryandongo_UG"
+msgstr "Кирьяндонго"
+
+msgid "Kisoro_UG"
+msgstr "Кисоро"
+
+msgid "Kitgum_UG"
+msgstr "Китгум"
+
+msgid "Koboko_UG"
+msgstr "Кобоко"
+
+msgid "Kole_UG"
+msgstr "Коле"
+
+msgid "Kotido_UG"
+msgstr "Котидо"
+
+msgid "Kumi_UG"
+msgstr "Куми"
+
+msgid "Kween_UG"
+msgstr "Kween"
+
+msgid "Kyankwanzi_UG"
+msgstr "Kyankwanzi"
+
+msgid "Kyegegwa_UG"
+msgstr "Kyegegwa"
+
+msgid "Kyenjojo_UG"
+msgstr "Кьенджоджо"
+
+msgid "Lamwo_UG"
+msgstr "Lamwo"
+
+msgid "Lira_UG"
+msgstr "Ли́ра"
+
+msgid "Luuka_UG"
+msgstr "Luuka"
+
+msgid "Luwero_UG"
+msgstr "Luwero"
+
+msgid "Lwengo_UG"
+msgstr "Lwengo"
+
+msgid "Lyantonde_UG"
+msgstr "Lyantonde"
+
+msgid "Manafwa_UG"
+msgstr "Манафва"
+
+msgid "Maracha_UG"
+msgstr "Марача"
+
+msgid "Masaka_UG"
+msgstr "Масака"
+
+msgid "Masindi_UG"
+msgstr "Масинди"
+
+msgid "Mayuge_UG"
+msgstr "Маюге"
+
+msgid "Mbale_UG"
+msgstr "Мбале"
+
+msgid "Mbarara_UG"
+msgstr "Мбарара"
+
+msgid "Mitooma_UG"
+msgstr "Mitooma"
+
+msgid "Mityana_UG"
+msgstr "Митьяна"
+
+msgid "Moroto_UG"
+msgstr "Moroto"
+
+msgid "Moyo_UG"
+msgstr "Moyo"
+
+msgid "Mpigi_UG"
+msgstr "Мпиги"
+
+msgid "Mubende_UG"
+msgstr "Мубенде"
+
+msgid "Mukono_UG"
+msgstr "Муконо"
+
+msgid "Nakapiripirit_UG"
+msgstr "Накапирипирит"
+
+msgid "Nakaseke_UG"
+msgstr "Накасеке"
+
+msgid "Nakasongola_UG"
+msgstr "Накасонгола"
+
+msgid "Namayingo_UG"
+msgstr "Namayingo"
+
+msgid "Namutumba_UG"
+msgstr "Намутумба"
+
+msgid "Napak_UG"
+msgstr "Napak"
+
+msgid "Nebbi_UG"
+msgstr "Небби"
+
+msgid "Ngora_UG"
+msgstr "Ngora"
+
+msgid "Ntoroko_UG"
+msgstr "Ntoroko"
+
+msgid "Ntungamo_UG"
+msgstr "Нтунгамо"
+
+msgid "Nwoya_UG"
+msgstr "Nwoya"
+
+msgid "Otuke_UG"
+msgstr "Otuke"
+
+msgid "Oyam_UG"
+msgstr "Ой"
+
+msgid "Pader_UG"
+msgstr "Падер"
+
+msgid "Pallisa_UG"
+msgstr "Pallisa"
+
+msgid "Rakai_UG"
+msgstr "Ракаи"
+
+msgid "Rubirizi_UG"
+msgstr "Rubirizi"
+
+msgid "Rukungiri_UG"
+msgstr "Рукунгири"
+
+msgid "Sembabule_UG"
+msgstr "Сембабуле"
+
+msgid "Serere_UG"
+msgstr "Serere"
+
+msgid "Sheema_UG"
+msgstr "Сиронко"
+
+msgid "Sironko_UG"
+msgstr "Сиронко"
+
+msgid "Soroti_UG"
+msgstr "Soroti"
+
+msgid "Tororo_UG"
+msgstr "Торо́ро"
+
+msgid "Wakiso_UG"
+msgstr "Вакисо"
+
+msgid "Yumbe_UG"
+msgstr "Йюмбе"
+
+msgid "Zombo_UG"
+msgstr "Zombo"
+
+msgid "Baker Island_UM"
+msgstr "Бе́йкер"
+
+msgid "Howland Island_UM"
+msgstr "Ха́уленд"
+
+msgid "Jarvis Island_UM"
+msgstr "Джа́рвис"
+
+msgid "Palmyra Atoll_UM"
+msgstr "Атолл Пальмира"
+
+msgid "Alabama_US"
+msgstr "Алабама"
+
+msgid "Alaska_US"
+msgstr "Аляска"
+
+msgid "Arizona_US"
+msgstr "Аризона"
+
+msgid "Arkansas_US"
+msgstr "Арканзас"
+
+msgid "California_US"
+msgstr "Калифорния"
+
+msgid "Colorado_US"
+msgstr "Колорадо"
+
+msgid "Connecticut_US"
+msgstr "Коннектикут"
+
+msgid "Delaware_US"
+msgstr "Делавэр"
+
+msgid "District of Columbia_US"
+msgstr "District of Columbia"
+
+msgid "Florida_US"
+msgstr "Флорида"
+
+msgid "Georgia_US"
+msgstr "Джорджия"
+
+msgid "Hawaii_US"
+msgstr "Гавайи"
+
+msgid "Idaho_US"
+msgstr "Айда́хо"
+
+msgid "Illinois_US"
+msgstr "Иллинойс"
+
+msgid "Indiana_US"
+msgstr "Индиана"
+
+msgid "Iowa_US"
+msgstr "Айова"
+
+msgid "Kansas_US"
+msgstr "Канзас"
+
+msgid "Kentucky_US"
+msgstr "Кентукки"
+
+msgid "Louisiana_US"
+msgstr "Луизиана"
+
+msgid "Maine_US"
+msgstr "Мэн"
+
+msgid "Maryland_US"
+msgstr "Мэриленд"
+
+msgid "Massachusetts_US"
+msgstr "Массачусетс"
+
+msgid "Michigan_US"
+msgstr "Мичиган"
+
+msgid "Minnesota_US"
+msgstr "Миннесота"
+
+msgid "Mississippi_US"
+msgstr "Миссисипи"
+
+msgid "Missouri_US"
+msgstr "Миссури"
+
+msgid "Montana_US"
+msgstr "Монтана"
+
+msgid "Nebraska_US"
+msgstr "Небраска"
+
+msgid "Nevada_US"
+msgstr "Невада"
+
+msgid "New Hampshire_US"
+msgstr "New Hampshire"
+
+msgid "New Jersey_US"
+msgstr "Нью-Джерси"
+
+msgid "New Mexico_US"
+msgstr "Нью-Мексико"
+
+msgid "New York_US"
+msgstr "Нью-Йо́рк"
+
+msgid "North Carolina_US"
+msgstr "Северная Каролина"
+
+msgid "North Dakota_US"
+msgstr "Северная Дакота"
+
+msgid "Ohio_US"
+msgstr "Огайо"
+
+msgid "Oklahoma_US"
+msgstr "Оклахома"
+
+msgid "Oregon_US"
+msgstr "Орегон"
+
+msgid "Pennsylvania_US"
+msgstr "Пенсильвания"
+
+msgid "Rhode Island_US"
+msgstr "Род-Айленд"
+
+msgid "South Carolina_US"
+msgstr "Южная Каролина"
+
+msgid "South Dakota_US"
+msgstr "Южная Дакота"
+
+msgid "Tennessee_US"
+msgstr "Теннесси"
+
+msgid "Texas_US"
+msgstr "Техас"
+
+msgid "Utah_US"
+msgstr "Юта"
+
+msgid "Vermont_US"
+msgstr "Вермонт"
+
+msgid "Virginia_US"
+msgstr "Виргиния"
+
+msgid "Washington_US"
+msgstr "Вашингтон (Уо́шингтон)"
+
+msgid "West Virginia_US"
+msgstr "Западная Виргиния"
+
+msgid "Wisconsin_US"
+msgstr "Висконсин"
+
+msgid "Wyoming_US"
+msgstr "Вайоминг"
+
+msgid "Artigas_UY"
+msgstr "Хосе́ Херва́сио Арти́гас"
+
+msgid "Canelones_UY"
+msgstr "Канело́нес"
+
+msgid "Cerro Largo_UY"
+msgstr "Се́рро-Ла́рго"
+
+msgid "Colonia_UY"
+msgstr "Колония"
+
+msgid "Durazno_UY"
+msgstr "Дурасно"
+
+msgid "Flores_UY"
+msgstr "Фло́рес"
+
+msgid "Florida_UY"
+msgstr "Флорида"
+
+msgid "Lavalleja_UY"
+msgstr "Лавальеха"
+
+msgid "Maldonado_UY"
+msgstr "Мальдона́до"
+
+msgid "Montevideo_UY"
+msgstr "Монтевиде́о"
+
+msgid "Paysandu_UY"
+msgstr "Пайсанду́"
+
+msgid "Rio Negro_UY"
+msgstr "Ри́о-Не́гро"
+
+msgid "Rivera_UY"
+msgstr "Ривера"
+
+msgid "Rocha_UY"
+msgstr "Ро́ча"
+
+msgid "Salto_UY"
+msgstr "Сальто"
+
+msgid "San Jose_UY"
+msgstr "Сан-Хосе́"
+
+msgid "Soriano_UY"
+msgstr "Сориа́но"
+
+msgid "Tacuarembo_UY"
+msgstr "Такуарембо"
+
+msgid "Treinta y Tres_UY"
+msgstr "Трейнта-и-Трес"
+
+msgid "Andijon_UZ"
+msgstr "Андижан"
+
+msgid "Buxoro_UZ"
+msgstr "Буха́рская о́бласть"
+
+msgid "Farg'ona_UZ"
+msgstr "Фергана́"
+
+msgid "Jizzax_UZ"
+msgstr "Джиза́к"
+
+msgid "Namangan_UZ"
+msgstr "Наманга́н"
+
+msgid "Navoiy_UZ"
+msgstr "Навои́"
+
+msgid "Qashqadaryo_UZ"
+msgstr "Кашкадарьи́нская о́бласть"
+
+msgid "Qoraqalpog'iston Respublikasi_UZ"
+msgstr "Респу́блика Каракалпакста́н"
+
+msgid "Samarqand_UZ"
+msgstr "Самарка́нд"
+
+msgid "Sirdaryo_UZ"
+msgstr "Сырдарья"
+
+msgid "Surxondaryo_UZ"
+msgstr "Сурхандарьи́нская о́бласть"
+
+msgid "Toshkent_UZ"
+msgstr "Ташке́нт"
+
+msgid "Xorazm_UZ"
+msgstr "Хоре́зм"
+
+msgid "Vatican City_VA"
+msgstr "Ватика́н"
+
+msgid "Charlotte_VC"
+msgstr "Ша́рлотт"
+
+msgid "Grenadines_VC"
+msgstr "Гренадины"
+
+msgid "Saint David_VC"
+msgstr "Святой Давид"
+
+msgid "Saint George_VC"
+msgstr "Святой Георгий"
+
+msgid "Saint Patrick_VC"
+msgstr "Святой Патрик"
+
+msgid "Amazonas_VE"
+msgstr "Амазо́нас"
+
+msgid "Anzoategui_VE"
+msgstr "Ансоа́теги"
+
+msgid "Apure_VE"
+msgstr "Апу́ре"
+
+msgid "Aragua_VE"
+msgstr "Ара́гуа"
+
+msgid "Barinas_VE"
+msgstr "Бари́нас"
+
+msgid "Bolivar_VE"
+msgstr "Боливар"
+
+msgid "Carabobo_VE"
+msgstr "Карабо́бо"
+
+msgid "Cojedes_VE"
+msgstr "Кохедес"
+
+msgid "Delta Amacuro_VE"
+msgstr "Дельта-Амакуро"
+
+msgid "Dependencias Federales_VE"
+msgstr "Федеральные владения"
+
+msgid "Distrito Capital_VE"
+msgstr "Столичный округ"
+
+msgid "Falcon_VE"
+msgstr "Фалькон"
+
+msgid "Guarico_VE"
+msgstr "Гуа́рико"
+
+msgid "Lara_VE"
+msgstr "Лара"
+
+msgid "Merida_VE"
+msgstr "Ме́рида"
+
+msgid "Miranda_VE"
+msgstr "Мира́нда"
+
+msgid "Monagas_VE"
+msgstr "Мона́гас"
+
+msgid "Nueva Esparta_VE"
+msgstr "Нуэва-Эспарта"
+
+msgid "Portuguesa_VE"
+msgstr "Португеза"
+
+msgid "Sucre_VE"
+msgstr "Су́кре"
+
+msgid "Tachira_VE"
+msgstr "Та́чира"
+
+msgid "Trujillo_VE"
+msgstr "Трухильо"
+
+msgid "Vargas_VE"
+msgstr "Варгас"
+
+msgid "Yaracuy_VE"
+msgstr "Яракуй"
+
+msgid "Zulia_VE"
+msgstr "Сулия"
+
+msgid "Virgin Islands, British_VG"
+msgstr "Виргинские Острова"
+
+msgid "Virgin Islands, U.S._VI"
+msgstr "Вирги́нские Острова́"
+
+msgid "An Giang_VN"
+msgstr "Анзя́нг"
+
+msgid "Ba Ria - Vung Tau_VN"
+msgstr "Бариа-Вунгта́у"
+
+msgid "Bac Giang_VN"
+msgstr "Бакзянг"
+
+msgid "Bac Kan_VN"
+msgstr "Бакка́н"
+
+msgid "Bac Lieu_VN"
+msgstr "Баклье́у"
+
+msgid "Bac Ninh_VN"
+msgstr "Бакнинь"
+
+msgid "Ben Tre_VN"
+msgstr "Бенче́"
+
+msgid "Binh Dinh_VN"
+msgstr "Биньди́нь"
+
+msgid "Binh Duong_VN"
+msgstr "Биньзыо́нг"
+
+msgid "Binh Phuoc_VN"
+msgstr "Биньфыок"
+
+msgid "Binh Thuan_VN"
+msgstr "Биньтхуа́н"
+
+msgid "Ca Mau_VN"
+msgstr "Кама́у"
+
+msgid "Can Tho_VN"
+msgstr "Кантхо́"
+
+msgid "Cao Bang_VN"
+msgstr "Каобанг"
+
+msgid "Da Nang_VN"
+msgstr "Дана́нг"
+
+msgid "Dak Lak_VN"
+msgstr "Дакла́к"
+
+msgid "Dak Nong_VN"
+msgstr "Дакно́нг"
+
+msgid "Dien Bien_VN"
+msgstr "Дьенбье́н"
+
+msgid "Dong Nai_VN"
+msgstr "Донгна́й"
+
+msgid "Dong Thap_VN"
+msgstr "Донгтха́п"
+
+msgid "Gia Lai_VN"
+msgstr "Зялай"
+
+msgid "Ha Giang_VN"
+msgstr "Хазя́нг"
+
+msgid "Ha Nam_VN"
+msgstr "Хана́м"
+
+msgid "Ha Noi_VN"
+msgstr "Хано́й"
+
+msgid "Ha Tinh_VN"
+msgstr "Хати́нь"
+
+msgid "Hai Duong_VN"
+msgstr "Хайзыо́нг"
+
+msgid "Hai Phong_VN"
+msgstr "Хайфо́н"
+
+msgid "Ho Chi Minh_VN"
+msgstr "Хо Ши Мин"
+
+msgid "Hoa Binh_VN"
+msgstr "Хоабинь"
+
+msgid "Hung Yen_VN"
+msgstr "Хынгйен"
+
+msgid "Khanh Hoa_VN"
+msgstr "Кханьхоа"
+
+msgid "Kien Giang_VN"
+msgstr "Кьензя́нг"
+
+msgid "Kon Tum_VN"
+msgstr "Конту́м"
+
+msgid "Lai Chau_VN"
+msgstr "Лайтя́у"
+
+msgid "Lam Dong_VN"
+msgstr "Ламдо́нг"
+
+msgid "Lang Son_VN"
+msgstr "Лангшо́н"
+
+msgid "Lao Cai_VN"
+msgstr "Лаока́й"
+
+msgid "Long An_VN"
+msgstr "Лонга́н"
+
+msgid "Nam Dinh_VN"
+msgstr "Намди́нь"
+
+msgid "Nghe An_VN"
+msgstr "Нгеа́н"
+
+msgid "Ninh Binh_VN"
+msgstr "Ниньби́нь"
+
+msgid "Ninh Thuan_VN"
+msgstr "Ниньтхуан"
+
+msgid "Phu Tho_VN"
+msgstr "Футхо́"
+
+msgid "Phu Yen_VN"
+msgstr "Фуйе́н"
+
+msgid "Quang Binh_VN"
+msgstr "Куангби́нь"
+
+msgid "Quang Nam_VN"
+msgstr "Куангна́м"
+
+msgid "Quang Ngai_VN"
+msgstr "Куангнгай"
+
+msgid "Quang Ninh_VN"
+msgstr "Куангнинь"
+
+msgid "Quang Tri_VN"
+msgstr "Куангчи́"
+
+msgid "Soc Trang_VN"
+msgstr "Шокча́нг"
+
+msgid "Son La_VN"
+msgstr "Шонла"
+
+msgid "Tay Ninh_VN"
+msgstr "Тэйни́нь"
+
+msgid "Thai Binh_VN"
+msgstr "Тхайбинь"
+
+msgid "Thai Nguyen_VN"
+msgstr "Тхайнгуен"
+
+msgid "Thanh Hoa_VN"
+msgstr "Тханьхоа"
+
+msgid "Thua Thien-Hue_VN"
+msgstr "Тхыатхьен-Хюэ"
+
+msgid "Tien Giang_VN"
+msgstr "Тьензя́нг"
+
+msgid "Tra Vinh_VN"
+msgstr "Чавинь"
+
+msgid "Tuyen Quang_VN"
+msgstr "Туенкуанг"
+
+msgid "Vinh Long_VN"
+msgstr "Виньло́нг"
+
+msgid "Vinh Phuc_VN"
+msgstr "Виньфу́к"
+
+msgid "Yen Bai_VN"
+msgstr "Йенбай"
+
+msgid "Malampa_VU"
+msgstr "Малампа"
+
+msgid "Penama_VU"
+msgstr "Пенама"
+
+msgid "Sanma_VU"
+msgstr "Санма"
+
+msgid "Shefa_VU"
+msgstr "Шефа"
+
+msgid "Tafea_VU"
+msgstr "Тафеа"
+
+msgid "Torba_VU"
+msgstr "То́рба"
+
+msgid "Alo_WF"
+msgstr "Ало"
+
+msgid "Sigave_WF"
+msgstr "Сигав"
+
+msgid "Uvea_WF"
+msgstr "Сосудистая оболочка глаза"
+
+msgid "A'ana_WS"
+msgstr "Аана"
+
+msgid "Aiga-i-le-Tai_WS"
+msgstr "Аига-и-ле-Таи"
+
+msgid "Atua_WS"
+msgstr "Ату́а"
+
+msgid "Fa'asaleleaga_WS"
+msgstr "Фаасалелеага"
+
+msgid "Gagaifomauga_WS"
+msgstr "Гагаифомауга"
+
+msgid "Palauli_WS"
+msgstr "Палаули"
+
+msgid "Satupa'itea_WS"
+msgstr "Сатупаитеа"
+
+msgid "Tuamasaga_WS"
+msgstr "Туамасага"
+
+msgid "Va'a-o-Fonoti_WS"
+msgstr "Ваа-о-Фоноти"
+
+msgid "Vaisigano_WS"
+msgstr "Ваисигано"
+
+msgid "'Adan_YE"
+msgstr "А́ден"
+
+msgid "'Amran_YE"
+msgstr "Амран"
+
+msgid "Abyan_YE"
+msgstr "Абьян"
+
+msgid "Ad Dali'_YE"
+msgstr "Эд-Дали"
+
+msgid "Al Bayda'_YE"
+msgstr "Эль-Байда"
+
+msgid "Al Hudaydah_YE"
+msgstr "Ходейда"
+
+msgid "Al Jawf_YE"
+msgstr "Эль-Джауф"
+
+msgid "Al Mahrah_YE"
+msgstr "Эль-Махра"
+
+msgid "Al Mahwit_YE"
+msgstr "Эль-Махвит"
+
+msgid "Amanat al 'Asimah_YE"
+msgstr "Сана"
+
+msgid "Dhamar_YE"
+msgstr "Дамар"
+
+msgid "Hadramawt_YE"
+msgstr "Хадрамаут"
+
+msgid "Hajjah_YE"
+msgstr "Хадджа"
+
+msgid "Ibb_YE"
+msgstr "Ибб"
+
+msgid "Lahij_YE"
+msgstr "Лахдж"
+
+msgid "Ma'rib_YE"
+msgstr "Мариб"
+
+msgid "Raymah_YE"
+msgstr "Райма"
+
+msgid "Sa'dah_YE"
+msgstr "Саада"
+
+msgid "San'a'_YE"
+msgstr "Сана"
+
+msgid "Shabwah_YE"
+msgstr "Шабва"
+
+msgid "Ta'izz_YE"
+msgstr "Та́из"
+
+msgid "Acoua_YT"
+msgstr "Аква"
+
+msgid "Bandraboua_YT"
+msgstr "Bandraboua"
+
+msgid "Bandrele_YT"
+msgstr "Bandrele"
+
+msgid "Boueni_YT"
+msgstr "Boueni"
+
+msgid "Chiconi_YT"
+msgstr "Chiconi"
+
+msgid "Chirongui_YT"
+msgstr "Chirongui"
+
+msgid "Dzaoudzi_YT"
+msgstr "Дза́удзи"
+
+msgid "Kani-Keli_YT"
+msgstr "Кани-Кели"
+
+msgid "Koungou_YT"
+msgstr "Конго"
+
+msgid "Mamoudzou_YT"
+msgstr "Мамуцу"
+
+msgid "Mtsamboro_YT"
+msgstr "Мзамборо"
+
+msgid "Ouangani_YT"
+msgstr "Уангани"
+
+msgid "Pamandzi_YT"
+msgstr "Сандаванге"
+
+msgid "Sada_YT"
+msgstr "Сада"
+
+msgid "Tsingoni_YT"
+msgstr "Шингони"
+
+msgid "Eastern Cape_ZA"
+msgstr "Восточно-Капская провинция"
+
+msgid "Free State_ZA"
+msgstr "Фри-Стейт"
+
+msgid "Gauteng_ZA"
+msgstr "Гауте́нг"
+
+msgid "Kwazulu-Natal_ZA"
+msgstr "Квазу́лу-Ната́л"
+
+msgid "Limpopo_ZA"
+msgstr "Лимпо́по"
+
+msgid "Mpumalanga_ZA"
+msgstr "Мпумала́нга"
+
+msgid "North-West_ZA"
+msgstr "Румб"
+
+msgid "Northern Cape_ZA"
+msgstr "Северо-Капская провинция"
+
+msgid "Western Cape_ZA"
+msgstr "Западно-Капская провинция"
+
+msgid "Central_ZM"
+msgstr "Центральная провинция"
+
+msgid "Copperbelt_ZM"
+msgstr "Медный пояс"
+
+msgid "Eastern_ZM"
+msgstr "Восточная провинция"
+
+msgid "Luapula_ZM"
+msgstr "Луапу́ла"
+
+msgid "Lusaka_ZM"
+msgstr "Луса́ка"
+
+msgid "North-Western_ZM"
+msgstr "Северо-Западная провинция"
+
+msgid "Northern_ZM"
+msgstr "Се́верная прови́нция"
+
+msgid "Southern_ZM"
+msgstr "Южная провинция"
+
+msgid "Western_ZM"
+msgstr "Западная провинция"
+
+msgid "Bulawayo_ZW"
+msgstr "Булава́йо"
+
+msgid "Harare_ZW"
+msgstr "Хара́ре"
+
+msgid "Manicaland_ZW"
+msgstr "Маникаленд"
+
+msgid "Mashonaland Central_ZW"
+msgstr "Центральный Машоналенд"
+
+msgid "Mashonaland East_ZW"
+msgstr "Восточный Машоналенд"
+
+msgid "Mashonaland West_ZW"
+msgstr "Западный Машоналенд"
+
+msgid "Masvingo_ZW"
+msgstr "Масвинго"
+
+msgid "Matabeleland North_ZW"
+msgstr "Северный Матабелеленд"
+
+msgid "Matabeleland South_ZW"
+msgstr "Южный Матабелеленд"
+
+msgid "Midlands_ZW"
+msgstr "Мидлендс"

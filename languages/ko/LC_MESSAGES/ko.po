@@ -1,0 +1,12647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-29 09:01+0800\n"
+"PO-Revision-Date: 2018-10-29 09:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ko\n"
+
+msgid "Andorra_AD_C"
+msgstr "안도라"
+
+msgid "United Arab Emirates_AE_C"
+msgstr "아랍에미리트"
+
+msgid "Afghanistan_AF_C"
+msgstr "아프가니스탄"
+
+msgid "Antigua and Barbuda_AG_C"
+msgstr "앤티가 바부다"
+
+msgid "Anguilla_AI_C"
+msgstr "앵귈라"
+
+msgid "Albania_AL_C"
+msgstr "알바니아"
+
+msgid "Armenia_AM_C"
+msgstr "아르메니아"
+
+msgid "Angola_AO_C"
+msgstr "앙골라"
+
+msgid "Antarctica_AQ_C"
+msgstr "남극"
+
+msgid "Argentina_AR_C"
+msgstr "아르헨티나"
+
+msgid "American Samoa_AS_C"
+msgstr "아메리칸사모아"
+
+msgid "Austria_AT_C"
+msgstr "오스트리아"
+
+msgid "Australia_AU_C"
+msgstr "오스트레일리아"
+
+msgid "Aruba_AW_C"
+msgstr "아루바"
+
+msgid "Aland Islands_AX_C"
+msgstr "올란드 제도"
+
+msgid "Azerbaijian_AZ_C"
+msgstr "아제르바이잔"
+
+msgid "Bosnia and Herzegovina_BA_C"
+msgstr "보스니아 헤르체고비나"
+
+msgid "Barbados_BB_C"
+msgstr "바베이도스"
+
+msgid "Bangladesh_BD_C"
+msgstr "방글라데시"
+
+msgid "Belgium_BE_C"
+msgstr "벨기에"
+
+msgid "Burkina Faso_BF_C"
+msgstr "부르키나파소"
+
+msgid "Bulgaria_BG_C"
+msgstr "불가리아"
+
+msgid "Bahrain_BH_C"
+msgstr "바레인"
+
+msgid "Burundi_BI_C"
+msgstr "부룬디"
+
+msgid "Benin_BJ_C"
+msgstr "베냉"
+
+msgid "Saint Barthelemy_BL_C"
+msgstr "생바르텔레미"
+
+msgid "Bermuda_BM_C"
+msgstr "버뮤다"
+
+msgid "Brunei Darussalam_BN_C"
+msgstr "브루나이"
+
+msgid "Bolivia, Plurinational State of_BO_C"
+msgstr "볼리비아"
+
+msgid "Bonaire, Sint Eustatius and Saba_BQ_C"
+msgstr "카리브 네덜란드"
+
+msgid "Brazil_BR_C"
+msgstr "브라질"
+
+msgid "Bahamas_BS_C"
+msgstr "바하마"
+
+msgid "Bhutan_BT_C"
+msgstr "부탄"
+
+msgid "Botswana_BW_C"
+msgstr "보츠와나"
+
+msgid "Belarus_BY_C"
+msgstr "벨라루스"
+
+msgid "Belize_BZ_C"
+msgstr "벨리즈"
+
+msgid "Canada_CA_C"
+msgstr "캐나다"
+
+msgid "Cocos (Keeling) Islands_CC_C"
+msgstr "코코스 제도"
+
+msgid "Congo, The Democratic Republic of The_CD_C"
+msgstr "콩고 민주 공화국"
+
+msgid "Central African Republic_CF_C"
+msgstr "중앙아프리카 공화국"
+
+msgid "Congo_CG_C"
+msgstr "콩고"
+
+msgid "Switzerland_CH_C"
+msgstr "스위스"
+
+msgid "Cote D'ivoire_CI_C"
+msgstr "코트디부아르"
+
+msgid "Cook Islands_CK_C"
+msgstr "쿡 제도"
+
+msgid "Chile_CL_C"
+msgstr "칠레"
+
+msgid "Cameroon_CM_C"
+msgstr "카메룬"
+
+msgid "China_CN_C"
+msgstr "중화인민공화국"
+
+msgid "Colombia_CO_C"
+msgstr "콜롬비아"
+
+msgid "Costa Rica_CR_C"
+msgstr "코스타리카"
+
+msgid "Cuba_CU_C"
+msgstr "쿠바"
+
+msgid "Cabo Verde_CV_C"
+msgstr "카보베르데"
+
+msgid "Curacao_CW_C"
+msgstr "퀴라소"
+
+msgid "Christmas Island_CX_C"
+msgstr "크리스마스섬"
+
+msgid "Cyprus_CY_C"
+msgstr "키프로스"
+
+msgid "Czech Republic_CZ_C"
+msgstr "체코"
+
+msgid "Germany_DE_C"
+msgstr "독일"
+
+msgid "Djibouti_DJ_C"
+msgstr "지부티"
+
+msgid "Denmark_DK_C"
+msgstr "덴마크"
+
+msgid "Dominica_DM_C"
+msgstr "도미니카 연방"
+
+msgid "Dominican Republic_DO_C"
+msgstr "도미니카 공화국"
+
+msgid "Algeria_DZ_C"
+msgstr "알제리"
+
+msgid "Ecuador_EC_C"
+msgstr "에콰도르"
+
+msgid "Estonia_EE_C"
+msgstr "에스토니아"
+
+msgid "Egypt_EG_C"
+msgstr "이집트"
+
+msgid "Western Sahara_EH_C"
+msgstr "서사하라"
+
+msgid "Eritrea_ER_C"
+msgstr "에리트레아"
+
+msgid "Spain_ES_C"
+msgstr "스페인"
+
+msgid "Ethiopia_ET_C"
+msgstr "에티오피아"
+
+msgid "Finland_FI_C"
+msgstr "핀란드"
+
+msgid "Fiji_FJ_C"
+msgstr "피지"
+
+msgid "Falkland Islands (Malvinas)_FK_C"
+msgstr "포클랜드 제도"
+
+msgid "Micronesia, Federated States of_FM_C"
+msgstr "미크로네시아 연방"
+
+msgid "Faroe Islands_FO_C"
+msgstr "페로 제도"
+
+msgid "France_FR_C"
+msgstr "프랑스"
+
+msgid "Gabon_GA_C"
+msgstr "가봉"
+
+msgid "United Kingdom_GB_C"
+msgstr "영국"
+
+msgid "Grenada_GD_C"
+msgstr "그레나다"
+
+msgid "Georgia_GE_C"
+msgstr "조지아"
+
+msgid "French Guiana_GF_C"
+msgstr "프랑스령 기아나"
+
+msgid "Guernsey_GG_C"
+msgstr "건지 섬"
+
+msgid "Ghana_GH_C"
+msgstr "가나"
+
+msgid "Gibraltar_GI_C"
+msgstr "지브롤터"
+
+msgid "Greenland_GL_C"
+msgstr "그린란드"
+
+msgid "Gambia_GM_C"
+msgstr "감비아"
+
+msgid "Guinea_GN_C"
+msgstr "기니"
+
+msgid "Guadeloupe_GP_C"
+msgstr "과들루프"
+
+msgid "Equatorial Guinea_GQ_C"
+msgstr "적도 기니"
+
+msgid "Greece_GR_C"
+msgstr "그리스"
+
+msgid "South Georgia and The South Sandwich Islands_GS_C"
+msgstr "사우스조지아 사우스샌드위치 제도"
+
+msgid "Guatemala_GT_C"
+msgstr "과테말라"
+
+msgid "Guam_GU_C"
+msgstr "괌"
+
+msgid "Guinea-Bissau_GW_C"
+msgstr "기니비사우"
+
+msgid "Guyana_GY_C"
+msgstr "가이아나"
+
+msgid "Hong Kong_HK_C"
+msgstr "홍콩"
+
+msgid "Honduras_HN_C"
+msgstr "온두라스"
+
+msgid "Croatia_HR_C"
+msgstr "크로아티아"
+
+msgid "Haiti_HT_C"
+msgstr "아이티"
+
+msgid "Hungary_HU_C"
+msgstr "헝가리"
+
+msgid "Indonesia_ID_C"
+msgstr "인도네시아"
+
+msgid "Ireland_IE_C"
+msgstr "아일랜드섬"
+
+msgid "Israel_IL_C"
+msgstr "이스라엘"
+
+msgid "Isle of Man_IM_C"
+msgstr "맨섬"
+
+msgid "India_IN_C"
+msgstr "인도"
+
+msgid "British Indian Ocean Territory_IO_C"
+msgstr "영국령 인도양 지역"
+
+msgid "Iraq_IQ_C"
+msgstr "이라크"
+
+msgid "Iran, Islamic Republic of_IR_C"
+msgstr "이란"
+
+msgid "Iceland_IS_C"
+msgstr "아이슬란드"
+
+msgid "Italy_IT_C"
+msgstr "이탈리아"
+
+msgid "Jersey_JE_C"
+msgstr "저지섬"
+
+msgid "Jamaica_JM_C"
+msgstr "자메이카"
+
+msgid "Jordan_JO_C"
+msgstr "요르단"
+
+msgid "Japan_JP_C"
+msgstr "일본"
+
+msgid "Kenya_KE_C"
+msgstr "케냐"
+
+msgid "Kyrgyzstan_KG_C"
+msgstr "키르기스스탄"
+
+msgid "Cambodia_KH_C"
+msgstr "캄보디아"
+
+msgid "Kiribati_KI_C"
+msgstr "키리바시"
+
+msgid "Comoros_KM_C"
+msgstr "코모로"
+
+msgid "Saint Kitts and Nevis_KN_C"
+msgstr "세인트키츠 네비스"
+
+msgid "Korea, Democratic People's Republic of_KP_C"
+msgstr "조선민주주의인민공화국"
+
+msgid "Korea, Republic of_KR_C"
+msgstr "대한민국"
+
+msgid "Kuwait_KW_C"
+msgstr "쿠웨이트"
+
+msgid "Cayman Islands_KY_C"
+msgstr "케이맨 제도"
+
+msgid "Kazakhstan_KZ_C"
+msgstr "카자흐스탄"
+
+msgid "Lao People's Democratic Republic_LA_C"
+msgstr "라오스"
+
+msgid "Lebanon_LB_C"
+msgstr "레바논"
+
+msgid "Saint Lucia_LC_C"
+msgstr "세인트루시아"
+
+msgid "Liechtenstein_LI_C"
+msgstr "리히텐슈타인"
+
+msgid "Sri Lanka_LK_C"
+msgstr "스리랑카"
+
+msgid "Liberia_LR_C"
+msgstr "라이베리아"
+
+msgid "Lesotho_LS_C"
+msgstr "레소토"
+
+msgid "Lithuania_LT_C"
+msgstr "리투아니아"
+
+msgid "Luxembourg_LU_C"
+msgstr "룩셈부르크"
+
+msgid "Latvia_LV_C"
+msgstr "라트비아"
+
+msgid "Libya_LY_C"
+msgstr "리비아"
+
+msgid "Morocco_MA_C"
+msgstr "모로코"
+
+msgid "Monaco_MC_C"
+msgstr "모나코"
+
+msgid "Moldova, Republic of_MD_C"
+msgstr "몰도바"
+
+msgid "Montenegro_ME_C"
+msgstr "몬테네그로"
+
+msgid "Saint Martin (French Part)_MF_C"
+msgstr "생마르탱"
+
+msgid "Madagascar_MG_C"
+msgstr "마다가스카르"
+
+msgid "Marshall Islands_MH_C"
+msgstr "마셜 제도"
+
+msgid "Macedonia, The Former Yugoslav Republic of_MK_C"
+msgstr "마케도니아 공화국"
+
+msgid "Mali_ML_C"
+msgstr "말리"
+
+msgid "Myanmar_MM_C"
+msgstr "미얀마"
+
+msgid "Mongolia_MN_C"
+msgstr "몽골"
+
+msgid "Macao_MO_C"
+msgstr "마카오"
+
+msgid "Northern Mariana Islands_MP_C"
+msgstr "북마리아나 제도"
+
+msgid "Martinique_MQ_C"
+msgstr "마르티니크"
+
+msgid "Mauritania_MR_C"
+msgstr "모리타니"
+
+msgid "Montserrat_MS_C"
+msgstr "몬트세랫"
+
+msgid "Malta_MT_C"
+msgstr "몰타"
+
+msgid "Mauritius_MU_C"
+msgstr "모리셔스"
+
+msgid "Maldives_MV_C"
+msgstr "몰디브"
+
+msgid "Malawi_MW_C"
+msgstr "말라위"
+
+msgid "Mexico_MX_C"
+msgstr "멕시코"
+
+msgid "Malaysia_MY_C"
+msgstr "말레이시아"
+
+msgid "Mozambique_MZ_C"
+msgstr "모잠비크"
+
+msgid "Namibia_NA_C"
+msgstr "나미비아"
+
+msgid "New Caledonia_NC_C"
+msgstr "누벨칼레도니"
+
+msgid "Niger_NE_C"
+msgstr "니제르"
+
+msgid "Norfolk Island_NF_C"
+msgstr "노퍽섬"
+
+msgid "Nigeria_NG_C"
+msgstr "나이지리아"
+
+msgid "Nicaragua_NI_C"
+msgstr "니카라과"
+
+msgid "Netherlands_NL_C"
+msgstr "네덜란드"
+
+msgid "Norway_NO_C"
+msgstr "노르웨이"
+
+msgid "Nepal_NP_C"
+msgstr "네팔"
+
+msgid "Nauru_NR_C"
+msgstr "나우루"
+
+msgid "Niue_NU_C"
+msgstr "니우에"
+
+msgid "New Zealand_NZ_C"
+msgstr "뉴질랜드"
+
+msgid "Oman_OM_C"
+msgstr "오만"
+
+msgid "Panama_PA_C"
+msgstr "파나마"
+
+msgid "Peru_PE_C"
+msgstr "페루"
+
+msgid "French Polynesia_PF_C"
+msgstr "프랑스령 폴리네시아"
+
+msgid "Papua New Guinea_PG_C"
+msgstr "파푸아뉴기니"
+
+msgid "Philippines_PH_C"
+msgstr "필리핀"
+
+msgid "Pakistan_PK_C"
+msgstr "파키스탄"
+
+msgid "Poland_PL_C"
+msgstr "폴란드"
+
+msgid "Saint Pierre and Miquelon_PM_C"
+msgstr "생피에르 미클롱"
+
+msgid "Pitcairn_PN_C"
+msgstr "핏케언 제도"
+
+msgid "Puerto Rico_PR_C"
+msgstr "푸에르토리코"
+
+msgid "Palestine, State of_PS_C"
+msgstr "팔레스타인"
+
+msgid "Portugal_PT_C"
+msgstr "포르투갈"
+
+msgid "Palau_PW_C"
+msgstr "팔라우"
+
+msgid "Paraguay_PY_C"
+msgstr "파라과이"
+
+msgid "Qatar_QA_C"
+msgstr "카타르"
+
+msgid "Reunion_RE_C"
+msgstr "레위니옹"
+
+msgid "Romania_RO_C"
+msgstr "루마니아"
+
+msgid "Serbia_RS_C"
+msgstr "세르비아"
+
+msgid "Russian Federation_RU_C"
+msgstr "러시아"
+
+msgid "Rwanda_RW_C"
+msgstr "르완다"
+
+msgid "Saudi Arabia_SA_C"
+msgstr "사우디아라비아"
+
+msgid "Solomon Islands_SB_C"
+msgstr "솔로몬 제도"
+
+msgid "Seychelles_SC_C"
+msgstr "세이셸"
+
+msgid "Sudan_SD_C"
+msgstr "수단"
+
+msgid "Sweden_SE_C"
+msgstr "스웨덴"
+
+msgid "Singapore_SG_C"
+msgstr "싱가포르"
+
+msgid "Saint Helena, Ascension and Tristan Da Cunha_SH_C"
+msgstr "세인트헬레나 어센션 트리스탄다쿠냐"
+
+msgid "Slovenia_SI_C"
+msgstr "슬로베니아"
+
+msgid "Svalbard and Jan Mayen_SJ_C"
+msgstr "스발바르 얀마옌 제도"
+
+msgid "Slovakia_SK_C"
+msgstr "슬로바키아"
+
+msgid "Sierra Leone_SL_C"
+msgstr "시에라리온"
+
+msgid "San Marino_SM_C"
+msgstr "산마리노"
+
+msgid "Senegal_SN_C"
+msgstr "세네갈"
+
+msgid "Somalia_SO_C"
+msgstr "소말리아"
+
+msgid "Suriname_SR_C"
+msgstr "수리남"
+
+msgid "South Sudan_SS_C"
+msgstr "남수단"
+
+msgid "Sao Tome and Principe_ST_C"
+msgstr "상투메 프린시페"
+
+msgid "El Salvador_SV_C"
+msgstr "엘살바도르"
+
+msgid "Sint Maarten (Dutch Part)_SX_C"
+msgstr "신트마르턴"
+
+msgid "Syrian Arab Republic_SY_C"
+msgstr "시리아"
+
+msgid "Swaziland_SZ_C"
+msgstr "에스와티니"
+
+msgid "Turks and Caicos Islands_TC_C"
+msgstr "터크스 케이커스 제도"
+
+msgid "Chad_TD_C"
+msgstr "차드"
+
+msgid "French Southern Territories_TF_C"
+msgstr "프랑스령 남방 및 남극"
+
+msgid "Togo_TG_C"
+msgstr "토고"
+
+msgid "Thailand_TH_C"
+msgstr "태국"
+
+msgid "Tajikistan_TJ_C"
+msgstr "타지키스탄"
+
+msgid "Tokelau_TK_C"
+msgstr "토켈라우"
+
+msgid "Timor-Leste_TL_C"
+msgstr "동티모르"
+
+msgid "Turkmenistan_TM_C"
+msgstr "투르크메니스탄"
+
+msgid "Tunisia_TN_C"
+msgstr "튀니지"
+
+msgid "Tonga_TO_C"
+msgstr "통가"
+
+msgid "Turkey_TR_C"
+msgstr "터키"
+
+msgid "Trinidad and Tobago_TT_C"
+msgstr "트리니다드 토바고"
+
+msgid "Tuvalu_TV_C"
+msgstr "투발루"
+
+msgid "Taiwan, Province of China_TW_C"
+msgstr "중화민국"
+
+msgid "Tanzania, United Republic of_TZ_C"
+msgstr "탄자니아"
+
+msgid "Ukraine_UA_C"
+msgstr "우크라이나"
+
+msgid "Uganda_UG_C"
+msgstr "우간다"
+
+msgid "United States Minor Outlying Islands_UM_C"
+msgstr "미국령 군소 제도"
+
+msgid "United States_US_C"
+msgstr "미국"
+
+msgid "Uruguay_UY_C"
+msgstr "우루과이"
+
+msgid "Uzbekistan_UZ_C"
+msgstr "우즈베키스탄"
+
+msgid "Holy See_VA_C"
+msgstr "성좌 (가톨릭)"
+
+msgid "Saint Vincent and The Grenadines_VC_C"
+msgstr "세인트빈센트 그레나딘"
+
+msgid "Venezuela, Bolivarian Republic of_VE_C"
+msgstr "베네수엘라"
+
+msgid "Virgin Islands, British_VG_C"
+msgstr "영국령 버진아일랜드"
+
+msgid "Virgin Islands, U.S._VI_C"
+msgstr "미국령 버진아일랜드"
+
+msgid "Viet Nam_VN_C"
+msgstr "베트남"
+
+msgid "Vanuatu_VU_C"
+msgstr "바누아투"
+
+msgid "Wallis and Futuna_WF_C"
+msgstr "왈리스 퓌튀나"
+
+msgid "Samoa_WS_C"
+msgstr "사모아"
+
+msgid "Yemen_YE_C"
+msgstr "예멘"
+
+msgid "Mayotte_YT_C"
+msgstr "마요트"
+
+msgid "South Africa_ZA_C"
+msgstr "남아프리카 공화국"
+
+msgid "Zambia_ZM_C"
+msgstr "잠비아"
+
+msgid "Zimbabwe_ZW_C"
+msgstr "짐바브웨"
+
+msgid "Andorra la Vella_AD"
+msgstr "안도라라베야"
+
+msgid "Canillo_AD"
+msgstr "카닐료"
+
+msgid "Encamp_AD"
+msgstr "엥캄"
+
+msgid "Escaldes-Engordany_AD"
+msgstr "에스칼데스엥고르다뉴"
+
+msgid "La Massana_AD"
+msgstr "라마사나"
+
+msgid "Ordino_AD"
+msgstr "오르디노"
+
+msgid "Sant Julia de Loria_AD"
+msgstr "산트줄리아데로리아"
+
+msgid "'Ajman_AE"
+msgstr "아지만"
+
+msgid "Abu Zaby_AE"
+msgstr "아부다비"
+
+msgid "Al Fujayrah_AE"
+msgstr "푸자이라 토후국"
+
+msgid "Ash Shariqah_AE"
+msgstr "샤르자"
+
+msgid "Dubayy_AE"
+msgstr "두바이"
+
+msgid "Ra's al Khaymah_AE"
+msgstr "라스알카이마 토후국"
+
+msgid "Umm al Qaywayn_AE"
+msgstr "움알쿠와인 토후국"
+
+msgid "Badakhshan_AF"
+msgstr "바다흐샨"
+
+msgid "Badghis_AF"
+msgstr "바드기스 주"
+
+msgid "Baghlan_AF"
+msgstr "바글란 주"
+
+msgid "Balkh_AF"
+msgstr "박트라"
+
+msgid "Bamyan_AF"
+msgstr "바미안"
+
+msgid "Daykundi_AF"
+msgstr "다이쿤디 주"
+
+msgid "Farah_AF"
+msgstr "파라흐 주"
+
+msgid "Faryab_AF"
+msgstr "파리아브 주"
+
+msgid "Ghazni_AF"
+msgstr "가즈니"
+
+msgid "Ghor_AF"
+msgstr "구르 주"
+
+msgid "Helmand_AF"
+msgstr "헬만드 주"
+
+msgid "Herat_AF"
+msgstr "헤라트"
+
+msgid "Jowzjan_AF"
+msgstr "주즈잔 주"
+
+msgid "Kabul_AF"
+msgstr "카불"
+
+msgid "Kandahar_AF"
+msgstr "칸다하르"
+
+msgid "Kapisa_AF"
+msgstr "카피사 주"
+
+msgid "Khost_AF"
+msgstr "호스트 주"
+
+msgid "Kunar_AF"
+msgstr "쿠나르 주"
+
+msgid "Kunduz_AF"
+msgstr "쿤두즈"
+
+msgid "Laghman_AF"
+msgstr "라그만 주"
+
+msgid "Logar_AF"
+msgstr "로가르 주"
+
+msgid "Nangarhar_AF"
+msgstr "낭가르하르 주"
+
+msgid "Nimroz_AF"
+msgstr "님루즈 주"
+
+msgid "Nuristan_AF"
+msgstr "누리스탄 주"
+
+msgid "Paktika_AF"
+msgstr "팍티카 주"
+
+msgid "Paktiya_AF"
+msgstr "팍티야 주"
+
+msgid "Panjshayr_AF"
+msgstr "판지시르 주"
+
+msgid "Parwan_AF"
+msgstr "파르반 주"
+
+msgid "Samangan_AF"
+msgstr "사망간 주"
+
+msgid "Sar-e Pul_AF"
+msgstr "사르이폴 주"
+
+msgid "Takhar_AF"
+msgstr "타하르 주"
+
+msgid "Uruzgan_AF"
+msgstr "우르즈간 주"
+
+msgid "Wardak_AF"
+msgstr "바르다크 주"
+
+msgid "Zabul_AF"
+msgstr "자불 주"
+
+msgid "Barbuda_AG"
+msgstr "바부다섬"
+
+msgid "Redonda_AG"
+msgstr "레돈다섬"
+
+msgid "Saint George_AG"
+msgstr "게오르기우스"
+
+msgid "Saint John_AG"
+msgstr "세인트존"
+
+msgid "Saint Mary_AG"
+msgstr "마리아"
+
+msgid "Saint Paul_AG"
+msgstr "파울로"
+
+msgid "Saint Peter_AG"
+msgstr "베드로"
+
+msgid "Saint Philip_AG"
+msgstr "세인트필립 교구"
+
+msgid "Anguilla_AI"
+msgstr "앵귈라"
+
+msgid "Berat_AL"
+msgstr "베라트"
+
+msgid "Diber_AL"
+msgstr "디버르 현"
+
+msgid "Durres_AL"
+msgstr "두러스"
+
+msgid "Elbasan_AL"
+msgstr "엘바산"
+
+msgid "Fier_AL"
+msgstr "피에르"
+
+msgid "Gjirokaster_AL"
+msgstr "지로카스터르"
+
+msgid "Korce_AL"
+msgstr "코르처"
+
+msgid "Kukes_AL"
+msgstr "쿠커스"
+
+msgid "Lezhe_AL"
+msgstr "레저"
+
+msgid "Shkoder_AL"
+msgstr "슈코더르"
+
+msgid "Tirane_AL"
+msgstr "티라나"
+
+msgid "Vlore_AL"
+msgstr "블로러"
+
+msgid "Aragacotn_AM"
+msgstr "아라가초튼 주"
+
+msgid "Ararat_AM"
+msgstr "아라라트"
+
+msgid "Armavir_AM"
+msgstr "아르마비르"
+
+msgid "Erevan_AM"
+msgstr "예레반"
+
+msgid "Gegark'unik'_AM"
+msgstr "게가르쿠니크 주"
+
+msgid "Kotayk'_AM"
+msgstr "코타이크 주"
+
+msgid "Lori_AM"
+msgstr "로리 주"
+
+msgid "Sirak_AM"
+msgstr "시라크 주"
+
+msgid "Syunik'_AM"
+msgstr "슈니크 주"
+
+msgid "Tavus_AM"
+msgstr "타부시 주"
+
+msgid "Vayoc Jor_AM"
+msgstr "바요츠조르 주"
+
+msgid "Bengo_AO"
+msgstr "벵구 주"
+
+msgid "Benguela_AO"
+msgstr "벵겔라"
+
+msgid "Bie_AO"
+msgstr "비에 주"
+
+msgid "Cabinda_AO"
+msgstr "카빈다 주"
+
+msgid "Cunene_AO"
+msgstr "쿠네네"
+
+msgid "Huambo_AO"
+msgstr "우암부"
+
+msgid "Huila_AO"
+msgstr "우일라"
+
+msgid "Kuando Kubango_AO"
+msgstr "쿠안두쿠방구 주"
+
+msgid "Kwanza Norte_AO"
+msgstr "쿠안자노르트 주"
+
+msgid "Kwanza Sul_AO"
+msgstr "쿠안자술 주"
+
+msgid "Luanda_AO"
+msgstr "루안다"
+
+msgid "Lunda Norte_AO"
+msgstr "룬다노르트 주"
+
+msgid "Lunda Sul_AO"
+msgstr "룬다술 주"
+
+msgid "Malange_AO"
+msgstr "말란즈 주"
+
+msgid "Moxico_AO"
+msgstr "모시쿠 주"
+
+msgid "Namibe_AO"
+msgstr "나미브"
+
+msgid "Uige_AO"
+msgstr "우이즈 주"
+
+msgid "Zaire_AO"
+msgstr "자이르 공화국"
+
+msgid "Antarctica_AQ"
+msgstr "남극"
+
+msgid "Buenos Aires_AR"
+msgstr "부에노스아이레스"
+
+msgid "Catamarca_AR"
+msgstr "카타마르카주"
+
+msgid "Chaco_AR"
+msgstr "차코"
+
+msgid "Chubut_AR"
+msgstr "추부트주"
+
+msgid "Ciudad Autonoma de Buenos Aires_AR"
+msgstr "부에노스아이레스"
+
+msgid "Cordoba_AR"
+msgstr "코르도바"
+
+msgid "Corrientes_AR"
+msgstr "코리엔테스"
+
+msgid "Entre Rios_AR"
+msgstr "엔트레리오스주"
+
+msgid "Formosa_AR"
+msgstr "포르모사주"
+
+msgid "Jujuy_AR"
+msgstr "산살바도르데후후이"
+
+msgid "La Pampa_AR"
+msgstr "라팜파주"
+
+msgid "La Rioja_AR"
+msgstr "리오하"
+
+msgid "Mendoza_AR"
+msgstr "멘도사"
+
+msgid "Misiones_AR"
+msgstr "미시오네스주"
+
+msgid "Neuquen_AR"
+msgstr "네우켄"
+
+msgid "Rio Negro_AR"
+msgstr "리오네그로"
+
+msgid "Salta_AR"
+msgstr "살타"
+
+msgid "San Juan_AR"
+msgstr "산후안"
+
+msgid "San Luis_AR"
+msgstr "산루이스"
+
+msgid "Santa Cruz_AR"
+msgstr "산타크루스"
+
+msgid "Santa Fe_AR"
+msgstr "산타페"
+
+msgid "Santiago del Estero_AR"
+msgstr "산티아고델에스테로"
+
+msgid "Tierra del Fuego_AR"
+msgstr "티에라델푸에고 제도"
+
+msgid "Tucuman_AR"
+msgstr "투쿠만주"
+
+msgid "Eastern District_AS"
+msgstr "동구"
+
+msgid "Western District_AS"
+msgstr "서부 지구"
+
+msgid "Burgenland_AT"
+msgstr "부르겐란트주"
+
+msgid "Karnten_AT"
+msgstr "케른텐주"
+
+msgid "Niederosterreich_AT"
+msgstr "니더외스터라이히주"
+
+msgid "Oberosterreich_AT"
+msgstr "오버외스터라이히주"
+
+msgid "Salzburg_AT"
+msgstr "잘츠부르크"
+
+msgid "Steiermark_AT"
+msgstr "슈타이어마르크주"
+
+msgid "Tirol_AT"
+msgstr "티롤"
+
+msgid "Vorarlberg_AT"
+msgstr "포어아를베르크주"
+
+msgid "Wien_AT"
+msgstr "빈"
+
+msgid "Australian Capital Territory_AU"
+msgstr "오스트레일리아 수도 준주"
+
+msgid "New South Wales_AU"
+msgstr "뉴사우스웨일스주"
+
+msgid "Northern Territory_AU"
+msgstr "노던 준주"
+
+msgid "Queensland_AU"
+msgstr "퀸즐랜드주"
+
+msgid "South Australia_AU"
+msgstr "사우스오스트레일리아주"
+
+msgid "Tasmania_AU"
+msgstr "태즈메이니아주"
+
+msgid "Victoria_AU"
+msgstr "빅토리아"
+
+msgid "Western Australia_AU"
+msgstr "웨스턴오스트레일리아주"
+
+msgid "Aruba_AW"
+msgstr "아루바"
+
+msgid "Eckeroe_AX"
+msgstr "에케로"
+
+msgid "Finstroem_AX"
+msgstr "핀스트롬"
+
+msgid "Hammarland_AX"
+msgstr "함 마란 트"
+
+msgid "Jomala_AX"
+msgstr "조 말라"
+
+msgid "Lemland_AX"
+msgstr "렘 랜드"
+
+msgid "Mariehamn_AX"
+msgstr "마리에함"
+
+msgid "Saltvik_AX"
+msgstr "Saltvik"
+
+msgid "Sund_AX"
+msgstr "일요일"
+
+msgid "Abseron_AZ"
+msgstr "압셰론 구"
+
+msgid "Agcabadi_AZ"
+msgstr "아그자베디 구"
+
+msgid "Agdam_AZ"
+msgstr "아그담"
+
+msgid "Agdas_AZ"
+msgstr "아그다슈 구"
+
+msgid "Agstafa_AZ"
+msgstr "아흐스타파 구"
+
+msgid "Agsu_AZ"
+msgstr "아흐수 구"
+
+msgid "Astara_AZ"
+msgstr "아스타라"
+
+msgid "Baki_AZ"
+msgstr "바쿠"
+
+msgid "Balakan_AZ"
+msgstr "발라켄 구"
+
+msgid "Barda_AZ"
+msgstr "베르데 구"
+
+msgid "Beylaqan_AZ"
+msgstr "베일레간 구"
+
+msgid "Bilasuvar_AZ"
+msgstr "빌레수바르 구"
+
+msgid "Cabrayil_AZ"
+msgstr "제브라이을 구"
+
+msgid "Calilabad_AZ"
+msgstr "젤릴라바트 구"
+
+msgid "Daskasan_AZ"
+msgstr "다슈케센 구"
+
+msgid "Fuzuli_AZ"
+msgstr "퓌줄리 구"
+
+msgid "Gadabay_AZ"
+msgstr "게데베이 구"
+
+msgid "Ganca_AZ"
+msgstr "간자"
+
+msgid "Goranboy_AZ"
+msgstr "고란보이 구"
+
+msgid "Goycay_AZ"
+msgstr "괴이차이 구"
+
+msgid "Goygol_AZ"
+msgstr "괴이괼 구"
+
+msgid "Haciqabul_AZ"
+msgstr "하즈가불 구"
+
+msgid "Imisli_AZ"
+msgstr "이미슐리 구"
+
+msgid "Ismayilli_AZ"
+msgstr "이스마이을르 구"
+
+msgid "Kalbacar_AZ"
+msgstr "켈베제르 구"
+
+msgid "Kurdamir_AZ"
+msgstr "퀴르데미르 구"
+
+msgid "Lacin_AZ"
+msgstr "라츤 구"
+
+msgid "Lankaran_AZ"
+msgstr "렌코란"
+
+msgid "Lerik_AZ"
+msgstr "레리크 구"
+
+msgid "Masalli_AZ"
+msgstr "마살르 구"
+
+msgid "Mingacevir_AZ"
+msgstr "민게체비르"
+
+msgid "Naftalan_AZ"
+msgstr "나프탈란"
+
+msgid "Naxcivan_AZ"
+msgstr "나히체반"
+
+msgid "Neftcala_AZ"
+msgstr "네프찰라 구"
+
+msgid "Oguz_AZ"
+msgstr "오구스 구"
+
+msgid "Qabala_AZ"
+msgstr "게벨레"
+
+msgid "Qax_AZ"
+msgstr "가흐 구"
+
+msgid "Qazax_AZ"
+msgstr "가자흐 구"
+
+msgid "Qobustan_AZ"
+msgstr "고부스탄 구"
+
+msgid "Quba_AZ"
+msgstr "구바 구"
+
+msgid "Qubadli_AZ"
+msgstr "구바들르 구"
+
+msgid "Qusar_AZ"
+msgstr "구사르 구"
+
+msgid "Saatli_AZ"
+msgstr "사틀르 구"
+
+msgid "Sabirabad_AZ"
+msgstr "사비라바트 구"
+
+msgid "Saki_AZ"
+msgstr "셰키 구"
+
+msgid "Salyan_AZ"
+msgstr "살리안 구"
+
+msgid "Samaxi_AZ"
+msgstr "샤마흐 구"
+
+msgid "Samkir_AZ"
+msgstr "솀키르 구"
+
+msgid "Samux_AZ"
+msgstr "사무흐 구"
+
+msgid "Sirvan_AZ"
+msgstr "시르반"
+
+msgid "Siyazan_AZ"
+msgstr "시예젠 구"
+
+msgid "Sumqayit_AZ"
+msgstr "숨가이트"
+
+msgid "Susa_AZ"
+msgstr "수사"
+
+msgid "Tartar_AZ"
+msgstr "테르테르 구"
+
+msgid "Tovuz_AZ"
+msgstr "토부스 구"
+
+msgid "Ucar_AZ"
+msgstr "우자르 구"
+
+msgid "Xacmaz_AZ"
+msgstr "하치마스 구"
+
+msgid "Xankandi_AZ"
+msgstr "스테파나케르트"
+
+msgid "Xizi_AZ"
+msgstr "흐즈 구"
+
+msgid "Xocali_AZ"
+msgstr "호잘르 구"
+
+msgid "Xocavand_AZ"
+msgstr "호자벤트 구"
+
+msgid "Yardimli_AZ"
+msgstr "야르듬르 구"
+
+msgid "Yevlax_AZ"
+msgstr "예블라흐"
+
+msgid "Zangilan_AZ"
+msgstr "젠길란 구"
+
+msgid "Zaqatala_AZ"
+msgstr "자가탈라 구"
+
+msgid "Zardab_AZ"
+msgstr "제르다프 구"
+
+msgid "Brcko distrikt_BA"
+msgstr "브르치코 행정구"
+
+msgid "Federacija Bosne i Hercegovine_BA"
+msgstr "보스니아 헤르체고비나 연방"
+
+msgid "Republika Srpska_BA"
+msgstr "스릅스카 공화국"
+
+msgid "Christ Church_BB"
+msgstr "크라이스트 교회"
+
+msgid "Saint Andrew_BB"
+msgstr "안드레아"
+
+msgid "Saint George_BB"
+msgstr "게오르기우스"
+
+msgid "Saint James_BB"
+msgstr "세인트제임스"
+
+msgid "Saint John_BB"
+msgstr "세인트존"
+
+msgid "Saint Joseph_BB"
+msgstr "나자렛의 요셉"
+
+msgid "Saint Lucy_BB"
+msgstr "루치아"
+
+msgid "Saint Michael_BB"
+msgstr "미카엘"
+
+msgid "Saint Peter_BB"
+msgstr "베드로"
+
+msgid "Saint Philip_BB"
+msgstr "세인트필립 교구"
+
+msgid "Saint Thomas_BB"
+msgstr "세인트토머스 교구"
+
+msgid "Barisal_BD"
+msgstr "바리살 시"
+
+msgid "Chittagong_BD"
+msgstr "치타공"
+
+msgid "Dhaka_BD"
+msgstr "다카"
+
+msgid "Khulna_BD"
+msgstr "쿨나"
+
+msgid "Rajshahi_BD"
+msgstr "라즈샤히"
+
+msgid "Rangpur_BD"
+msgstr "랑푸르 구"
+
+msgid "Sylhet_BD"
+msgstr "실렛"
+
+msgid "Antwerpen_BE"
+msgstr "안트베르펜"
+
+msgid "Brabant wallon_BE"
+msgstr "브라방왈롱주"
+
+msgid "Brussels Hoofdstedelijk Gewest_BE"
+msgstr "브뤼셀"
+
+msgid "Hainaut_BE"
+msgstr "에노주"
+
+msgid "Liege_BE"
+msgstr "리에주"
+
+msgid "Limburg_BE"
+msgstr "림뷔르흐주"
+
+msgid "Luxembourg_BE"
+msgstr "룩셈부르크 대공국"
+
+msgid "Namur_BE"
+msgstr "나뮈르"
+
+msgid "Oost-Vlaanderen_BE"
+msgstr "오스트플란데런주"
+
+msgid "Vlaams-Brabant_BE"
+msgstr "플람스브라반트주"
+
+msgid "West-Vlaanderen_BE"
+msgstr "베스트플란데런주"
+
+msgid "Bale_BF"
+msgstr "베일"
+
+msgid "Bam_BF"
+msgstr "밤 현"
+
+msgid "Banwa_BF"
+msgstr "반와 현"
+
+msgid "Bazega_BF"
+msgstr "바제가 현"
+
+msgid "Bougouriba_BF"
+msgstr "부구리바 현"
+
+msgid "Boulgou_BF"
+msgstr "불구 현"
+
+msgid "Boulkiemde_BF"
+msgstr "불키엠데 현"
+
+msgid "Comoe_BF"
+msgstr "코모에 현"
+
+msgid "Ganzourgou_BF"
+msgstr "간주르구 현"
+
+msgid "Gnagna_BF"
+msgstr "냐냐 현"
+
+msgid "Gourma_BF"
+msgstr "구르마 현"
+
+msgid "Houet_BF"
+msgstr "우에 현"
+
+msgid "Ioba_BF"
+msgstr "이오바 현"
+
+msgid "Kadiogo_BF"
+msgstr "카디오고 현"
+
+msgid "Kenedougou_BF"
+msgstr "케네두구 현"
+
+msgid "Komondjari_BF"
+msgstr "코몽자리 현"
+
+msgid "Kompienga_BF"
+msgstr "콤피엥가 현"
+
+msgid "Kossi_BF"
+msgstr "코시 현"
+
+msgid "Koulpelogo_BF"
+msgstr "쿨펠로고 현"
+
+msgid "Kouritenga_BF"
+msgstr "쿠리텡가 현"
+
+msgid "Kourweogo_BF"
+msgstr "쿠르웨오고 현"
+
+msgid "Leraba_BF"
+msgstr "레라바 현"
+
+msgid "Loroum_BF"
+msgstr "로룸 현"
+
+msgid "Mouhoun_BF"
+msgstr "무운 현"
+
+msgid "Nahouri_BF"
+msgstr "나우리 현"
+
+msgid "Namentenga_BF"
+msgstr "나멘텡가 현"
+
+msgid "Nayala_BF"
+msgstr "나얄라 현"
+
+msgid "Noumbiel_BF"
+msgstr "눔비엘 현"
+
+msgid "Oubritenga_BF"
+msgstr "우브리텡가 현"
+
+msgid "Oudalan_BF"
+msgstr "우달란 현"
+
+msgid "Passore_BF"
+msgstr "파소레 현"
+
+msgid "Poni_BF"
+msgstr "포니 현"
+
+msgid "Sanguie_BF"
+msgstr "상기에 현"
+
+msgid "Sanmatenga_BF"
+msgstr "산마텡가 현"
+
+msgid "Seno_BF"
+msgstr "세노 현"
+
+msgid "Sissili_BF"
+msgstr "시실리 현"
+
+msgid "Soum_BF"
+msgstr "숨 현"
+
+msgid "Sourou_BF"
+msgstr "수루 현"
+
+msgid "Tapoa_BF"
+msgstr "타포아 현"
+
+msgid "Tuy_BF"
+msgstr "투이 현"
+
+msgid "Yagha_BF"
+msgstr "야가 현"
+
+msgid "Yatenga_BF"
+msgstr "야텡가 현"
+
+msgid "Ziro_BF"
+msgstr "지로 현"
+
+msgid "Zondoma_BF"
+msgstr "존도마 현"
+
+msgid "Zoundweogo_BF"
+msgstr "준드웨오고 현"
+
+msgid "Blagoevgrad_BG"
+msgstr "블라고에브그라드"
+
+msgid "Burgas_BG"
+msgstr "부르가스"
+
+msgid "Dobrich_BG"
+msgstr "도브리치"
+
+msgid "Gabrovo_BG"
+msgstr "가브로보"
+
+msgid "Haskovo_BG"
+msgstr "하스코보"
+
+msgid "Kardzhali_BG"
+msgstr "커르잘리"
+
+msgid "Kyustendil_BG"
+msgstr "큐스텐딜"
+
+msgid "Lovech_BG"
+msgstr "로베치"
+
+msgid "Montana_BG"
+msgstr "몬태나주"
+
+msgid "Pazardzhik_BG"
+msgstr "파자르지크"
+
+msgid "Pernik_BG"
+msgstr "페르니크"
+
+msgid "Pleven_BG"
+msgstr "플레벤"
+
+msgid "Plovdiv_BG"
+msgstr "플로브디프"
+
+msgid "Razgrad_BG"
+msgstr "라즈그라드"
+
+msgid "Ruse_BG"
+msgstr "루세 주"
+
+msgid "Shumen_BG"
+msgstr "슈멘"
+
+msgid "Silistra_BG"
+msgstr "실리스트라"
+
+msgid "Sliven_BG"
+msgstr "슬리벤"
+
+msgid "Smolyan_BG"
+msgstr "스몰랸"
+
+msgid "Sofia_BG"
+msgstr "소피아"
+
+msgid "Sofia (stolitsa)_BG"
+msgstr "소피아"
+
+msgid "Stara Zagora_BG"
+msgstr "스타라자고라"
+
+msgid "Targovishte_BG"
+msgstr "터르고비슈테"
+
+msgid "Varna_BG"
+msgstr "바르나"
+
+msgid "Veliko Tarnovo_BG"
+msgstr "벨리코터르노보"
+
+msgid "Vidin_BG"
+msgstr "비딘"
+
+msgid "Vratsa_BG"
+msgstr "브라차"
+
+msgid "Yambol_BG"
+msgstr "얌볼"
+
+msgid "Al 'Asimah_BH"
+msgstr "수도 주"
+
+msgid "Al Janubiyah_BH"
+msgstr "남부 주"
+
+msgid "Al Muharraq_BH"
+msgstr "무하라크"
+
+msgid "Ash Shamaliyah_BH"
+msgstr "북부 주"
+
+msgid "Bubanza_BI"
+msgstr "부반자 주"
+
+msgid "Bujumbura Mairie_BI"
+msgstr "부줌부라 도시주"
+
+msgid "Bururi_BI"
+msgstr "부루리 주"
+
+msgid "Cankuzo_BI"
+msgstr "캉쿠조 주"
+
+msgid "Cibitoke_BI"
+msgstr "치비토케 주"
+
+msgid "Gitega_BI"
+msgstr "기테가"
+
+msgid "Karuzi_BI"
+msgstr "카루지 주"
+
+msgid "Kayanza_BI"
+msgstr "카얀자 주"
+
+msgid "Kirundo_BI"
+msgstr "키룬도 주"
+
+msgid "Makamba_BI"
+msgstr "마캄바 주"
+
+msgid "Muramvya_BI"
+msgstr "무람비야 주"
+
+msgid "Muyinga_BI"
+msgstr "무잉가 주"
+
+msgid "Mwaro_BI"
+msgstr "음와로 주"
+
+msgid "Ngozi_BI"
+msgstr "응고지 주"
+
+msgid "Rutana_BI"
+msgstr "루타나 주"
+
+msgid "Ruyigi_BI"
+msgstr "루이기 주"
+
+msgid "Alibori_BJ"
+msgstr "알리보리 주"
+
+msgid "Atacora_BJ"
+msgstr "아타코라 주"
+
+msgid "Atlantique_BJ"
+msgstr "아틀랑티크 주"
+
+msgid "Borgou_BJ"
+msgstr "보르구 주"
+
+msgid "Collines_BJ"
+msgstr "콜린 주"
+
+msgid "Couffo_BJ"
+msgstr "쿠포 주"
+
+msgid "Donga_BJ"
+msgstr "동가 주"
+
+msgid "Littoral_BJ"
+msgstr "리토랄"
+
+msgid "Mono_BJ"
+msgstr "모노"
+
+msgid "Oueme_BJ"
+msgstr "우에메 주"
+
+msgid "Plateau_BJ"
+msgstr "플래토 주"
+
+msgid "Zou_BJ"
+msgstr "주 주"
+
+msgid "Saint Barthelemy_BL"
+msgstr "생바르텔레미"
+
+msgid "Hamilton_BM"
+msgstr "해밀턴"
+
+msgid "Saint George_BM"
+msgstr "게오르기우스"
+
+msgid "Belait_BN"
+msgstr "블라잇 구"
+
+msgid "Brunei-Muara_BN"
+msgstr "브루네이무아라 구"
+
+msgid "Temburong_BN"
+msgstr "틈부롱 구"
+
+msgid "Tutong_BN"
+msgstr "투통 구"
+
+msgid "Chuquisaca_BO"
+msgstr "추키사카 주"
+
+msgid "Cochabamba_BO"
+msgstr "코차밤바"
+
+msgid "El Beni_BO"
+msgstr "베니 주"
+
+msgid "La Paz_BO"
+msgstr "라파스"
+
+msgid "Oruro_BO"
+msgstr "오루로 주"
+
+msgid "Pando_BO"
+msgstr "판도"
+
+msgid "Potosi_BO"
+msgstr "포토시 주"
+
+msgid "Santa Cruz_BO"
+msgstr "산타크루스"
+
+msgid "Tarija_BO"
+msgstr "타리하"
+
+msgid "Bonaire_BQ"
+msgstr "보네르섬"
+
+msgid "Saba_BQ"
+msgstr "사바섬"
+
+msgid "Sint Eustatius_BQ"
+msgstr "신트외스타티위스섬"
+
+msgid "Acre_BR"
+msgstr "에이커"
+
+msgid "Alagoas_BR"
+msgstr "알라고아스주"
+
+msgid "Amapa_BR"
+msgstr "아마파주"
+
+msgid "Amazonas_BR"
+msgstr "아마소나스"
+
+msgid "Bahia_BR"
+msgstr "바이아주"
+
+msgid "Ceara_BR"
+msgstr "세아라주"
+
+msgid "Distrito Federal_BR"
+msgstr "연방구"
+
+msgid "Espirito Santo_BR"
+msgstr "이스피리투산투주"
+
+msgid "Goias_BR"
+msgstr "고이아스주"
+
+msgid "Maranhao_BR"
+msgstr "마라냥주"
+
+msgid "Mato Grosso_BR"
+msgstr "마투그로수주"
+
+msgid "Mato Grosso do Sul_BR"
+msgstr "마투그로수두술주"
+
+msgid "Minas Gerais_BR"
+msgstr "미나스제라이스주"
+
+msgid "Para_BR"
+msgstr "파라"
+
+msgid "Paraiba_BR"
+msgstr "파라이바주"
+
+msgid "Parana_BR"
+msgstr "파라나"
+
+msgid "Pernambuco_BR"
+msgstr "페르남부쿠주"
+
+msgid "Piaui_BR"
+msgstr "피아우이주"
+
+msgid "Rio de Janeiro_BR"
+msgstr "리우데자네이루"
+
+msgid "Rio Grande do Norte_BR"
+msgstr "히우그란지두노르치주"
+
+msgid "Rio Grande do Sul_BR"
+msgstr "히우그란지두술주"
+
+msgid "Rondonia_BR"
+msgstr "혼도니아주"
+
+msgid "Roraima_BR"
+msgstr "호라이마주"
+
+msgid "Santa Catarina_BR"
+msgstr "산타카타리나"
+
+msgid "Sao Paulo_BR"
+msgstr "상파울루"
+
+msgid "Sergipe_BR"
+msgstr "세르지피주"
+
+msgid "Tocantins_BR"
+msgstr "토칸칭스주"
+
+msgid "Central Andros_BS"
+msgstr "센트럴안드로스"
+
+msgid "City of Freeport_BS"
+msgstr "프리포트"
+
+msgid "East Grand Bahama_BS"
+msgstr "이스트그랜드바하마"
+
+msgid "Harbour Island_BS"
+msgstr "하버 섬"
+
+msgid "Hope Town_BS"
+msgstr "호프타운"
+
+msgid "Long Island_BS"
+msgstr "롱아일랜드"
+
+msgid "New Providence_BS"
+msgstr "뉴프로비던스 섬"
+
+msgid "South Eleuthera_BS"
+msgstr "사우스일루서라"
+
+msgid "Bumthang_BT"
+msgstr "붐탕 현"
+
+msgid "Chhukha_BT"
+msgstr "추카 현"
+
+msgid "Dagana_BT"
+msgstr "다가나 현"
+
+msgid "Gasa_BT"
+msgstr "가사"
+
+msgid "Haa_BT"
+msgstr "하 현"
+
+msgid "Lhuentse_BT"
+msgstr "룬체 현"
+
+msgid "Monggar_BT"
+msgstr "몽가르 현"
+
+msgid "Paro_BT"
+msgstr "파로 현"
+
+msgid "Pemagatshel_BT"
+msgstr "페마가첼 현"
+
+msgid "Punakha_BT"
+msgstr "푸나카"
+
+msgid "Samdrup Jongkhar_BT"
+msgstr "삼드룹종카르 현"
+
+msgid "Samtse_BT"
+msgstr "삼체 현"
+
+msgid "Thimphu_BT"
+msgstr "팀부"
+
+msgid "Trashi Yangtse_BT"
+msgstr "트라시양체 현"
+
+msgid "Trashigang_BT"
+msgstr "트라시강"
+
+msgid "Trongsa_BT"
+msgstr "트롱사 현"
+
+msgid "Tsirang_BT"
+msgstr "치랑 현"
+
+msgid "Wangdue Phodrang_BT"
+msgstr "왕두에포드랑 현"
+
+msgid "Zhemgang_BT"
+msgstr "젬강 현"
+
+msgid "Central_BW"
+msgstr "중부 구"
+
+msgid "Ghanzi_BW"
+msgstr "간지"
+
+msgid "Kgalagadi_BW"
+msgstr "크갈라가디 구"
+
+msgid "Kgatleng_BW"
+msgstr "크가틀렝 구"
+
+msgid "Kweneng_BW"
+msgstr "퀘넹 구"
+
+msgid "North East_BW"
+msgstr "북동부 구"
+
+msgid "North West_BW"
+msgstr "북서부 구"
+
+msgid "South East_BW"
+msgstr "남동부 구"
+
+msgid "Southern_BW"
+msgstr "남부 구"
+
+msgid "Brestskaya voblasts'_BY"
+msgstr "브레스트 주"
+
+msgid "Homyel'skaya voblasts'_BY"
+msgstr "호멜 주"
+
+msgid "Horad Minsk_BY"
+msgstr "민스크"
+
+msgid "Hrodzenskaya voblasts'_BY"
+msgstr "흐로드나 주"
+
+msgid "Mahilyowskaya voblasts'_BY"
+msgstr "마힐료우 주"
+
+msgid "Minskaya voblasts'_BY"
+msgstr "민스크 주"
+
+msgid "Vitsyebskaya voblasts'_BY"
+msgstr "비쳅스크 주"
+
+msgid "Belize_BZ"
+msgstr "벨리즈"
+
+msgid "Cayo_BZ"
+msgstr "카요 구"
+
+msgid "Corozal_BZ"
+msgstr "코로살 구"
+
+msgid "Orange Walk_BZ"
+msgstr "오렌지워크 구"
+
+msgid "Stann Creek_BZ"
+msgstr "스탠크리크 구"
+
+msgid "Toledo_BZ"
+msgstr "톨레도"
+
+msgid "Alberta_CA"
+msgstr "앨버타주"
+
+msgid "British Columbia_CA"
+msgstr "브리티시컬럼비아주"
+
+msgid "Manitoba_CA"
+msgstr "매니토바주"
+
+msgid "New Brunswick_CA"
+msgstr "뉴브런즈윅주"
+
+msgid "Newfoundland and Labrador_CA"
+msgstr "뉴펀들랜드 래브라도 주"
+
+msgid "Northwest Territories_CA"
+msgstr "노스웨스트 준주"
+
+msgid "Nova Scotia_CA"
+msgstr "노바스코샤주"
+
+msgid "Nunavut_CA"
+msgstr "누나부트 준주"
+
+msgid "Ontario_CA"
+msgstr "온타리오주"
+
+msgid "Prince Edward Island_CA"
+msgstr "프린스에드워드아일랜드주"
+
+msgid "Quebec_CA"
+msgstr "퀘벡주"
+
+msgid "Saskatchewan_CA"
+msgstr "서스캐처원주"
+
+msgid "Yukon_CA"
+msgstr "유콘 준주"
+
+msgid "Cocos (Keeling) Islands_CC"
+msgstr "코코스 제도"
+
+msgid "Bas-Uele_CD"
+msgstr "바우엘레 주"
+
+msgid "Equateur_CD"
+msgstr "에카퇴르 주"
+
+msgid "Haut-Katanga_CD"
+msgstr "오트카탕가 주"
+
+msgid "Haut-Lomami_CD"
+msgstr "오트로마미 주"
+
+msgid "Haut-Uele_CD"
+msgstr "오트우엘레 주"
+
+msgid "Ituri_CD"
+msgstr "이투리 주"
+
+msgid "Kasai_CD"
+msgstr "가사이"
+
+msgid "Kasai Central_CD"
+msgstr "카사이상트랄 주"
+
+msgid "Kasai Oriental_CD"
+msgstr "카사이오리앙탈 주"
+
+msgid "Kinshasa_CD"
+msgstr "킨샤사"
+
+msgid "Kongo Central_CD"
+msgstr "중앙콩고 주"
+
+msgid "Kwango_CD"
+msgstr "쾅고 주"
+
+msgid "Kwilu_CD"
+msgstr "퀼루 주"
+
+msgid "Lomami_CD"
+msgstr "로마미 주"
+
+msgid "Lualaba_CD"
+msgstr "루알라바 주"
+
+msgid "Mai-Ndombe_CD"
+msgstr "마이은돔베 주"
+
+msgid "Maniema_CD"
+msgstr "마니에마 주"
+
+msgid "Mongala_CD"
+msgstr "몽갈라 주"
+
+msgid "Nord-Kivu_CD"
+msgstr "북키부 주"
+
+msgid "Nord-Ubangi_CD"
+msgstr "북우방기 주"
+
+msgid "Sankuru_CD"
+msgstr "상쿠루 주"
+
+msgid "Sud-Kivu_CD"
+msgstr "남키부 주"
+
+msgid "Sud-Ubangi_CD"
+msgstr "남우방기 주"
+
+msgid "Tanganyika_CD"
+msgstr "탕가니카"
+
+msgid "Tshopo_CD"
+msgstr "초포 주"
+
+msgid "Tshuapa_CD"
+msgstr "추아파 주"
+
+msgid "Bamingui-Bangoran_CF"
+msgstr "바밍기방고랑 주"
+
+msgid "Bangui_CF"
+msgstr "방기"
+
+msgid "Basse-Kotto_CF"
+msgstr "바스코토 주"
+
+msgid "Gribingui_CF"
+msgstr "나나그레비지 주"
+
+msgid "Haut-Mbomou_CF"
+msgstr "오트음보무 주"
+
+msgid "Haute-Kotto_CF"
+msgstr "오트코토 주"
+
+msgid "Kemo-Gribingui_CF"
+msgstr "케모 주"
+
+msgid "Lobaye_CF"
+msgstr "로바예 주"
+
+msgid "Mambere-Kadei_CF"
+msgstr "맘베레카데이 주"
+
+msgid "Mbomou_CF"
+msgstr "음보무 주"
+
+msgid "Nana-Mambere_CF"
+msgstr "나나맘베레 주"
+
+msgid "Ombella-Mpoko_CF"
+msgstr "옴벨라음포코 주"
+
+msgid "Ouaka_CF"
+msgstr "와카 주"
+
+msgid "Ouham_CF"
+msgstr "우암 주"
+
+msgid "Ouham-Pende_CF"
+msgstr "우암펭데 주"
+
+msgid "Sangha_CF"
+msgstr "상가 주"
+
+msgid "Vakaga_CF"
+msgstr "바카가 주"
+
+msgid "Bouenza_CG"
+msgstr "부엔자 주"
+
+msgid "Brazzaville_CG"
+msgstr "브라자빌"
+
+msgid "Cuvette_CG"
+msgstr "큐벳"
+
+msgid "Cuvette-Ouest_CG"
+msgstr "퀴베트우에스트 주"
+
+msgid "Lekoumou_CG"
+msgstr "레쿠무 주"
+
+msgid "Likouala_CG"
+msgstr "리쿠알라 주"
+
+msgid "Niari_CG"
+msgstr "니아리 주"
+
+msgid "Plateaux_CG"
+msgstr "플라토 주"
+
+msgid "Pointe-Noire_CG"
+msgstr "푸앵트누아르"
+
+msgid "Pool_CG"
+msgstr "풀 주"
+
+msgid "Sangha_CG"
+msgstr "상가 주"
+
+msgid "Aargau_CH"
+msgstr "아르가우주"
+
+msgid "Appenzell Ausserrhoden_CH"
+msgstr "아펜첼아우서로덴주"
+
+msgid "Appenzell Innerrhoden_CH"
+msgstr "아펜첼이너로덴주"
+
+msgid "Basel-Landschaft_CH"
+msgstr "바젤란트주"
+
+msgid "Basel-Stadt_CH"
+msgstr "바젤슈타트주"
+
+msgid "Bern_CH"
+msgstr "베른"
+
+msgid "Fribourg_CH"
+msgstr "프리부르"
+
+msgid "Geneve_CH"
+msgstr "제네바"
+
+msgid "Glarus_CH"
+msgstr "글라루스"
+
+msgid "Graubunden_CH"
+msgstr "그라우뷘덴주"
+
+msgid "Jura_CH"
+msgstr "쥐라"
+
+msgid "Luzern_CH"
+msgstr "루체른"
+
+msgid "Neuchatel_CH"
+msgstr "뇌샤텔"
+
+msgid "Nidwalden_CH"
+msgstr "니트발덴주"
+
+msgid "Obwalden_CH"
+msgstr "옵발덴주"
+
+msgid "Sankt Gallen_CH"
+msgstr "장크트갈렌주"
+
+msgid "Schaffhausen_CH"
+msgstr "샤프하우젠"
+
+msgid "Schwyz_CH"
+msgstr "슈비츠"
+
+msgid "Solothurn_CH"
+msgstr "졸로투른"
+
+msgid "Thurgau_CH"
+msgstr "투르가우주"
+
+msgid "Ticino_CH"
+msgstr "티치노주"
+
+msgid "Uri_CH"
+msgstr "우리주"
+
+msgid "Valais_CH"
+msgstr "발레주"
+
+msgid "Vaud_CH"
+msgstr "보주"
+
+msgid "Zug_CH"
+msgstr "추크"
+
+msgid "Zurich_CH"
+msgstr "취리히"
+
+msgid "Abidjan_CI"
+msgstr "아비장"
+
+msgid "Bas-Sassandra_CI"
+msgstr "바사산드라 주"
+
+msgid "Comoe_CI"
+msgstr "코모에 현"
+
+msgid "Denguele_CI"
+msgstr "뎅겔레 주"
+
+msgid "Goh-Djiboua_CI"
+msgstr "고 - 지부아"
+
+msgid "Lacs_CI"
+msgstr "라크 주"
+
+msgid "Lagunes_CI"
+msgstr "라귄 주"
+
+msgid "Montagnes_CI"
+msgstr "몽 타뉴"
+
+msgid "Sassandra-Marahoue_CI"
+msgstr "사산 드라 - 마라 호 우에"
+
+msgid "Savanes_CI"
+msgstr "사반 주"
+
+msgid "Vallee du Bandama_CI"
+msgstr "발레 뒤 반 다마"
+
+msgid "Woroba_CI"
+msgstr "로바"
+
+msgid "Yamoussoukro_CI"
+msgstr "야무수크로"
+
+msgid "Zanzan_CI"
+msgstr "잔잔 주"
+
+msgid "Cook Islands_CK"
+msgstr "쿡 제도"
+
+msgid "Aisen del General Carlos Ibanez del Campo_CL"
+msgstr "아이센델헤네랄카를로스이바녜스델캄포 주"
+
+msgid "Antofagasta_CL"
+msgstr "안토파가스타"
+
+msgid "Arica y Parinacota_CL"
+msgstr "아리카 이 파리나코타 주"
+
+msgid "Atacama_CL"
+msgstr "아타카마 사막"
+
+msgid "Biobio_CL"
+msgstr "비오비오 현"
+
+msgid "Coquimbo_CL"
+msgstr "코킴보"
+
+msgid "La Araucania_CL"
+msgstr "아라우카니아 주"
+
+msgid "Libertador General Bernardo O'Higgins_CL"
+msgstr "리베르타도르헤네랄베르나르도오이긴스 주"
+
+msgid "Los Lagos_CL"
+msgstr "로스라고스 주"
+
+msgid "Los Rios_CL"
+msgstr "로스리오스"
+
+msgid "Magallanes_CL"
+msgstr "마가야네스 현"
+
+msgid "Maule_CL"
+msgstr "마울레 주"
+
+msgid "Region Metropolitana de Santiago_CL"
+msgstr "산티아고 수도주"
+
+msgid "Tarapaca_CL"
+msgstr "타라파카 주"
+
+msgid "Valparaiso_CL"
+msgstr "발파라이소"
+
+msgid "Adamaoua_CM"
+msgstr "아다마와"
+
+msgid "Centre_CM"
+msgstr "중앙 주"
+
+msgid "Est_CM"
+msgstr "동부 주"
+
+msgid "Extreme-Nord_CM"
+msgstr "극북부 주"
+
+msgid "Littoral_CM"
+msgstr "리토랄 주"
+
+msgid "Nord_CM"
+msgstr "북부 주"
+
+msgid "Nord-Ouest_CM"
+msgstr "북서부 주"
+
+msgid "Ouest_CM"
+msgstr "서부 주"
+
+msgid "Sud_CM"
+msgstr "남부 주"
+
+msgid "Sud-Ouest_CM"
+msgstr "남서부 주"
+
+msgid "Anhui_CN"
+msgstr "안후이 성"
+
+msgid "Beijing_CN"
+msgstr "베이징"
+
+msgid "Chongqing_CN"
+msgstr "충칭"
+
+msgid "Fujian_CN"
+msgstr "푸젠성"
+
+msgid "Gansu_CN"
+msgstr "간쑤 성"
+
+msgid "Guangdong_CN"
+msgstr "광둥 성"
+
+msgid "Guangxi_CN"
+msgstr "광시 좡족 자치구"
+
+msgid "Guizhou_CN"
+msgstr "구이저우 성"
+
+msgid "Hainan_CN"
+msgstr "하이난 성"
+
+msgid "Hebei_CN"
+msgstr "허베이 성"
+
+msgid "Heilongjiang_CN"
+msgstr "헤이룽장 성"
+
+msgid "Henan_CN"
+msgstr "허난성"
+
+msgid "Hubei_CN"
+msgstr "후베이 성"
+
+msgid "Hunan_CN"
+msgstr "후난 성"
+
+msgid "Jiangsu_CN"
+msgstr "장쑤 성"
+
+msgid "Jiangxi_CN"
+msgstr "장시 성"
+
+msgid "Jilin_CN"
+msgstr "지린성"
+
+msgid "Liaoning_CN"
+msgstr "랴오닝 성"
+
+msgid "Nei Mongol_CN"
+msgstr "내몽골 자치구"
+
+msgid "Ningxia_CN"
+msgstr "닝샤 후이족 자치구"
+
+msgid "Qinghai_CN"
+msgstr "칭하이 성"
+
+msgid "Shaanxi_CN"
+msgstr "산시성"
+
+msgid "Shandong_CN"
+msgstr "산둥 성"
+
+msgid "Shanghai_CN"
+msgstr "상하이"
+
+msgid "Shanxi_CN"
+msgstr "산시성"
+
+msgid "Sichuan_CN"
+msgstr "쓰촨성"
+
+msgid "Tianjin_CN"
+msgstr "톈진"
+
+msgid "Xinjiang_CN"
+msgstr "신장 위구르 자치구"
+
+msgid "Xizang_CN"
+msgstr "티베트 자치구"
+
+msgid "Yunnan_CN"
+msgstr "윈난 성"
+
+msgid "Zhejiang_CN"
+msgstr "저장 성"
+
+msgid "Amazonas_CO"
+msgstr "아마소나스"
+
+msgid "Antioquia_CO"
+msgstr "안티오키아 주"
+
+msgid "Arauca_CO"
+msgstr "아라우카"
+
+msgid "Atlantico_CO"
+msgstr "아틀란티코 주"
+
+msgid "Bolivar_CO"
+msgstr "볼리바르"
+
+msgid "Boyaca_CO"
+msgstr "보야카 주"
+
+msgid "Caldas_CO"
+msgstr "칼다스"
+
+msgid "Caqueta_CO"
+msgstr "카케타 주"
+
+msgid "Casanare_CO"
+msgstr "카사나레 주"
+
+msgid "Cauca_CO"
+msgstr "카우카 주"
+
+msgid "Cesar_CO"
+msgstr "세사르/세자르"
+
+msgid "Choco_CO"
+msgstr "초코"
+
+msgid "Cordoba_CO"
+msgstr "코르도바"
+
+msgid "Cundinamarca_CO"
+msgstr "쿤디나마르카 주"
+
+msgid "Distrito Capital de Bogota_CO"
+msgstr "보고타"
+
+msgid "Guainia_CO"
+msgstr "과이니아 주"
+
+msgid "Guaviare_CO"
+msgstr "과비아레 주"
+
+msgid "Huila_CO"
+msgstr "우일라"
+
+msgid "La Guajira_CO"
+msgstr "라과히라 주"
+
+msgid "Magdalena_CO"
+msgstr "마그달레나/막달레나"
+
+msgid "Meta_CO"
+msgstr "메타"
+
+msgid "Narino_CO"
+msgstr "나리뇨 주"
+
+msgid "Norte de Santander_CO"
+msgstr "노르테데산탄데르 주"
+
+msgid "Putumayo_CO"
+msgstr "푸투마요 주"
+
+msgid "Quindio_CO"
+msgstr "킨디오 주"
+
+msgid "Risaralda_CO"
+msgstr "리사랄다 주"
+
+msgid "San Andres, Providencia y Santa Catalina_CO"
+msgstr "산안드레스 이 프로비덴시아 주"
+
+msgid "Santander_CO"
+msgstr "산탄데르"
+
+msgid "Sucre_CO"
+msgstr "수크레"
+
+msgid "Tolima_CO"
+msgstr "톨리마 주"
+
+msgid "Valle del Cauca_CO"
+msgstr "바예델카우카 주"
+
+msgid "Vaupes_CO"
+msgstr "바우페스 주"
+
+msgid "Vichada_CO"
+msgstr "비차다 주"
+
+msgid "Alajuela_CR"
+msgstr "알라후엘라"
+
+msgid "Cartago_CR"
+msgstr "카르타고"
+
+msgid "Guanacaste_CR"
+msgstr "과나카스테 주"
+
+msgid "Heredia_CR"
+msgstr "에레디아 주"
+
+msgid "Limon_CR"
+msgstr "리몬 주"
+
+msgid "Puntarenas_CR"
+msgstr "푼타레나스"
+
+msgid "San Jose_CR"
+msgstr "산호세"
+
+msgid "Artemisa_CU"
+msgstr "아르테미사"
+
+msgid "Camaguey_CU"
+msgstr "카마궤이"
+
+msgid "Ciego de Avila_CU"
+msgstr "시에고데아빌라"
+
+msgid "Cienfuegos_CU"
+msgstr "시엔푸에고스"
+
+msgid "Granma_CU"
+msgstr "그란마"
+
+msgid "Guantanamo_CU"
+msgstr "관타나모"
+
+msgid "Holguin_CU"
+msgstr "올긴"
+
+msgid "Isla de la Juventud_CU"
+msgstr "후벤투드 섬"
+
+msgid "La Habana_CU"
+msgstr "아바나"
+
+msgid "Las Tunas_CU"
+msgstr "라스투나스 주"
+
+msgid "Matanzas_CU"
+msgstr "마탄사스"
+
+msgid "Mayabeque_CU"
+msgstr "마야베케 주"
+
+msgid "Pinar del Rio_CU"
+msgstr "피나르델리오"
+
+msgid "Sancti Spiritus_CU"
+msgstr "상크티스피리투스"
+
+msgid "Santiago de Cuba_CU"
+msgstr "산티아고데쿠바"
+
+msgid "Villa Clara_CU"
+msgstr "비야클라라 주"
+
+msgid "Boa Vista_CV"
+msgstr "보아비스타"
+
+msgid "Brava_CV"
+msgstr "브라바 섬"
+
+msgid "Maio_CV"
+msgstr "마이우 섬"
+
+msgid "Mosteiros_CV"
+msgstr "모스테이루스"
+
+msgid "Paul_CV"
+msgstr "파울 시"
+
+msgid "Porto Novo_CV"
+msgstr "포르토노보"
+
+msgid "Praia_CV"
+msgstr "프라이아"
+
+msgid "Ribeira Brava_CV"
+msgstr "히베이라브라바"
+
+msgid "Ribeira Grande_CV"
+msgstr "히베이라그란드"
+
+msgid "Ribeira Grande de Santiago_CV"
+msgstr "히베이라그란드드산티아구 시"
+
+msgid "Sal_CV"
+msgstr "살 섬"
+
+msgid "Santa Catarina_CV"
+msgstr "산타카타리나"
+
+msgid "Santa Catarina do Fogo_CV"
+msgstr "산타카타리나두포구 시"
+
+msgid "Santa Cruz_CV"
+msgstr "산타크루스"
+
+msgid "Sao Domingos_CV"
+msgstr "상도밍구스"
+
+msgid "Sao Filipe_CV"
+msgstr "상필리프"
+
+msgid "Sao Lourenco dos Orgaos_CV"
+msgstr "상로렌수두스오르강스 시"
+
+msgid "Sao Miguel_CV"
+msgstr "상미겔"
+
+msgid "Sao Salvador do Mundo_CV"
+msgstr "상살바도르두문두 시"
+
+msgid "Sao Vicente_CV"
+msgstr "상비센트"
+
+msgid "Tarrafal_CV"
+msgstr "타하팔"
+
+msgid "Tarrafal de Sao Nicolau_CV"
+msgstr "타하팔드상니콜라우"
+
+msgid "Curacao_CW"
+msgstr "퀴라소"
+
+msgid "Christmas Island_CX"
+msgstr "크리스마스 섬"
+
+msgid "Ammochostos_CY"
+msgstr "파마구스타"
+
+msgid "Keryneia_CY"
+msgstr "키레니아"
+
+msgid "Larnaka_CY"
+msgstr "라르나카"
+
+msgid "Lefkosia_CY"
+msgstr "니코시아"
+
+msgid "Lemesos_CY"
+msgstr "리마솔"
+
+msgid "Pafos_CY"
+msgstr "파포스"
+
+msgid "Jihocesky kraj_CZ"
+msgstr "남보헤미아주"
+
+msgid "Jihomoravsky kraj_CZ"
+msgstr "남모라바 주"
+
+msgid "Karlovarsky kraj_CZ"
+msgstr "카를로비바리 주"
+
+msgid "Kraj Vysocina_CZ"
+msgstr "비소치나 주"
+
+msgid "Kralovehradecky kraj_CZ"
+msgstr "흐라데츠크랄로베 주"
+
+msgid "Liberecky kraj_CZ"
+msgstr "리베레츠 주"
+
+msgid "Moravskoslezsky kraj_CZ"
+msgstr "모라바슬레스코 주"
+
+msgid "Olomoucky kraj_CZ"
+msgstr "올로모우츠 주"
+
+msgid "Pardubicky kraj_CZ"
+msgstr "파르두비체 주"
+
+msgid "Plzensky kraj_CZ"
+msgstr "플젠 주"
+
+msgid "Praha, Hlavni mesto_CZ"
+msgstr "프라하"
+
+msgid "Stredocesky kraj_CZ"
+msgstr "중앙보헤미아 주"
+
+msgid "Ustecky kraj_CZ"
+msgstr "우스티 주"
+
+msgid "Zlinsky kraj_CZ"
+msgstr "즐린 주"
+
+msgid "Baden-Wurttemberg_DE"
+msgstr "바덴뷔르템베르크주"
+
+msgid "Bayern_DE"
+msgstr "바이에른 자유주"
+
+msgid "Berlin_DE"
+msgstr "베를린"
+
+msgid "Brandenburg_DE"
+msgstr "브란덴부르크주"
+
+msgid "Bremen_DE"
+msgstr "브레멘"
+
+msgid "Hamburg_DE"
+msgstr "함부르크"
+
+msgid "Hessen_DE"
+msgstr "헤센주"
+
+msgid "Mecklenburg-Vorpommern_DE"
+msgstr "메클렌부르크포어포메른주"
+
+msgid "Niedersachsen_DE"
+msgstr "니더작센주"
+
+msgid "Nordrhein-Westfalen_DE"
+msgstr "노르트라인베스트팔렌주"
+
+msgid "Rheinland-Pfalz_DE"
+msgstr "라인란트팔츠주"
+
+msgid "Saarland_DE"
+msgstr "자를란트주"
+
+msgid "Sachsen_DE"
+msgstr "작센 자유주"
+
+msgid "Sachsen-Anhalt_DE"
+msgstr "작센안할트주"
+
+msgid "Schleswig-Holstein_DE"
+msgstr "슐레스비히홀슈타인주"
+
+msgid "Thuringen_DE"
+msgstr "튀링엔 자유주"
+
+msgid "Ali Sabieh_DJ"
+msgstr "알리사비에"
+
+msgid "Arta_DJ"
+msgstr "아르타"
+
+msgid "Dikhil_DJ"
+msgstr "디킬"
+
+msgid "Djibouti_DJ"
+msgstr "지부티 공화국"
+
+msgid "Obock_DJ"
+msgstr "오보크"
+
+msgid "Tadjourah_DJ"
+msgstr "타주라"
+
+msgid "Hovedstaden_DK"
+msgstr "덴마크 수도 지역"
+
+msgid "Midtjylland_DK"
+msgstr "중앙윌란 지역"
+
+msgid "Nordjylland_DK"
+msgstr "북윌란 지역"
+
+msgid "Sjaelland_DK"
+msgstr "셸란 섬"
+
+msgid "Syddanmark_DK"
+msgstr "남덴마크 지역"
+
+msgid "Saint Andrew_DM"
+msgstr "안드레아"
+
+msgid "Saint David_DM"
+msgstr "세인트데이비드 교구"
+
+msgid "Saint George_DM"
+msgstr "게오르기우스"
+
+msgid "Saint John_DM"
+msgstr "세인트존"
+
+msgid "Saint Joseph_DM"
+msgstr "나자렛의 요셉"
+
+msgid "Saint Luke_DM"
+msgstr "루카스"
+
+msgid "Saint Mark_DM"
+msgstr "마르코"
+
+msgid "Saint Patrick_DM"
+msgstr "성 파트리치오"
+
+msgid "Saint Paul_DM"
+msgstr "파울로"
+
+msgid "Saint Peter_DM"
+msgstr "베드로"
+
+msgid "Azua_DO"
+msgstr "아수아 주"
+
+msgid "Baoruco_DO"
+msgstr "바오루코 주"
+
+msgid "Barahona_DO"
+msgstr "바라오나 주"
+
+msgid "Dajabon_DO"
+msgstr "다하본"
+
+msgid "Distrito Nacional (Santo Domingo)_DO"
+msgstr "국가 지구"
+
+msgid "Duarte_DO"
+msgstr "두아르트"
+
+msgid "El Seibo_DO"
+msgstr "엘세이보 주"
+
+msgid "Elias Pina_DO"
+msgstr "엘리아스피냐 주"
+
+msgid "Espaillat_DO"
+msgstr "에스파이야트 주"
+
+msgid "Hato Mayor_DO"
+msgstr "아토마요르 주"
+
+msgid "Hermanas Mirabal_DO"
+msgstr "에르마나스미라발 주"
+
+msgid "Independencia_DO"
+msgstr "인데펜덴시아"
+
+msgid "La Altagracia_DO"
+msgstr "라알타그라시아 주"
+
+msgid "La Romana_DO"
+msgstr "라로마나"
+
+msgid "La Vega_DO"
+msgstr "라베가 주"
+
+msgid "Maria Trinidad Sanchez_DO"
+msgstr "마리아트리니다드산체스 주"
+
+msgid "Monsenor Nouel_DO"
+msgstr "몬세뇨르노우엘 주"
+
+msgid "Monte Cristi_DO"
+msgstr "몬테크리스티 주"
+
+msgid "Monte Plata_DO"
+msgstr "몬테플라타"
+
+msgid "Pedernales_DO"
+msgstr "페데르날레스 주"
+
+msgid "Peravia_DO"
+msgstr "페라비아 주"
+
+msgid "Puerto Plata_DO"
+msgstr "푸에르토플라타 주"
+
+msgid "Samana_DO"
+msgstr "사마나 주"
+
+msgid "San Cristobal_DO"
+msgstr "산크리스토발"
+
+msgid "San Jose de Ocoa_DO"
+msgstr "산호세데오코아"
+
+msgid "San Juan_DO"
+msgstr "산후안"
+
+msgid "San Pedro de Macoris_DO"
+msgstr "산페드로데마코리스"
+
+msgid "Sanchez Ramirez_DO"
+msgstr "산체스라미레스 주"
+
+msgid "Santiago_DO"
+msgstr "산티아고 데 칠레"
+
+msgid "Santiago Rodriguez_DO"
+msgstr "산티아고로드리게스 주"
+
+msgid "Valverde_DO"
+msgstr "발베르데"
+
+msgid "Adrar_DZ"
+msgstr "아드라르"
+
+msgid "Ain Defla_DZ"
+msgstr "아인데플라"
+
+msgid "Ain Temouchent_DZ"
+msgstr "아인테무셴트"
+
+msgid "Alger_DZ"
+msgstr "알제 주"
+
+msgid "Annaba_DZ"
+msgstr "안나바"
+
+msgid "Batna_DZ"
+msgstr "바트나 주"
+
+msgid "Bechar_DZ"
+msgstr "베샤르"
+
+msgid "Bejaia_DZ"
+msgstr "베자이아"
+
+msgid "Biskra_DZ"
+msgstr "비스크라"
+
+msgid "Blida_DZ"
+msgstr "블리다"
+
+msgid "Bordj Bou Arreridj_DZ"
+msgstr "보르즈부아레리즈"
+
+msgid "Bouira_DZ"
+msgstr "부이라"
+
+msgid "Boumerdes_DZ"
+msgstr "부메르데스"
+
+msgid "Chlef_DZ"
+msgstr "슐레프"
+
+msgid "Constantine_DZ"
+msgstr "콩스탕틴 주"
+
+msgid "Djelfa_DZ"
+msgstr "젤파"
+
+msgid "El Bayadh_DZ"
+msgstr "엘바야드"
+
+msgid "El Oued_DZ"
+msgstr "엘우에드"
+
+msgid "El Tarf_DZ"
+msgstr "엘타르프"
+
+msgid "Ghardaia_DZ"
+msgstr "가르다이아"
+
+msgid "Guelma_DZ"
+msgstr "겔마"
+
+msgid "Illizi_DZ"
+msgstr "일리지"
+
+msgid "Jijel_DZ"
+msgstr "지젤"
+
+msgid "Khenchela_DZ"
+msgstr "켄셸라"
+
+msgid "Laghouat_DZ"
+msgstr "라구아트"
+
+msgid "M'sila_DZ"
+msgstr "음실라 주"
+
+msgid "Mascara_DZ"
+msgstr "마스카라"
+
+msgid "Medea_DZ"
+msgstr "메데이아"
+
+msgid "Mila_DZ"
+msgstr "밀라"
+
+msgid "Mostaganem_DZ"
+msgstr "모스타가넴"
+
+msgid "Naama_DZ"
+msgstr "나마 주"
+
+msgid "Oran_DZ"
+msgstr "오랑"
+
+msgid "Ouargla_DZ"
+msgstr "우아르글라"
+
+msgid "Oum el Bouaghi_DZ"
+msgstr "움엘부아기"
+
+msgid "Relizane_DZ"
+msgstr "렐리잔"
+
+msgid "Saida_DZ"
+msgstr "사이다 주"
+
+msgid "Setif_DZ"
+msgstr "세티프"
+
+msgid "Sidi Bel Abbes_DZ"
+msgstr "시디벨아베스"
+
+msgid "Skikda_DZ"
+msgstr "스킥다"
+
+msgid "Souk Ahras_DZ"
+msgstr "수크아라스"
+
+msgid "Tamanrasset_DZ"
+msgstr "타만라세트"
+
+msgid "Tebessa_DZ"
+msgstr "테베사"
+
+msgid "Tiaret_DZ"
+msgstr "티아레"
+
+msgid "Tindouf_DZ"
+msgstr "틴두프"
+
+msgid "Tipaza_DZ"
+msgstr "티파자"
+
+msgid "Tissemsilt_DZ"
+msgstr "티셈실트"
+
+msgid "Tizi Ouzou_DZ"
+msgstr "티지우주"
+
+msgid "Tlemcen_DZ"
+msgstr "틀렘센"
+
+msgid "Azuay_EC"
+msgstr "아수아이 주"
+
+msgid "Bolivar_EC"
+msgstr "볼리바르"
+
+msgid "Canar_EC"
+msgstr "카냐르 주"
+
+msgid "Carchi_EC"
+msgstr "카르치 주"
+
+msgid "Chimborazo_EC"
+msgstr "침보라소 산"
+
+msgid "Cotopaxi_EC"
+msgstr "코토팍시 주"
+
+msgid "El Oro_EC"
+msgstr "엘오로 주"
+
+msgid "Esmeraldas_EC"
+msgstr "에스메랄다스"
+
+msgid "Galapagos_EC"
+msgstr "갈라파고스 제도"
+
+msgid "Guayas_EC"
+msgstr "과야스 주"
+
+msgid "Imbabura_EC"
+msgstr "임바부라 주"
+
+msgid "Loja_EC"
+msgstr "로하"
+
+msgid "Los Rios_EC"
+msgstr "로스리오스"
+
+msgid "Manabi_EC"
+msgstr "마나비 주"
+
+msgid "Morona Santiago_EC"
+msgstr "모로나산티아고 주"
+
+msgid "Napo_EC"
+msgstr "나포 주"
+
+msgid "Orellana_EC"
+msgstr "오레야나 주"
+
+msgid "Pastaza_EC"
+msgstr "파스타사 주"
+
+msgid "Pichincha_EC"
+msgstr "피친차 주"
+
+msgid "Santa Elena_EC"
+msgstr "산타엘레나 주"
+
+msgid "Santo Domingo de los Tsachilas_EC"
+msgstr "산토도밍고데로스차칠라스 주"
+
+msgid "Sucumbios_EC"
+msgstr "수쿰비오스 주"
+
+msgid "Tungurahua_EC"
+msgstr "퉁구라우아산"
+
+msgid "Zamora Chinchipe_EC"
+msgstr "사모라친치페 주"
+
+msgid "Harjumaa_EE"
+msgstr "하리우 주"
+
+msgid "Hiiumaa_EE"
+msgstr "히우마 섬"
+
+msgid "Ida-Virumaa_EE"
+msgstr "이다비루 주"
+
+msgid "Jarvamaa_EE"
+msgstr "얘르바 주"
+
+msgid "Jogevamaa_EE"
+msgstr "여게바 주"
+
+msgid "Laane-Virumaa_EE"
+msgstr "래네비루 주"
+
+msgid "Laanemaa_EE"
+msgstr "래네 주"
+
+msgid "Parnumaa_EE"
+msgstr "패르누 주"
+
+msgid "Polvamaa_EE"
+msgstr "펄바 주"
+
+msgid "Raplamaa_EE"
+msgstr "라플라 주"
+
+msgid "Saaremaa_EE"
+msgstr "사레마 섬"
+
+msgid "Tartumaa_EE"
+msgstr "타르투 주"
+
+msgid "Valgamaa_EE"
+msgstr "발가 주"
+
+msgid "Viljandimaa_EE"
+msgstr "빌리안디 주"
+
+msgid "Vorumaa_EE"
+msgstr "버루 주"
+
+msgid "Ad Daqahliyah_EG"
+msgstr "다칼리야 주"
+
+msgid "Al Bahr al Ahmar_EG"
+msgstr "홍해 주"
+
+msgid "Al Buhayrah_EG"
+msgstr "부하이라주"
+
+msgid "Al Fayyum_EG"
+msgstr "파이윰"
+
+msgid "Al Gharbiyah_EG"
+msgstr "가르비야 주"
+
+msgid "Al Iskandariyah_EG"
+msgstr "알렉산드리아 주"
+
+msgid "Al Isma'iliyah_EG"
+msgstr "이스마일리아 주"
+
+msgid "Al Jizah_EG"
+msgstr "기자 주"
+
+msgid "Al Minufiyah_EG"
+msgstr "무누피아 주"
+
+msgid "Al Minya_EG"
+msgstr "미니아 주"
+
+msgid "Al Qahirah_EG"
+msgstr "카이로 주"
+
+msgid "Al Qalyubiyah_EG"
+msgstr "칼리우비야 주"
+
+msgid "Al Uqsur_EG"
+msgstr "룩소르 주"
+
+msgid "Al Wadi al Jadid_EG"
+msgstr "알와디알자디드 주"
+
+msgid "As Suways_EG"
+msgstr "수에즈 주"
+
+msgid "Ash Sharqiyah_EG"
+msgstr "동부 주"
+
+msgid "Aswan_EG"
+msgstr "아스완"
+
+msgid "Asyut_EG"
+msgstr "아시우트"
+
+msgid "Bani Suwayf_EG"
+msgstr "베니수에프"
+
+msgid "Bur Sa'id_EG"
+msgstr "포트사이드"
+
+msgid "Dumyat_EG"
+msgstr "다미에타 주"
+
+msgid "Janub Sina'_EG"
+msgstr "자누브시나 주"
+
+msgid "Kafr ash Shaykh_EG"
+msgstr "카프르엘셰이크"
+
+msgid "Matruh_EG"
+msgstr "마트루 주"
+
+msgid "Qina_EG"
+msgstr "케나"
+
+msgid "Shamal Sina'_EG"
+msgstr "샤말시나 주"
+
+msgid "Suhaj_EG"
+msgstr "소하그"
+
+msgid "Western Sahara_EH"
+msgstr "서사하라"
+
+msgid "Al Awsat_ER"
+msgstr "중앙 주"
+
+msgid "Al Janubi_ER"
+msgstr "남부 주"
+
+msgid "Ansaba_ER"
+msgstr "안세바 주"
+
+msgid "Janubi al Bahri al Ahmar_ER"
+msgstr "홍해 남부 주"
+
+msgid "Qash-Barkah_ER"
+msgstr "가시바르카 주"
+
+msgid "Shimali al Bahri al Ahmar_ER"
+msgstr "홍해 북부 주"
+
+msgid "Andalucia_ES"
+msgstr "안달루시아 지방"
+
+msgid "Aragon_ES"
+msgstr "아라곤 지방"
+
+msgid "Asturias, Principado de_ES"
+msgstr "아스투리아스 자치주"
+
+msgid "Canarias_ES"
+msgstr "카나리아 제도"
+
+msgid "Cantabria_ES"
+msgstr "칸타브리아 지방"
+
+msgid "Castilla y Leon_ES"
+msgstr "카스티야이레온 지방"
+
+msgid "Castilla-La Mancha_ES"
+msgstr "카스티야라만차"
+
+msgid "Catalunya_ES"
+msgstr "카탈루냐"
+
+msgid "Ceuta_ES"
+msgstr "세우타"
+
+msgid "Extremadura_ES"
+msgstr "에스트레마두라 지방"
+
+msgid "Galicia_ES"
+msgstr "갈리시아 지방"
+
+msgid "Illes Balears_ES"
+msgstr "발레아레스 제도"
+
+msgid "La Rioja_ES"
+msgstr "리오하"
+
+msgid "Madrid, Comunidad de_ES"
+msgstr "마드리드 지방"
+
+msgid "Melilla_ES"
+msgstr "멜리야"
+
+msgid "Murcia, Region de_ES"
+msgstr "무르시아 지방"
+
+msgid "Navarra, Comunidad Foral de_ES"
+msgstr "나바라 지방"
+
+msgid "Pais Vasco_ES"
+msgstr "바스크 지방"
+
+msgid "Valenciana, Comunidad_ES"
+msgstr "발렌시아 지방"
+
+msgid "Adis Abeba_ET"
+msgstr "아디스  아바바"
+
+msgid "Afar_ET"
+msgstr "아파르 주"
+
+msgid "Amara_ET"
+msgstr "암하라 주"
+
+msgid "Binshangul Gumuz_ET"
+msgstr "베니샹굴구무즈 주"
+
+msgid "Dire Dawa_ET"
+msgstr "디레다와"
+
+msgid "Gambela Hizboch_ET"
+msgstr "감벨라 주"
+
+msgid "Hareri Hizb_ET"
+msgstr "하라리 주"
+
+msgid "Oromiya_ET"
+msgstr "오로미아 주"
+
+msgid "Sumale_ET"
+msgstr "소말리 주"
+
+msgid "Tigray_ET"
+msgstr "티그라이주"
+
+msgid "YeDebub Biheroch Bihereseboch na Hizboch_ET"
+msgstr "남부 국가 민족 주"
+
+msgid "Etela-Karjala_FI"
+msgstr "남카리알라 지역"
+
+msgid "Etela-Pohjanmaa_FI"
+msgstr "남포흐얀마 지역"
+
+msgid "Etela-Savo_FI"
+msgstr "남사보 지역"
+
+msgid "Kainuu_FI"
+msgstr "카이누 지역"
+
+msgid "Kanta-Hame_FI"
+msgstr "칸타해메 지역"
+
+msgid "Keski-Pohjanmaa_FI"
+msgstr "중앙포흐얀마 지역"
+
+msgid "Keski-Suomi_FI"
+msgstr "중앙수오미 지역"
+
+msgid "Kymenlaakso_FI"
+msgstr "퀴멘락소 지역"
+
+msgid "Lappi_FI"
+msgstr "라피"
+
+msgid "Paijat-Hame_FI"
+msgstr "패이얘트해메 지역"
+
+msgid "Pirkanmaa_FI"
+msgstr "피르칸마 지역"
+
+msgid "Pohjanmaa_FI"
+msgstr "포흐얀마 지역"
+
+msgid "Pohjois-Karjala_FI"
+msgstr "북카리알라 지역"
+
+msgid "Pohjois-Pohjanmaa_FI"
+msgstr "북포흐얀마 지역"
+
+msgid "Pohjois-Savo_FI"
+msgstr "북사보 지역"
+
+msgid "Satakunta_FI"
+msgstr "사타쿤타 지역"
+
+msgid "Uusimaa_FI"
+msgstr "우시마 지역"
+
+msgid "Varsinais-Suomi_FI"
+msgstr "남서수오미 지역"
+
+msgid "Central_FJ"
+msgstr "중부 구"
+
+msgid "Eastern_FJ"
+msgstr "동부 구"
+
+msgid "Northern_FJ"
+msgstr "북부 구"
+
+msgid "Rotuma_FJ"
+msgstr "로투마"
+
+msgid "Western_FJ"
+msgstr "서부 구"
+
+msgid "Falkland Islands (Malvinas)_FK"
+msgstr "포클랜드 제도"
+
+msgid "Chuuk_FM"
+msgstr "추크 주"
+
+msgid "Kosrae_FM"
+msgstr "코스라에 주"
+
+msgid "Pohnpei_FM"
+msgstr "폰페이 섬"
+
+msgid "Yap_FM"
+msgstr "야프 섬"
+
+msgid "Eysturoy_FO"
+msgstr "에스투로이 섬"
+
+msgid "Nordoyar_FO"
+msgstr "Nordoyar"
+
+msgid "Sandoy_FO"
+msgstr "산도이 섬"
+
+msgid "Streymoy_FO"
+msgstr "스트레이모이 섬"
+
+msgid "Suduroy_FO"
+msgstr "수두로이 섬"
+
+msgid "Vagar_FO"
+msgstr "보가르 섬"
+
+msgid "Auvergne-Rhone-Alpes_FR"
+msgstr "오베르뉴론알프"
+
+msgid "Bourgogne-Franche-Comte_FR"
+msgstr "부르고뉴프랑슈콩테"
+
+msgid "Bretagne_FR"
+msgstr "브르타뉴"
+
+msgid "Centre-Val de Loire_FR"
+msgstr "상트르발드루아르"
+
+msgid "Corse_FR"
+msgstr "코르시카"
+
+msgid "Grand-Est_FR"
+msgstr "그랑테스트"
+
+msgid "Hauts-de-France_FR"
+msgstr "오드프랑스"
+
+msgid "Ile-de-France_FR"
+msgstr "일드프랑스"
+
+msgid "Normandie_FR"
+msgstr "노르망디"
+
+msgid "Nouvelle-Aquitaine_FR"
+msgstr "누벨아키텐"
+
+msgid "Occitanie_FR"
+msgstr "옥시타니"
+
+msgid "Pays-de-la-Loire_FR"
+msgstr "페이드라루아르"
+
+msgid "Provence-Alpes-Cote-d'Azur_FR"
+msgstr "프로방스알프코트다쥐르"
+
+msgid "Estuaire_GA"
+msgstr "에스튀에르 주"
+
+msgid "Haut-Ogooue_GA"
+msgstr "오트오고웨 주"
+
+msgid "Moyen-Ogooue_GA"
+msgstr "무아얭오고웨 주"
+
+msgid "Ngounie_GA"
+msgstr "응구니에 주"
+
+msgid "Nyanga_GA"
+msgstr "냥가 주"
+
+msgid "Ogooue-Ivindo_GA"
+msgstr "오고웨이빈도 주"
+
+msgid "Ogooue-Lolo_GA"
+msgstr "오고웨롤로 주"
+
+msgid "Ogooue-Maritime_GA"
+msgstr "오고웨마리팀 주"
+
+msgid "Woleu-Ntem_GA"
+msgstr "월뢰은템 주"
+
+msgid "England_GB"
+msgstr "잉글랜드"
+
+msgid "Northern Ireland_GB"
+msgstr "북아일랜드"
+
+msgid "Scotland_GB"
+msgstr "스코틀랜드"
+
+msgid "Wales_GB"
+msgstr "웨일스"
+
+msgid "Saint Andrew_GD"
+msgstr "안드레아"
+
+msgid "Saint David_GD"
+msgstr "세인트데이비드 교구"
+
+msgid "Saint George_GD"
+msgstr "게오르기우스"
+
+msgid "Saint John_GD"
+msgstr "세인트존"
+
+msgid "Saint Mark_GD"
+msgstr "마르코"
+
+msgid "Saint Patrick_GD"
+msgstr "성 파트리치오"
+
+msgid "Southern Grenadine Islands_GD"
+msgstr "카리아쿠 프티마르티니크"
+
+msgid "Abkhazia_GE"
+msgstr "압하지야"
+
+msgid "Ajaria_GE"
+msgstr "아자리야 자치 공화국"
+
+msgid "Guria_GE"
+msgstr "구리아"
+
+msgid "Imereti_GE"
+msgstr "이메레티 주"
+
+msgid "K'akheti_GE"
+msgstr "카헤티주"
+
+msgid "Kvemo Kartli_GE"
+msgstr "크베모카르틀리"
+
+msgid "Mtskheta-Mtianeti_GE"
+msgstr "므츠헤타므티아네티 주"
+
+msgid "Rach'a-Lechkhumi-Kvemo Svaneti_GE"
+msgstr "라차레츠후미크베모스바네티 주"
+
+msgid "Samegrelo-Zemo Svaneti_GE"
+msgstr "사메그렐로제모스바네티 주"
+
+msgid "Samtskhe-Javakheti_GE"
+msgstr "삼츠헤자바헤티"
+
+msgid "Shida Kartli_GE"
+msgstr "시다카르틀리 주"
+
+msgid "Tbilisi_GE"
+msgstr "트빌리시"
+
+msgid "Guyane_GF"
+msgstr "프랑스령 기아나"
+
+msgid "Guernsey_GG"
+msgstr "건지 섬"
+
+msgid "Ashanti_GH"
+msgstr "아샨티"
+
+msgid "Brong-Ahafo_GH"
+msgstr "브롱아하포 주"
+
+msgid "Central_GH"
+msgstr "중앙 주"
+
+msgid "Eastern_GH"
+msgstr "동부 주"
+
+msgid "Greater Accra_GH"
+msgstr "그레이터아크라 주"
+
+msgid "Northern_GH"
+msgstr "북부 주"
+
+msgid "Upper East_GH"
+msgstr "어퍼이스트 주"
+
+msgid "Upper West_GH"
+msgstr "어퍼웨스트 주"
+
+msgid "Volta_GH"
+msgstr "볼타"
+
+msgid "Western_GH"
+msgstr "서부 주"
+
+msgid "Gibraltar_GI"
+msgstr "지브롤터"
+
+msgid "Avannaata Kommunia_GL"
+msgstr "아바나 타 콘 미니아"
+
+msgid "Kommune Kujalleq_GL"
+msgstr "쿠얄레크"
+
+msgid "Kommune Qeqertalik_GL"
+msgstr "쿠 메네 키케 르탈 릭"
+
+msgid "Kommuneqarfik Sermersooq_GL"
+msgstr "세르메르소크"
+
+msgid "Qeqqata Kommunia_GL"
+msgstr "케카타"
+
+msgid "Banjul_GM"
+msgstr "반줄"
+
+msgid "Central River_GM"
+msgstr "센트럴리버 구"
+
+msgid "Lower River_GM"
+msgstr "하 강"
+
+msgid "North Bank_GM"
+msgstr "노스뱅크 구"
+
+msgid "Upper River_GM"
+msgstr "어퍼리버 구"
+
+msgid "Western_GM"
+msgstr "웨스트코스트 구"
+
+msgid "Beyla_GN"
+msgstr "베일 라"
+
+msgid "Boffa_GN"
+msgstr "보파"
+
+msgid "Boke_GN"
+msgstr "보케 주"
+
+msgid "Conakry_GN"
+msgstr "코나크리"
+
+msgid "Coyah_GN"
+msgstr "코야"
+
+msgid "Dabola_GN"
+msgstr "다 볼라"
+
+msgid "Dalaba_GN"
+msgstr "달라 라"
+
+msgid "Dinguiraye_GN"
+msgstr "Dinguiraye"
+
+msgid "Dubreka_GN"
+msgstr "Dubreka"
+
+msgid "Faranah_GN"
+msgstr "파라나 주"
+
+msgid "Forecariah_GN"
+msgstr "포어 카 리아"
+
+msgid "Fria_GN"
+msgstr "추위"
+
+msgid "Gaoual_GN"
+msgstr "Gaoual"
+
+msgid "Guekedou_GN"
+msgstr "구에 케 도우"
+
+msgid "Kankan_GN"
+msgstr "캉칸"
+
+msgid "Kerouane_GN"
+msgstr "케 루안"
+
+msgid "Kindia_GN"
+msgstr "킨디아"
+
+msgid "Kissidougou_GN"
+msgstr "키시두구"
+
+msgid "Koubia_GN"
+msgstr "쿠비 아"
+
+msgid "Koundara_GN"
+msgstr "콘 다라"
+
+msgid "Kouroussa_GN"
+msgstr "쿠루사"
+
+msgid "Labe_GN"
+msgstr "라베 주"
+
+msgid "Lelouma_GN"
+msgstr "릴로 마"
+
+msgid "Lola_GN"
+msgstr "롤라"
+
+msgid "Macenta_GN"
+msgstr "마센타"
+
+msgid "Mali_GN"
+msgstr "말리 공화국"
+
+msgid "Mamou_GN"
+msgstr "마무"
+
+msgid "Mandiana_GN"
+msgstr "만 디아나"
+
+msgid "Nzerekore_GN"
+msgstr "은제레코레"
+
+msgid "Pita_GN"
+msgstr "피타"
+
+msgid "Siguiri_GN"
+msgstr "시기리"
+
+msgid "Telimele_GN"
+msgstr "가장자리에"
+
+msgid "Tougue_GN"
+msgstr "Tougue"
+
+msgid "Yomou_GN"
+msgstr "여보"
+
+msgid "Guadeloupe_GP"
+msgstr "과들루프 섬"
+
+msgid "Annobon_GQ"
+msgstr "안노본 주"
+
+msgid "Bioko Norte_GQ"
+msgstr "북비오코 주"
+
+msgid "Bioko Sur_GQ"
+msgstr "남비오코 주"
+
+msgid "Centro Sur_GQ"
+msgstr "중남부 주"
+
+msgid "Kie-Ntem_GQ"
+msgstr "키에은템 주"
+
+msgid "Litoral_GQ"
+msgstr "리토랄 주"
+
+msgid "Wele-Nzas_GQ"
+msgstr "웰레은사스 주"
+
+msgid "Agion Oros_GR"
+msgstr "아토스 산"
+
+msgid "Anatoliki Makedonia kai Thraki_GR"
+msgstr "동마케도니아 트라키주"
+
+msgid "Attiki_GR"
+msgstr "아티케"
+
+msgid "Dytiki Ellada_GR"
+msgstr "서그리스주"
+
+msgid "Dytiki Makedonia_GR"
+msgstr "서마케도니아 주"
+
+msgid "Ionia Nisia_GR"
+msgstr "이오니아 제도"
+
+msgid "Ipeiros_GR"
+msgstr "이피로스"
+
+msgid "Kentriki Makedonia_GR"
+msgstr "중앙마케도니아주"
+
+msgid "Kriti_GR"
+msgstr "크레타"
+
+msgid "Notio Aigaio_GR"
+msgstr "남에게주"
+
+msgid "Peloponnisos_GR"
+msgstr "펠로폰네소스 반도"
+
+msgid "Sterea Ellada_GR"
+msgstr "중앙그리스"
+
+msgid "Thessalia_GR"
+msgstr "테살리아"
+
+msgid "Voreio Aigaio_GR"
+msgstr "북에게주"
+
+msgid "South Georgia and the South Sandwich Islands_GS"
+msgstr "사우스조지아 사우스샌드위치 제도"
+
+msgid "Alta Verapaz_GT"
+msgstr "알타베라파스 주"
+
+msgid "Baja Verapaz_GT"
+msgstr "바하베라파스 주"
+
+msgid "Chimaltenango_GT"
+msgstr "치말테낭고"
+
+msgid "Chiquimula_GT"
+msgstr "치키물라"
+
+msgid "El Progreso_GT"
+msgstr "엘프로그레소 주"
+
+msgid "Escuintla_GT"
+msgstr "에스쿠인틀라"
+
+msgid "Guatemala_GT"
+msgstr "과테말라 공화국"
+
+msgid "Huehuetenango_GT"
+msgstr "우에우에테낭고"
+
+msgid "Izabal_GT"
+msgstr "이사발 주"
+
+msgid "Jalapa_GT"
+msgstr "할라파"
+
+msgid "Jutiapa_GT"
+msgstr "후티아파"
+
+msgid "Peten_GT"
+msgstr "페텐 주"
+
+msgid "Quetzaltenango_GT"
+msgstr "케트살테낭고"
+
+msgid "Quiche_GT"
+msgstr "키슈"
+
+msgid "Retalhuleu_GT"
+msgstr "레탈룰레우"
+
+msgid "Sacatepequez_GT"
+msgstr "사카테페케스 주"
+
+msgid "San Marcos_GT"
+msgstr "산마르코스"
+
+msgid "Santa Rosa_GT"
+msgstr "산타로사"
+
+msgid "Solola_GT"
+msgstr "솔롤라"
+
+msgid "Suchitepequez_GT"
+msgstr "수치테페케스 주"
+
+msgid "Totonicapan_GT"
+msgstr "토토니카판"
+
+msgid "Zacapa_GT"
+msgstr "사카파"
+
+msgid "Agana Heights_GU"
+msgstr "아가나 하이츠"
+
+msgid "Agat_GU"
+msgstr "아가트"
+
+msgid "Asan-Maina_GU"
+msgstr "아산 - 메인"
+
+msgid "Barrigada_GU"
+msgstr "Barrigada"
+
+msgid "Chalan Pago-Ordot_GU"
+msgstr "샬랑 파고 - 오르도"
+
+msgid "Dededo_GU"
+msgstr "데데도"
+
+msgid "Hagatna_GU"
+msgstr "하갓냐"
+
+msgid "Inarajan_GU"
+msgstr "이나 라얀"
+
+msgid "Mangilao_GU"
+msgstr "Mangilao"
+
+msgid "Merizo_GU"
+msgstr "메리조"
+
+msgid "Mongmong-Toto-Maite_GU"
+msgstr "몽몽 토토 - 마이트"
+
+msgid "Piti_GU"
+msgstr "피티"
+
+msgid "Santa Rita_GU"
+msgstr "산타 리타"
+
+msgid "Sinajana_GU"
+msgstr "시나이 아"
+
+msgid "Talofofo_GU"
+msgstr "탈로 포포"
+
+msgid "Tamuning-Tumon-Harmon_GU"
+msgstr "타무닝"
+
+msgid "Umatac_GU"
+msgstr "우마 막"
+
+msgid "Yigo_GU"
+msgstr "이가"
+
+msgid "Yona_GU"
+msgstr "조냐"
+
+msgid "Bafata_GW"
+msgstr "바파타 주"
+
+msgid "Biombo_GW"
+msgstr "비옴부 주"
+
+msgid "Bissau_GW"
+msgstr "비사우"
+
+msgid "Bolama_GW"
+msgstr "볼라마"
+
+msgid "Cacheu_GW"
+msgstr "카셰우"
+
+msgid "Gabu_GW"
+msgstr "가부 주"
+
+msgid "Oio_GW"
+msgstr "오이우 주"
+
+msgid "Quinara_GW"
+msgstr "키나라 주"
+
+msgid "Tombali_GW"
+msgstr "톰발리 주"
+
+msgid "Barima-Waini_GY"
+msgstr "바리마와이니 주"
+
+msgid "Cuyuni-Mazaruni_GY"
+msgstr "쿠유니마자루니 주"
+
+msgid "Demerara-Mahaica_GY"
+msgstr "데메라라마하이카 주"
+
+msgid "East Berbice-Corentyne_GY"
+msgstr "이스트버비스코렌타인 주"
+
+msgid "Essequibo Islands-West Demerara_GY"
+msgstr "에세키보아일랜즈웨스트데메라라 주"
+
+msgid "Mahaica-Berbice_GY"
+msgstr "마하이카버비스 주"
+
+msgid "Pomeroon-Supenaam_GY"
+msgstr "포메룬수페남 주"
+
+msgid "Potaro-Siparuni_GY"
+msgstr "포타로시파루니 주"
+
+msgid "Upper Demerara-Berbice_GY"
+msgstr "어퍼데메라라버비스 주"
+
+msgid "Upper Takutu-Upper Essequibo_GY"
+msgstr "어퍼타쿠투어퍼에세키보 주"
+
+msgid "Hong Kong_HK"
+msgstr "홍콩"
+
+msgid "Atlantida_HN"
+msgstr "아틀란티다 주"
+
+msgid "Choluteca_HN"
+msgstr "촐루테카 주"
+
+msgid "Colon_HN"
+msgstr "콜론"
+
+msgid "Comayagua_HN"
+msgstr "코마야과"
+
+msgid "Copan_HN"
+msgstr "코판"
+
+msgid "Cortes_HN"
+msgstr "코르테스"
+
+msgid "El Paraiso_HN"
+msgstr "엘파라이소 주"
+
+msgid "Francisco Morazan_HN"
+msgstr "프란시스코모라산 주"
+
+msgid "Gracias a Dios_HN"
+msgstr "그라시아스아디오스 주"
+
+msgid "Intibuca_HN"
+msgstr "인티부카 주"
+
+msgid "Islas de la Bahia_HN"
+msgstr "이슬라스데라바이아 주"
+
+msgid "La Paz_HN"
+msgstr "라파스"
+
+msgid "Lempira_HN"
+msgstr "렘피라"
+
+msgid "Ocotepeque_HN"
+msgstr "오코테페케"
+
+msgid "Olancho_HN"
+msgstr "올란초 주"
+
+msgid "Santa Barbara_HN"
+msgstr "산타바르바라"
+
+msgid "Valle_HN"
+msgstr "바예 주"
+
+msgid "Yoro_HN"
+msgstr "요로"
+
+msgid "Bjelovarsko-bilogorska zupanija_HR"
+msgstr "벨로바르빌로고라 주"
+
+msgid "Brodsko-posavska zupanija_HR"
+msgstr "브로드포사비나 주"
+
+msgid "Dubrovacko-neretvanska zupanija_HR"
+msgstr "두브로브니크네레트바 주"
+
+msgid "Grad Zagreb_HR"
+msgstr "자그레브"
+
+msgid "Istarska zupanija_HR"
+msgstr "이스트라 주"
+
+msgid "Karlovacka zupanija_HR"
+msgstr "카를로바츠 주"
+
+msgid "Koprivnicko-krizevacka zupanija_HR"
+msgstr "코프리브니차크리제브치 주"
+
+msgid "Krapinsko-zagorska zupanija_HR"
+msgstr "크라피나자고레 주"
+
+msgid "Licko-senjska zupanija_HR"
+msgstr "리카센 주"
+
+msgid "Medimurska zupanija_HR"
+msgstr "메지무레 주"
+
+msgid "Osjecko-baranjska zupanija_HR"
+msgstr "오시예크바라냐 주"
+
+msgid "Pozesko-slavonska zupanija_HR"
+msgstr "포제가슬라보니아 주"
+
+msgid "Primorsko-goranska zupanija_HR"
+msgstr "프리모레고르스키코타르 주"
+
+msgid "Sibensko-kninska zupanija_HR"
+msgstr "시베니크크닌 주"
+
+msgid "Sisacko-moslavacka zupanija_HR"
+msgstr "시사크모슬라비나 주"
+
+msgid "Splitsko-dalmatinska zupanija_HR"
+msgstr "스플리트달마티아 주"
+
+msgid "Varazdinska zupanija_HR"
+msgstr "바라주딘 주"
+
+msgid "Viroviticko-podravska zupanija_HR"
+msgstr "비로비티차포드라비나 주"
+
+msgid "Vukovarsko-srijemska zupanija_HR"
+msgstr "부코바르스리옘 주"
+
+msgid "Zadarska zupanija_HR"
+msgstr "자다르 주"
+
+msgid "Zagrebacka zupanija_HR"
+msgstr "자그레브 주"
+
+msgid "Artibonite_HT"
+msgstr "아르티보니트 주"
+
+msgid "Centre_HT"
+msgstr "중앙 주"
+
+msgid "Grande'Anse_HT"
+msgstr "그랑당스 주"
+
+msgid "Nippes_HT"
+msgstr "니프 주"
+
+msgid "Nord_HT"
+msgstr "북부 주"
+
+msgid "Nord-Est_HT"
+msgstr "북동부 주"
+
+msgid "Nord-Ouest_HT"
+msgstr "북서부 주"
+
+msgid "Ouest_HT"
+msgstr "서부 주"
+
+msgid "Sud_HT"
+msgstr "남부 주"
+
+msgid "Sud-Est_HT"
+msgstr "남동부 주"
+
+msgid "Bacs-Kiskun_HU"
+msgstr "바치키슈쿤 주"
+
+msgid "Baranya_HU"
+msgstr "버러녀 주"
+
+msgid "Bekes_HU"
+msgstr "베케시"
+
+msgid "Borsod-Abauj-Zemplen_HU"
+msgstr "보르쇼드어버우이젬플렌 주"
+
+msgid "Budapest_HU"
+msgstr "부다페스트"
+
+msgid "Csongrad_HU"
+msgstr "촌그라드"
+
+msgid "Fejer_HU"
+msgstr "페예르 주"
+
+msgid "Gyor-Moson-Sopron_HU"
+msgstr "죄르모숀쇼프론 주"
+
+msgid "Hajdu-Bihar_HU"
+msgstr "허이두비허르 주"
+
+msgid "Heves_HU"
+msgstr "헤베시"
+
+msgid "Jasz-Nagykun-Szolnok_HU"
+msgstr "야스너지쿤솔노크 주"
+
+msgid "Komarom-Esztergom_HU"
+msgstr "코마롬에스테르곰 주"
+
+msgid "Nograd_HU"
+msgstr "노그라드 주"
+
+msgid "Pest_HU"
+msgstr "페슈트"
+
+msgid "Somogy_HU"
+msgstr "쇼모지 주"
+
+msgid "Szabolcs-Szatmar-Bereg_HU"
+msgstr "서볼치서트마르베레그 주"
+
+msgid "Tolna_HU"
+msgstr "톨너 주"
+
+msgid "Vas_HU"
+msgstr "버시 주"
+
+msgid "Veszprem_HU"
+msgstr "베스프렘"
+
+msgid "Zala_HU"
+msgstr "절러 주"
+
+msgid "Aceh_ID"
+msgstr "아체 주"
+
+msgid "Bali_ID"
+msgstr "발리섬"
+
+msgid "Banten_ID"
+msgstr "반텐 주"
+
+msgid "Bengkulu_ID"
+msgstr "븡쿨루 주"
+
+msgid "Gorontalo_ID"
+msgstr "고론탈로 주"
+
+msgid "Jakarta Raya_ID"
+msgstr "자카르타 라야"
+
+msgid "Jambi_ID"
+msgstr "잠비 주"
+
+msgid "Jawa Barat_ID"
+msgstr "자와바랏 주"
+
+msgid "Jawa Tengah_ID"
+msgstr "자와틍아 주"
+
+msgid "Jawa Timur_ID"
+msgstr "자와티무르 주"
+
+msgid "Kalimantan Barat_ID"
+msgstr "칼리만탄바랏 주"
+
+msgid "Kalimantan Selatan_ID"
+msgstr "칼리만탄슬라탄 주"
+
+msgid "Kalimantan Tengah_ID"
+msgstr "칼리만탄틍아 주"
+
+msgid "Kalimantan Timur_ID"
+msgstr "칼리만탄티무르 주"
+
+msgid "Kalimantan Utara_ID"
+msgstr "칼리만탄우타라 주"
+
+msgid "Kepulauan Bangka Belitung_ID"
+msgstr "방카벨리퉁 제도"
+
+msgid "Kepulauan Riau_ID"
+msgstr "리아우 제도주"
+
+msgid "Lampung_ID"
+msgstr "람풍 주"
+
+msgid "Maluku_ID"
+msgstr "말루쿠 주"
+
+msgid "Maluku Utara_ID"
+msgstr "말루쿠우타라 주"
+
+msgid "Nusa Tenggara Barat_ID"
+msgstr "누사틍가라바랏 주"
+
+msgid "Nusa Tenggara Timur_ID"
+msgstr "누사틍가라티무르 주"
+
+msgid "Papua_ID"
+msgstr "파푸아"
+
+msgid "Papua Barat_ID"
+msgstr "파푸아바랏 주"
+
+msgid "Riau_ID"
+msgstr "리아우 주"
+
+msgid "Sulawesi Barat_ID"
+msgstr "술라웨시바랏 주"
+
+msgid "Sulawesi Selatan_ID"
+msgstr "술라웨시슬라탄 주"
+
+msgid "Sulawesi Tengah_ID"
+msgstr "술라웨시틍아 주"
+
+msgid "Sulawesi Tenggara_ID"
+msgstr "술라웨시틍가라 주"
+
+msgid "Sulawesi Utara_ID"
+msgstr "술라웨시우타라 주"
+
+msgid "Sumatera Barat_ID"
+msgstr "수마트라바랏 주"
+
+msgid "Sumatera Selatan_ID"
+msgstr "수마트라슬라탄 주"
+
+msgid "Sumatera Utara_ID"
+msgstr "수마트라우타라 주"
+
+msgid "Yogyakarta_ID"
+msgstr "욕야카르타"
+
+msgid "Carlow_IE"
+msgstr "칼로"
+
+msgid "Cavan_IE"
+msgstr "캐번"
+
+msgid "Clare_IE"
+msgstr "클래어"
+
+msgid "Cork_IE"
+msgstr "코크주"
+
+msgid "Donegal_IE"
+msgstr "더니골주"
+
+msgid "Dublin_IE"
+msgstr "더블린"
+
+msgid "Galway_IE"
+msgstr "골웨이"
+
+msgid "Kerry_IE"
+msgstr "케리"
+
+msgid "Kildare_IE"
+msgstr "킬데어주"
+
+msgid "Kilkenny_IE"
+msgstr "킬케니"
+
+msgid "Laois_IE"
+msgstr "레이시주"
+
+msgid "Leitrim_IE"
+msgstr "리트림주"
+
+msgid "Limerick_IE"
+msgstr "리머릭"
+
+msgid "Longford_IE"
+msgstr "롱퍼드"
+
+msgid "Louth_IE"
+msgstr "라우스"
+
+msgid "Mayo_IE"
+msgstr "마요"
+
+msgid "Meath_IE"
+msgstr "미스주"
+
+msgid "Monaghan_IE"
+msgstr "모너핸"
+
+msgid "Offaly_IE"
+msgstr "오펄리주"
+
+msgid "Roscommon_IE"
+msgstr "로스커먼"
+
+msgid "Sligo_IE"
+msgstr "슬라이고"
+
+msgid "Tipperary_IE"
+msgstr "티퍼레리"
+
+msgid "Waterford_IE"
+msgstr "워터퍼드"
+
+msgid "Westmeath_IE"
+msgstr "웨스트미스주"
+
+msgid "Wexford_IE"
+msgstr "웩스퍼드"
+
+msgid "Wicklow_IE"
+msgstr "위클로"
+
+msgid "HaDarom_IL"
+msgstr "남부 구"
+
+msgid "HaMerkaz_IL"
+msgstr "중부 구"
+
+msgid "HaTsafon_IL"
+msgstr "북부 구"
+
+msgid "Hefa_IL"
+msgstr "카이파스"
+
+msgid "Tel Aviv_IL"
+msgstr "텔아비브"
+
+msgid "Yerushalayim_IL"
+msgstr "예루살렘"
+
+msgid "Isle of Man_IM"
+msgstr "맨 섬"
+
+msgid "Andaman and Nicobar Islands_IN"
+msgstr "안다만 니코바르 제도"
+
+msgid "Andhra Pradesh_IN"
+msgstr "안드라프라데시 주"
+
+msgid "Arunachal Pradesh_IN"
+msgstr "아루나찰프라데시 주"
+
+msgid "Assam_IN"
+msgstr "아삼 주"
+
+msgid "Bihar_IN"
+msgstr "비하르주"
+
+msgid "Chandigarh_IN"
+msgstr "찬디가르"
+
+msgid "Chhattisgarh_IN"
+msgstr "차티스가르 주"
+
+msgid "Dadra and Nagar Haveli_IN"
+msgstr "다드라 나가르하벨리"
+
+msgid "Daman and Diu_IN"
+msgstr "다만 디우"
+
+msgid "Delhi_IN"
+msgstr "델리"
+
+msgid "Goa_IN"
+msgstr "고아주"
+
+msgid "Gujarat_IN"
+msgstr "구자라트 주"
+
+msgid "Haryana_IN"
+msgstr "하리아나주"
+
+msgid "Himachal Pradesh_IN"
+msgstr "히마찰프라데시 주"
+
+msgid "Jammu and Kashmir_IN"
+msgstr "잠무 카슈미르 주"
+
+msgid "Jharkhand_IN"
+msgstr "자르칸드 주"
+
+msgid "Karnataka_IN"
+msgstr "카르나타카주"
+
+msgid "Kerala_IN"
+msgstr "케랄라주"
+
+msgid "Lakshadweep_IN"
+msgstr "락샤드위프 제도"
+
+msgid "Madhya Pradesh_IN"
+msgstr "마디아프라데시 주"
+
+msgid "Maharashtra_IN"
+msgstr "마하라슈트라 주"
+
+msgid "Manipur_IN"
+msgstr "마니푸르주"
+
+msgid "Meghalaya_IN"
+msgstr "메갈라야 주"
+
+msgid "Mizoram_IN"
+msgstr "미조람주"
+
+msgid "Nagaland_IN"
+msgstr "나갈랜드주"
+
+msgid "Odisha_IN"
+msgstr "오디샤 주"
+
+msgid "Puducherry_IN"
+msgstr "푸두체리"
+
+msgid "Punjab_IN"
+msgstr "펀자브"
+
+msgid "Rajasthan_IN"
+msgstr "라자스탄주"
+
+msgid "Sikkim_IN"
+msgstr "시킴 주"
+
+msgid "Tamil Nadu_IN"
+msgstr "타밀나두 주"
+
+msgid "Telangana_IN"
+msgstr "텔랑가나주"
+
+msgid "Tripura_IN"
+msgstr "트리푸라 주"
+
+msgid "Uttar Pradesh_IN"
+msgstr "우타르프라데시 주"
+
+msgid "Uttarakhand_IN"
+msgstr "우타라칸드 주"
+
+msgid "West Bengal_IN"
+msgstr "서벵골 주"
+
+msgid "British Indian Ocean Territory_IO"
+msgstr "영국령 인도양 지역"
+
+msgid "Al Anbar_IQ"
+msgstr "안바르 주"
+
+msgid "Al Basrah_IQ"
+msgstr "바스라"
+
+msgid "Al Muthanna_IQ"
+msgstr "무탄나 주"
+
+msgid "Al Qadisiyah_IQ"
+msgstr "카디시야 주"
+
+msgid "An Najaf_IQ"
+msgstr "나자프"
+
+msgid "Arbil_IQ"
+msgstr "아르빌"
+
+msgid "As Sulaymaniyah_IQ"
+msgstr "술라이마니야"
+
+msgid "Babil_IQ"
+msgstr "바빌론"
+
+msgid "Baghdad_IQ"
+msgstr "바그다드"
+
+msgid "Dahuk_IQ"
+msgstr "다후크"
+
+msgid "Dhi Qar_IQ"
+msgstr "디카르 주"
+
+msgid "Diyala_IQ"
+msgstr "디얄라 주"
+
+msgid "Karbala'_IQ"
+msgstr "카르발라"
+
+msgid "Kirkuk_IQ"
+msgstr "키르쿠크"
+
+msgid "Maysan_IQ"
+msgstr "마이산 주"
+
+msgid "Ninawa_IQ"
+msgstr "니나와 주"
+
+msgid "Salah ad Din_IQ"
+msgstr "살라딘 주"
+
+msgid "Wasit_IQ"
+msgstr "와시트 주"
+
+msgid "Alborz_IR"
+msgstr "엘부르즈산맥"
+
+msgid "Ardabil_IR"
+msgstr "아르다빌"
+
+msgid "Azarbayjan-e Gharbi_IR"
+msgstr "서아제르바이잔 주"
+
+msgid "Azarbayjan-e Sharqi_IR"
+msgstr "동아제르바이잔 주"
+
+msgid "Bushehr_IR"
+msgstr "부셰르"
+
+msgid "Chahar Mahal va Bakhtiari_IR"
+msgstr "차하르마할에바흐티아리 주"
+
+msgid "Esfahan_IR"
+msgstr "이스파한"
+
+msgid "Fars_IR"
+msgstr "파르스 주"
+
+msgid "Gilan_IR"
+msgstr "길란 주"
+
+msgid "Golestan_IR"
+msgstr "골레스탄 주"
+
+msgid "Hamadan_IR"
+msgstr "하마단"
+
+msgid "Hormozgan_IR"
+msgstr "호르모즈간 주"
+
+msgid "Ilam_IR"
+msgstr "일람 주"
+
+msgid "Kerman_IR"
+msgstr "케르만"
+
+msgid "Kermanshah_IR"
+msgstr "케르만샤"
+
+msgid "Khorasan-e Jonubi_IR"
+msgstr "남호라산 주"
+
+msgid "Khorasan-e Razavi_IR"
+msgstr "호라산에라자비 주"
+
+msgid "Khorasan-e Shomali_IR"
+msgstr "북호라산 주"
+
+msgid "Khuzestan_IR"
+msgstr "후제스탄 주"
+
+msgid "Kohgiluyeh va Bowyer Ahmad_IR"
+msgstr "코길루예부예르아마드 주"
+
+msgid "Kordestan_IR"
+msgstr "쿠르디스탄"
+
+msgid "Lorestan_IR"
+msgstr "로레스탄 주"
+
+msgid "Markazi_IR"
+msgstr "마르카지 주"
+
+msgid "Mazandaran_IR"
+msgstr "마잔다란 주"
+
+msgid "Qazvin_IR"
+msgstr "카즈빈"
+
+msgid "Qom_IR"
+msgstr "쿰"
+
+msgid "Semnan_IR"
+msgstr "셈난 주"
+
+msgid "Sistan va Baluchestan_IR"
+msgstr "시스탄오발루체스탄 주"
+
+msgid "Tehran_IR"
+msgstr "테헤란"
+
+msgid "Yazd_IR"
+msgstr "야즈드"
+
+msgid "Zanjan_IR"
+msgstr "잔잔 주"
+
+msgid "Austurland_IS"
+msgstr "외이스튀를란드"
+
+msgid "Hofudborgarsvaedi_IS"
+msgstr "회뷔드보르가르스바이디"
+
+msgid "Nordurland eystra_IS"
+msgstr "노르뒤를란드 에이스트라"
+
+msgid "Nordurland vestra_IS"
+msgstr "노르뒤를란드 베스트라"
+
+msgid "Sudurland_IS"
+msgstr "쉬뒤를란드"
+
+msgid "Sudurnes_IS"
+msgstr "쉬뒤르네스"
+
+msgid "Vestfirdir_IS"
+msgstr "베스트피르디르"
+
+msgid "Vesturland_IS"
+msgstr "베스튀를란드"
+
+msgid "Abruzzo_IT"
+msgstr "아브루초주"
+
+msgid "Basilicata_IT"
+msgstr "바실리카타주"
+
+msgid "Calabria_IT"
+msgstr "칼라브리아"
+
+msgid "Campania_IT"
+msgstr "캄파니아주"
+
+msgid "Emilia-Romagna_IT"
+msgstr "에밀리아로마냐주"
+
+msgid "Friuli-Venezia Giulia_IT"
+msgstr "프리울리베네치아줄리아주"
+
+msgid "Lazio_IT"
+msgstr "라치오주"
+
+msgid "Liguria_IT"
+msgstr "리구리아주"
+
+msgid "Lombardia_IT"
+msgstr "롬바르디아주"
+
+msgid "Marche_IT"
+msgstr "마르케주"
+
+msgid "Molise_IT"
+msgstr "몰리세주"
+
+msgid "Piemonte_IT"
+msgstr "피에몬테주"
+
+msgid "Puglia_IT"
+msgstr "풀리아주"
+
+msgid "Sardegna_IT"
+msgstr "사르데냐주"
+
+msgid "Sicilia_IT"
+msgstr "시칠리아"
+
+msgid "Toscana_IT"
+msgstr "토스카나주"
+
+msgid "Trentino-Alto Adige_IT"
+msgstr "트렌티노알토아디제주"
+
+msgid "Umbria_IT"
+msgstr "움브리아주"
+
+msgid "Valle d'Aosta_IT"
+msgstr "발레다오스타주"
+
+msgid "Veneto_IT"
+msgstr "베네토주"
+
+msgid "Jersey_JE"
+msgstr "저지 섬"
+
+msgid "Clarendon_JM"
+msgstr "클래런던 교구"
+
+msgid "Hanover_JM"
+msgstr "하노버"
+
+msgid "Kingston_JM"
+msgstr "킹스턴"
+
+msgid "Manchester_JM"
+msgstr "맨체스터"
+
+msgid "Portland_JM"
+msgstr "포틀랜드"
+
+msgid "Saint Andrew_JM"
+msgstr "안드레아"
+
+msgid "Saint Ann_JM"
+msgstr "성녀 안나"
+
+msgid "Saint Catherine_JM"
+msgstr "세인트캐서린 교구"
+
+msgid "Saint Elizabeth_JM"
+msgstr "세인트엘리자베스 교구"
+
+msgid "Saint James_JM"
+msgstr "세인트제임스"
+
+msgid "Saint Mary_JM"
+msgstr "마리아"
+
+msgid "Saint Thomas_JM"
+msgstr "세인트토머스 교구"
+
+msgid "Trelawny_JM"
+msgstr "트렐로니 교구"
+
+msgid "Westmoreland_JM"
+msgstr "웨스트모얼랜드"
+
+msgid "'Ajlun_JO"
+msgstr "아질룬 주"
+
+msgid "Al 'Aqabah_JO"
+msgstr "아카바"
+
+msgid "Al 'Asimah_JO"
+msgstr "암만 주"
+
+msgid "Al Balqa'_JO"
+msgstr "발카 주"
+
+msgid "Al Karak_JO"
+msgstr "카라크"
+
+msgid "Al Mafraq_JO"
+msgstr "마프라크"
+
+msgid "At Tafilah_JO"
+msgstr "타필라"
+
+msgid "Az Zarqa'_JO"
+msgstr "자르카"
+
+msgid "Irbid_JO"
+msgstr "이르비드"
+
+msgid "Jarash_JO"
+msgstr "제라시 주"
+
+msgid "Ma'an_JO"
+msgstr "마안"
+
+msgid "Madaba_JO"
+msgstr "마다바"
+
+msgid "Aichi_JP"
+msgstr "아이치 현"
+
+msgid "Akita_JP"
+msgstr "아키타"
+
+msgid "Aomori_JP"
+msgstr "아오모리"
+
+msgid "Chiba_JP"
+msgstr "지바"
+
+msgid "Ehime_JP"
+msgstr "에히메 현"
+
+msgid "Fukui_JP"
+msgstr "후쿠이"
+
+msgid "Fukuoka_JP"
+msgstr "후쿠오카 시"
+
+msgid "Fukushima_JP"
+msgstr "후쿠시마"
+
+msgid "Gifu_JP"
+msgstr "기후시"
+
+msgid "Gunma_JP"
+msgstr "군마 현"
+
+msgid "Hiroshima_JP"
+msgstr "히로시마 시"
+
+msgid "Hokkaido_JP"
+msgstr "홋카이도"
+
+msgid "Hyogo_JP"
+msgstr "효고현"
+
+msgid "Ibaraki_JP"
+msgstr "이바라키"
+
+msgid "Ishikawa_JP"
+msgstr "이시카와"
+
+msgid "Iwate_JP"
+msgstr "이와테"
+
+msgid "Kagawa_JP"
+msgstr "가가와"
+
+msgid "Kagoshima_JP"
+msgstr "가고시마 시"
+
+msgid "Kanagawa_JP"
+msgstr "가나가와 현"
+
+msgid "Kochi_JP"
+msgstr "코치"
+
+msgid "Kumamoto_JP"
+msgstr "구마모토 시"
+
+msgid "Kyoto_JP"
+msgstr "교토 시"
+
+msgid "Mie_JP"
+msgstr "미에"
+
+msgid "Miyagi_JP"
+msgstr "미야기"
+
+msgid "Miyazaki_JP"
+msgstr "미야자키"
+
+msgid "Nagano_JP"
+msgstr "나가노"
+
+msgid "Nagasaki_JP"
+msgstr "나가사키시"
+
+msgid "Nara_JP"
+msgstr "나라"
+
+msgid "Niigata_JP"
+msgstr "니가타"
+
+msgid "Oita_JP"
+msgstr "오이타"
+
+msgid "Okayama_JP"
+msgstr "오카야마 시"
+
+msgid "Okinawa_JP"
+msgstr "오키나와 현"
+
+msgid "Osaka_JP"
+msgstr "오사카 시"
+
+msgid "Saga_JP"
+msgstr "사가"
+
+msgid "Saitama_JP"
+msgstr "사이타마"
+
+msgid "Shiga_JP"
+msgstr "시가현"
+
+msgid "Shimane_JP"
+msgstr "시마네 현"
+
+msgid "Shizuoka_JP"
+msgstr "시즈오카"
+
+msgid "Tochigi_JP"
+msgstr "도치기"
+
+msgid "Tokushima_JP"
+msgstr "도쿠시마 현"
+
+msgid "Tokyo_JP"
+msgstr "도쿄도"
+
+msgid "Tottori_JP"
+msgstr "돗토리"
+
+msgid "Toyama_JP"
+msgstr "도야마"
+
+msgid "Wakayama_JP"
+msgstr "와카야마"
+
+msgid "Yamagata_JP"
+msgstr "야마가타"
+
+msgid "Yamaguchi_JP"
+msgstr "야마구치"
+
+msgid "Yamanashi_JP"
+msgstr "야마나시"
+
+msgid "Baringo_KE"
+msgstr "바링고 현"
+
+msgid "Bomet_KE"
+msgstr "보메트 현"
+
+msgid "Bungoma_KE"
+msgstr "붕고마 현"
+
+msgid "Busia_KE"
+msgstr "부시아 구"
+
+msgid "Elgeyo/Marakwet_KE"
+msgstr "엘게요마라퀘트 현"
+
+msgid "Embu_KE"
+msgstr "엠부 현"
+
+msgid "Garissa_KE"
+msgstr "가리사"
+
+msgid "Homa Bay_KE"
+msgstr "호마베이 현"
+
+msgid "Isiolo_KE"
+msgstr "이시올로 현"
+
+msgid "Kajiado_KE"
+msgstr "카지아도 현"
+
+msgid "Kakamega_KE"
+msgstr "카카메가 현"
+
+msgid "Kericho_KE"
+msgstr "케리초 현"
+
+msgid "Kiambu_KE"
+msgstr "키암부 현"
+
+msgid "Kilifi_KE"
+msgstr "킬리피 현"
+
+msgid "Kirinyaga_KE"
+msgstr "키리니아가 현"
+
+msgid "Kisii_KE"
+msgstr "키시 현"
+
+msgid "Kisumu_KE"
+msgstr "키수무"
+
+msgid "Kitui_KE"
+msgstr "키투이 현"
+
+msgid "Kwale_KE"
+msgstr "콸레 현"
+
+msgid "Laikipia_KE"
+msgstr "라이키피아 현"
+
+msgid "Lamu_KE"
+msgstr "라무"
+
+msgid "Machakos_KE"
+msgstr "마차코스"
+
+msgid "Makueni_KE"
+msgstr "마쿠에니 현"
+
+msgid "Mandera_KE"
+msgstr "만데라 현"
+
+msgid "Marsabit_KE"
+msgstr "마르사비트 현"
+
+msgid "Meru_KE"
+msgstr "메루"
+
+msgid "Migori_KE"
+msgstr "미고리 현"
+
+msgid "Mombasa_KE"
+msgstr "몸바사"
+
+msgid "Murang'a_KE"
+msgstr "무랑가 현"
+
+msgid "Nairobi City_KE"
+msgstr "나이로비 현"
+
+msgid "Nakuru_KE"
+msgstr "나쿠루"
+
+msgid "Nandi_KE"
+msgstr "난디 현"
+
+msgid "Narok_KE"
+msgstr "나로크 현"
+
+msgid "Nyamira_KE"
+msgstr "니아미라 현"
+
+msgid "Nyandarua_KE"
+msgstr "니안다루아 현"
+
+msgid "Nyeri_KE"
+msgstr "니에리"
+
+msgid "Samburu_KE"
+msgstr "삼부루 현"
+
+msgid "Siaya_KE"
+msgstr "시아야 현"
+
+msgid "Taita/Taveta_KE"
+msgstr "타이타타베타 현"
+
+msgid "Tana River_KE"
+msgstr "타나리버 현"
+
+msgid "Tharaka-Nithi_KE"
+msgstr "타라카니티 현"
+
+msgid "Trans Nzoia_KE"
+msgstr "트랜스은조이아 현"
+
+msgid "Turkana_KE"
+msgstr "투르카나 현"
+
+msgid "Uasin Gishu_KE"
+msgstr "우아신기슈 현"
+
+msgid "Vihiga_KE"
+msgstr "비히가 현"
+
+msgid "Wajir_KE"
+msgstr "와지르 현"
+
+msgid "West Pokot_KE"
+msgstr "서포코트 현"
+
+msgid "Batken_KG"
+msgstr "밧켄"
+
+msgid "Bishkek_KG"
+msgstr "비슈케크"
+
+msgid "Chuy_KG"
+msgstr "추이 주"
+
+msgid "Jalal-Abad_KG"
+msgstr "잘랄아바트"
+
+msgid "Naryn_KG"
+msgstr "나린"
+
+msgid "Osh_KG"
+msgstr "오시"
+
+msgid "Talas_KG"
+msgstr "탈라스"
+
+msgid "Ysyk-Kol_KG"
+msgstr "이식쾰 호"
+
+msgid "Baat Dambang_KH"
+msgstr "바탐방"
+
+msgid "Banteay Mean Chey_KH"
+msgstr "반테아이메안체이 주"
+
+msgid "Kampong Chaam_KH"
+msgstr "캄퐁참 주"
+
+msgid "Kampong Chhnang_KH"
+msgstr "캄퐁치낭 주"
+
+msgid "Kampong Spueu_KH"
+msgstr "캄퐁스페우 주"
+
+msgid "Kampong Thum_KH"
+msgstr "캄퐁톰 주"
+
+msgid "Kampot_KH"
+msgstr "캄포트 주"
+
+msgid "Kandaal_KH"
+msgstr "칸달 주"
+
+msgid "Kaoh Kong_KH"
+msgstr "코콩 주"
+
+msgid "Kracheh_KH"
+msgstr "크라티에 주"
+
+msgid "Krong Kaeb_KH"
+msgstr "케프"
+
+msgid "Krong Pailin_KH"
+msgstr "파일린"
+
+msgid "Krong Preah Sihanouk_KH"
+msgstr "시아누크빌"
+
+msgid "Mondol Kiri_KH"
+msgstr "몬둘키리 주"
+
+msgid "Otdar Mean Chey_KH"
+msgstr "오다르메안체이 주"
+
+msgid "Phnom Penh_KH"
+msgstr "프놈펜"
+
+msgid "Pousaat_KH"
+msgstr "푸르사트"
+
+msgid "Preah Vihear_KH"
+msgstr "프레아비헤아르 주"
+
+msgid "Prey Veaeng_KH"
+msgstr "프레이벵 주"
+
+msgid "Rotanak Kiri_KH"
+msgstr "라타나키리 주"
+
+msgid "Siem Reab_KH"
+msgstr "씨엠립"
+
+msgid "Stueng Traeng_KH"
+msgstr "스퉁트렝"
+
+msgid "Svaay Rieng_KH"
+msgstr "스바이리엥 주"
+
+msgid "Taakaev_KH"
+msgstr "타케오 주"
+
+msgid "Gilbert Islands_KI"
+msgstr "길버트 제도"
+
+msgid "Line Islands_KI"
+msgstr "라인 제도"
+
+msgid "Anjouan_KM"
+msgstr "앙주앙 섬"
+
+msgid "Grande Comore_KM"
+msgstr "그랑드코모르 섬"
+
+msgid "Moheli_KM"
+msgstr "모엘리 섬"
+
+msgid "Christ Church Nichola Town_KN"
+msgstr "크라이스트처치니컬라타운 교구"
+
+msgid "Saint Anne Sandy Point_KN"
+msgstr "세인트앤샌디포인트 교구"
+
+msgid "Saint George Basseterre_KN"
+msgstr "세인트조지바스테르 교구"
+
+msgid "Saint George Gingerland_KN"
+msgstr "세인트조지진절랜드 교구"
+
+msgid "Saint James Windward_KN"
+msgstr "세인트제임스윈드워드 교구"
+
+msgid "Saint John Capisterre_KN"
+msgstr "세인트존카피스테르 교구"
+
+msgid "Saint John Figtree_KN"
+msgstr "세인트존피그트리 교구"
+
+msgid "Saint Mary Cayon_KN"
+msgstr "세인트메리카욘 교구"
+
+msgid "Saint Paul Capisterre_KN"
+msgstr "세인트 폴 카스티스토"
+
+msgid "Saint Paul Charlestown_KN"
+msgstr "세인트폴찰스타운 교구"
+
+msgid "Saint Peter Basseterre_KN"
+msgstr "세인트피터바스테르 교구"
+
+msgid "Saint Thomas Lowland_KN"
+msgstr "세인트토머스롤런드 교구"
+
+msgid "Saint Thomas Middle Island_KN"
+msgstr "세인트토머스미들아일랜드 교구"
+
+msgid "Trinity Palmetto Point_KN"
+msgstr "트리니티팔메토포인트 교구"
+
+msgid "Chagang-do_KP"
+msgstr "자강도"
+
+msgid "Hamgyong-bukto_KP"
+msgstr "함경북도"
+
+msgid "Hamgyong-namdo_KP"
+msgstr "함경남도"
+
+msgid "Hwanghae-bukto_KP"
+msgstr "황해북도"
+
+msgid "Hwanghae-namdo_KP"
+msgstr "황해남도"
+
+msgid "Kangwon-do_KP"
+msgstr "강원도"
+
+msgid "P'yongan-bukto_KP"
+msgstr "평안북도"
+
+msgid "P'yongan-namdo_KP"
+msgstr "평안남도"
+
+msgid "P'yongyang_KP"
+msgstr "평양직할시"
+
+msgid "Rason_KP"
+msgstr "라선특별시"
+
+msgid "Ryanggang-do_KP"
+msgstr "량강도"
+
+msgid "Busan-gwangyeoksi_KR"
+msgstr "부산광역시"
+
+msgid "Chungcheongbuk-do_KR"
+msgstr "충청북도"
+
+msgid "Chungcheongnam-do_KR"
+msgstr "충청남도"
+
+msgid "Daegu-gwangyeoksi_KR"
+msgstr "대구광역시"
+
+msgid "Daejeon-gwangyeoksi_KR"
+msgstr "대전광역시"
+
+msgid "Gangwon-do_KR"
+msgstr "강원도"
+
+msgid "Gwangju-gwangyeoksi_KR"
+msgstr "광주광역시"
+
+msgid "Gyeonggi-do_KR"
+msgstr "경기도"
+
+msgid "Gyeongsangbuk-do_KR"
+msgstr "경상북도"
+
+msgid "Gyeongsangnam-do_KR"
+msgstr "경상남도"
+
+msgid "Incheon-gwangyeoksi_KR"
+msgstr "인천광역시"
+
+msgid "Jeju-teukbyeoljachido_KR"
+msgstr "제주특별자치도"
+
+msgid "Jeollabuk-do_KR"
+msgstr "전라북도"
+
+msgid "Jeollanam-do_KR"
+msgstr "전라남도"
+
+msgid "Seoul-teukbyeolsi_KR"
+msgstr "서울특별시"
+
+msgid "Ulsan-gwangyeoksi_KR"
+msgstr "울산광역시"
+
+msgid "Al 'Asimah_KW"
+msgstr "알아시마 주"
+
+msgid "Al Ahmadi_KW"
+msgstr "알아마디"
+
+msgid "Al Farwaniyah_KW"
+msgstr "알파르와니야 주"
+
+msgid "Al Jahra'_KW"
+msgstr "알자라"
+
+msgid "Hawalli_KW"
+msgstr "하왈리"
+
+msgid "Mubarak al Kabir_KW"
+msgstr "무바라크알카비르 주"
+
+msgid "Cayman Islands_KY"
+msgstr "케이맨 제도"
+
+msgid "Almaty_KZ"
+msgstr "알마티"
+
+msgid "Almaty oblysy_KZ"
+msgstr "알마티 주"
+
+msgid "Aqmola oblysy_KZ"
+msgstr "아크몰라 주"
+
+msgid "Aqtobe oblysy_KZ"
+msgstr "악퇴베 주"
+
+msgid "Astana_KZ"
+msgstr "아스타나"
+
+msgid "Atyrau oblysy_KZ"
+msgstr "아티라우 주"
+
+msgid "Batys Qazaqstan oblysy_KZ"
+msgstr "서카자흐스탄 주"
+
+msgid "Bayqongyr_KZ"
+msgstr "바이코누르"
+
+msgid "Mangghystau oblysy_KZ"
+msgstr "망그스타우 주"
+
+msgid "Ongtustik Qazaqstan oblysy_KZ"
+msgstr "남카자흐스탄 주"
+
+msgid "Pavlodar oblysy_KZ"
+msgstr "파블로다르 주"
+
+msgid "Qaraghandy oblysy_KZ"
+msgstr "카라간다 주"
+
+msgid "Qostanay oblysy_KZ"
+msgstr "코스타나이 주"
+
+msgid "Qyzylorda oblysy_KZ"
+msgstr "키질로르다 주"
+
+msgid "Shyghys Qazaqstan oblysy_KZ"
+msgstr "동카자흐스탄 주"
+
+msgid "Soltustik Qazaqstan oblysy_KZ"
+msgstr "북카자흐스탄 주"
+
+msgid "Zhambyl oblysy_KZ"
+msgstr "잠빌 주"
+
+msgid "Attapu_LA"
+msgstr "아타프"
+
+msgid "Bokeo_LA"
+msgstr "보케오 주"
+
+msgid "Bolikhamxai_LA"
+msgstr "볼리캄사이 주"
+
+msgid "Champasak_LA"
+msgstr "참파사크 주"
+
+msgid "Houaphan_LA"
+msgstr "후아판 주"
+
+msgid "Khammouan_LA"
+msgstr "캄무안 주"
+
+msgid "Louang Namtha_LA"
+msgstr "루앙남타 주"
+
+msgid "Louangphabang_LA"
+msgstr "루앙프라방"
+
+msgid "Oudomxai_LA"
+msgstr "우돔싸이 주"
+
+msgid "Phongsali_LA"
+msgstr "퐁살리 주"
+
+msgid "Salavan_LA"
+msgstr "살라완 주"
+
+msgid "Savannakhet_LA"
+msgstr "카이손폼비한"
+
+msgid "Viangchan_LA"
+msgstr "비엔티안"
+
+msgid "Xaignabouli_LA"
+msgstr "사이냐불리 주"
+
+msgid "Xekong_LA"
+msgstr "세콩 주"
+
+msgid "Xiangkhouang_LA"
+msgstr "씨앙쿠앙 주"
+
+msgid "Aakkar_LB"
+msgstr "아 카르"
+
+msgid "Baalbek-Hermel_LB"
+msgstr "바알베크헤르멜 주"
+
+msgid "Beqaa_LB"
+msgstr "베카 주"
+
+msgid "Beyrouth_LB"
+msgstr "베이루트"
+
+msgid "Liban-Nord_LB"
+msgstr "북부 주"
+
+msgid "Liban-Sud_LB"
+msgstr "남부 주"
+
+msgid "Mont-Liban_LB"
+msgstr "레바논 산 주"
+
+msgid "Nabatiye_LB"
+msgstr "나바티예"
+
+msgid "Anse la Raye_LC"
+msgstr "앙스라레 구"
+
+msgid "Castries_LC"
+msgstr "캐스트리스"
+
+msgid "Choiseul_LC"
+msgstr "슈아절 주"
+
+msgid "Dennery_LC"
+msgstr "데네리 구"
+
+msgid "Gros Islet_LC"
+msgstr "그로 아일렛"
+
+msgid "Laborie_LC"
+msgstr "노동당"
+
+msgid "Micoud_LC"
+msgstr "미쿠 구"
+
+msgid "Soufriere_LC"
+msgstr "수프리에르"
+
+msgid "Vieux Fort_LC"
+msgstr "비외포르 구"
+
+msgid "Balzers_LI"
+msgstr "발처스"
+
+msgid "Eschen_LI"
+msgstr "에셴"
+
+msgid "Gamprin_LI"
+msgstr "감프린"
+
+msgid "Mauren_LI"
+msgstr "마우렌"
+
+msgid "Planken_LI"
+msgstr "플랑켄"
+
+msgid "Ruggell_LI"
+msgstr "루겔"
+
+msgid "Schaan_LI"
+msgstr "샨"
+
+msgid "Schellenberg_LI"
+msgstr "셸렌베르크"
+
+msgid "Triesen_LI"
+msgstr "트리젠"
+
+msgid "Triesenberg_LI"
+msgstr "트리젠베르크"
+
+msgid "Vaduz_LI"
+msgstr "파두츠"
+
+msgid "Central Province_LK"
+msgstr "중부 주"
+
+msgid "Eastern Province_LK"
+msgstr "동부 주"
+
+msgid "North Central Province_LK"
+msgstr "중북부 주"
+
+msgid "North Western Province_LK"
+msgstr "북서부 주"
+
+msgid "Northern Province_LK"
+msgstr "북부 주"
+
+msgid "Sabaragamuwa Province_LK"
+msgstr "사바라가무와 주"
+
+msgid "Southern Province_LK"
+msgstr "남부 주"
+
+msgid "Uva Province_LK"
+msgstr "우바 주"
+
+msgid "Western Province_LK"
+msgstr "서부 주"
+
+msgid "Bomi_LR"
+msgstr "보미"
+
+msgid "Bong_LR"
+msgstr "봉 주"
+
+msgid "Gbarpolu_LR"
+msgstr "바르폴루 주"
+
+msgid "Grand Bassa_LR"
+msgstr "그랜드바사 주"
+
+msgid "Grand Cape Mount_LR"
+msgstr "그랜드케이프마운트 주"
+
+msgid "Grand Gedeh_LR"
+msgstr "그랜드게데 주"
+
+msgid "Grand Kru_LR"
+msgstr "그랜드크루 주"
+
+msgid "Lofa_LR"
+msgstr "로파 주"
+
+msgid "Margibi_LR"
+msgstr "마르지비 주"
+
+msgid "Maryland_LR"
+msgstr "메릴랜드주"
+
+msgid "Montserrado_LR"
+msgstr "몽세라도 주"
+
+msgid "Nimba_LR"
+msgstr "님바 주"
+
+msgid "River Cess_LR"
+msgstr "리버세스 주"
+
+msgid "River Gee_LR"
+msgstr "리버지 주"
+
+msgid "Sinoe_LR"
+msgstr "시노에 주"
+
+msgid "Berea_LS"
+msgstr "베레아 구"
+
+msgid "Butha-Buthe_LS"
+msgstr "부타부테 구"
+
+msgid "Leribe_LS"
+msgstr "레리베 구"
+
+msgid "Mafeteng_LS"
+msgstr "마페텡 구"
+
+msgid "Maseru_LS"
+msgstr "마세루"
+
+msgid "Mohale's Hoek_LS"
+msgstr "모할레스후크 구"
+
+msgid "Mokhotlong_LS"
+msgstr "모코틀롱 구"
+
+msgid "Qacha's Nek_LS"
+msgstr "카차스네크 구"
+
+msgid "Quthing_LS"
+msgstr "쿠팅 구"
+
+msgid "Thaba-Tseka_LS"
+msgstr "타바체카 구"
+
+msgid "Alytaus apskritis_LT"
+msgstr "알리투스 주"
+
+msgid "Kauno apskritis_LT"
+msgstr "카우나스 주"
+
+msgid "Klaipedos apskritis_LT"
+msgstr "클라이페다 주"
+
+msgid "Marijampoles apskritis_LT"
+msgstr "마리얌폴레 주"
+
+msgid "Panevezio apskritis_LT"
+msgstr "파네베지스 주"
+
+msgid "Siauliu apskritis_LT"
+msgstr "샤울랴이 주"
+
+msgid "Taurages apskritis_LT"
+msgstr "타우라게 주"
+
+msgid "Telsiu apskritis_LT"
+msgstr "텔샤이 주"
+
+msgid "Utenos apskritis_LT"
+msgstr "우테나 주"
+
+msgid "Vilniaus apskritis_LT"
+msgstr "빌뉴스 주"
+
+msgid "Diekirch_LU"
+msgstr "디키르히"
+
+msgid "Grevenmacher_LU"
+msgstr "그레벤마허"
+
+msgid "Luxembourg_LU"
+msgstr "룩셈부르크 대공국"
+
+msgid "Adazu novads_LV"
+msgstr "아다지 시"
+
+msgid "Aglonas novads_LV"
+msgstr "아글로나 시"
+
+msgid "Aizkraukles novads_LV"
+msgstr "아이스크라우클레 시"
+
+msgid "Aizputes novads_LV"
+msgstr "아이스푸테 시"
+
+msgid "Alojas novads_LV"
+msgstr "알로야 시"
+
+msgid "Aluksnes novads_LV"
+msgstr "알룩스네 시"
+
+msgid "Babites novads_LV"
+msgstr "바비테 시"
+
+msgid "Baldones novads_LV"
+msgstr "발도네 시"
+
+msgid "Baltinavas novads_LV"
+msgstr "발티나바 시"
+
+msgid "Balvu novads_LV"
+msgstr "발비 시"
+
+msgid "Bauskas novads_LV"
+msgstr "바우스카 시"
+
+msgid "Beverinas novads_LV"
+msgstr "베베리나 시"
+
+msgid "Brocenu novads_LV"
+msgstr "브로체니 시"
+
+msgid "Carnikavas novads_LV"
+msgstr "차르니카바 시"
+
+msgid "Cesu novads_LV"
+msgstr "체시스 시"
+
+msgid "Cesvaines novads_LV"
+msgstr "체스바이네 시"
+
+msgid "Ciblas novads_LV"
+msgstr "치블라 시"
+
+msgid "Daugavpils novads_LV"
+msgstr "다우가프필스 시"
+
+msgid "Dobeles novads_LV"
+msgstr "도벨레 시"
+
+msgid "Dundagas novads_LV"
+msgstr "둔다가 시"
+
+msgid "Erglu novads_LV"
+msgstr "에르글리 시"
+
+msgid "Gulbenes novads_LV"
+msgstr "굴베네 시"
+
+msgid "Iecavas novads_LV"
+msgstr "이에차바 시"
+
+msgid "Ikskiles novads_LV"
+msgstr "익슈칠레 시"
+
+msgid "Incukalna novads_LV"
+msgstr "인추칼른스 시"
+
+msgid "Jaunjelgavas novads_LV"
+msgstr "야우넬가바 시"
+
+msgid "Jaunpiebalgas novads_LV"
+msgstr "야운피에발가 시"
+
+msgid "Jaunpils novads_LV"
+msgstr "야운필스 시"
+
+msgid "Jekabpils novads_LV"
+msgstr "예캅필스 시"
+
+msgid "Jelgava_LV"
+msgstr "옐가바"
+
+msgid "Jelgavas novads_LV"
+msgstr "옐가바 시"
+
+msgid "Jurmala_LV"
+msgstr "유르말라"
+
+msgid "Kekavas novads_LV"
+msgstr "체카바 시"
+
+msgid "Kokneses novads_LV"
+msgstr "코크네세 시"
+
+msgid "Kraslavas novads_LV"
+msgstr "크라슬라바 시"
+
+msgid "Kuldigas novads_LV"
+msgstr "쿨디가 시"
+
+msgid "Lielvardes novads_LV"
+msgstr "리엘바르데 시"
+
+msgid "Liepaja_LV"
+msgstr "리예파야"
+
+msgid "Limbazu novads_LV"
+msgstr "림바지 시"
+
+msgid "Livanu novads_LV"
+msgstr "리바니 시"
+
+msgid "Lubanas novads_LV"
+msgstr "루바나 시"
+
+msgid "Ludzas novads_LV"
+msgstr "루자 시"
+
+msgid "Madonas novads_LV"
+msgstr "마도나 시"
+
+msgid "Malpils novads_LV"
+msgstr "말필스 시"
+
+msgid "Nauksenu novads_LV"
+msgstr "나욱셰니 시"
+
+msgid "Ogres novads_LV"
+msgstr "오그레 시"
+
+msgid "Olaines novads_LV"
+msgstr "올라이네 시"
+
+msgid "Ozolnieku novads_LV"
+msgstr "오졸니에키 시"
+
+msgid "Preilu novads_LV"
+msgstr "프레일리 시"
+
+msgid "Rezeknes novads_LV"
+msgstr "레제크네 시"
+
+msgid "Riebinu novads_LV"
+msgstr "리에비니 시"
+
+msgid "Riga_LV"
+msgstr "리가"
+
+msgid "Rojas novads_LV"
+msgstr "로야 시"
+
+msgid "Ropazu novads_LV"
+msgstr "로파지 시"
+
+msgid "Rugaju novads_LV"
+msgstr "루가이 시"
+
+msgid "Rundales novads_LV"
+msgstr "룬달레 시"
+
+msgid "Salacgrivas novads_LV"
+msgstr "살라츠그리바 시"
+
+msgid "Salaspils novads_LV"
+msgstr "살라스필스 시"
+
+msgid "Saldus novads_LV"
+msgstr "살두스 시"
+
+msgid "Saulkrastu novads_LV"
+msgstr "사울크라스티 시"
+
+msgid "Sejas novads_LV"
+msgstr "세야 시"
+
+msgid "Siguldas novads_LV"
+msgstr "시굴다 시"
+
+msgid "Skrundas novads_LV"
+msgstr "스크룬다 시"
+
+msgid "Stopinu novads_LV"
+msgstr "스토피니 시"
+
+msgid "Strencu novads_LV"
+msgstr "스트렌치 시"
+
+msgid "Talsu novads_LV"
+msgstr "탈시 시"
+
+msgid "Tukuma novads_LV"
+msgstr "투쿰스 시"
+
+msgid "Vainodes novads_LV"
+msgstr "바이뇨데 시"
+
+msgid "Valkas novads_LV"
+msgstr "발카 시"
+
+msgid "Valmiera_LV"
+msgstr "발미에라"
+
+msgid "Varkavas novads_LV"
+msgstr "바르카바 시"
+
+msgid "Vecumnieku novads_LV"
+msgstr "베춤니에키 시"
+
+msgid "Ventspils novads_LV"
+msgstr "벤츠필스 시"
+
+msgid "Al Butnan_LY"
+msgstr "부트난 주"
+
+msgid "Al Jabal al Akhdar_LY"
+msgstr "자발알아크다르 주"
+
+msgid "Al Jabal al Gharbi_LY"
+msgstr "자발알가르비 주"
+
+msgid "Al Jafarah_LY"
+msgstr "지파라 주"
+
+msgid "Al Jufrah_LY"
+msgstr "주프라 주"
+
+msgid "Al Kufrah_LY"
+msgstr "쿠프라 주"
+
+msgid "Al Marj_LY"
+msgstr "마르지"
+
+msgid "Al Marqab_LY"
+msgstr "무르쿠브 주"
+
+msgid "Al Wahat_LY"
+msgstr "알와하트 주"
+
+msgid "An Nuqat al Khams_LY"
+msgstr "누카트알함스 주"
+
+msgid "Az Zawiyah_LY"
+msgstr "자위야"
+
+msgid "Banghazi_LY"
+msgstr "벵가지"
+
+msgid "Darnah_LY"
+msgstr "데르나 주"
+
+msgid "Ghat_LY"
+msgstr "가트"
+
+msgid "Misratah_LY"
+msgstr "미스라타"
+
+msgid "Murzuq_LY"
+msgstr "무르주크"
+
+msgid "Nalut_LY"
+msgstr "날루트"
+
+msgid "Sabha_LY"
+msgstr "세바 주"
+
+msgid "Surt_LY"
+msgstr "시르테 주"
+
+msgid "Tarabulus_LY"
+msgstr "타라불루스 주"
+
+msgid "Wadi al Hayat_LY"
+msgstr "와디알하야 주"
+
+msgid "Wadi ash Shati'_LY"
+msgstr "와디 애쉬 샤 티 '"
+
+msgid "Beni-Mellal-Khenifra_MA"
+msgstr "베니멜랄케니프라 지방"
+
+msgid "Casablanca-Settat_MA"
+msgstr "카사블랑카세타트 지방"
+
+msgid "Draa-Tafilalet_MA"
+msgstr "드라타필랄레트 지방"
+
+msgid "Fes- Meknes_MA"
+msgstr "페스메크네스 지방"
+
+msgid "Guelmim-Oued Noun (EH-partial)_MA"
+msgstr "겔밈우에드눈 지방"
+
+msgid "L'Oriental_MA"
+msgstr "오리앙탈 지방"
+
+msgid "Laayoune-Sakia El Hamra (EH-partial)_MA"
+msgstr "라윤사키아엘함라 지방"
+
+msgid "Marrakech-Safi_MA"
+msgstr "마라케시사피 지방"
+
+msgid "Rabat-Sale-Kenitra_MA"
+msgstr "라바트살레케니트라 지방"
+
+msgid "Souss-Massa_MA"
+msgstr "수스마사 지방"
+
+msgid "Tanger-Tetouan-Al Hoceima_MA"
+msgstr "탕헤르테투안알호세이마 지방"
+
+msgid "Fontvieille_MC"
+msgstr "퐁비에유"
+
+msgid "La Condamine_MC"
+msgstr "라콩다민"
+
+msgid "Monaco-Ville_MC"
+msgstr "모나코빌"
+
+msgid "Moneghetti_MC"
+msgstr "모네게티"
+
+msgid "Monte-Carlo_MC"
+msgstr "몬테카를로"
+
+msgid "Saint-Roman_MC"
+msgstr "생로망"
+
+msgid "Anenii Noi_MD"
+msgstr "아네니노이"
+
+msgid "Balti_MD"
+msgstr "발티"
+
+msgid "Basarabeasca_MD"
+msgstr "바사라베아스카"
+
+msgid "Bender_MD"
+msgstr "벤더"
+
+msgid "Briceni_MD"
+msgstr "브리체니"
+
+msgid "Cahul_MD"
+msgstr "카훌"
+
+msgid "Calarasi_MD"
+msgstr "컬러라시"
+
+msgid "Cantemir_MD"
+msgstr "칸테미르 구"
+
+msgid "Causeni_MD"
+msgstr "커우셰니"
+
+msgid "Chisinau_MD"
+msgstr "키시너우"
+
+msgid "Cimislia_MD"
+msgstr "치미슐리아"
+
+msgid "Criuleni_MD"
+msgstr "크리울레니"
+
+msgid "Donduseni_MD"
+msgstr "돈두셰니"
+
+msgid "Drochia_MD"
+msgstr "드로키아"
+
+msgid "Dubasari_MD"
+msgstr "두버사리"
+
+msgid "Edinet_MD"
+msgstr "에디네츠"
+
+msgid "Falesti_MD"
+msgstr "펄레슈티"
+
+msgid "Floresti_MD"
+msgstr "플로레슈티 구"
+
+msgid "Gagauzia, Unitatea teritoriala autonoma_MD"
+msgstr "가가우지아"
+
+msgid "Glodeni_MD"
+msgstr "글로데니"
+
+msgid "Hincesti_MD"
+msgstr "흔체슈티"
+
+msgid "Ialoveni_MD"
+msgstr "이알로베니"
+
+msgid "Leova_MD"
+msgstr "레오바"
+
+msgid "Nisporeni_MD"
+msgstr "니스포레니"
+
+msgid "Ocnita_MD"
+msgstr "오크니차"
+
+msgid "Orhei_MD"
+msgstr "오르헤이"
+
+msgid "Rezina_MD"
+msgstr "레지나"
+
+msgid "Riscani_MD"
+msgstr "르슈카니"
+
+msgid "Singerei_MD"
+msgstr "슨제레이"
+
+msgid "Soldanesti_MD"
+msgstr "숄더네슈티"
+
+msgid "Soroca_MD"
+msgstr "소로카"
+
+msgid "Stefan Voda_MD"
+msgstr "슈테판보더"
+
+msgid "Stinga Nistrului, unitatea teritoriala din_MD"
+msgstr "트란스니스트리아 자치 영토 단위"
+
+msgid "Straseni_MD"
+msgstr "스트러셰니"
+
+msgid "Taraclia_MD"
+msgstr "타라클리아"
+
+msgid "Telenesti_MD"
+msgstr "텔레네슈티"
+
+msgid "Ungheni_MD"
+msgstr "운게니"
+
+msgid "Andrijevica_ME"
+msgstr "안드리예비차"
+
+msgid "Bar_ME"
+msgstr "바"
+
+msgid "Berane_ME"
+msgstr "베라네"
+
+msgid "Bijelo Polje_ME"
+msgstr "비옐로폴레"
+
+msgid "Budva_ME"
+msgstr "부드바"
+
+msgid "Cetinje_ME"
+msgstr "체티네"
+
+msgid "Danilovgrad_ME"
+msgstr "다닐로브그라드"
+
+msgid "Herceg-Novi_ME"
+msgstr "헤르체그노비"
+
+msgid "Kolasin_ME"
+msgstr "콜라신"
+
+msgid "Kotor_ME"
+msgstr "코토르"
+
+msgid "Mojkovac_ME"
+msgstr "모이코바츠"
+
+msgid "Niksic_ME"
+msgstr "닉시치"
+
+msgid "Plav_ME"
+msgstr "플라 비"
+
+msgid "Pljevlja_ME"
+msgstr "플레블라"
+
+msgid "Pluzine_ME"
+msgstr "플루지네"
+
+msgid "Podgorica_ME"
+msgstr "포드고리차"
+
+msgid "Rozaje_ME"
+msgstr "로자예"
+
+msgid "Savnik_ME"
+msgstr "샤브니크"
+
+msgid "Tivat_ME"
+msgstr "티바트"
+
+msgid "Ulcinj_ME"
+msgstr "울친"
+
+msgid "Zabljak_ME"
+msgstr "자블라크"
+
+msgid "Saint Martin (French Part)_MF"
+msgstr "생마르탱"
+
+msgid "Antananarivo_MG"
+msgstr "안타나나리보"
+
+msgid "Antsiranana_MG"
+msgstr "안치라나나"
+
+msgid "Fianarantsoa_MG"
+msgstr "피아나란초아"
+
+msgid "Mahajanga_MG"
+msgstr "마하장가"
+
+msgid "Toamasina_MG"
+msgstr "토아마시나"
+
+msgid "Toliara_MG"
+msgstr "톨리아라"
+
+msgid "Ailinglaplap_MH"
+msgstr "아일링글라플라프 환초"
+
+msgid "Ailuk_MH"
+msgstr "아일루크 환초"
+
+msgid "Arno_MH"
+msgstr "아르노 강"
+
+msgid "Aur_MH"
+msgstr "아우르 환초"
+
+msgid "Bikini & Kili_MH"
+msgstr "킬리 섬"
+
+msgid "Ebon_MH"
+msgstr "에본 환초"
+
+msgid "Enewetak & Ujelang_MH"
+msgstr "에네웨타크 환초"
+
+msgid "Jabat_MH"
+msgstr "자바트 섬"
+
+msgid "Jaluit_MH"
+msgstr "잴루잇 환초"
+
+msgid "Kwajalein_MH"
+msgstr "콰잘레인 환초"
+
+msgid "Lae_MH"
+msgstr "라에"
+
+msgid "Lib_MH"
+msgstr "리브 섬"
+
+msgid "Likiep_MH"
+msgstr "리키에프 환초"
+
+msgid "Majuro_MH"
+msgstr "마주로"
+
+msgid "Maloelap_MH"
+msgstr "말로엘라프 환초"
+
+msgid "Mejit_MH"
+msgstr "메지트 섬"
+
+msgid "Mili_MH"
+msgstr "밀리 환초"
+
+msgid "Namdrik_MH"
+msgstr "나모리크 환초"
+
+msgid "Namu_MH"
+msgstr "나무 환초"
+
+msgid "Rongelap_MH"
+msgstr "롱겔라프 환초"
+
+msgid "Ujae_MH"
+msgstr "우자에 환초"
+
+msgid "Utrik_MH"
+msgstr "우티리크 환초"
+
+msgid "Wotho_MH"
+msgstr "워토 환초"
+
+msgid "Wotje_MH"
+msgstr "웟제 환초"
+
+msgid "Aracinovo_MK"
+msgstr "아라치노보 시"
+
+msgid "Berovo_MK"
+msgstr "베로보"
+
+msgid "Bitola_MK"
+msgstr "비톨라"
+
+msgid "Bogdanci_MK"
+msgstr "보그단치"
+
+msgid "Bogovinje_MK"
+msgstr "보고비네 시"
+
+msgid "Bosilovo_MK"
+msgstr "보실로보 시"
+
+msgid "Brvenica_MK"
+msgstr "브르베니차"
+
+msgid "Caska_MK"
+msgstr "차슈카 시"
+
+msgid "Centar Zupa_MK"
+msgstr "첸타르주파 시"
+
+msgid "Cesinovo-Oblesevo_MK"
+msgstr "체시노보오블레셰보 시"
+
+msgid "Cucer Sandevo_MK"
+msgstr "추체르산데보 시"
+
+msgid "Debar_MK"
+msgstr "데바르"
+
+msgid "Debarca_MK"
+msgstr "데바르차 시"
+
+msgid "Delcevo_MK"
+msgstr "델체보"
+
+msgid "Demir Hisar_MK"
+msgstr "데미르히사르 시"
+
+msgid "Demir Kapija_MK"
+msgstr "데미르카피야"
+
+msgid "Dojran_MK"
+msgstr "도이란 시"
+
+msgid "Dolneni_MK"
+msgstr "돌네니 시"
+
+msgid "Gevgelija_MK"
+msgstr "게브겔리야"
+
+msgid "Gostivar_MK"
+msgstr "고스티바르"
+
+msgid "Gradsko_MK"
+msgstr "그라드스코 시"
+
+msgid "Ilinden_MK"
+msgstr "일린덴 시"
+
+msgid "Jegunovce_MK"
+msgstr "예구노프체 시"
+
+msgid "Karbinci_MK"
+msgstr "카르빈치 시"
+
+msgid "Kavadarci_MK"
+msgstr "카바다르치"
+
+msgid "Kicevo_MK"
+msgstr "키체보"
+
+msgid "Kocani_MK"
+msgstr "코차니"
+
+msgid "Konce_MK"
+msgstr "콘체 시"
+
+msgid "Kratovo_MK"
+msgstr "크라토보 시"
+
+msgid "Kriva Palanka_MK"
+msgstr "크리바팔란카"
+
+msgid "Krivogastani_MK"
+msgstr "크리보가슈타니 시"
+
+msgid "Krusevo_MK"
+msgstr "크루셰보"
+
+msgid "Kumanovo_MK"
+msgstr "쿠마노보"
+
+msgid "Lipkovo_MK"
+msgstr "립코보 시"
+
+msgid "Lozovo_MK"
+msgstr "로조보 시"
+
+msgid "Makedonska Kamenica_MK"
+msgstr "마케돈스카카메니차"
+
+msgid "Makedonski Brod_MK"
+msgstr "마케돈스키브로드 시"
+
+msgid "Mavrovo i Rostusa_MK"
+msgstr "마브로보 로스투샤 시"
+
+msgid "Mogila_MK"
+msgstr "모길라 시"
+
+msgid "Negotino_MK"
+msgstr "네고티노"
+
+msgid "Novaci_MK"
+msgstr "노바치 시"
+
+msgid "Novo Selo_MK"
+msgstr "노보셀로 시"
+
+msgid "Ohrid_MK"
+msgstr "오흐리드"
+
+msgid "Pehcevo_MK"
+msgstr "페흐체보 시"
+
+msgid "Petrovec_MK"
+msgstr "페트로베츠 시"
+
+msgid "Plasnica_MK"
+msgstr "플라스니차 시"
+
+msgid "Prilep_MK"
+msgstr "프릴레프"
+
+msgid "Probistip_MK"
+msgstr "프로비슈티프"
+
+msgid "Radovis_MK"
+msgstr "라도비시"
+
+msgid "Rankovce_MK"
+msgstr "란코프체 시"
+
+msgid "Resen_MK"
+msgstr "레센 시"
+
+msgid "Rosoman_MK"
+msgstr "로소만 시"
+
+msgid "Skopje_MK"
+msgstr "스코폐"
+
+msgid "Sopiste_MK"
+msgstr "소피슈테 시"
+
+msgid "Staro Nagoricane_MK"
+msgstr "스타로나고리차네"
+
+msgid "Stip_MK"
+msgstr "슈티프 시"
+
+msgid "Struga_MK"
+msgstr "스트루가"
+
+msgid "Strumica_MK"
+msgstr "스트루미차"
+
+msgid "Studenicani_MK"
+msgstr "스투데니차니 시"
+
+msgid "Sveti Nikole_MK"
+msgstr "스베티니콜레"
+
+msgid "Tearce_MK"
+msgstr "테아르체 시"
+
+msgid "Tetovo_MK"
+msgstr "테토보"
+
+msgid "Valandovo_MK"
+msgstr "발란도보"
+
+msgid "Vasilevo_MK"
+msgstr "바실레보 시"
+
+msgid "Veles_MK"
+msgstr "벨레스 시"
+
+msgid "Vevcani_MK"
+msgstr "베브차니 시"
+
+msgid "Vinica_MK"
+msgstr "비니차 시"
+
+msgid "Vrapciste_MK"
+msgstr "브랍치슈테 시"
+
+msgid "Zelenikovo_MK"
+msgstr "젤레니코보 시"
+
+msgid "Zelino_MK"
+msgstr "젤리노 시"
+
+msgid "Zrnovci_MK"
+msgstr "즈르노프치 시"
+
+msgid "Bamako_ML"
+msgstr "바마코"
+
+msgid "Gao_ML"
+msgstr "가오"
+
+msgid "Kayes_ML"
+msgstr "케스"
+
+msgid "Kidal_ML"
+msgstr "키달"
+
+msgid "Koulikoro_ML"
+msgstr "쿨리코로"
+
+msgid "Mopti_ML"
+msgstr "몹티"
+
+msgid "Segou_ML"
+msgstr "세구"
+
+msgid "Sikasso_ML"
+msgstr "시카소"
+
+msgid "Tombouctou_ML"
+msgstr "통북투 주"
+
+msgid "Ayeyarwady_MM"
+msgstr "에야와디 관구"
+
+msgid "Bago_MM"
+msgstr "바고 관구"
+
+msgid "Chin_MM"
+msgstr "친 주"
+
+msgid "Kachin_MM"
+msgstr "카친 주"
+
+msgid "Kayah_MM"
+msgstr "카야 주"
+
+msgid "Kayin_MM"
+msgstr "카인 주"
+
+msgid "Magway_MM"
+msgstr "마궤 관구"
+
+msgid "Mandalay_MM"
+msgstr "만달레이 관구"
+
+msgid "Mon_MM"
+msgstr "몬 주"
+
+msgid "Nay Pyi Taw_MM"
+msgstr "네피도"
+
+msgid "Rakhine_MM"
+msgstr "라카인 주"
+
+msgid "Sagaing_MM"
+msgstr "사가잉 관구"
+
+msgid "Shan_MM"
+msgstr "샨 주"
+
+msgid "Tanintharyi_MM"
+msgstr "타닌타리 관구"
+
+msgid "Yangon_MM"
+msgstr "양곤 관구"
+
+msgid "Arhangay_MN"
+msgstr "아르항가이 주"
+
+msgid "Bayan-Olgiy_MN"
+msgstr "바잉울기 주"
+
+msgid "Bayanhongor_MN"
+msgstr "바잉헝거르"
+
+msgid "Bulgan_MN"
+msgstr "볼간 주"
+
+msgid "Darhan uul_MN"
+msgstr "다르항 주"
+
+msgid "Dornod_MN"
+msgstr "더르너드 주"
+
+msgid "Dornogovi_MN"
+msgstr "더르너고비 주"
+
+msgid "Dundgovi_MN"
+msgstr "동드고비 주"
+
+msgid "Dzavhan_MN"
+msgstr "자브항 주"
+
+msgid "Govi-Altay_MN"
+msgstr "고비알타이 주"
+
+msgid "Govi-Sumber_MN"
+msgstr "고비숨베르 주"
+
+msgid "Hentiy_MN"
+msgstr "헹티 주"
+
+msgid "Hovd_MN"
+msgstr "허브드 주"
+
+msgid "Hovsgol_MN"
+msgstr "후브스굴 주"
+
+msgid "Omnogovi_MN"
+msgstr "우므느고비 주"
+
+msgid "Orhon_MN"
+msgstr "오르홍 주"
+
+msgid "Ovorhangay_MN"
+msgstr "우부르항가이 주"
+
+msgid "Selenge_MN"
+msgstr "셀렝게"
+
+msgid "Suhbaatar_MN"
+msgstr "수흐바타르 주"
+
+msgid "Tov_MN"
+msgstr "투브 주"
+
+msgid "Ulaanbaatar_MN"
+msgstr "울란바토르"
+
+msgid "Uvs_MN"
+msgstr "오브스 주"
+
+msgid "Macao_MO"
+msgstr "마카오"
+
+msgid "Northern Mariana Islands_MP"
+msgstr "북마리아나 제도"
+
+msgid "Martinique_MQ"
+msgstr "마르티니크"
+
+msgid "Adrar_MR"
+msgstr "아드라르"
+
+msgid "Assaba_MR"
+msgstr "아사바 주"
+
+msgid "Brakna_MR"
+msgstr "브라크나 주"
+
+msgid "Dakhlet Nouadhibou_MR"
+msgstr "다클레트누아디부 주"
+
+msgid "Gorgol_MR"
+msgstr "고르골 주"
+
+msgid "Guidimaka_MR"
+msgstr "기디마카 주"
+
+msgid "Hodh ech Chargui_MR"
+msgstr "호드에슈샤르기 주"
+
+msgid "Hodh el Gharbi_MR"
+msgstr "호드엘가르비 주"
+
+msgid "Inchiri_MR"
+msgstr "인시리 주"
+
+msgid "Nouakchott Nord_MR"
+msgstr "북누악쇼트 주"
+
+msgid "Tagant_MR"
+msgstr "타간트 주"
+
+msgid "Tiris Zemmour_MR"
+msgstr "티리스젬무르 주"
+
+msgid "Trarza_MR"
+msgstr "트라르자 주"
+
+msgid "Saint Anthony_MS"
+msgstr "세인트 안토니"
+
+msgid "Saint Peter_MS"
+msgstr "베드로"
+
+msgid "Attard_MT"
+msgstr "아타르트"
+
+msgid "Balzan_MT"
+msgstr "발찬"
+
+msgid "Birgu_MT"
+msgstr "비르구"
+
+msgid "Birkirkara_MT"
+msgstr "비르키르카라"
+
+msgid "Birzebbuga_MT"
+msgstr "비르제부자"
+
+msgid "Bormla_MT"
+msgstr "보름라"
+
+msgid "Dingli_MT"
+msgstr "딩글리"
+
+msgid "Fgura_MT"
+msgstr "프구라"
+
+msgid "Floriana_MT"
+msgstr "플로리아나"
+
+msgid "Fontana_MT"
+msgstr "폰타나"
+
+msgid "Ghajnsielem_MT"
+msgstr "아인실렘"
+
+msgid "Gharb_MT"
+msgstr "아르프"
+
+msgid "Gharghur_MT"
+msgstr "아르우르"
+
+msgid "Ghasri_MT"
+msgstr "아스리"
+
+msgid "Ghaxaq_MT"
+msgstr "아샤"
+
+msgid "Gudja_MT"
+msgstr "구디아"
+
+msgid "Gzira_MT"
+msgstr "그지라"
+
+msgid "Hamrun_MT"
+msgstr "함룬"
+
+msgid "Iklin_MT"
+msgstr "이클린"
+
+msgid "Isla_MT"
+msgstr "셍글레아"
+
+msgid "Kalkara_MT"
+msgstr "칼카라"
+
+msgid "Kercem_MT"
+msgstr "케르쳄"
+
+msgid "Kirkop_MT"
+msgstr "키르코프"
+
+msgid "Lija_MT"
+msgstr "리야"
+
+msgid "Luqa_MT"
+msgstr "루아"
+
+msgid "Marsa_MT"
+msgstr "마르사"
+
+msgid "Marsaskala_MT"
+msgstr "마르사스칼라"
+
+msgid "Marsaxlokk_MT"
+msgstr "마르사실로크"
+
+msgid "Mdina_MT"
+msgstr "므디나"
+
+msgid "Mellieha_MT"
+msgstr "멜리하"
+
+msgid "Mgarr_MT"
+msgstr "므자르"
+
+msgid "Mosta_MT"
+msgstr "모스타"
+
+msgid "Mqabba_MT"
+msgstr "므아바"
+
+msgid "Msida_MT"
+msgstr "므시다"
+
+msgid "Mtarfa_MT"
+msgstr "므타르파"
+
+msgid "Munxar_MT"
+msgstr "문샤르"
+
+msgid "Nadur_MT"
+msgstr "나두르"
+
+msgid "Naxxar_MT"
+msgstr "나샤르"
+
+msgid "Paola_MT"
+msgstr "파올라"
+
+msgid "Pembroke_MT"
+msgstr "펨브로크"
+
+msgid "Pieta_MT"
+msgstr "피타"
+
+msgid "Qala_MT"
+msgstr "알라"
+
+msgid "Qormi_MT"
+msgstr "오르미"
+
+msgid "Qrendi_MT"
+msgstr "렌디"
+
+msgid "Rabat Gozo_MT"
+msgstr "빅토리아"
+
+msgid "Rabat Malta_MT"
+msgstr "라바트"
+
+msgid "Safi_MT"
+msgstr "사피"
+
+msgid "Saint John_MT"
+msgstr "세인트존"
+
+msgid "Saint Julian's_MT"
+msgstr "산질리안"
+
+msgid "Saint Lucia's_MT"
+msgstr "산타루치야"
+
+msgid "Saint Paul's Bay_MT"
+msgstr "산파울일바하르"
+
+msgid "Sannat_MT"
+msgstr "산나트"
+
+msgid "Santa Venera_MT"
+msgstr "산타베네라"
+
+msgid "Siggiewi_MT"
+msgstr "시지위"
+
+msgid "Sliema_MT"
+msgstr "슬리마"
+
+msgid "Swieqi_MT"
+msgstr "스위이"
+
+msgid "Ta' Xbiex_MT"
+msgstr "타시비시"
+
+msgid "Tarxien_MT"
+msgstr "타르신"
+
+msgid "Valletta_MT"
+msgstr "발레타"
+
+msgid "Xaghra_MT"
+msgstr "샤라"
+
+msgid "Xewkija_MT"
+msgstr "셰우키야"
+
+msgid "Xghajra_MT"
+msgstr "샤이라"
+
+msgid "Zabbar_MT"
+msgstr "자바르"
+
+msgid "Zebbug Gozo_MT"
+msgstr "제부치"
+
+msgid "Zejtun_MT"
+msgstr "제이툰"
+
+msgid "Zurrieq_MT"
+msgstr "주리"
+
+msgid "Agalega Islands_MU"
+msgstr "아갈레가 제도"
+
+msgid "Black River_MU"
+msgstr "리비에르 누아르 구"
+
+msgid "Flacq_MU"
+msgstr "플라크 구"
+
+msgid "Grand Port_MU"
+msgstr "그랑포르 구"
+
+msgid "Moka_MU"
+msgstr "모카 구"
+
+msgid "Pamplemousses_MU"
+msgstr "팜플레무스 구"
+
+msgid "Plaines Wilhems_MU"
+msgstr "플랭윌렐름 구"
+
+msgid "Port Louis_MU"
+msgstr "포트루이스"
+
+msgid "Riviere du Rempart_MU"
+msgstr "리비에르뒤랑파르 구"
+
+msgid "Rodrigues Islands_MU"
+msgstr "로드리게스 섬"
+
+msgid "Savanne_MU"
+msgstr "사반 구"
+
+msgid "Alifu Alifu_MV"
+msgstr "알리프알리프 환초"
+
+msgid "Baa_MV"
+msgstr "BAA"
+
+msgid "Dhaalu_MV"
+msgstr "달루 환초"
+
+msgid "Gaafu Dhaalu_MV"
+msgstr "가푸달루 환초"
+
+msgid "Gnaviyani_MV"
+msgstr "그나비야니 환초"
+
+msgid "Haa Alifu_MV"
+msgstr "하알리프 환초"
+
+msgid "Haa Dhaalu_MV"
+msgstr "하달루 환초"
+
+msgid "Kaafu_MV"
+msgstr "카푸 환초"
+
+msgid "Laamu_MV"
+msgstr "라무 환초"
+
+msgid "Maale_MV"
+msgstr "말레"
+
+msgid "Meemu_MV"
+msgstr "미무 환초"
+
+msgid "Noonu_MV"
+msgstr "누누 환초"
+
+msgid "Raa_MV"
+msgstr "RAA"
+
+msgid "Seenu_MV"
+msgstr "아두 환초"
+
+msgid "Shaviyani_MV"
+msgstr "샤비야니 환초"
+
+msgid "Thaa_MV"
+msgstr "타아"
+
+msgid "Vaavu_MV"
+msgstr "바부 환초"
+
+msgid "Balaka_MW"
+msgstr "발라카 현"
+
+msgid "Blantyre_MW"
+msgstr "블랜타이어"
+
+msgid "Chikwawa_MW"
+msgstr "치콰와 현"
+
+msgid "Chiradzulu_MW"
+msgstr "치라줄루 현"
+
+msgid "Chitipa_MW"
+msgstr "치티파 현"
+
+msgid "Dedza_MW"
+msgstr "데자"
+
+msgid "Dowa_MW"
+msgstr "도와 현"
+
+msgid "Karonga_MW"
+msgstr "카롱가"
+
+msgid "Kasungu_MW"
+msgstr "카숭구"
+
+msgid "Likoma_MW"
+msgstr "리코마 현"
+
+msgid "Lilongwe_MW"
+msgstr "릴롱궤"
+
+msgid "Machinga_MW"
+msgstr "마칭가 현"
+
+msgid "Mangochi_MW"
+msgstr "망고치 현"
+
+msgid "Mchinji_MW"
+msgstr "음친지"
+
+msgid "Mulanje_MW"
+msgstr "물란제 현"
+
+msgid "Mwanza_MW"
+msgstr "므완자"
+
+msgid "Mzimba_MW"
+msgstr "음짐바 현"
+
+msgid "Neno_MW"
+msgstr "네노 현"
+
+msgid "Nkhata Bay_MW"
+msgstr "은카타베이 현"
+
+msgid "Nkhotakota_MW"
+msgstr "은코타코타"
+
+msgid "Nsanje_MW"
+msgstr "은산제 현"
+
+msgid "Ntcheu_MW"
+msgstr "은체우 현"
+
+msgid "Ntchisi_MW"
+msgstr "은치시 현"
+
+msgid "Phalombe_MW"
+msgstr "팔롬베 현"
+
+msgid "Rumphi_MW"
+msgstr "룸피 현"
+
+msgid "Salima_MW"
+msgstr "살리마 현"
+
+msgid "Thyolo_MW"
+msgstr "티올로 현"
+
+msgid "Zomba_MW"
+msgstr "좀바 현"
+
+msgid "Aguascalientes_MX"
+msgstr "아과스칼리엔테스주"
+
+msgid "Baja California_MX"
+msgstr "바하칼리포르니아주"
+
+msgid "Baja California Sur_MX"
+msgstr "바하칼리포르니아수르주"
+
+msgid "Campeche_MX"
+msgstr "캄페체주"
+
+msgid "Chiapas_MX"
+msgstr "치아파스주"
+
+msgid "Chihuahua_MX"
+msgstr "치와와"
+
+msgid "Ciudad de Mexico_MX"
+msgstr "멕시코시티"
+
+msgid "Coahuila de Zaragoza_MX"
+msgstr "코아우일라주"
+
+msgid "Colima_MX"
+msgstr "콜리마주"
+
+msgid "Durango_MX"
+msgstr "두랑고주"
+
+msgid "Guanajuato_MX"
+msgstr "과나후아토주"
+
+msgid "Guerrero_MX"
+msgstr "게레로주"
+
+msgid "Hidalgo_MX"
+msgstr "이달고"
+
+msgid "Jalisco_MX"
+msgstr "할리스코주"
+
+msgid "Mexico_MX"
+msgstr "멕시코"
+
+msgid "Michoacan de Ocampo_MX"
+msgstr "미초아칸주"
+
+msgid "Morelos_MX"
+msgstr "모렐로스주"
+
+msgid "Nayarit_MX"
+msgstr "나야리트주"
+
+msgid "Nuevo Leon_MX"
+msgstr "누에보레온주"
+
+msgid "Oaxaca_MX"
+msgstr "오아하카주"
+
+msgid "Puebla_MX"
+msgstr "푸에블라주"
+
+msgid "Queretaro_MX"
+msgstr "케레타로주"
+
+msgid "Quintana Roo_MX"
+msgstr "킨타나로오주"
+
+msgid "San Luis Potosi_MX"
+msgstr "산루이스포토시주"
+
+msgid "Sinaloa_MX"
+msgstr "시날로아주"
+
+msgid "Sonora_MX"
+msgstr "소노라주"
+
+msgid "Tabasco_MX"
+msgstr "타바스코주"
+
+msgid "Tamaulipas_MX"
+msgstr "타마울리파스주"
+
+msgid "Tlaxcala_MX"
+msgstr "틀락스칼라주"
+
+msgid "Veracruz de Ignacio de la Llave_MX"
+msgstr "베라크루스주"
+
+msgid "Yucatan_MX"
+msgstr "유카탄주"
+
+msgid "Zacatecas_MX"
+msgstr "사카테카스주"
+
+msgid "Johor_MY"
+msgstr "조호르"
+
+msgid "Kedah_MY"
+msgstr "크다"
+
+msgid "Kelantan_MY"
+msgstr "클란탄주"
+
+msgid "Melaka_MY"
+msgstr "믈라카주"
+
+msgid "Negeri Sembilan_MY"
+msgstr "느그리슴빌란주"
+
+msgid "Pahang_MY"
+msgstr "파항주"
+
+msgid "Perak_MY"
+msgstr "페락주"
+
+msgid "Perlis_MY"
+msgstr "프를리스주"
+
+msgid "Pulau Pinang_MY"
+msgstr "피낭주"
+
+msgid "Sabah_MY"
+msgstr "사바주"
+
+msgid "Sarawak_MY"
+msgstr "사라왁주"
+
+msgid "Selangor_MY"
+msgstr "슬랑오르주"
+
+msgid "Terengganu_MY"
+msgstr "트렝가누주"
+
+msgid "Wilayah Persekutuan Kuala Lumpur_MY"
+msgstr "쿠알라룸푸르"
+
+msgid "Wilayah Persekutuan Labuan_MY"
+msgstr "라부안"
+
+msgid "Wilayah Persekutuan Putrajaya_MY"
+msgstr "푸트라자야"
+
+msgid "Cabo Delgado_MZ"
+msgstr "카부델가두 주"
+
+msgid "Gaza_MZ"
+msgstr "가자"
+
+msgid "Inhambane_MZ"
+msgstr "이냠바느"
+
+msgid "Manica_MZ"
+msgstr "마니카 주"
+
+msgid "Maputo_MZ"
+msgstr "마푸투"
+
+msgid "Nampula_MZ"
+msgstr "남풀라"
+
+msgid "Niassa_MZ"
+msgstr "니아사 주"
+
+msgid "Sofala_MZ"
+msgstr "소팔라 주"
+
+msgid "Tete_MZ"
+msgstr "테트"
+
+msgid "Zambezia_MZ"
+msgstr "잠베지아 주"
+
+msgid "Erongo_NA"
+msgstr "에롱고 주"
+
+msgid "Hardap_NA"
+msgstr "하르다프 주"
+
+msgid "Karas_NA"
+msgstr "카라스 주"
+
+msgid "Kavango East_NA"
+msgstr "동카방고 주"
+
+msgid "Khomas_NA"
+msgstr "호마스 주"
+
+msgid "Kunene_NA"
+msgstr "쿠네네"
+
+msgid "Ohangwena_NA"
+msgstr "오항궤나 주"
+
+msgid "Omaheke_NA"
+msgstr "오마헤케 주"
+
+msgid "Omusati_NA"
+msgstr "오무사티 주"
+
+msgid "Oshana_NA"
+msgstr "오샤나 주"
+
+msgid "Oshikoto_NA"
+msgstr "오시코토 주"
+
+msgid "Otjozondjupa_NA"
+msgstr "오초존주파 주"
+
+msgid "Zambezi_NA"
+msgstr "잠베지 강"
+
+msgid "Province des iles Loyaute_NC"
+msgstr "Province des iles Loyaute"
+
+msgid "Province Nord_NC"
+msgstr "노스 주"
+
+msgid "Province Sud_NC"
+msgstr "사우스 주"
+
+msgid "Agadez_NE"
+msgstr "아가데즈"
+
+msgid "Diffa_NE"
+msgstr "디파"
+
+msgid "Dosso_NE"
+msgstr "도소"
+
+msgid "Maradi_NE"
+msgstr "마라디"
+
+msgid "Niamey_NE"
+msgstr "니아메"
+
+msgid "Tahoua_NE"
+msgstr "타우아"
+
+msgid "Tillaberi_NE"
+msgstr "틸라베리"
+
+msgid "Zinder_NE"
+msgstr "진데르"
+
+msgid "Norfolk Island_NF"
+msgstr "노퍽 섬"
+
+msgid "Abia_NG"
+msgstr "아비아 주"
+
+msgid "Abuja Federal Capital Territory_NG"
+msgstr "연방 수도 지구"
+
+msgid "Adamawa_NG"
+msgstr "아다마와"
+
+msgid "Akwa Ibom_NG"
+msgstr "아콰이봄 주"
+
+msgid "Anambra_NG"
+msgstr "아남브라 주"
+
+msgid "Bauchi_NG"
+msgstr "바우치"
+
+msgid "Bayelsa_NG"
+msgstr "바이엘사 주"
+
+msgid "Benue_NG"
+msgstr "베누에 주"
+
+msgid "Borno_NG"
+msgstr "보르노 주"
+
+msgid "Cross River_NG"
+msgstr "크로스리버 주"
+
+msgid "Delta_NG"
+msgstr "델타"
+
+msgid "Ebonyi_NG"
+msgstr "에보니 주"
+
+msgid "Edo_NG"
+msgstr "에도"
+
+msgid "Ekiti_NG"
+msgstr "에키티 주"
+
+msgid "Enugu_NG"
+msgstr "에누구"
+
+msgid "Gombe_NG"
+msgstr "곰베"
+
+msgid "Imo_NG"
+msgstr "이모 주"
+
+msgid "Jigawa_NG"
+msgstr "지가와 주"
+
+msgid "Kaduna_NG"
+msgstr "카두나"
+
+msgid "Kano_NG"
+msgstr "카노"
+
+msgid "Katsina_NG"
+msgstr "카치나"
+
+msgid "Kebbi_NG"
+msgstr "케비 주"
+
+msgid "Kogi_NG"
+msgstr "코기 주"
+
+msgid "Kwara_NG"
+msgstr "콰라 주"
+
+msgid "Lagos_NG"
+msgstr "라고스"
+
+msgid "Nasarawa_NG"
+msgstr "나사라와 주"
+
+msgid "Niger_NG"
+msgstr "니제르"
+
+msgid "Ogun_NG"
+msgstr "오군 주"
+
+msgid "Ondo_NG"
+msgstr "온도 주"
+
+msgid "Osun_NG"
+msgstr "오순 주"
+
+msgid "Oyo_NG"
+msgstr "오요 주"
+
+msgid "Plateau_NG"
+msgstr "플래토 주"
+
+msgid "Rivers_NG"
+msgstr "강"
+
+msgid "Sokoto_NG"
+msgstr "소코토"
+
+msgid "Taraba_NG"
+msgstr "타라바 주"
+
+msgid "Yobe_NG"
+msgstr "요베 주"
+
+msgid "Zamfara_NG"
+msgstr "잠파라 주"
+
+msgid "Boaco_NI"
+msgstr "보아코"
+
+msgid "Carazo_NI"
+msgstr "카라소 주"
+
+msgid "Chinandega_NI"
+msgstr "치난데가"
+
+msgid "Chontales_NI"
+msgstr "촌탈레스 주"
+
+msgid "Costa Caribe Norte_NI"
+msgstr "북아틀란티코 자치구"
+
+msgid "Costa Caribe Sur_NI"
+msgstr "남아틀란티코 자치구"
+
+msgid "Esteli_NI"
+msgstr "에스텔리"
+
+msgid "Granada_NI"
+msgstr "그라나다"
+
+msgid "Jinotega_NI"
+msgstr "히노테가"
+
+msgid "Leon_NI"
+msgstr "레온"
+
+msgid "Madriz_NI"
+msgstr "마드리스 주"
+
+msgid "Managua_NI"
+msgstr "마나과"
+
+msgid "Masaya_NI"
+msgstr "마사야"
+
+msgid "Matagalpa_NI"
+msgstr "마타갈파"
+
+msgid "Nueva Segovia_NI"
+msgstr "누에바세고비아 주"
+
+msgid "Rio San Juan_NI"
+msgstr "리오산후안 주"
+
+msgid "Rivas_NI"
+msgstr "리바스 주"
+
+msgid "Drenthe_NL"
+msgstr "드렌터주"
+
+msgid "Flevoland_NL"
+msgstr "플레볼란트주"
+
+msgid "Fryslan_NL"
+msgstr "프리슬란트주"
+
+msgid "Gelderland_NL"
+msgstr "헬데를란트주"
+
+msgid "Groningen_NL"
+msgstr "흐로닝언"
+
+msgid "Limburg_NL"
+msgstr "림뷔르흐주"
+
+msgid "Noord-Brabant_NL"
+msgstr "노르트브라반트주"
+
+msgid "Noord-Holland_NL"
+msgstr "노르트홀란트주"
+
+msgid "Overijssel_NL"
+msgstr "오버레이설주"
+
+msgid "Utrecht_NL"
+msgstr "위트레흐트"
+
+msgid "Zeeland_NL"
+msgstr "제일란트주"
+
+msgid "Zuid-Holland_NL"
+msgstr "자위트홀란트주"
+
+msgid "Akershus_NO"
+msgstr "아케르스후스주"
+
+msgid "Aust-Agder_NO"
+msgstr "에우스트아그데르주"
+
+msgid "Buskerud_NO"
+msgstr "부스케루주"
+
+msgid "Finnmark_NO"
+msgstr "핀마르크주"
+
+msgid "Hedmark_NO"
+msgstr "헤드마르크주"
+
+msgid "Hordaland_NO"
+msgstr "호르달란주"
+
+msgid "More og Romsdal_NO"
+msgstr "뫼레오그롬스달주"
+
+msgid "Nord-Trondelag_NO"
+msgstr "노르트뢰넬라그주"
+
+msgid "Nordland_NO"
+msgstr "노를란주"
+
+msgid "Oppland_NO"
+msgstr "오플란주"
+
+msgid "Oslo_NO"
+msgstr "오슬로"
+
+msgid "Ostfold_NO"
+msgstr "외스트폴주"
+
+msgid "Rogaland_NO"
+msgstr "로갈란주"
+
+msgid "Sogn og Fjordane_NO"
+msgstr "송노피오라네주"
+
+msgid "Sor-Trondelag_NO"
+msgstr "쇠르트뢰넬라그주"
+
+msgid "Telemark_NO"
+msgstr "텔레마르크주"
+
+msgid "Troms_NO"
+msgstr "트롬스주"
+
+msgid "Vest-Agder_NO"
+msgstr "베스트아그데르주"
+
+msgid "Vestfold_NO"
+msgstr "베스트폴주"
+
+msgid "Bagmati_NP"
+msgstr "바그마티 강"
+
+msgid "Bheri_NP"
+msgstr "Bheri"
+
+msgid "Dhawalagiri_NP"
+msgstr "다울라기리 구"
+
+msgid "Gandaki_NP"
+msgstr "간다 키"
+
+msgid "Janakpur_NP"
+msgstr "자낙푸르"
+
+msgid "Karnali_NP"
+msgstr "카르 나리"
+
+msgid "Kosi_NP"
+msgstr "코시"
+
+msgid "Lumbini_NP"
+msgstr "룸비니"
+
+msgid "Mahakali_NP"
+msgstr "마할 칼리"
+
+msgid "Mechi_NP"
+msgstr "메치 구"
+
+msgid "Narayani_NP"
+msgstr "나라 야니"
+
+msgid "Rapti_NP"
+msgstr "Rapti"
+
+msgid "Sagarmatha_NP"
+msgstr "사가 마타"
+
+msgid "Seti_NP"
+msgstr "세티 구"
+
+msgid "Aiwo_NR"
+msgstr "아이워 구"
+
+msgid "Anabar_NR"
+msgstr "아나바르 구"
+
+msgid "Anetan_NR"
+msgstr "아네탄 구"
+
+msgid "Anibare_NR"
+msgstr "아니바레 구"
+
+msgid "Baitsi_NR"
+msgstr "바이티 구"
+
+msgid "Buada_NR"
+msgstr "부아다 구"
+
+msgid "Ewa_NR"
+msgstr "에와 구"
+
+msgid "Ijuw_NR"
+msgstr "이유브 구"
+
+msgid "Uaboe_NR"
+msgstr "우아보에 구"
+
+msgid "Yaren_NR"
+msgstr "야렌 구"
+
+msgid "Niue_NU"
+msgstr "니우에"
+
+msgid "Auckland_NZ"
+msgstr "오클랜드"
+
+msgid "Bay of Plenty_NZ"
+msgstr "베이오브플렌티 지방"
+
+msgid "Canterbury_NZ"
+msgstr "캔터베리"
+
+msgid "Chatham Islands Territory_NZ"
+msgstr "채텀 제도"
+
+msgid "Gisborne_NZ"
+msgstr "기즈번"
+
+msgid "Hawke's Bay_NZ"
+msgstr "호크스베이 지방"
+
+msgid "Manawatu-Wanganui_NZ"
+msgstr "마너와투왕거누이 지방"
+
+msgid "Marlborough_NZ"
+msgstr "말버러"
+
+msgid "Nelson_NZ"
+msgstr "넬슨"
+
+msgid "Northland_NZ"
+msgstr "노스랜드"
+
+msgid "Otago_NZ"
+msgstr "오타고 지방"
+
+msgid "Southland_NZ"
+msgstr "사우스랜드"
+
+msgid "Taranaki_NZ"
+msgstr "타라나키 지방"
+
+msgid "Tasman_NZ"
+msgstr "태즈먼"
+
+msgid "Waikato_NZ"
+msgstr "와이카토 지방"
+
+msgid "Wellington_NZ"
+msgstr "웰링턴"
+
+msgid "West Coast_NZ"
+msgstr "웨스트코스트"
+
+msgid "Ad Dakhiliyah_OM"
+msgstr "다킬리야 주"
+
+msgid "Al Buraymi_OM"
+msgstr "부라이미 주"
+
+msgid "Al Wusta_OM"
+msgstr "중부 주"
+
+msgid "Az Zahirah_OM"
+msgstr "다히라 주"
+
+msgid "Janub al Batinah_OM"
+msgstr "남바티나 주"
+
+msgid "Janub ash Sharqiyah_OM"
+msgstr "남동부 주"
+
+msgid "Masqat_OM"
+msgstr "무스카트"
+
+msgid "Musandam_OM"
+msgstr "무산담 주"
+
+msgid "Shamal al Batinah_OM"
+msgstr "북바티나 주"
+
+msgid "Shamal ash Sharqiyah_OM"
+msgstr "북동부 주"
+
+msgid "Zufar_OM"
+msgstr "도파르 주"
+
+msgid "Bocas del Toro_PA"
+msgstr "보카스델토로 주"
+
+msgid "Chiriqui_PA"
+msgstr "치리키 주"
+
+msgid "Cocle_PA"
+msgstr "코클레 주"
+
+msgid "Colon_PA"
+msgstr "콜론"
+
+msgid "Darien_PA"
+msgstr "대리엔"
+
+msgid "Embera_PA"
+msgstr "Embera"
+
+msgid "Guna Yala_PA"
+msgstr "구나얄라 특구"
+
+msgid "Herrera_PA"
+msgstr "에레라"
+
+msgid "Los Santos_PA"
+msgstr "로스산토스"
+
+msgid "Ngobe-Bugle_PA"
+msgstr "응가베부글레 특구"
+
+msgid "Panama_PA"
+msgstr "파나마 공화국"
+
+msgid "Veraguas_PA"
+msgstr "베라과스 주"
+
+msgid "Amazonas_PE"
+msgstr "아마소나스"
+
+msgid "Ancash_PE"
+msgstr "앙카시 주"
+
+msgid "Apurimac_PE"
+msgstr "아푸리막 주"
+
+msgid "Arequipa_PE"
+msgstr "아레키파"
+
+msgid "Ayacucho_PE"
+msgstr "아야쿠초"
+
+msgid "Cajamarca_PE"
+msgstr "카하마르카"
+
+msgid "Cusco_PE"
+msgstr "쿠스코"
+
+msgid "El Callao_PE"
+msgstr "카야오"
+
+msgid "Huancavelica_PE"
+msgstr "우앙카벨리카"
+
+msgid "Huanuco_PE"
+msgstr "우아누코"
+
+msgid "Ica_PE"
+msgstr "이카 주"
+
+msgid "Junin_PE"
+msgstr "후닌 주"
+
+msgid "La Libertad_PE"
+msgstr "라리베르타드"
+
+msgid "Lambayeque_PE"
+msgstr "람바예케 주"
+
+msgid "Lima_PE"
+msgstr "리마"
+
+msgid "Loreto_PE"
+msgstr "로레토"
+
+msgid "Madre de Dios_PE"
+msgstr "마드레데디오스 주"
+
+msgid "Moquegua_PE"
+msgstr "모케과"
+
+msgid "Pasco_PE"
+msgstr "파스코 주"
+
+msgid "Piura_PE"
+msgstr "피우라"
+
+msgid "Puno_PE"
+msgstr "푸노"
+
+msgid "San Martin_PE"
+msgstr "산마르틴"
+
+msgid "Tacna_PE"
+msgstr "타크나"
+
+msgid "Tumbes_PE"
+msgstr "툼베스 주"
+
+msgid "Ucayali_PE"
+msgstr "우카얄리 강"
+
+msgid "Iles Australes_PF"
+msgstr "일스 오스트레일리아"
+
+msgid "Iles du Vent_PF"
+msgstr "일드 뒤 벤트"
+
+msgid "Iles Marquises_PF"
+msgstr "마르키즈 제도"
+
+msgid "Iles Sous-le-Vent_PF"
+msgstr "일스 르 벤트"
+
+msgid "Iles Tuamotu-Gambier_PF"
+msgstr "일 트 투모 투 - 갬 비어"
+
+msgid "Bougainville_PG"
+msgstr "부건빌"
+
+msgid "Central_PG"
+msgstr "중앙 주"
+
+msgid "Chimbu_PG"
+msgstr "심부 주"
+
+msgid "East New Britain_PG"
+msgstr "동뉴브리튼 주"
+
+msgid "East Sepik_PG"
+msgstr "동세픽 주"
+
+msgid "Eastern Highlands_PG"
+msgstr "이스턴하일랜즈 주"
+
+msgid "Enga_PG"
+msgstr "엥가"
+
+msgid "Gulf_PG"
+msgstr "걸프 주"
+
+msgid "Madang_PG"
+msgstr "마당"
+
+msgid "Manus_PG"
+msgstr "마누스 주"
+
+msgid "Milne Bay_PG"
+msgstr "밀른베이 주"
+
+msgid "Morobe_PG"
+msgstr "모로베 주"
+
+msgid "National Capital District (Port Moresby)_PG"
+msgstr "수도권"
+
+msgid "New Ireland_PG"
+msgstr "뉴아일랜드 주"
+
+msgid "Northern_PG"
+msgstr "오로 주"
+
+msgid "Southern Highlands_PG"
+msgstr "서던하일랜즈 주"
+
+msgid "West New Britain_PG"
+msgstr "서뉴브리튼 주"
+
+msgid "West Sepik_PG"
+msgstr "산다운 주"
+
+msgid "Western_PG"
+msgstr "서부 주"
+
+msgid "Western Highlands_PG"
+msgstr "웨스턴하일랜즈 주"
+
+msgid "Abra_PH"
+msgstr "아브라"
+
+msgid "Agusan del Norte_PH"
+msgstr "북아구산 주"
+
+msgid "Agusan del Sur_PH"
+msgstr "남아구산 주"
+
+msgid "Aklan_PH"
+msgstr "아클란 주"
+
+msgid "Albay_PH"
+msgstr "알바이 주"
+
+msgid "Antique_PH"
+msgstr "안티케 주"
+
+msgid "Apayao_PH"
+msgstr "아파야오 주"
+
+msgid "Aurora_PH"
+msgstr "아우로라 주"
+
+msgid "Basilan_PH"
+msgstr "바실란 주"
+
+msgid "Bataan_PH"
+msgstr "바타안 주"
+
+msgid "Batanes_PH"
+msgstr "바타네스 주"
+
+msgid "Batangas_PH"
+msgstr "바탕가스 주"
+
+msgid "Benguet_PH"
+msgstr "벵게트 주"
+
+msgid "Biliran_PH"
+msgstr "빌리란 주"
+
+msgid "Bohol_PH"
+msgstr "보홀 주"
+
+msgid "Bukidnon_PH"
+msgstr "부키드논 주"
+
+msgid "Bulacan_PH"
+msgstr "불라칸 주"
+
+msgid "Cagayan_PH"
+msgstr "카가얀 주"
+
+msgid "Camarines Norte_PH"
+msgstr "북카마리네스 주"
+
+msgid "Camarines Sur_PH"
+msgstr "남카마리네스 주"
+
+msgid "Camiguin_PH"
+msgstr "카미긴 주"
+
+msgid "Capiz_PH"
+msgstr "카피스 주"
+
+msgid "Catanduanes_PH"
+msgstr "카탄두아네스 주"
+
+msgid "Cavite_PH"
+msgstr "카비테 주"
+
+msgid "Cebu_PH"
+msgstr "세부 주"
+
+msgid "Compostela Valley_PH"
+msgstr "콤포스텔라밸리 주"
+
+msgid "Cotabato_PH"
+msgstr "코타바토 주"
+
+msgid "Davao del Norte_PH"
+msgstr "북다바오 주"
+
+msgid "Davao del Sur_PH"
+msgstr "남다바오 주"
+
+msgid "Davao Oriental_PH"
+msgstr "동다바오 주"
+
+msgid "Dinagat Islands_PH"
+msgstr "디나가트 제도주"
+
+msgid "Eastern Samar_PH"
+msgstr "동사마르 주"
+
+msgid "Guimaras_PH"
+msgstr "기마라스 주"
+
+msgid "Ifugao_PH"
+msgstr "이푸가오 주"
+
+msgid "Ilocos Norte_PH"
+msgstr "북일로코스 주"
+
+msgid "Ilocos Sur_PH"
+msgstr "남일로코스 주"
+
+msgid "Iloilo_PH"
+msgstr "일로일로 주"
+
+msgid "Isabela_PH"
+msgstr "이사벨라 주"
+
+msgid "Kalinga_PH"
+msgstr "칼링가 주"
+
+msgid "La Union_PH"
+msgstr "라우니온 주"
+
+msgid "Laguna_PH"
+msgstr "라구나"
+
+msgid "Lanao del Norte_PH"
+msgstr "북라나오 주"
+
+msgid "Lanao del Sur_PH"
+msgstr "남라나오 주"
+
+msgid "Leyte_PH"
+msgstr "레이테 섬"
+
+msgid "Maguindanao_PH"
+msgstr "마긴다나오 주"
+
+msgid "Marinduque_PH"
+msgstr "마린두케 주"
+
+msgid "Masbate_PH"
+msgstr "마스바테 주"
+
+msgid "Mindoro Occidental_PH"
+msgstr "서민도로 주"
+
+msgid "Mindoro Oriental_PH"
+msgstr "동민도로 주"
+
+msgid "Misamis Occidental_PH"
+msgstr "서미사미스 주"
+
+msgid "Misamis Oriental_PH"
+msgstr "동미사미스 주"
+
+msgid "Mountain Province_PH"
+msgstr "마운틴 주"
+
+msgid "National Capital Region_PH"
+msgstr "수도권"
+
+msgid "Negros Occidental_PH"
+msgstr "서네그로스 주"
+
+msgid "Negros Oriental_PH"
+msgstr "동네그로스 주"
+
+msgid "Northern Samar_PH"
+msgstr "북사마르 주"
+
+msgid "Nueva Ecija_PH"
+msgstr "누에바에시하 주"
+
+msgid "Nueva Vizcaya_PH"
+msgstr "누에바비스카야 주"
+
+msgid "Palawan_PH"
+msgstr "팔라완 주"
+
+msgid "Pampanga_PH"
+msgstr "팜팡가 주"
+
+msgid "Pangasinan_PH"
+msgstr "팡가시난 주"
+
+msgid "Quezon_PH"
+msgstr "케손 주"
+
+msgid "Quirino_PH"
+msgstr "키리노 주"
+
+msgid "Rizal_PH"
+msgstr "리살 주"
+
+msgid "Romblon_PH"
+msgstr "롬블론 주"
+
+msgid "Samar_PH"
+msgstr "사마르 섬"
+
+msgid "Sarangani_PH"
+msgstr "사랑가니 주"
+
+msgid "Siquijor_PH"
+msgstr "시키호르 주"
+
+msgid "Sorsogon_PH"
+msgstr "소르소곤 주"
+
+msgid "South Cotabato_PH"
+msgstr "남코타바토 주"
+
+msgid "Southern Leyte_PH"
+msgstr "남레이테 주"
+
+msgid "Sultan Kudarat_PH"
+msgstr "술탄쿠다라트 주"
+
+msgid "Sulu_PH"
+msgstr "술루 주"
+
+msgid "Surigao del Norte_PH"
+msgstr "북수리가오 주"
+
+msgid "Surigao del Sur_PH"
+msgstr "남수리가오 주"
+
+msgid "Tarlac_PH"
+msgstr "타를라크 주"
+
+msgid "Tawi-Tawi_PH"
+msgstr "타위타위 주"
+
+msgid "Zambales_PH"
+msgstr "삼발레스 주"
+
+msgid "Zamboanga del Norte_PH"
+msgstr "북삼보앙가 주"
+
+msgid "Zamboanga del Sur_PH"
+msgstr "남삼보앙가 주"
+
+msgid "Zamboanga Sibugay_PH"
+msgstr "삼보앙가시부가이 주"
+
+msgid "Azad Jammu and Kashmir_PK"
+msgstr "아자드 잠무 카슈미르"
+
+msgid "Balochistan_PK"
+msgstr "발루치스탄"
+
+msgid "Federally Administered Tribal Areas_PK"
+msgstr "연방 직할 부족 지역"
+
+msgid "Gilgit-Baltistan_PK"
+msgstr "길기트발티스탄"
+
+msgid "Islamabad_PK"
+msgstr "이슬라마바드"
+
+msgid "Khyber Pakhtunkhwa_PK"
+msgstr "카이베르파크툰크와 주"
+
+msgid "Punjab_PK"
+msgstr "펀자브"
+
+msgid "Sindh_PK"
+msgstr "신드 주"
+
+msgid "Dolnoslaskie_PL"
+msgstr "돌니실롱스크주"
+
+msgid "Kujawsko-pomorskie_PL"
+msgstr "쿠야비포모제주"
+
+msgid "Lodzkie_PL"
+msgstr "우치주"
+
+msgid "Lubelskie_PL"
+msgstr "루블린주"
+
+msgid "Lubuskie_PL"
+msgstr "루부시주"
+
+msgid "Malopolskie_PL"
+msgstr "마워폴스카주"
+
+msgid "Mazowieckie_PL"
+msgstr "마조프셰주"
+
+msgid "Opolskie_PL"
+msgstr "오폴레주"
+
+msgid "Podkarpackie_PL"
+msgstr "포드카르파츠키에주"
+
+msgid "Podlaskie_PL"
+msgstr "포들라스키에주"
+
+msgid "Pomorskie_PL"
+msgstr "포모제주"
+
+msgid "Slaskie_PL"
+msgstr "실롱스크주"
+
+msgid "Swietokrzyskie_PL"
+msgstr "시비엥토크시스키에주"
+
+msgid "Warminsko-mazurskie_PL"
+msgstr "바르미아마주리주"
+
+msgid "Wielkopolskie_PL"
+msgstr "비엘코폴스카주"
+
+msgid "Zachodniopomorskie_PL"
+msgstr "서포모제주"
+
+msgid "Saint Pierre and Miquelon_PM"
+msgstr "생피에르 미클롱"
+
+msgid "Pitcairn_PN"
+msgstr "핏케언 제도"
+
+msgid "Adjuntas_PR"
+msgstr "아줌마"
+
+msgid "Aguada_PR"
+msgstr "아구아 다"
+
+msgid "Aguadilla_PR"
+msgstr "아구아 딜라"
+
+msgid "Aguas Buenas_PR"
+msgstr "아구 아스 부에나 스"
+
+msgid "Aibonito_PR"
+msgstr "아이 보니 토"
+
+msgid "Anasco_PR"
+msgstr "아나 스코"
+
+msgid "Arecibo_PR"
+msgstr "Arecibo"
+
+msgid "Arroyo_PR"
+msgstr "아로요"
+
+msgid "Barceloneta_PR"
+msgstr "바르 셀로 네타"
+
+msgid "Barranquitas_PR"
+msgstr "바랑 키타 스"
+
+msgid "Bayamon_PR"
+msgstr "바야몬"
+
+msgid "Cabo Rojo_PR"
+msgstr "카보 로조"
+
+msgid "Caguas_PR"
+msgstr "카구 아스"
+
+msgid "Camuy_PR"
+msgstr "Camuy"
+
+msgid "Canovanas_PR"
+msgstr "카노 바나 스"
+
+msgid "Carolina_PR"
+msgstr "캐롤라이나"
+
+msgid "Catano_PR"
+msgstr "Catano"
+
+msgid "Cayey_PR"
+msgstr "케이시"
+
+msgid "Ceiba_PR"
+msgstr "세이 바"
+
+msgid "Ciales_PR"
+msgstr "Ciales"
+
+msgid "Cidra_PR"
+msgstr "유자"
+
+msgid "Coamo_PR"
+msgstr "코모"
+
+msgid "Comerio_PR"
+msgstr "Comerio"
+
+msgid "Corozal_PR"
+msgstr "코로살 구"
+
+msgid "Culebra_PR"
+msgstr "크레 레브라"
+
+msgid "Dorado_PR"
+msgstr "황새"
+
+msgid "Fajardo_PR"
+msgstr "파 자르도"
+
+msgid "Florida_PR"
+msgstr "플로리다주"
+
+msgid "Guanica_PR"
+msgstr "과니 차"
+
+msgid "Guayama_PR"
+msgstr "과야마"
+
+msgid "Guayanilla_PR"
+msgstr "과야 닐라"
+
+msgid "Guaynabo_PR"
+msgstr "과이 나보"
+
+msgid "Gurabo_PR"
+msgstr "구아바"
+
+msgid "Hatillo_PR"
+msgstr "Hatillo"
+
+msgid "Hormigueros_PR"
+msgstr "호르 미게 로스"
+
+msgid "Humacao_PR"
+msgstr "휴 마카오"
+
+msgid "Isabela_PR"
+msgstr "이사벨라 주"
+
+msgid "Juana Diaz_PR"
+msgstr "후아나 디아즈"
+
+msgid "Lajas_PR"
+msgstr "라자"
+
+msgid "Lares_PR"
+msgstr "라레스"
+
+msgid "Las Marias_PR"
+msgstr "라스 마리아 스"
+
+msgid "Las Piedras_PR"
+msgstr "라스 피 에드 라스"
+
+msgid "Loiza_PR"
+msgstr "로자"
+
+msgid "Luquillo_PR"
+msgstr "루 퀼로"
+
+msgid "Manati_PR"
+msgstr "마나티"
+
+msgid "Maricao_PR"
+msgstr "마리 카"
+
+msgid "Maunabo_PR"
+msgstr "마우나보"
+
+msgid "Mayaguez_PR"
+msgstr "마야궤스"
+
+msgid "Moca_PR"
+msgstr "모카"
+
+msgid "Morovis_PR"
+msgstr "모 로비 스"
+
+msgid "Municipio de Jayuya_PR"
+msgstr "자야야의 자치제"
+
+msgid "Municipio de Juncos_PR"
+msgstr "Municipio de Juncos"
+
+msgid "Naguabo_PR"
+msgstr "Naguabo"
+
+msgid "Naranjito_PR"
+msgstr "나라 엔 토"
+
+msgid "Patillas_PR"
+msgstr "빠따 야스"
+
+msgid "Penuelas_PR"
+msgstr "Penuelas"
+
+msgid "Ponce_PR"
+msgstr "폰세"
+
+msgid "Quebradillas_PR"
+msgstr "케 브라 디 야스"
+
+msgid "Rincon_PR"
+msgstr "링콘"
+
+msgid "Rio Grande_PR"
+msgstr "리오그란데 강"
+
+msgid "Sabana Grande_PR"
+msgstr "사바나 그란데"
+
+msgid "Salinas_PR"
+msgstr "살리나스"
+
+msgid "San German_PR"
+msgstr "산 독일어"
+
+msgid "San Juan_PR"
+msgstr "산후안"
+
+msgid "San Lorenzo_PR"
+msgstr "산로렌소"
+
+msgid "San Sebastian_PR"
+msgstr "산세바스티안"
+
+msgid "Santa Isabel Municipio_PR"
+msgstr "Santa Isabel Municipio"
+
+msgid "Toa Alta_PR"
+msgstr "토아 알타"
+
+msgid "Toa Baja_PR"
+msgstr "토바 바하"
+
+msgid "Trujillo Alto_PR"
+msgstr "트루히요알토"
+
+msgid "Utuado_PR"
+msgstr "Utuado"
+
+msgid "Vega Alta_PR"
+msgstr "베가 알타"
+
+msgid "Vega Baja_PR"
+msgstr "베가 바하"
+
+msgid "Vieques_PR"
+msgstr "비에케스 섬"
+
+msgid "Villalba_PR"
+msgstr "Villalba"
+
+msgid "Yabucoa_PR"
+msgstr "야부 코아"
+
+msgid "Yauco_PR"
+msgstr "야우꼬"
+
+msgid "Bethlehem_PS"
+msgstr "베들레헴"
+
+msgid "Gaza_PS"
+msgstr "가자"
+
+msgid "Hebron_PS"
+msgstr "헤브론"
+
+msgid "Jenin_PS"
+msgstr "제닌"
+
+msgid "Jericho and Al Aghwar_PS"
+msgstr "예리코 주"
+
+msgid "Jerusalem_PS"
+msgstr "예루살렘"
+
+msgid "Nablus_PS"
+msgstr "나블루스"
+
+msgid "Qalqilya_PS"
+msgstr "칼킬리야"
+
+msgid "Ramallah_PS"
+msgstr "라말라"
+
+msgid "Salfit_PS"
+msgstr "살피트"
+
+msgid "Tubas_PS"
+msgstr "투바스 주"
+
+msgid "Tulkarm_PS"
+msgstr "툴카름"
+
+msgid "Aveiro_PT"
+msgstr "아베이루 현"
+
+msgid "Beja_PT"
+msgstr "베자"
+
+msgid "Braga_PT"
+msgstr "브라가"
+
+msgid "Braganca_PT"
+msgstr "브라간사"
+
+msgid "Castelo Branco_PT"
+msgstr "카스텔루브랑쿠 현"
+
+msgid "Coimbra_PT"
+msgstr "코임브라"
+
+msgid "Evora_PT"
+msgstr "에보라"
+
+msgid "Faro_PT"
+msgstr "파루 현"
+
+msgid "Guarda_PT"
+msgstr "구아르다 현"
+
+msgid "Leiria_PT"
+msgstr "레이리아"
+
+msgid "Lisboa_PT"
+msgstr "리스본"
+
+msgid "Portalegre_PT"
+msgstr "포르탈레그르 현"
+
+msgid "Porto_PT"
+msgstr "포르투"
+
+msgid "Regiao Autonoma da Madeira_PT"
+msgstr "마데이라 제도"
+
+msgid "Regiao Autonoma dos Acores_PT"
+msgstr "아소르스 제도"
+
+msgid "Santarem_PT"
+msgstr "산타렝"
+
+msgid "Setubal_PT"
+msgstr "세투발"
+
+msgid "Viana do Castelo_PT"
+msgstr "비아나두카스텔루"
+
+msgid "Vila Real_PT"
+msgstr "빌라헤알"
+
+msgid "Viseu_PT"
+msgstr "비제우"
+
+msgid "Aimeliik_PW"
+msgstr "아이멜리크 주"
+
+msgid "Airai_PW"
+msgstr "아이라이 주"
+
+msgid "Angaur_PW"
+msgstr "앙가우르 주"
+
+msgid "Hatohobei_PW"
+msgstr "하토호베이 주"
+
+msgid "Kayangel_PW"
+msgstr "카양겔 주"
+
+msgid "Koror_PW"
+msgstr "코로르 주"
+
+msgid "Melekeok_PW"
+msgstr "멜레케오크 주"
+
+msgid "Ngaraard_PW"
+msgstr "가라르드 주"
+
+msgid "Ngarchelong_PW"
+msgstr "가르첼롱 주"
+
+msgid "Ngardmau_PW"
+msgstr "가르드마우 주"
+
+msgid "Ngatpang_PW"
+msgstr "가트팡 주"
+
+msgid "Ngchesar_PW"
+msgstr "체사르 주"
+
+msgid "Ngeremlengui_PW"
+msgstr "가렘렝구이 주"
+
+msgid "Ngiwal_PW"
+msgstr "기왈 주"
+
+msgid "Peleliu_PW"
+msgstr "펠렐리우 주"
+
+msgid "Sonsorol_PW"
+msgstr "손소롤 주"
+
+msgid "Alto Paraguay_PY"
+msgstr "알토파라과이 주"
+
+msgid "Alto Parana_PY"
+msgstr "알토파라나 주"
+
+msgid "Amambay_PY"
+msgstr "아맘바이 주"
+
+msgid "Asuncion_PY"
+msgstr "아순시온"
+
+msgid "Boqueron_PY"
+msgstr "보케론 주"
+
+msgid "Caaguazu_PY"
+msgstr "카과수 주"
+
+msgid "Caazapa_PY"
+msgstr "카사파"
+
+msgid "Canindeyu_PY"
+msgstr "카닌데유 주"
+
+msgid "Central_PY"
+msgstr "센트럴"
+
+msgid "Concepcion_PY"
+msgstr "콘셉시온"
+
+msgid "Cordillera_PY"
+msgstr "코르디예라 주"
+
+msgid "Guaira_PY"
+msgstr "과이라 주"
+
+msgid "Itapua_PY"
+msgstr "이타푸아 주"
+
+msgid "Misiones_PY"
+msgstr "미시오네스주"
+
+msgid "Neembucu_PY"
+msgstr "녬부쿠 주"
+
+msgid "Paraguari_PY"
+msgstr "파라과리"
+
+msgid "Presidente Hayes_PY"
+msgstr "프레시덴테아예스 주"
+
+msgid "San Pedro_PY"
+msgstr "산페드로"
+
+msgid "Ad Dawhah_QA"
+msgstr "도하"
+
+msgid "Al Khawr wa adh Dhakhirah_QA"
+msgstr "알코르"
+
+msgid "Al Wakrah_QA"
+msgstr "알와크라"
+
+msgid "Ar Rayyan_QA"
+msgstr "알라이얀"
+
+msgid "Ash Shamal_QA"
+msgstr "아시샤말"
+
+msgid "Az Za'ayin_QA"
+msgstr "알다옌"
+
+msgid "Umm Salal_QA"
+msgstr "움살랄"
+
+msgid "Reunion_RE"
+msgstr "레위니옹"
+
+msgid "Alba_RO"
+msgstr "알바 주"
+
+msgid "Arad_RO"
+msgstr "아라드"
+
+msgid "Arges_RO"
+msgstr "아르제슈 주"
+
+msgid "Bacau_RO"
+msgstr "바커우"
+
+msgid "Bihor_RO"
+msgstr "비호르 주"
+
+msgid "Bistrita-Nasaud_RO"
+msgstr "비스트리차너서우드 주"
+
+msgid "Botosani_RO"
+msgstr "보토샤니"
+
+msgid "Braila_RO"
+msgstr "브러일라"
+
+msgid "Brasov_RO"
+msgstr "브라쇼브"
+
+msgid "Bucuresti_RO"
+msgstr "부쿠레슈티"
+
+msgid "Buzau_RO"
+msgstr "부저우"
+
+msgid "Calarasi_RO"
+msgstr "컬러라시"
+
+msgid "Caras-Severin_RO"
+msgstr "카라슈세베린 주"
+
+msgid "Cluj_RO"
+msgstr "클루지나포카"
+
+msgid "Constanta_RO"
+msgstr "콘스탄차 주"
+
+msgid "Covasna_RO"
+msgstr "코바스나"
+
+msgid "Dambovita_RO"
+msgstr "듬보비차 주"
+
+msgid "Dolj_RO"
+msgstr "돌지 주"
+
+msgid "Galati_RO"
+msgstr "갈라치"
+
+msgid "Giurgiu_RO"
+msgstr "지우르지우"
+
+msgid "Gorj_RO"
+msgstr "고르지 주"
+
+msgid "Harghita_RO"
+msgstr "하르기타 주"
+
+msgid "Hunedoara_RO"
+msgstr "후네도아라"
+
+msgid "Ialomita_RO"
+msgstr "이알로미차 주"
+
+msgid "Iasi_RO"
+msgstr "이아시"
+
+msgid "Ilfov_RO"
+msgstr "일포브 주"
+
+msgid "Maramures_RO"
+msgstr "마라무레슈"
+
+msgid "Mehedinti_RO"
+msgstr "메헤딘치 주"
+
+msgid "Mures_RO"
+msgstr "무레슈 주"
+
+msgid "Neamt_RO"
+msgstr "네암츠 주"
+
+msgid "Olt_RO"
+msgstr "올트 주"
+
+msgid "Prahova_RO"
+msgstr "프라호바 주"
+
+msgid "Salaj_RO"
+msgstr "설라지 주"
+
+msgid "Satu Mare_RO"
+msgstr "사투마레"
+
+msgid "Sibiu_RO"
+msgstr "시비우"
+
+msgid "Suceava_RO"
+msgstr "수체아바"
+
+msgid "Teleorman_RO"
+msgstr "텔레오르만 주"
+
+msgid "Timis_RO"
+msgstr "티미슈 주"
+
+msgid "Tulcea_RO"
+msgstr "툴체아"
+
+msgid "Valcea_RO"
+msgstr "블체아 주"
+
+msgid "Vaslui_RO"
+msgstr "바슬루이"
+
+msgid "Vrancea_RO"
+msgstr "브란체아 주"
+
+msgid "Beograd_RS"
+msgstr "베오그라드"
+
+msgid "Borski okrug_RS"
+msgstr "보르 구"
+
+msgid "Branicevski okrug_RS"
+msgstr "브라니체보 구"
+
+msgid "Jablanicki okrug_RS"
+msgstr "야블라니차 구"
+
+msgid "Juznobacki okrug_RS"
+msgstr "남바치카 구"
+
+msgid "Juznobanatski okrug_RS"
+msgstr "남바나트 구"
+
+msgid "Kolubarski okrug_RS"
+msgstr "콜루바라 구"
+
+msgid "Kosovsko-Mitrovacki okrug_RS"
+msgstr "코소브스카미트로비차 구"
+
+msgid "Macvanski okrug_RS"
+msgstr "마치바 구"
+
+msgid "Moravicki okrug_RS"
+msgstr "모라비차 구"
+
+msgid "Nisavski okrug_RS"
+msgstr "니샤바 구"
+
+msgid "Pcinjski okrug_RS"
+msgstr "프치나 구"
+
+msgid "Pecki okrug_RS"
+msgstr "페치 구"
+
+msgid "Pirotski okrug_RS"
+msgstr "피로트 구"
+
+msgid "Podunavski okrug_RS"
+msgstr "포두나블레 구"
+
+msgid "Pomoravski okrug_RS"
+msgstr "포모라블레 구"
+
+msgid "Prizrenski okrug_RS"
+msgstr "프리즈렌 구"
+
+msgid "Rasinski okrug_RS"
+msgstr "라시나 구"
+
+msgid "Raski okrug_RS"
+msgstr "라슈카 구"
+
+msgid "Severnobacki okrug_RS"
+msgstr "북바치카 구"
+
+msgid "Severnobanatski okrug_RS"
+msgstr "북바나트 구"
+
+msgid "Srednjebanatski okrug_RS"
+msgstr "중앙바나트 구"
+
+msgid "Sremski okrug_RS"
+msgstr "스렘 구"
+
+msgid "Sumadijski okrug_RS"
+msgstr "슈마디야 구"
+
+msgid "Toplicki okrug_RS"
+msgstr "토플리차 구"
+
+msgid "Zajecarski okrug_RS"
+msgstr "자예차르 구"
+
+msgid "Zapadnobacki okrug_RS"
+msgstr "서바치카 구"
+
+msgid "Zlatiborski okrug_RS"
+msgstr "즐라티보르 구"
+
+msgid "Adygeya, Respublika_RU"
+msgstr "아디게야 공화국"
+
+msgid "Altay, Respublika_RU"
+msgstr "알타이 공화국"
+
+msgid "Altayskiy kray_RU"
+msgstr "알타이 지방"
+
+msgid "Amurskaya oblast'_RU"
+msgstr "아무르주"
+
+msgid "Arkhangel'skaya oblast'_RU"
+msgstr "아르한겔스크주"
+
+msgid "Astrakhanskaya oblast'_RU"
+msgstr "아스트라한주"
+
+msgid "Bashkortostan, Respublika_RU"
+msgstr "바시키르 공화국"
+
+msgid "Belgorodskaya oblast'_RU"
+msgstr "벨고로드주"
+
+msgid "Bryanskaya oblast'_RU"
+msgstr "브랸스크주"
+
+msgid "Buryatiya, Respublika_RU"
+msgstr "부랴트 공화국"
+
+msgid "Chechenskaya Respublika_RU"
+msgstr "체첸 공화국"
+
+msgid "Chelyabinskaya oblast'_RU"
+msgstr "첼랴빈스크주"
+
+msgid "Chukotskiy avtonomnyy okrug_RU"
+msgstr "축치 자치구"
+
+msgid "Chuvashskaya Respublika_RU"
+msgstr "추바시 공화국"
+
+msgid "Dagestan, Respublika_RU"
+msgstr "다게스탄 공화국"
+
+msgid "Ingushetiya, Respublika_RU"
+msgstr "인구시 공화국"
+
+msgid "Irkutskaya oblast'_RU"
+msgstr "이르쿠츠크주"
+
+msgid "Ivanovskaya oblast'_RU"
+msgstr "이바노보주"
+
+msgid "Kabardino-Balkarskaya Respublika_RU"
+msgstr "카바르디노발카르 공화국"
+
+msgid "Kaliningradskaya oblast'_RU"
+msgstr "칼리닌그라드주"
+
+msgid "Kalmykiya, Respublika_RU"
+msgstr "칼미크/칼미키야 공화국"
+
+msgid "Kaluzhskaya oblast'_RU"
+msgstr "칼루가주"
+
+msgid "Kamchatskiy kray_RU"
+msgstr "캄차카 지방"
+
+msgid "Karachayevo-Cherkesskaya Respublika_RU"
+msgstr "카라차예보체르케스카야 공화국"
+
+msgid "Kareliya, Respublika_RU"
+msgstr "카렐리야 공화국"
+
+msgid "Kemerovskaya oblast'_RU"
+msgstr "케메로보주"
+
+msgid "Khabarovskiy kray_RU"
+msgstr "하바롭스크 지방"
+
+msgid "Khakasiya, Respublika_RU"
+msgstr "하카스 공화국"
+
+msgid "Khanty-Mansiyskiy avtonomnyy okrug_RU"
+msgstr "한티만시 자치구"
+
+msgid "Kirovskaya oblast'_RU"
+msgstr "키로프주"
+
+msgid "Komi, Respublika_RU"
+msgstr "코미 공화국"
+
+msgid "Kostromskaya oblast'_RU"
+msgstr "코스트로마주"
+
+msgid "Krasnodarskiy kray_RU"
+msgstr "크라스노다르 지방"
+
+msgid "Krasnoyarskiy kray_RU"
+msgstr "크라스노야르스크 지방"
+
+msgid "Kurganskaya oblast'_RU"
+msgstr "쿠르간주"
+
+msgid "Kurskaya oblast'_RU"
+msgstr "쿠르스크주"
+
+msgid "Leningradskaya oblast'_RU"
+msgstr "레닌그라드주"
+
+msgid "Lipetskaya oblast'_RU"
+msgstr "리페츠크주"
+
+msgid "Magadanskaya oblast'_RU"
+msgstr "마가단주"
+
+msgid "Mariy El, Respublika_RU"
+msgstr "마리옐 공화국"
+
+msgid "Mordoviya, Respublika_RU"
+msgstr "모르도바 공화국"
+
+msgid "Moskovskaya oblast'_RU"
+msgstr "모스크바주"
+
+msgid "Moskva_RU"
+msgstr "모스크바"
+
+msgid "Murmanskaya oblast'_RU"
+msgstr "무르만스크주"
+
+msgid "Nenetskiy avtonomnyy okrug_RU"
+msgstr "네네츠 자치구"
+
+msgid "Nizhegorodskaya oblast'_RU"
+msgstr "니즈니노브고로드주"
+
+msgid "Novgorodskaya oblast'_RU"
+msgstr "노브고로드주"
+
+msgid "Novosibirskaya oblast'_RU"
+msgstr "노보시비르스크주"
+
+msgid "Omskaya oblast'_RU"
+msgstr "옴스크주"
+
+msgid "Orenburgskaya oblast'_RU"
+msgstr "오렌부르크주"
+
+msgid "Orlovskaya oblast'_RU"
+msgstr "오룔주"
+
+msgid "Penzenskaya oblast'_RU"
+msgstr "펜자주"
+
+msgid "Permskiy kray_RU"
+msgstr "페름 지방"
+
+msgid "Primorskiy kray_RU"
+msgstr "프리모르스키 지방"
+
+msgid "Pskovskaya oblast'_RU"
+msgstr "프스코프주"
+
+msgid "Rostovskaya oblast'_RU"
+msgstr "로스토프주"
+
+msgid "Ryazanskaya oblast'_RU"
+msgstr "랴잔주"
+
+msgid "Saha, Respublika_RU"
+msgstr "사하 공화국"
+
+msgid "Sakhalinskaya oblast'_RU"
+msgstr "사할린주"
+
+msgid "Samarskaya oblast'_RU"
+msgstr "사마라주"
+
+msgid "Sankt-Peterburg_RU"
+msgstr "상트페테르부르크"
+
+msgid "Saratovskaya oblast'_RU"
+msgstr "사라토프주"
+
+msgid "Severnaya Osetiya, Respublika_RU"
+msgstr "북오세티야알라니야 공화국"
+
+msgid "Smolenskaya oblast'_RU"
+msgstr "스몰렌스크주"
+
+msgid "Stavropol'skiy kray_RU"
+msgstr "스타브로폴 지방"
+
+msgid "Sverdlovskaya oblast'_RU"
+msgstr "스베르들롭스크주"
+
+msgid "Tambovskaya oblast'_RU"
+msgstr "탐보프주"
+
+msgid "Tatarstan, Respublika_RU"
+msgstr "타타르스탄 공화국"
+
+msgid "Tomskaya oblast'_RU"
+msgstr "톰스크주"
+
+msgid "Tul'skaya oblast'_RU"
+msgstr "툴라주"
+
+msgid "Tverskaya oblast'_RU"
+msgstr "트베리주"
+
+msgid "Tyumenskaya oblast'_RU"
+msgstr "튜멘주"
+
+msgid "Tyva, Respublika_RU"
+msgstr "투바 공화국"
+
+msgid "Udmurtskaya Respublika_RU"
+msgstr "우드무르트 공화국"
+
+msgid "Ul'yanovskaya oblast'_RU"
+msgstr "울리야놉스크주"
+
+msgid "Vladimirskaya oblast'_RU"
+msgstr "블라디미르주"
+
+msgid "Volgogradskaya oblast'_RU"
+msgstr "볼고그라드주"
+
+msgid "Vologodskaya oblast'_RU"
+msgstr "볼로그다주"
+
+msgid "Voronezhskaya oblast'_RU"
+msgstr "보로네시주"
+
+msgid "Yamalo-Nenetskiy avtonomnyy okrug_RU"
+msgstr "야말로네네츠 자치구"
+
+msgid "Yaroslavskaya oblast'_RU"
+msgstr "야로슬라블주"
+
+msgid "Yevreyskaya avtonomnaya oblast'_RU"
+msgstr "유대인 자치주"
+
+msgid "Zabaykal'skiy kray_RU"
+msgstr "자바이칼 지방"
+
+msgid "Est_RW"
+msgstr "동부 주"
+
+msgid "Nord_RW"
+msgstr "북부 주"
+
+msgid "Ouest_RW"
+msgstr "서부 주"
+
+msgid "Sud_RW"
+msgstr "남부 주"
+
+msgid "Ville de Kigali_RW"
+msgstr "키갈리"
+
+msgid "'Asir_SA"
+msgstr "아시르 주"
+
+msgid "Al Bahah_SA"
+msgstr "바하"
+
+msgid "Al Hudud ash Shamaliyah_SA"
+msgstr "북부 변경 주"
+
+msgid "Al Jawf_SA"
+msgstr "자우프"
+
+msgid "Al Madinah al Munawwarah_SA"
+msgstr "메디나"
+
+msgid "Al Qasim_SA"
+msgstr "카심 주"
+
+msgid "Ar Riyad_SA"
+msgstr "리야드"
+
+msgid "Ash Sharqiyah_SA"
+msgstr "동부 주"
+
+msgid "Ha'il_SA"
+msgstr "하일"
+
+msgid "Jazan_SA"
+msgstr "지잔 주"
+
+msgid "Makkah al Mukarramah_SA"
+msgstr "메카"
+
+msgid "Najran_SA"
+msgstr "나지란"
+
+msgid "Tabuk_SA"
+msgstr "타부크"
+
+msgid "Central_SB"
+msgstr "중부 주"
+
+msgid "Choiseul_SB"
+msgstr "슈아절 주"
+
+msgid "Guadalcanal_SB"
+msgstr "과달카날 섬"
+
+msgid "Isabel_SB"
+msgstr "이사벨 주"
+
+msgid "Makira-Ulawa_SB"
+msgstr "마키라울라와 주"
+
+msgid "Malaita_SB"
+msgstr "말레이타 섬"
+
+msgid "Rennell and Bellona_SB"
+msgstr "렌넬벨로나 주"
+
+msgid "Temotu_SB"
+msgstr "테모투 주"
+
+msgid "Western_SB"
+msgstr "서부 주"
+
+msgid "Anse aux Pins_SC"
+msgstr "앙스오팽 구"
+
+msgid "Anse Boileau_SC"
+msgstr "앙스부알로 구"
+
+msgid "Anse Royale_SC"
+msgstr "앙스루아얄 구"
+
+msgid "Baie Lazare_SC"
+msgstr "베라자르 구"
+
+msgid "Beau Vallon_SC"
+msgstr "보발롱 구"
+
+msgid "Bel Ombre_SC"
+msgstr "벨옴브르 구"
+
+msgid "Cascade_SC"
+msgstr "카스카드 구"
+
+msgid "English River_SC"
+msgstr "라리비에르앙글레즈 구"
+
+msgid "Grand Anse Mahe_SC"
+msgstr "그랑당스마에 구"
+
+msgid "La Digue_SC"
+msgstr "라디그 섬"
+
+msgid "Pointe Larue_SC"
+msgstr "푸앵트라루 구"
+
+msgid "Port Glaud_SC"
+msgstr "포르글로드 구"
+
+msgid "Takamaka_SC"
+msgstr "타카마카 구"
+
+msgid "Blue Nile_SD"
+msgstr "청나일 주"
+
+msgid "Gedaref_SD"
+msgstr "Gedaref"
+
+msgid "Gezira_SD"
+msgstr "자지라"
+
+msgid "Kassala_SD"
+msgstr "카살라"
+
+msgid "Khartoum_SD"
+msgstr "하르툼"
+
+msgid "North Darfur_SD"
+msgstr "북다르푸르 주"
+
+msgid "North Kordofan_SD"
+msgstr "북쿠르두판 주"
+
+msgid "Northern_SD"
+msgstr "북부 주"
+
+msgid "Red Sea_SD"
+msgstr "홍해 주"
+
+msgid "River Nile_SD"
+msgstr "나일 주"
+
+msgid "Sennar_SD"
+msgstr "센나르"
+
+msgid "South Darfur_SD"
+msgstr "남다르푸르 주"
+
+msgid "South Kordofan_SD"
+msgstr "남쿠르두판 주"
+
+msgid "West Darfur_SD"
+msgstr "서다르푸르 주"
+
+msgid "White Nile_SD"
+msgstr "백나일 주"
+
+msgid "Blekinge lan_SE"
+msgstr "블레킹에주"
+
+msgid "Dalarnas lan_SE"
+msgstr "달라르나주"
+
+msgid "Gavleborgs lan_SE"
+msgstr "예블레보리주"
+
+msgid "Gotlands lan_SE"
+msgstr "고틀란드주"
+
+msgid "Hallands lan_SE"
+msgstr "할란드주"
+
+msgid "Jamtlands lan_SE"
+msgstr "옘틀란드주"
+
+msgid "Jonkopings lan_SE"
+msgstr "옌셰핑주"
+
+msgid "Kalmar lan_SE"
+msgstr "칼마르주"
+
+msgid "Kronobergs lan_SE"
+msgstr "크로노베리주"
+
+msgid "Norrbottens lan_SE"
+msgstr "노르보텐주"
+
+msgid "Orebro lan_SE"
+msgstr "외레브로주"
+
+msgid "Ostergotlands lan_SE"
+msgstr "외스테르예틀란드주"
+
+msgid "Skane lan_SE"
+msgstr "스코네주"
+
+msgid "Sodermanlands lan_SE"
+msgstr "쇠데르만란드주"
+
+msgid "Stockholms lan_SE"
+msgstr "스톡홀름주"
+
+msgid "Uppsala lan_SE"
+msgstr "웁살라주"
+
+msgid "Varmlands lan_SE"
+msgstr "베름란드주"
+
+msgid "Vasterbottens lan_SE"
+msgstr "베스테르보텐주"
+
+msgid "Vasternorrlands lan_SE"
+msgstr "베스테르노를란드주"
+
+msgid "Vastmanlands lan_SE"
+msgstr "베스트만란드주"
+
+msgid "Vastra Gotalands lan_SE"
+msgstr "베스트라예탈란드주"
+
+msgid "Singapore_SG"
+msgstr "싱가포르"
+
+msgid "Ascension_SH"
+msgstr "어센션"
+
+msgid "Saint Helena_SH"
+msgstr "세인트헬레나"
+
+msgid "Tristan da Cunha_SH"
+msgstr "트리스탄다쿠냐 제도"
+
+msgid "Ajdovscina_SI"
+msgstr "아이도브슈치나"
+
+msgid "Apace_SI"
+msgstr "아파체"
+
+msgid "Beltinci_SI"
+msgstr "벨틴치"
+
+msgid "Benedikt_SI"
+msgstr "베네딕트"
+
+msgid "Bistrica ob Sotli_SI"
+msgstr "비스트리차오브소틀리"
+
+msgid "Bled_SI"
+msgstr "블레트"
+
+msgid "Bloke_SI"
+msgstr "블로케"
+
+msgid "Bohinj_SI"
+msgstr "보힌"
+
+msgid "Borovnica_SI"
+msgstr "보로브니차"
+
+msgid "Bovec_SI"
+msgstr "보베츠"
+
+msgid "Braslovce_SI"
+msgstr "브라슬로브체"
+
+msgid "Brda_SI"
+msgstr "브르다"
+
+msgid "Brezice_SI"
+msgstr "브레지체"
+
+msgid "Brezovica_SI"
+msgstr "브레조비차"
+
+msgid "Cankova_SI"
+msgstr "찬코바"
+
+msgid "Celje_SI"
+msgstr "첼레"
+
+msgid "Cerklje na Gorenjskem_SI"
+msgstr "체르클레나고렌스켐"
+
+msgid "Cerknica_SI"
+msgstr "체르크니차"
+
+msgid "Cerkno_SI"
+msgstr "체르크노"
+
+msgid "Cirkulane_SI"
+msgstr "치르쿨라네"
+
+msgid "Crensovci_SI"
+msgstr "치렌쇼브치"
+
+msgid "Crnomelj_SI"
+msgstr "치르노멜"
+
+msgid "Destrnik_SI"
+msgstr "데스트르니크"
+
+msgid "Divaca_SI"
+msgstr "디바차"
+
+msgid "Dobje_SI"
+msgstr "도베"
+
+msgid "Dobrepolje_SI"
+msgstr "도브레폴레"
+
+msgid "Dobrna_SI"
+msgstr "도브르나"
+
+msgid "Dobrova-Polhov Gradec_SI"
+msgstr "도브로바폴호브그라데츠"
+
+msgid "Dobrovnik_SI"
+msgstr "도브로브니크"
+
+msgid "Domzale_SI"
+msgstr "돔잘레"
+
+msgid "Dornava_SI"
+msgstr "도르나바"
+
+msgid "Dravograd_SI"
+msgstr "드라보그라드"
+
+msgid "Duplek_SI"
+msgstr "두플레크"
+
+msgid "Gorje_SI"
+msgstr "고레"
+
+msgid "Gornja Radgona_SI"
+msgstr "고르냐라드고나"
+
+msgid "Gornji Petrovci_SI"
+msgstr "고르니페트로브치"
+
+msgid "Grad_SI"
+msgstr "그라드"
+
+msgid "Grosuplje_SI"
+msgstr "그로수플레"
+
+msgid "Hajdina_SI"
+msgstr "하이디나"
+
+msgid "Hoce-Slivnica_SI"
+msgstr "호체슬리브니차"
+
+msgid "Hodos_SI"
+msgstr "호도시"
+
+msgid "Horjul_SI"
+msgstr "호률"
+
+msgid "Hrastnik_SI"
+msgstr "흐라스트니크"
+
+msgid "Hrpelje-Kozina_SI"
+msgstr "흐르펠레코지나"
+
+msgid "Idrija_SI"
+msgstr "이드리야"
+
+msgid "Ig_SI"
+msgstr "이그"
+
+msgid "Ilirska Bistrica_SI"
+msgstr "일리르스카비스트리차"
+
+msgid "Ivancna Gorica_SI"
+msgstr "이반치나고리차"
+
+msgid "Izola_SI"
+msgstr "이졸라"
+
+msgid "Jesenice_SI"
+msgstr "예세니체"
+
+msgid "Jursinci_SI"
+msgstr "유르신치"
+
+msgid "Kamnik_SI"
+msgstr "캄니크"
+
+msgid "Kanal_SI"
+msgstr "카날"
+
+msgid "Kidricevo_SI"
+msgstr "키드리체보"
+
+msgid "Kobarid_SI"
+msgstr "코바리드"
+
+msgid "Kobilje_SI"
+msgstr "코빌레"
+
+msgid "Kocevje_SI"
+msgstr "코체베"
+
+msgid "Komen_SI"
+msgstr "코멘"
+
+msgid "Komenda_SI"
+msgstr "코멘다"
+
+msgid "Koper_SI"
+msgstr "코페르"
+
+msgid "Kosanjevica na Krki_SI"
+msgstr "Kosanjevica na Krki"
+
+msgid "Kostel_SI"
+msgstr "코스텔"
+
+msgid "Kranj_SI"
+msgstr "크란"
+
+msgid "Kranjska Gora_SI"
+msgstr "크란스카고라"
+
+msgid "Krizevci_SI"
+msgstr "크리제브치"
+
+msgid "Krsko_SI"
+msgstr "크르슈코"
+
+msgid "Kungota_SI"
+msgstr "쿤고타"
+
+msgid "Kuzma_SI"
+msgstr "쿠즈마"
+
+msgid "Lasko_SI"
+msgstr "라슈코"
+
+msgid "Lenart_SI"
+msgstr "Lenart"
+
+msgid "Lendava_SI"
+msgstr "렌다바"
+
+msgid "Litija_SI"
+msgstr "리티야"
+
+msgid "Ljubljana_SI"
+msgstr "류블랴나"
+
+msgid "Ljutomer_SI"
+msgstr "류토메르"
+
+msgid "Log-Dragomer_SI"
+msgstr "로그드라고메르"
+
+msgid "Logatec_SI"
+msgstr "로가테츠"
+
+msgid "Loska Dolina_SI"
+msgstr "로슈카돌리나"
+
+msgid "Loski Potok_SI"
+msgstr "로슈키포토크"
+
+msgid "Lovrenc na Pohorju_SI"
+msgstr "로브렌츠나포호류"
+
+msgid "Luce_SI"
+msgstr "루체"
+
+msgid "Lukovica_SI"
+msgstr "루코비차"
+
+msgid "Majsperk_SI"
+msgstr "마이슈페르크"
+
+msgid "Makole_SI"
+msgstr "마콜레"
+
+msgid "Maribor_SI"
+msgstr "마리보르"
+
+msgid "Markovci_SI"
+msgstr "마르코브치"
+
+msgid "Medvode_SI"
+msgstr "메드보데"
+
+msgid "Menges_SI"
+msgstr "멘게시"
+
+msgid "Metlika_SI"
+msgstr "메틀리카"
+
+msgid "Mezica_SI"
+msgstr "메지차"
+
+msgid "Miklavz na Dravskem Polju_SI"
+msgstr "미클라브주나드라브스켐폴류"
+
+msgid "Miren-Kostanjevica_SI"
+msgstr "미렌코스타네비차"
+
+msgid "Mirna Pec_SI"
+msgstr "미르나 페치"
+
+msgid "Mislinja_SI"
+msgstr "미슬리냐"
+
+msgid "Mokronog-Trebelno_SI"
+msgstr "모크로노그트레벨노"
+
+msgid "Moravce_SI"
+msgstr "모라브체"
+
+msgid "Mozirje_SI"
+msgstr "모지레"
+
+msgid "Murska Sobota_SI"
+msgstr "무르스카소보타"
+
+msgid "Muta_SI"
+msgstr "무타"
+
+msgid "Naklo_SI"
+msgstr "나클로"
+
+msgid "Nazarje_SI"
+msgstr "나자레"
+
+msgid "Nova Gorica_SI"
+msgstr "노바고리차"
+
+msgid "Novo Mesto_SI"
+msgstr "노보메스토"
+
+msgid "Odranci_SI"
+msgstr "오드란치"
+
+msgid "Oplotnica_SI"
+msgstr "오플로트니차"
+
+msgid "Ormoz_SI"
+msgstr "오르 모즈"
+
+msgid "Piran_SI"
+msgstr "피란"
+
+msgid "Pivka_SI"
+msgstr "피브카"
+
+msgid "Podcetrtek_SI"
+msgstr "포드체트르테크"
+
+msgid "Podlehnik_SI"
+msgstr "포들레흐니크"
+
+msgid "Poljcane_SI"
+msgstr "폴차네"
+
+msgid "Polzela_SI"
+msgstr "폴젤라"
+
+msgid "Postojna_SI"
+msgstr "포스토이나"
+
+msgid "Prebold_SI"
+msgstr "프레볼드"
+
+msgid "Preddvor_SI"
+msgstr "프레드보르"
+
+msgid "Prevalje_SI"
+msgstr "프레발레"
+
+msgid "Ptuj_SI"
+msgstr "프투이"
+
+msgid "Puconci_SI"
+msgstr "푸촌치"
+
+msgid "Race-Fram_SI"
+msgstr "라체프람"
+
+msgid "Radece_SI"
+msgstr "라데체"
+
+msgid "Radenci_SI"
+msgstr "라덴치"
+
+msgid "Radlje ob Dravi_SI"
+msgstr "라들레오브드라비"
+
+msgid "Radovljica_SI"
+msgstr "라도블리차"
+
+msgid "Ravne na Koroskem_SI"
+msgstr "라브네나코로슈켐"
+
+msgid "Razkrizje_SI"
+msgstr "라즈크리제"
+
+msgid "Recica ob Savinji_SI"
+msgstr "레치차오브사비니"
+
+msgid "Rence-Vogrsko_SI"
+msgstr "렌체보그르스코"
+
+msgid "Ribnica_SI"
+msgstr "리브니차"
+
+msgid "Rogaska Slatina_SI"
+msgstr "Rogaska Slatina"
+
+msgid "Rogasovci_SI"
+msgstr "로가쇼브치"
+
+msgid "Ruse_SI"
+msgstr "루세 주"
+
+msgid "Salovci_SI"
+msgstr "샬로브치"
+
+msgid "Semic_SI"
+msgstr "세미치"
+
+msgid "Sempeter-Vrtojba_SI"
+msgstr "솀페테르브르토이바"
+
+msgid "Sencur_SI"
+msgstr "셴추르"
+
+msgid "Sentilj_SI"
+msgstr "셴틸"
+
+msgid "Sentjernej_SI"
+msgstr "셴체르네이"
+
+msgid "Sentjur_SI"
+msgstr "셴추르프리첼류"
+
+msgid "Sentrupert_SI"
+msgstr "셴트루페르트"
+
+msgid "Sevnica_SI"
+msgstr "세브니차"
+
+msgid "Sezana_SI"
+msgstr "세자나"
+
+msgid "Skocjan_SI"
+msgstr "슈코찬"
+
+msgid "Skofja Loka_SI"
+msgstr "슈코퍄로카"
+
+msgid "Skofljica_SI"
+msgstr "슈코플리차"
+
+msgid "Slovenj Gradec_SI"
+msgstr "슬로벤그라데츠"
+
+msgid "Slovenska Bistrica_SI"
+msgstr "슬로벤스카비스트리차"
+
+msgid "Slovenske Konjice_SI"
+msgstr "슬로벤스케코니체"
+
+msgid "Smarje pri Jelsah_SI"
+msgstr "슈마레프리옐샤흐"
+
+msgid "Smarjeske Toplice_SI"
+msgstr "슈마레슈케토플리체"
+
+msgid "Smartno ob Paki_SI"
+msgstr "슈마르트노오브파키"
+
+msgid "Smartno pri Litiji_SI"
+msgstr "슈마르트노프리리티이"
+
+msgid "Sodrazica_SI"
+msgstr "소드라지차"
+
+msgid "Solcava_SI"
+msgstr "솔차바"
+
+msgid "Sostanj_SI"
+msgstr "쇼슈탄"
+
+msgid "Starse_SI"
+msgstr "스타르셰"
+
+msgid "Store_SI"
+msgstr "스토어"
+
+msgid "Straza_SI"
+msgstr "스트라자"
+
+msgid "Sveta Trojica v Slovenskih Goricah_SI"
+msgstr "스베타트로이차브슬로벤스키흐고리차흐"
+
+msgid "Sveti Andraz v Slovenskih Goricah_SI"
+msgstr "스베티안드라주브슬로벤스키흐고리차흐"
+
+msgid "Sveti Jurij_SI"
+msgstr "스베티유리오브슈차브니치"
+
+msgid "Sveti Jurij v Slovenskih Goricah_SI"
+msgstr "스베티유리브슬로벤스키흐고리차흐"
+
+msgid "Sveti Tomaz_SI"
+msgstr "스베티토마주"
+
+msgid "Tabor_SI"
+msgstr "타보르"
+
+msgid "Tisina_SI"
+msgstr "티시나"
+
+msgid "Tolmin_SI"
+msgstr "톨민"
+
+msgid "Trbovlje_SI"
+msgstr "트르보블레"
+
+msgid "Trebnje_SI"
+msgstr "트레브네"
+
+msgid "Trnovska Vas_SI"
+msgstr "트르노브스카바스"
+
+msgid "Trzic_SI"
+msgstr "트르지치"
+
+msgid "Trzin_SI"
+msgstr "트르진"
+
+msgid "Turnisce_SI"
+msgstr "투르니슈체"
+
+msgid "Velenje_SI"
+msgstr "벨레네"
+
+msgid "Velika Polana_SI"
+msgstr "벨리카폴라나"
+
+msgid "Velike Lasce_SI"
+msgstr "벨리케라슈체"
+
+msgid "Verzej_SI"
+msgstr "베르제이"
+
+msgid "Videm_SI"
+msgstr "비뎀"
+
+msgid "Vipava_SI"
+msgstr "비파바"
+
+msgid "Vitanje_SI"
+msgstr "비타네"
+
+msgid "Vodice_SI"
+msgstr "보디체"
+
+msgid "Vojnik_SI"
+msgstr "보이니크"
+
+msgid "Vransko_SI"
+msgstr "Vransko"
+
+msgid "Vrhnika_SI"
+msgstr "브르흐니카"
+
+msgid "Vuzenica_SI"
+msgstr "부제니차"
+
+msgid "Zagorje ob Savi_SI"
+msgstr "자고레오브사비"
+
+msgid "Zalec_SI"
+msgstr "잘레츠"
+
+msgid "Zavrc_SI"
+msgstr "자브르치"
+
+msgid "Zelezniki_SI"
+msgstr "젤레즈니키"
+
+msgid "Zetale_SI"
+msgstr "제탈레"
+
+msgid "Ziri_SI"
+msgstr "지리"
+
+msgid "Zrece_SI"
+msgstr "즈레체"
+
+msgid "Zuzemberk_SI"
+msgstr "주젬베르크"
+
+msgid "Svalbard and Jan Mayen_SJ"
+msgstr "스발바르 얀마옌 제도"
+
+msgid "Banskobystricky kraj_SK"
+msgstr "반스카비스트리차 주"
+
+msgid "Bratislavsky kraj_SK"
+msgstr "브라티슬라바 주"
+
+msgid "Kosicky kraj_SK"
+msgstr "코시체 주"
+
+msgid "Nitriansky kraj_SK"
+msgstr "니트라 주"
+
+msgid "Presovsky kraj_SK"
+msgstr "프레쇼우 주"
+
+msgid "Trenciansky kraj_SK"
+msgstr "트렌친 주"
+
+msgid "Trnavsky kraj_SK"
+msgstr "트르나바 주"
+
+msgid "Zilinsky kraj_SK"
+msgstr "질리나 주"
+
+msgid "Eastern_SL"
+msgstr "동부 주"
+
+msgid "Northern_SL"
+msgstr "북부 주"
+
+msgid "Southern_SL"
+msgstr "남부 주"
+
+msgid "Western Area_SL"
+msgstr "서부 구"
+
+msgid "Acquaviva_SM"
+msgstr "아콰비바"
+
+msgid "Borgo Maggiore_SM"
+msgstr "보르고마조레"
+
+msgid "Chiesanuova_SM"
+msgstr "키에사누오바"
+
+msgid "Domagnano_SM"
+msgstr "도마냐노"
+
+msgid "Faetano_SM"
+msgstr "파에타노"
+
+msgid "Fiorentino_SM"
+msgstr "피오렌티노"
+
+msgid "Montegiardino_SM"
+msgstr "몬테자르디노"
+
+msgid "San Marino_SM"
+msgstr "산마리노"
+
+msgid "Serravalle_SM"
+msgstr "세라발레"
+
+msgid "Dakar_SN"
+msgstr "다카르"
+
+msgid "Diourbel_SN"
+msgstr "디우르벨"
+
+msgid "Fatick_SN"
+msgstr "파티크"
+
+msgid "Kaffrine_SN"
+msgstr "카프린 주"
+
+msgid "Kaolack_SN"
+msgstr "카올라크"
+
+msgid "Kedougou_SN"
+msgstr "케두구 주"
+
+msgid "Kolda_SN"
+msgstr "콜다"
+
+msgid "Louga_SN"
+msgstr "루가"
+
+msgid "Matam_SN"
+msgstr "마탐 주"
+
+msgid "Saint-Louis_SN"
+msgstr "세인트루이스"
+
+msgid "Sedhiou_SN"
+msgstr "세디우 주"
+
+msgid "Tambacounda_SN"
+msgstr "탐바쿤다"
+
+msgid "Thies_SN"
+msgstr "티에스"
+
+msgid "Ziguinchor_SN"
+msgstr "지긴쇼르"
+
+msgid "Awdal_SO"
+msgstr "아우달 주"
+
+msgid "Bakool_SO"
+msgstr "바콜 주"
+
+msgid "Banaadir_SO"
+msgstr "바나디르 주"
+
+msgid "Bari_SO"
+msgstr "바리 주"
+
+msgid "Bay_SO"
+msgstr "바이 주"
+
+msgid "Galguduud_SO"
+msgstr "갈구두드 주"
+
+msgid "Gedo_SO"
+msgstr "게도 주"
+
+msgid "Hiiraan_SO"
+msgstr "히란 주"
+
+msgid "Jubbada Dhexe_SO"
+msgstr "주바다데헤 주"
+
+msgid "Jubbada Hoose_SO"
+msgstr "주바다호세 주"
+
+msgid "Mudug_SO"
+msgstr "무두그 주"
+
+msgid "Nugaal_SO"
+msgstr "누갈 주"
+
+msgid "Sanaag_SO"
+msgstr "사나그 주"
+
+msgid "Shabeellaha Dhexe_SO"
+msgstr "샤벨라하데헤 주"
+
+msgid "Shabeellaha Hoose_SO"
+msgstr "샤벨라하호세 주"
+
+msgid "Sool_SO"
+msgstr "솔 주"
+
+msgid "Togdheer_SO"
+msgstr "토그데르 주"
+
+msgid "Woqooyi Galbeed_SO"
+msgstr "워코이갈베드 주"
+
+msgid "Brokopondo_SR"
+msgstr "브로코폰도 구"
+
+msgid "Commewijne_SR"
+msgstr "코메베이너 구"
+
+msgid "Coronie_SR"
+msgstr "코로니 구"
+
+msgid "Marowijne_SR"
+msgstr "마로베이너 구"
+
+msgid "Nickerie_SR"
+msgstr "니케리 구"
+
+msgid "Para_SR"
+msgstr "파라"
+
+msgid "Paramaribo_SR"
+msgstr "파라마리보"
+
+msgid "Saramacca_SR"
+msgstr "사라마카 구"
+
+msgid "Sipaliwini_SR"
+msgstr "시팔리비니 구"
+
+msgid "Wanica_SR"
+msgstr "바니카 구"
+
+msgid "Central Equatoria_SS"
+msgstr "중앙에콰토리아 주"
+
+msgid "Eastern Equatoria_SS"
+msgstr "동에콰토리아 주"
+
+msgid "Jonglei_SS"
+msgstr "종글레이 주"
+
+msgid "Lakes_SS"
+msgstr "호수"
+
+msgid "Northern Bahr el Ghazal_SS"
+msgstr "북바르알가잘 주"
+
+msgid "Unity_SS"
+msgstr "유니티"
+
+msgid "Upper Nile_SS"
+msgstr "상나일 주"
+
+msgid "Warrap_SS"
+msgstr "와랍 주"
+
+msgid "Western Bahr el Ghazal_SS"
+msgstr "서바르알가잘 주"
+
+msgid "Western Equatoria_SS"
+msgstr "서에콰토리아 주"
+
+msgid "Principe_ST"
+msgstr "프린시페 섬"
+
+msgid "Sao Tome_ST"
+msgstr "상투메"
+
+msgid "Ahuachapan_SV"
+msgstr "아우아차판"
+
+msgid "Cabanas_SV"
+msgstr "카바냐스 주"
+
+msgid "Chalatenango_SV"
+msgstr "찰라테낭고 주"
+
+msgid "Cuscatlan_SV"
+msgstr "쿠스카틀란 주"
+
+msgid "La Libertad_SV"
+msgstr "라리베르타드"
+
+msgid "La Paz_SV"
+msgstr "라파스"
+
+msgid "La Union_SV"
+msgstr "라우니온 주"
+
+msgid "Morazan_SV"
+msgstr "모라산 주"
+
+msgid "San Miguel_SV"
+msgstr "산미겔"
+
+msgid "San Salvador_SV"
+msgstr "산살바도르"
+
+msgid "San Vicente_SV"
+msgstr "산비센테"
+
+msgid "Santa Ana_SV"
+msgstr "산타아나"
+
+msgid "Sonsonate_SV"
+msgstr "손소나테"
+
+msgid "Usulutan_SV"
+msgstr "우술루탄"
+
+msgid "Sint Maarten (Dutch Part)_SX"
+msgstr "신트마르턴"
+
+msgid "Al Hasakah_SY"
+msgstr "하사카"
+
+msgid "Al Ladhiqiyah_SY"
+msgstr "라타키아"
+
+msgid "Al Qunaytirah_SY"
+msgstr "쿠네이트라 주"
+
+msgid "Ar Raqqah_SY"
+msgstr "락까"
+
+msgid "As Suwayda'_SY"
+msgstr "수와이다"
+
+msgid "Dar'a_SY"
+msgstr "다라 주"
+
+msgid "Dayr az Zawr_SY"
+msgstr "데이르에조르"
+
+msgid "Dimashq_SY"
+msgstr "다마스쿠스"
+
+msgid "Halab_SY"
+msgstr "알레포"
+
+msgid "Hamah_SY"
+msgstr "하마"
+
+msgid "Hims_SY"
+msgstr "홈스"
+
+msgid "Idlib_SY"
+msgstr "이들리브"
+
+msgid "Rif Dimashq_SY"
+msgstr "리프디마슈크 주"
+
+msgid "Tartus_SY"
+msgstr "타르투스"
+
+msgid "Hhohho_SZ"
+msgstr "호호 구"
+
+msgid "Lubombo_SZ"
+msgstr "루봄보 구"
+
+msgid "Manzini_SZ"
+msgstr "만지니 구"
+
+msgid "Shiselweni_SZ"
+msgstr "시셀웨니 구"
+
+msgid "Turks and Caicos Islands_TC"
+msgstr "터크스 케이커스 제도"
+
+msgid "Bahr el Gazel_TD"
+msgstr "바르엘가젤 주"
+
+msgid "Batha_TD"
+msgstr "바타 주"
+
+msgid "Borkou_TD"
+msgstr "보르쿠 주"
+
+msgid "Chari-Baguirmi_TD"
+msgstr "샤리바기르미 주"
+
+msgid "Guera_TD"
+msgstr "게라 주"
+
+msgid "Hadjer Lamis_TD"
+msgstr "하제르라미 주"
+
+msgid "Kanem_TD"
+msgstr "카넴 주"
+
+msgid "Lac_TD"
+msgstr "라크 주"
+
+msgid "Logone-Occidental_TD"
+msgstr "로곤옥시당탈 주"
+
+msgid "Logone-Oriental_TD"
+msgstr "로곤오리앙탈 주"
+
+msgid "Mandoul_TD"
+msgstr "망둘 주"
+
+msgid "Mayo-Kebbi-Est_TD"
+msgstr "마요케비에스트 주"
+
+msgid "Mayo-Kebbi-Ouest_TD"
+msgstr "마요케비우에스트 주"
+
+msgid "Moyen-Chari_TD"
+msgstr "무아얭샤리 주"
+
+msgid "Ouaddai_TD"
+msgstr "와다이 주"
+
+msgid "Salamat_TD"
+msgstr "살라마트 주"
+
+msgid "Sila_TD"
+msgstr "실라 주"
+
+msgid "Tandjile_TD"
+msgstr "탕질레 주"
+
+msgid "Tibesti_TD"
+msgstr "티베스티 주"
+
+msgid "Ville de Ndjamena_TD"
+msgstr "은자메나"
+
+msgid "Wadi Fira_TD"
+msgstr "와디피라 주"
+
+msgid "French Southern Territories_TF"
+msgstr "프랑스령 남방 및 남극"
+
+msgid "Centrale_TG"
+msgstr "중앙 주"
+
+msgid "Kara_TG"
+msgstr "카라"
+
+msgid "Maritime_TG"
+msgstr "마리팀 주"
+
+msgid "Plateaux_TG"
+msgstr "플라토 주"
+
+msgid "Savanes_TG"
+msgstr "사반 주"
+
+msgid "Amnat Charoen_TH"
+msgstr "암낫짜른 주"
+
+msgid "Ang Thong_TH"
+msgstr "앙통"
+
+msgid "Bueng Kan_TH"
+msgstr "븡깐"
+
+msgid "Buri Ram_TH"
+msgstr "부리람"
+
+msgid "Chachoengsao_TH"
+msgstr "차층사오"
+
+msgid "Chai Nat_TH"
+msgstr "차이낫"
+
+msgid "Chaiyaphum_TH"
+msgstr "차이야품"
+
+msgid "Chanthaburi_TH"
+msgstr "짠타부리"
+
+msgid "Chiang Mai_TH"
+msgstr "치앙마이"
+
+msgid "Chiang Rai_TH"
+msgstr "치앙라이"
+
+msgid "Chon Buri_TH"
+msgstr "촌부리 주"
+
+msgid "Chumphon_TH"
+msgstr "춤폰"
+
+msgid "Kalasin_TH"
+msgstr "깔라신 주"
+
+msgid "Kamphaeng Phet_TH"
+msgstr "깜팽펫"
+
+msgid "Kanchanaburi_TH"
+msgstr "깐짜나부리"
+
+msgid "Khon Kaen_TH"
+msgstr "콘깬"
+
+msgid "Krabi_TH"
+msgstr "끄라비"
+
+msgid "Krung Thep Maha Nakhon_TH"
+msgstr "방콕"
+
+msgid "Lampang_TH"
+msgstr "람빵"
+
+msgid "Lamphun_TH"
+msgstr "람푼"
+
+msgid "Loei_TH"
+msgstr "르이"
+
+msgid "Lop Buri_TH"
+msgstr "롭부리"
+
+msgid "Mae Hong Son_TH"
+msgstr "매홍손 주"
+
+msgid "Maha Sarakham_TH"
+msgstr "마하사라캄"
+
+msgid "Mukdahan_TH"
+msgstr "묵다한"
+
+msgid "Nakhon Nayok_TH"
+msgstr "나콘나욕"
+
+msgid "Nakhon Pathom_TH"
+msgstr "나콘빠톰"
+
+msgid "Nakhon Phanom_TH"
+msgstr "나콘파놈"
+
+msgid "Nakhon Ratchasima_TH"
+msgstr "나콘랏차시마"
+
+msgid "Nakhon Sawan_TH"
+msgstr "나콘사완"
+
+msgid "Nakhon Si Thammarat_TH"
+msgstr "나콘시탐마랏"
+
+msgid "Nan_TH"
+msgstr "난 주"
+
+msgid "Narathiwat_TH"
+msgstr "나라티왓"
+
+msgid "Nong Bua Lam Phu_TH"
+msgstr "농부아람푸 주"
+
+msgid "Nong Khai_TH"
+msgstr "농카이"
+
+msgid "Nonthaburi_TH"
+msgstr "논타부리 주"
+
+msgid "Pathum Thani_TH"
+msgstr "빠툼타니 주"
+
+msgid "Pattani_TH"
+msgstr "빠따니 주"
+
+msgid "Phangnga_TH"
+msgstr "팡응아"
+
+msgid "Phatthalung_TH"
+msgstr "파탈룽 주"
+
+msgid "Phayao_TH"
+msgstr "파야오"
+
+msgid "Phetchabun_TH"
+msgstr "펫차분"
+
+msgid "Phetchaburi_TH"
+msgstr "펫차부리"
+
+msgid "Phichit_TH"
+msgstr "피찟 주"
+
+msgid "Phitsanulok_TH"
+msgstr "핏사눌록"
+
+msgid "Phra Nakhon Si Ayutthaya_TH"
+msgstr "아유타야"
+
+msgid "Phrae_TH"
+msgstr "프래"
+
+msgid "Phuket_TH"
+msgstr "푸껫 주"
+
+msgid "Prachin Buri_TH"
+msgstr "쁘라찐부리 주"
+
+msgid "Prachuap Khiri Khan_TH"
+msgstr "쁘라쭈압키리칸"
+
+msgid "Ranong_TH"
+msgstr "라농"
+
+msgid "Ratchaburi_TH"
+msgstr "랏차부리"
+
+msgid "Rayong_TH"
+msgstr "라용"
+
+msgid "Roi Et_TH"
+msgstr "로이엣"
+
+msgid "Sa Kaeo_TH"
+msgstr "사깨오"
+
+msgid "Sakon Nakhon_TH"
+msgstr "사꼰나콘"
+
+msgid "Samut Prakan_TH"
+msgstr "사뭇쁘라깐 주"
+
+msgid "Samut Sakhon_TH"
+msgstr "사뭇사콘"
+
+msgid "Samut Songkhram_TH"
+msgstr "사뭇송크람"
+
+msgid "Saraburi_TH"
+msgstr "사라부리 주"
+
+msgid "Satun_TH"
+msgstr "사뚠 주"
+
+msgid "Si Sa Ket_TH"
+msgstr "시사껫 주"
+
+msgid "Sing Buri_TH"
+msgstr "싱부리 주"
+
+msgid "Songkhla_TH"
+msgstr "송클라"
+
+msgid "Sukhothai_TH"
+msgstr "수코타이"
+
+msgid "Suphan Buri_TH"
+msgstr "수판부리"
+
+msgid "Surat Thani_TH"
+msgstr "수랏타니"
+
+msgid "Surin_TH"
+msgstr "수린"
+
+msgid "Tak_TH"
+msgstr "탁"
+
+msgid "Trang_TH"
+msgstr "뜨랑 주"
+
+msgid "Trat_TH"
+msgstr "뜨랏 주"
+
+msgid "Ubon Ratchathani_TH"
+msgstr "우본랏차타니"
+
+msgid "Udon Thani_TH"
+msgstr "우돈타니"
+
+msgid "Uthai Thani_TH"
+msgstr "우타이타니 주"
+
+msgid "Uttaradit_TH"
+msgstr "우따라딧"
+
+msgid "Yala_TH"
+msgstr "얄라 주"
+
+msgid "Yasothon_TH"
+msgstr "야소톤"
+
+msgid "Dushanbe_TJ"
+msgstr "두샨베"
+
+msgid "Khatlon_TJ"
+msgstr "하틀론 주"
+
+msgid "Kuhistoni Badakhshon_TJ"
+msgstr "고르노바다흐샨 자치주"
+
+msgid "Nohiyahoi Tobei Jumhuri_TJ"
+msgstr "공화국 직할구"
+
+msgid "Sughd_TJ"
+msgstr "수그드 주"
+
+msgid "Tokelau_TK"
+msgstr "토케라우 제도"
+
+msgid "Aileu_TL"
+msgstr "아일레우"
+
+msgid "Ainaro_TL"
+msgstr "아이나루"
+
+msgid "Baucau_TL"
+msgstr "바우카우"
+
+msgid "Bobonaro_TL"
+msgstr "보보나루 현"
+
+msgid "Cova Lima_TL"
+msgstr "코바리마 현"
+
+msgid "Dili_TL"
+msgstr "딜리"
+
+msgid "Ermera_TL"
+msgstr "에르메라 현"
+
+msgid "Lautem_TL"
+msgstr "라우텡 현"
+
+msgid "Liquica_TL"
+msgstr "리키사"
+
+msgid "Manatuto_TL"
+msgstr "마나투투"
+
+msgid "Manufahi_TL"
+msgstr "마누파이 현"
+
+msgid "Oecussi_TL"
+msgstr "오에쿠시 현"
+
+msgid "Viqueque_TL"
+msgstr "비케크"
+
+msgid "Ahal_TM"
+msgstr "아할 주"
+
+msgid "Balkan_TM"
+msgstr "발칸 반도"
+
+msgid "Dasoguz_TM"
+msgstr "다쇼구즈"
+
+msgid "Lebap_TM"
+msgstr "레바프 주"
+
+msgid "Mary_TM"
+msgstr "메리"
+
+msgid "Beja_TN"
+msgstr "베자"
+
+msgid "Ben Arous_TN"
+msgstr "벤아루스"
+
+msgid "Bizerte_TN"
+msgstr "비제르테"
+
+msgid "Gabes_TN"
+msgstr "가베스"
+
+msgid "Gafsa_TN"
+msgstr "가프사"
+
+msgid "Jendouba_TN"
+msgstr "젠두바"
+
+msgid "Kairouan_TN"
+msgstr "카이르완"
+
+msgid "Kasserine_TN"
+msgstr "카세린"
+
+msgid "Kebili_TN"
+msgstr "케빌리"
+
+msgid "L'Ariana_TN"
+msgstr "아리아나"
+
+msgid "La Manouba_TN"
+msgstr "마누바"
+
+msgid "Le Kef_TN"
+msgstr "엘케프"
+
+msgid "Mahdia_TN"
+msgstr "마디아"
+
+msgid "Medenine_TN"
+msgstr "메드닌"
+
+msgid "Monastir_TN"
+msgstr "모나스티르"
+
+msgid "Nabeul_TN"
+msgstr "나뵐"
+
+msgid "Sfax_TN"
+msgstr "스팍스"
+
+msgid "Sidi Bouzid_TN"
+msgstr "시디부지드"
+
+msgid "Siliana_TN"
+msgstr "실리아나"
+
+msgid "Sousse_TN"
+msgstr "수스"
+
+msgid "Tataouine_TN"
+msgstr "타타우인"
+
+msgid "Tozeur_TN"
+msgstr "토죄르"
+
+msgid "Tunis_TN"
+msgstr "튀니스"
+
+msgid "Zaghouan_TN"
+msgstr "자구완"
+
+msgid "'Eua_TO"
+msgstr "에우아 섬"
+
+msgid "Ha'apai_TO"
+msgstr "하파이 제도"
+
+msgid "Niuas_TO"
+msgstr "니우아스 제도"
+
+msgid "Tongatapu_TO"
+msgstr "통가타푸 섬"
+
+msgid "Vava'u_TO"
+msgstr "바바우 제도"
+
+msgid "Adana_TR"
+msgstr "아다나"
+
+msgid "Adiyaman_TR"
+msgstr "아디야만"
+
+msgid "Afyonkarahisar_TR"
+msgstr "아피온카라히사르"
+
+msgid "Agri_TR"
+msgstr "아리 주"
+
+msgid "Aksaray_TR"
+msgstr "악사라이"
+
+msgid "Amasya_TR"
+msgstr "아마시아"
+
+msgid "Ankara_TR"
+msgstr "앙카라"
+
+msgid "Antalya_TR"
+msgstr "안탈리아"
+
+msgid "Ardahan_TR"
+msgstr "아르다한"
+
+msgid "Artvin_TR"
+msgstr "아르트빈"
+
+msgid "Aydin_TR"
+msgstr "아이딘"
+
+msgid "Balikesir_TR"
+msgstr "발리케시르"
+
+msgid "Bartin_TR"
+msgstr "바르틴"
+
+msgid "Batman_TR"
+msgstr "바트만 주"
+
+msgid "Bayburt_TR"
+msgstr "바이부르트"
+
+msgid "Bilecik_TR"
+msgstr "빌레지크"
+
+msgid "Bingol_TR"
+msgstr "빙괼"
+
+msgid "Bitlis_TR"
+msgstr "비틀리스"
+
+msgid "Bolu_TR"
+msgstr "볼루"
+
+msgid "Burdur_TR"
+msgstr "부르두르"
+
+msgid "Bursa_TR"
+msgstr "부르사"
+
+msgid "Canakkale_TR"
+msgstr "차나칼레"
+
+msgid "Cankiri_TR"
+msgstr "창키리"
+
+msgid "Corum_TR"
+msgstr "초룸 주"
+
+msgid "Denizli_TR"
+msgstr "데니즐리"
+
+msgid "Diyarbakir_TR"
+msgstr "디야르바키르"
+
+msgid "Duzce_TR"
+msgstr "뒤즈제"
+
+msgid "Edirne_TR"
+msgstr "에디르네"
+
+msgid "Elazig_TR"
+msgstr "엘라지"
+
+msgid "Erzincan_TR"
+msgstr "에르진잔"
+
+msgid "Erzurum_TR"
+msgstr "에르주룸"
+
+msgid "Eskisehir_TR"
+msgstr "에스키셰히르"
+
+msgid "Gaziantep_TR"
+msgstr "가지안테프"
+
+msgid "Giresun_TR"
+msgstr "기레순"
+
+msgid "Gumushane_TR"
+msgstr "귀뮈샤네"
+
+msgid "Hakkari_TR"
+msgstr "하카리 주"
+
+msgid "Hatay_TR"
+msgstr "하타이 주"
+
+msgid "Igdir_TR"
+msgstr "이디르"
+
+msgid "Isparta_TR"
+msgstr "이스파르타"
+
+msgid "Istanbul_TR"
+msgstr "이스탄불"
+
+msgid "Izmir_TR"
+msgstr "이즈미르"
+
+msgid "Kahramanmaras_TR"
+msgstr "카라만마라슈"
+
+msgid "Karabuk_TR"
+msgstr "카라뷔크"
+
+msgid "Karaman_TR"
+msgstr "카라만"
+
+msgid "Kars_TR"
+msgstr "카르스"
+
+msgid "Kastamonu_TR"
+msgstr "카스타모누"
+
+msgid "Kayseri_TR"
+msgstr "카이세리"
+
+msgid "Kilis_TR"
+msgstr "킬리스"
+
+msgid "Kirikkale_TR"
+msgstr "키리칼레"
+
+msgid "Kirklareli_TR"
+msgstr "키르클라렐리"
+
+msgid "Kirsehir_TR"
+msgstr "키르셰히르"
+
+msgid "Kocaeli_TR"
+msgstr "코자엘리 주"
+
+msgid "Konya_TR"
+msgstr "코니아"
+
+msgid "Kutahya_TR"
+msgstr "퀴타히아"
+
+msgid "Malatya_TR"
+msgstr "말라티아"
+
+msgid "Manisa_TR"
+msgstr "마니사"
+
+msgid "Mardin_TR"
+msgstr "마르딘"
+
+msgid "Mersin_TR"
+msgstr "메르신"
+
+msgid "Mugla_TR"
+msgstr "물라"
+
+msgid "Mus_TR"
+msgstr "무슈 주"
+
+msgid "Nevsehir_TR"
+msgstr "네브셰히르"
+
+msgid "Nigde_TR"
+msgstr "니데"
+
+msgid "Ordu_TR"
+msgstr "오르두"
+
+msgid "Osmaniye_TR"
+msgstr "오스마니예"
+
+msgid "Rize_TR"
+msgstr "리제"
+
+msgid "Sakarya_TR"
+msgstr "사카리아 주"
+
+msgid "Samsun_TR"
+msgstr "삼순"
+
+msgid "Sanliurfa_TR"
+msgstr "샨리우르파"
+
+msgid "Siirt_TR"
+msgstr "시이르트"
+
+msgid "Sinop_TR"
+msgstr "시노프 주"
+
+msgid "Sirnak_TR"
+msgstr "시르나크"
+
+msgid "Sivas_TR"
+msgstr "시바스"
+
+msgid "Tekirdag_TR"
+msgstr "테키르다"
+
+msgid "Tokat_TR"
+msgstr "토카트"
+
+msgid "Trabzon_TR"
+msgstr "트라브존"
+
+msgid "Tunceli_TR"
+msgstr "툰젤리"
+
+msgid "Usak_TR"
+msgstr "우샤크 주"
+
+msgid "Van_TR"
+msgstr "승합차"
+
+msgid "Yalova_TR"
+msgstr "얄로바"
+
+msgid "Yozgat_TR"
+msgstr "요즈가트"
+
+msgid "Zonguldak_TR"
+msgstr "종굴다크"
+
+msgid "Arima_TT"
+msgstr "아리마"
+
+msgid "Chaguanas_TT"
+msgstr "차과나스"
+
+msgid "Couva-Tabaquite-Talparo_TT"
+msgstr "쿠바타바키테탈파로 지역"
+
+msgid "Diego Martin_TT"
+msgstr "디에고마틴 지역"
+
+msgid "Mayaro-Rio Claro_TT"
+msgstr "리오클라로마야로 지역"
+
+msgid "Penal-Debe_TT"
+msgstr "페날데베 지역"
+
+msgid "Point Fortin_TT"
+msgstr "포인트포르틴"
+
+msgid "Port of Spain_TT"
+msgstr "포트오브스페인"
+
+msgid "Princes Town_TT"
+msgstr "프린세스타운 지역"
+
+msgid "San Fernando_TT"
+msgstr "산페르난도"
+
+msgid "San Juan-Laventille_TT"
+msgstr "산후안라벤틸 지역"
+
+msgid "Sangre Grande_TT"
+msgstr "상그레그란데 지역"
+
+msgid "Siparia_TT"
+msgstr "시파리아 지역"
+
+msgid "Tobago_TT"
+msgstr "토바고 섬"
+
+msgid "Tunapuna-Piarco_TT"
+msgstr "투나푸나피아르코 지역"
+
+msgid "Funafuti_TV"
+msgstr "푸나푸티 섬"
+
+msgid "Nanumaga_TV"
+msgstr "나누망가 섬"
+
+msgid "Nanumea_TV"
+msgstr "나누메아 환초"
+
+msgid "Niutao_TV"
+msgstr "니우타오 섬"
+
+msgid "Nui_TV"
+msgstr "누이 환초"
+
+msgid "Nukufetau_TV"
+msgstr "누쿠페타우 환초"
+
+msgid "Nukulaelae_TV"
+msgstr "누쿨라엘라에 환초"
+
+msgid "Vaitupu_TV"
+msgstr "바이투푸 섬"
+
+msgid "Changhua_TW"
+msgstr "장화 시"
+
+msgid "Chiayi_TW"
+msgstr "자이시"
+
+msgid "Hsinchu_TW"
+msgstr "신주 시"
+
+msgid "Hualien_TW"
+msgstr "화롄 현"
+
+msgid "Kaohsiung_TW"
+msgstr "가오슝시"
+
+msgid "Keelung_TW"
+msgstr "지룽 시"
+
+msgid "Kinmen_TW"
+msgstr "진먼현"
+
+msgid "Lienchiang_TW"
+msgstr "마쭈 열도"
+
+msgid "Miaoli_TW"
+msgstr "먀오리 시"
+
+msgid "Nantou_TW"
+msgstr "난터우 현"
+
+msgid "New Taipei_TW"
+msgstr "신베이시"
+
+msgid "Penghu_TW"
+msgstr "펑후 현"
+
+msgid "Pingtung_TW"
+msgstr "핑둥 현"
+
+msgid "Taichung_TW"
+msgstr "타이중 시"
+
+msgid "Tainan_TW"
+msgstr "타이난 시"
+
+msgid "Taipei_TW"
+msgstr "타이베이 시"
+
+msgid "Taitung_TW"
+msgstr "타이둥 현"
+
+msgid "Taoyuan_TW"
+msgstr "타오위안"
+
+msgid "Yilan_TW"
+msgstr "이란현"
+
+msgid "Yunlin_TW"
+msgstr "윈린 현"
+
+msgid "Arusha_TZ"
+msgstr "아루샤"
+
+msgid "Dar es Salaam_TZ"
+msgstr "다르에스살람"
+
+msgid "Dodoma_TZ"
+msgstr "도도마"
+
+msgid "Geita_TZ"
+msgstr "게이타 주"
+
+msgid "Iringa_TZ"
+msgstr "이링가"
+
+msgid "Kagera_TZ"
+msgstr "카게라 주"
+
+msgid "Kaskazini Pemba_TZ"
+msgstr "펨바 북부 주"
+
+msgid "Kaskazini Unguja_TZ"
+msgstr "잔지바르 북부 주"
+
+msgid "Katavi_TZ"
+msgstr "카타비 주"
+
+msgid "Kigoma_TZ"
+msgstr "키고마"
+
+msgid "Kilimanjaro_TZ"
+msgstr "킬리만자로 산"
+
+msgid "Kusini Pemba_TZ"
+msgstr "펨바 남부 주"
+
+msgid "Kusini Unguja_TZ"
+msgstr "잔지바르 중부·남부 주"
+
+msgid "Lindi_TZ"
+msgstr "린디"
+
+msgid "Manyara_TZ"
+msgstr "마냐라 주"
+
+msgid "Mara_TZ"
+msgstr "마라"
+
+msgid "Mbeya_TZ"
+msgstr "므베야"
+
+msgid "Mjini Magharibi_TZ"
+msgstr "잔지바르 도시·서부 주"
+
+msgid "Morogoro_TZ"
+msgstr "모로고로"
+
+msgid "Mtwara_TZ"
+msgstr "므트와라"
+
+msgid "Mwanza_TZ"
+msgstr "므완자"
+
+msgid "Njombe_TZ"
+msgstr "느좀베 주"
+
+msgid "Pwani_TZ"
+msgstr "해안 주"
+
+msgid "Rukwa_TZ"
+msgstr "루콰 주"
+
+msgid "Ruvuma_TZ"
+msgstr "루부마 주"
+
+msgid "Shinyanga_TZ"
+msgstr "시니앙가"
+
+msgid "Simiyu_TZ"
+msgstr "시미유 주"
+
+msgid "Singida_TZ"
+msgstr "싱기다 주"
+
+msgid "Tabora_TZ"
+msgstr "타보라"
+
+msgid "Tanga_TZ"
+msgstr "탕가 주"
+
+msgid "Avtonomna Respublika Krym_UA"
+msgstr "크림 자치 공화국"
+
+msgid "Cherkaska oblast_UA"
+msgstr "체르카시주"
+
+msgid "Chernihivska oblast_UA"
+msgstr "체르니히우주"
+
+msgid "Chernivetska oblast_UA"
+msgstr "체르니우치주"
+
+msgid "Dnipropetrovska oblast_UA"
+msgstr "드니프로페트로우스크주"
+
+msgid "Donetska oblast_UA"
+msgstr "도네츠크주"
+
+msgid "Ivano-Frankivska oblast_UA"
+msgstr "이바노프란키우스크주"
+
+msgid "Kharkivska oblast_UA"
+msgstr "하르키우주"
+
+msgid "Khersonska oblast_UA"
+msgstr "헤르손주"
+
+msgid "Khmelnytska oblast_UA"
+msgstr "흐멜니츠키주"
+
+msgid "Kirovohradska oblast_UA"
+msgstr "키로보흐라드주"
+
+msgid "Kyiv_UA"
+msgstr "키예프"
+
+msgid "Kyivska oblast_UA"
+msgstr "키예프주"
+
+msgid "Luhanska oblast_UA"
+msgstr "루한스크주"
+
+msgid "Lvivska oblast_UA"
+msgstr "리비우주"
+
+msgid "Mykolaivska oblast_UA"
+msgstr "미콜라이우주"
+
+msgid "Odeska oblast_UA"
+msgstr "오데사주"
+
+msgid "Poltavska oblast_UA"
+msgstr "폴타바주"
+
+msgid "Rivnenska oblast_UA"
+msgstr "리우네주"
+
+msgid "Sevastopol_UA"
+msgstr "세바스토폴"
+
+msgid "Sumska oblast_UA"
+msgstr "수미주"
+
+msgid "Ternopilska oblast_UA"
+msgstr "테르노필주"
+
+msgid "Vinnytska oblast_UA"
+msgstr "빈니차주"
+
+msgid "Volynska oblast_UA"
+msgstr "볼린주"
+
+msgid "Zakarpatska oblast_UA"
+msgstr "자카르파탸주"
+
+msgid "Zaporizka oblast_UA"
+msgstr "자포리자주"
+
+msgid "Zhytomyrska oblast_UA"
+msgstr "지토미르주"
+
+msgid "Abim_UG"
+msgstr "아빔 구"
+
+msgid "Adjumani_UG"
+msgstr "아주마니 구"
+
+msgid "Agago_UG"
+msgstr "아가고 구"
+
+msgid "Alebtong_UG"
+msgstr "알레브통 구"
+
+msgid "Amolatar_UG"
+msgstr "아몰라타르 구"
+
+msgid "Amudat_UG"
+msgstr "아무다트 구"
+
+msgid "Amuria_UG"
+msgstr "아무리아 구"
+
+msgid "Amuru_UG"
+msgstr "아무루 구"
+
+msgid "Apac_UG"
+msgstr "아파크 구"
+
+msgid "Arua_UG"
+msgstr "아루아"
+
+msgid "Budaka_UG"
+msgstr "부다카 구"
+
+msgid "Bududa_UG"
+msgstr "부두다 구"
+
+msgid "Bugiri_UG"
+msgstr "부기리 구"
+
+msgid "Buhweju_UG"
+msgstr "부흐웨주 구"
+
+msgid "Buikwe_UG"
+msgstr "부이퀘 구"
+
+msgid "Bukedea_UG"
+msgstr "부케데아 구"
+
+msgid "Bukomansibi_UG"
+msgstr "부코만심비 구"
+
+msgid "Bukwa_UG"
+msgstr "부쿼 구"
+
+msgid "Bulambuli_UG"
+msgstr "불람불리 구"
+
+msgid "Buliisa_UG"
+msgstr "불리사 구"
+
+msgid "Bundibugyo_UG"
+msgstr "분디부교 구"
+
+msgid "Bushenyi_UG"
+msgstr "부셰니 구"
+
+msgid "Busia_UG"
+msgstr "부시아 구"
+
+msgid "Butaleja_UG"
+msgstr "부탈레자 구"
+
+msgid "Buvuma_UG"
+msgstr "부부마 구"
+
+msgid "Buyende_UG"
+msgstr "부옌데 구"
+
+msgid "Dokolo_UG"
+msgstr "도콜로 구"
+
+msgid "Gomba_UG"
+msgstr "곰바 구"
+
+msgid "Gulu_UG"
+msgstr "굴루"
+
+msgid "Hoima_UG"
+msgstr "호이마 구"
+
+msgid "Ibanda_UG"
+msgstr "이반다 구"
+
+msgid "Iganga_UG"
+msgstr "이강가 구"
+
+msgid "Isingiro_UG"
+msgstr "이싱기로 구"
+
+msgid "Jinja_UG"
+msgstr "진자 구"
+
+msgid "Kaabong_UG"
+msgstr "카봉 구"
+
+msgid "Kabale_UG"
+msgstr "카발레 구"
+
+msgid "Kabarole_UG"
+msgstr "카바롤레 구"
+
+msgid "Kaberamaido_UG"
+msgstr "카베라마이도 구"
+
+msgid "Kalangala_UG"
+msgstr "칼랑갈라 구"
+
+msgid "Kaliro_UG"
+msgstr "칼리로 구"
+
+msgid "Kalungu_UG"
+msgstr "칼룽구 구"
+
+msgid "Kampala_UG"
+msgstr "캄팔라"
+
+msgid "Kamuli_UG"
+msgstr "카물리 구"
+
+msgid "Kamwenge_UG"
+msgstr "캄웽게 구"
+
+msgid "Kanungu_UG"
+msgstr "카눙구 구"
+
+msgid "Kapchorwa_UG"
+msgstr "카프초르와 구"
+
+msgid "Kasese_UG"
+msgstr "카세세 구"
+
+msgid "Katakwi_UG"
+msgstr "카타퀴 구"
+
+msgid "Kayunga_UG"
+msgstr "카융가 구"
+
+msgid "Kibaale_UG"
+msgstr "키발레 구"
+
+msgid "Kiboga_UG"
+msgstr "키보가 구"
+
+msgid "Kibuku_UG"
+msgstr "키부쿠 구"
+
+msgid "Kiruhura_UG"
+msgstr "키루후라 구"
+
+msgid "Kiryandongo_UG"
+msgstr "키리안동고 구"
+
+msgid "Kisoro_UG"
+msgstr "키소로 구"
+
+msgid "Kitgum_UG"
+msgstr "키트굼 구"
+
+msgid "Koboko_UG"
+msgstr "코보코 구"
+
+msgid "Kole_UG"
+msgstr "콜레 구"
+
+msgid "Kotido_UG"
+msgstr "코티도 구"
+
+msgid "Kumi_UG"
+msgstr "쿠미 구"
+
+msgid "Kween_UG"
+msgstr "퀜 구"
+
+msgid "Kyankwanzi_UG"
+msgstr "키안콴지 구"
+
+msgid "Kyegegwa_UG"
+msgstr "키에게과 구"
+
+msgid "Kyenjojo_UG"
+msgstr "키엔조조 구"
+
+msgid "Lamwo_UG"
+msgstr "람워 구"
+
+msgid "Lira_UG"
+msgstr "리라"
+
+msgid "Luuka_UG"
+msgstr "루카 구"
+
+msgid "Luwero_UG"
+msgstr "루웨로 구"
+
+msgid "Lwengo_UG"
+msgstr "르웽고 구"
+
+msgid "Lyantonde_UG"
+msgstr "리안톤데 구"
+
+msgid "Manafwa_UG"
+msgstr "마나프와 구"
+
+msgid "Maracha_UG"
+msgstr "마라차 구"
+
+msgid "Masaka_UG"
+msgstr "마사카 구"
+
+msgid "Masindi_UG"
+msgstr "마신디 구"
+
+msgid "Mayuge_UG"
+msgstr "마유게 구"
+
+msgid "Mbale_UG"
+msgstr "음발레 구"
+
+msgid "Mbarara_UG"
+msgstr "음바라라"
+
+msgid "Mitooma_UG"
+msgstr "미토마 구"
+
+msgid "Mityana_UG"
+msgstr "미티아나 구"
+
+msgid "Moroto_UG"
+msgstr "모로토 구"
+
+msgid "Moyo_UG"
+msgstr "모요 구"
+
+msgid "Mpigi_UG"
+msgstr "음피기 구"
+
+msgid "Mubende_UG"
+msgstr "무벤데 구"
+
+msgid "Mukono_UG"
+msgstr "무코노 구"
+
+msgid "Nakapiripirit_UG"
+msgstr "나카피리피리트 구"
+
+msgid "Nakaseke_UG"
+msgstr "나카세케 구"
+
+msgid "Nakasongola_UG"
+msgstr "나카송골라 구"
+
+msgid "Namayingo_UG"
+msgstr "나마잉고 구"
+
+msgid "Namutumba_UG"
+msgstr "나무툼바 구"
+
+msgid "Napak_UG"
+msgstr "나파크 구"
+
+msgid "Nebbi_UG"
+msgstr "네비 구"
+
+msgid "Ngora_UG"
+msgstr "응고라 구"
+
+msgid "Ntoroko_UG"
+msgstr "은토로코 구"
+
+msgid "Ntungamo_UG"
+msgstr "은퉁가모 구"
+
+msgid "Nwoya_UG"
+msgstr "은워야 구"
+
+msgid "Otuke_UG"
+msgstr "오투케 구"
+
+msgid "Oyam_UG"
+msgstr "오얌 구"
+
+msgid "Pader_UG"
+msgstr "파데르 구"
+
+msgid "Pallisa_UG"
+msgstr "팔리사 구"
+
+msgid "Rakai_UG"
+msgstr "라카이 구"
+
+msgid "Rubirizi_UG"
+msgstr "루비리지 구"
+
+msgid "Rukungiri_UG"
+msgstr "루쿵기리 구"
+
+msgid "Sembabule_UG"
+msgstr "셈바불레 구"
+
+msgid "Serere_UG"
+msgstr "세레레 구"
+
+msgid "Sheema_UG"
+msgstr "셰마 구"
+
+msgid "Sironko_UG"
+msgstr "시론코 구"
+
+msgid "Soroti_UG"
+msgstr "소로티 구"
+
+msgid "Tororo_UG"
+msgstr "토로로"
+
+msgid "Wakiso_UG"
+msgstr "와키소 구"
+
+msgid "Yumbe_UG"
+msgstr "윰베 구"
+
+msgid "Zombo_UG"
+msgstr "좀보 구"
+
+msgid "Baker Island_UM"
+msgstr "베이커 섬"
+
+msgid "Howland Island_UM"
+msgstr "하울랜드 섬"
+
+msgid "Jarvis Island_UM"
+msgstr "자르비스 섬"
+
+msgid "Palmyra Atoll_UM"
+msgstr "팔미라 환초"
+
+msgid "Alabama_US"
+msgstr "앨라배마주"
+
+msgid "Alaska_US"
+msgstr "알래스카주"
+
+msgid "Arizona_US"
+msgstr "애리조나주"
+
+msgid "Arkansas_US"
+msgstr "아칸소주"
+
+msgid "California_US"
+msgstr "캘리포니아주"
+
+msgid "Colorado_US"
+msgstr "콜로라도주"
+
+msgid "Connecticut_US"
+msgstr "코네티컷주"
+
+msgid "Delaware_US"
+msgstr "델라웨어주"
+
+msgid "District of Columbia_US"
+msgstr "워싱턴 D.C."
+
+msgid "Florida_US"
+msgstr "플로리다주"
+
+msgid "Georgia_US"
+msgstr "조지아"
+
+msgid "Hawaii_US"
+msgstr "하와이주"
+
+msgid "Idaho_US"
+msgstr "아이다호주"
+
+msgid "Illinois_US"
+msgstr "일리노이주"
+
+msgid "Indiana_US"
+msgstr "인디애나주"
+
+msgid "Iowa_US"
+msgstr "아이오와주"
+
+msgid "Kansas_US"
+msgstr "캔자스주"
+
+msgid "Kentucky_US"
+msgstr "켄터키주"
+
+msgid "Louisiana_US"
+msgstr "루이지애나주"
+
+msgid "Maine_US"
+msgstr "메인주"
+
+msgid "Maryland_US"
+msgstr "메릴랜드주"
+
+msgid "Massachusetts_US"
+msgstr "매사추세츠주"
+
+msgid "Michigan_US"
+msgstr "미시간주"
+
+msgid "Minnesota_US"
+msgstr "미네소타주"
+
+msgid "Mississippi_US"
+msgstr "미시시피주"
+
+msgid "Missouri_US"
+msgstr "미주리주"
+
+msgid "Montana_US"
+msgstr "몬태나주"
+
+msgid "Nebraska_US"
+msgstr "네브래스카주"
+
+msgid "Nevada_US"
+msgstr "네바다주"
+
+msgid "New Hampshire_US"
+msgstr "뉴햄프셔주"
+
+msgid "New Jersey_US"
+msgstr "뉴저지주"
+
+msgid "New Mexico_US"
+msgstr "뉴멕시코주"
+
+msgid "New York_US"
+msgstr "뉴욕"
+
+msgid "North Carolina_US"
+msgstr "노스캐롤라이나주"
+
+msgid "North Dakota_US"
+msgstr "노스다코타주"
+
+msgid "Ohio_US"
+msgstr "오하이오주"
+
+msgid "Oklahoma_US"
+msgstr "오클라호마주"
+
+msgid "Oregon_US"
+msgstr "오리건주"
+
+msgid "Pennsylvania_US"
+msgstr "펜실베이니아주"
+
+msgid "Rhode Island_US"
+msgstr "로드아일랜드주"
+
+msgid "South Carolina_US"
+msgstr "사우스캐롤라이나주"
+
+msgid "South Dakota_US"
+msgstr "사우스다코타주"
+
+msgid "Tennessee_US"
+msgstr "테네시주"
+
+msgid "Texas_US"
+msgstr "텍사스주"
+
+msgid "Utah_US"
+msgstr "유타주"
+
+msgid "Vermont_US"
+msgstr "버몬트주"
+
+msgid "Virginia_US"
+msgstr "버지니아주"
+
+msgid "Washington_US"
+msgstr "워싱턴"
+
+msgid "West Virginia_US"
+msgstr "웨스트버지니아주"
+
+msgid "Wisconsin_US"
+msgstr "위스콘신주"
+
+msgid "Wyoming_US"
+msgstr "와이오밍주"
+
+msgid "Artigas_UY"
+msgstr "아르티가스 주"
+
+msgid "Canelones_UY"
+msgstr "카넬로네스 주"
+
+msgid "Cerro Largo_UY"
+msgstr "세로라르고 주"
+
+msgid "Colonia_UY"
+msgstr "콜로니아"
+
+msgid "Durazno_UY"
+msgstr "두라스노"
+
+msgid "Flores_UY"
+msgstr "플로레스 섬"
+
+msgid "Florida_UY"
+msgstr "플로리다주"
+
+msgid "Lavalleja_UY"
+msgstr "라바예하 주"
+
+msgid "Maldonado_UY"
+msgstr "말도나도 주"
+
+msgid "Montevideo_UY"
+msgstr "몬테비데오"
+
+msgid "Paysandu_UY"
+msgstr "파이산두 주"
+
+msgid "Rio Negro_UY"
+msgstr "리오네그로"
+
+msgid "Rivera_UY"
+msgstr "리베라"
+
+msgid "Rocha_UY"
+msgstr "로차 주"
+
+msgid "Salto_UY"
+msgstr "살토 주"
+
+msgid "San Jose_UY"
+msgstr "산호세"
+
+msgid "Soriano_UY"
+msgstr "소리아노 주"
+
+msgid "Tacuarembo_UY"
+msgstr "타콰렘보"
+
+msgid "Treinta y Tres_UY"
+msgstr "트레인타이트레스"
+
+msgid "Andijon_UZ"
+msgstr "안디잔"
+
+msgid "Buxoro_UZ"
+msgstr "부하라"
+
+msgid "Farg'ona_UZ"
+msgstr "페르가나"
+
+msgid "Jizzax_UZ"
+msgstr "지자흐"
+
+msgid "Namangan_UZ"
+msgstr "나망간"
+
+msgid "Navoiy_UZ"
+msgstr "나보이"
+
+msgid "Qashqadaryo_UZ"
+msgstr "카슈카다리야 주"
+
+msgid "Qoraqalpog'iston Respublikasi_UZ"
+msgstr "카라칼파크스탄 공화국"
+
+msgid "Samarqand_UZ"
+msgstr "사마르칸트"
+
+msgid "Sirdaryo_UZ"
+msgstr "시르다리야 주"
+
+msgid "Surxondaryo_UZ"
+msgstr "수르한다리야 주"
+
+msgid "Toshkent_UZ"
+msgstr "타슈켄트"
+
+msgid "Xorazm_UZ"
+msgstr "화레즘"
+
+msgid "Vatican City_VA"
+msgstr "바티칸 시국"
+
+msgid "Charlotte_VC"
+msgstr "샬럿"
+
+msgid "Grenadines_VC"
+msgstr "그레나딘 제도"
+
+msgid "Saint David_VC"
+msgstr "세인트데이비드 교구"
+
+msgid "Saint George_VC"
+msgstr "게오르기우스"
+
+msgid "Saint Patrick_VC"
+msgstr "성 파트리치오"
+
+msgid "Amazonas_VE"
+msgstr "아마소나스"
+
+msgid "Anzoategui_VE"
+msgstr "안소아테기 주"
+
+msgid "Apure_VE"
+msgstr "아푸레 주"
+
+msgid "Aragua_VE"
+msgstr "아라과 주"
+
+msgid "Barinas_VE"
+msgstr "바리나스 주"
+
+msgid "Bolivar_VE"
+msgstr "볼리바르"
+
+msgid "Carabobo_VE"
+msgstr "카라보보 주"
+
+msgid "Cojedes_VE"
+msgstr "코헤데스 주"
+
+msgid "Delta Amacuro_VE"
+msgstr "델타아마쿠로 주"
+
+msgid "Dependencias Federales_VE"
+msgstr "베네수엘라 연방 속지"
+
+msgid "Distrito Capital_VE"
+msgstr "수도 지구"
+
+msgid "Falcon_VE"
+msgstr "팔콘 주"
+
+msgid "Guarico_VE"
+msgstr "과리코 주"
+
+msgid "Lara_VE"
+msgstr "라라"
+
+msgid "Merida_VE"
+msgstr "메리다 주"
+
+msgid "Miranda_VE"
+msgstr "미란다"
+
+msgid "Monagas_VE"
+msgstr "모나가스 주"
+
+msgid "Nueva Esparta_VE"
+msgstr "누에바에스파르타 주"
+
+msgid "Portuguesa_VE"
+msgstr "포르투게사"
+
+msgid "Sucre_VE"
+msgstr "수크레"
+
+msgid "Tachira_VE"
+msgstr "타치라 주"
+
+msgid "Trujillo_VE"
+msgstr "트루히요"
+
+msgid "Vargas_VE"
+msgstr "바르가스"
+
+msgid "Yaracuy_VE"
+msgstr "야라쿠이 주"
+
+msgid "Zulia_VE"
+msgstr "술리아 주"
+
+msgid "Virgin Islands, British_VG"
+msgstr "영국령 버진아일랜드"
+
+msgid "Virgin Islands, U.S._VI"
+msgstr "미국령 버진아일랜드"
+
+msgid "An Giang_VN"
+msgstr "안장 성"
+
+msgid "Ba Ria - Vung Tau_VN"
+msgstr "바리어붕따우 성"
+
+msgid "Bac Giang_VN"
+msgstr "박장"
+
+msgid "Bac Kan_VN"
+msgstr "박깐"
+
+msgid "Bac Lieu_VN"
+msgstr "박리에우"
+
+msgid "Bac Ninh_VN"
+msgstr "박닌"
+
+msgid "Ben Tre_VN"
+msgstr "벤째"
+
+msgid "Binh Dinh_VN"
+msgstr "빈딘 성"
+
+msgid "Binh Duong_VN"
+msgstr "빈즈엉 성"
+
+msgid "Binh Phuoc_VN"
+msgstr "빈프억 성"
+
+msgid "Binh Thuan_VN"
+msgstr "빈투언 성"
+
+msgid "Ca Mau_VN"
+msgstr "까마우 시"
+
+msgid "Can Tho_VN"
+msgstr "껀터"
+
+msgid "Cao Bang_VN"
+msgstr "까오방"
+
+msgid "Da Nang_VN"
+msgstr "다낭"
+
+msgid "Dak Lak_VN"
+msgstr "닥락 성"
+
+msgid "Dak Nong_VN"
+msgstr "닥농 성"
+
+msgid "Dien Bien_VN"
+msgstr "디엔비엔 성"
+
+msgid "Dong Nai_VN"
+msgstr "동나이 성"
+
+msgid "Dong Thap_VN"
+msgstr "동탑 성"
+
+msgid "Gia Lai_VN"
+msgstr "절라이 성"
+
+msgid "Ha Giang_VN"
+msgstr "하장"
+
+msgid "Ha Nam_VN"
+msgstr "하남성"
+
+msgid "Ha Noi_VN"
+msgstr "하노이"
+
+msgid "Ha Tinh_VN"
+msgstr "하띤"
+
+msgid "Hai Duong_VN"
+msgstr "하이즈엉"
+
+msgid "Hai Phong_VN"
+msgstr "하이퐁"
+
+msgid "Ho Chi Minh_VN"
+msgstr "호찌민"
+
+msgid "Hoa Binh_VN"
+msgstr "호아빈"
+
+msgid "Hung Yen_VN"
+msgstr "흥옌"
+
+msgid "Khanh Hoa_VN"
+msgstr "카인호아성"
+
+msgid "Kien Giang_VN"
+msgstr "끼엔정 성"
+
+msgid "Kon Tum_VN"
+msgstr "꼰뚬"
+
+msgid "Lai Chau_VN"
+msgstr "라이쩌우 성"
+
+msgid "Lam Dong_VN"
+msgstr "럼동 성"
+
+msgid "Lang Son_VN"
+msgstr "랑선"
+
+msgid "Lao Cai_VN"
+msgstr "라오까이"
+
+msgid "Long An_VN"
+msgstr "롱안 성"
+
+msgid "Nam Dinh_VN"
+msgstr "남딘"
+
+msgid "Nghe An_VN"
+msgstr "응예안 성"
+
+msgid "Ninh Binh_VN"
+msgstr "닌빈 시"
+
+msgid "Ninh Thuan_VN"
+msgstr "닌투언 성"
+
+msgid "Phu Tho_VN"
+msgstr "푸토성"
+
+msgid "Phu Yen_VN"
+msgstr "푸옌 성"
+
+msgid "Quang Binh_VN"
+msgstr "꽝빈 성"
+
+msgid "Quang Nam_VN"
+msgstr "꽝남"
+
+msgid "Quang Ngai_VN"
+msgstr "꽝응아이"
+
+msgid "Quang Ninh_VN"
+msgstr "꽝닌 성"
+
+msgid "Quang Tri_VN"
+msgstr "꽝찌 성"
+
+msgid "Soc Trang_VN"
+msgstr "속짱"
+
+msgid "Son La_VN"
+msgstr "선라"
+
+msgid "Tay Ninh_VN"
+msgstr "떠이닌"
+
+msgid "Thai Binh_VN"
+msgstr "타이빈"
+
+msgid "Thai Nguyen_VN"
+msgstr "타이응우옌"
+
+msgid "Thanh Hoa_VN"
+msgstr "타인호아"
+
+msgid "Thua Thien-Hue_VN"
+msgstr "투아티엔후에 성"
+
+msgid "Tien Giang_VN"
+msgstr "띠엔장 성"
+
+msgid "Tra Vinh_VN"
+msgstr "짜빈"
+
+msgid "Tuyen Quang_VN"
+msgstr "뚜옌꽝"
+
+msgid "Vinh Long_VN"
+msgstr "빈롱"
+
+msgid "Vinh Phuc_VN"
+msgstr "빈푹 성"
+
+msgid "Yen Bai_VN"
+msgstr "옌바이"
+
+msgid "Malampa_VU"
+msgstr "말람파 주"
+
+msgid "Penama_VU"
+msgstr "페나마 주"
+
+msgid "Sanma_VU"
+msgstr "산마 주"
+
+msgid "Shefa_VU"
+msgstr "셰파 주"
+
+msgid "Tafea_VU"
+msgstr "타페아 주"
+
+msgid "Torba_VU"
+msgstr "토르바 주"
+
+msgid "Alo_WF"
+msgstr "알로"
+
+msgid "Sigave_WF"
+msgstr "시가브"
+
+msgid "Uvea_WF"
+msgstr "포도막"
+
+msgid "A'ana_WS"
+msgstr "아나 구"
+
+msgid "Aiga-i-le-Tai_WS"
+msgstr "아이가이레타이 구"
+
+msgid "Atua_WS"
+msgstr "아투아 구"
+
+msgid "Fa'asaleleaga_WS"
+msgstr "파살렐레아가 구"
+
+msgid "Gagaifomauga_WS"
+msgstr "가가이포마우가 구"
+
+msgid "Palauli_WS"
+msgstr "팔라울리 구"
+
+msgid "Satupa'itea_WS"
+msgstr "사투파이테아 구"
+
+msgid "Tuamasaga_WS"
+msgstr "투아마사가 구"
+
+msgid "Va'a-o-Fonoti_WS"
+msgstr "바오포노티 구"
+
+msgid "Vaisigano_WS"
+msgstr "바이시가노 구"
+
+msgid "'Adan_YE"
+msgstr "아덴"
+
+msgid "'Amran_YE"
+msgstr "암란 주"
+
+msgid "Abyan_YE"
+msgstr "아브얀 주"
+
+msgid "Ad Dali'_YE"
+msgstr "달리 주"
+
+msgid "Al Bayda'_YE"
+msgstr "바이다 주"
+
+msgid "Al Hudaydah_YE"
+msgstr "호데이다"
+
+msgid "Al Jawf_YE"
+msgstr "자우프"
+
+msgid "Al Mahrah_YE"
+msgstr "마라 주"
+
+msgid "Al Mahwit_YE"
+msgstr "마위트 주"
+
+msgid "Amanat al 'Asimah_YE"
+msgstr "사나"
+
+msgid "Dhamar_YE"
+msgstr "다마르 주"
+
+msgid "Hadramawt_YE"
+msgstr "하드라마우트"
+
+msgid "Hajjah_YE"
+msgstr "하자 주"
+
+msgid "Ibb_YE"
+msgstr "이브"
+
+msgid "Lahij_YE"
+msgstr "라히즈 주"
+
+msgid "Ma'rib_YE"
+msgstr "마리브"
+
+msgid "Raymah_YE"
+msgstr "라이마 주"
+
+msgid "Sa'dah_YE"
+msgstr "사다 주"
+
+msgid "San'a'_YE"
+msgstr "사나"
+
+msgid "Shabwah_YE"
+msgstr "샤브와 주"
+
+msgid "Ta'izz_YE"
+msgstr "타이즈"
+
+msgid "Acoua_YT"
+msgstr "아쿠아"
+
+msgid "Bandraboua_YT"
+msgstr "Bandraboua"
+
+msgid "Bandrele_YT"
+msgstr "반줄"
+
+msgid "Boueni_YT"
+msgstr "부 에니"
+
+msgid "Chiconi_YT"
+msgstr "치 콘치"
+
+msgid "Chirongui_YT"
+msgstr "칠롱"
+
+msgid "Dzaoudzi_YT"
+msgstr "자우지"
+
+msgid "Kani-Keli_YT"
+msgstr "카니 켈리"
+
+msgid "Koungou_YT"
+msgstr "코우 고우"
+
+msgid "Mamoudzou_YT"
+msgstr "마무주"
+
+msgid "Mtsamboro_YT"
+msgstr "Mtsamboro"
+
+msgid "Ouangani_YT"
+msgstr "Ouangani"
+
+msgid "Pamandzi_YT"
+msgstr "Pamandzi"
+
+msgid "Sada_YT"
+msgstr "사다"
+
+msgid "Tsingoni_YT"
+msgstr "칭고 니"
+
+msgid "Eastern Cape_ZA"
+msgstr "이스턴케이프 주"
+
+msgid "Free State_ZA"
+msgstr "프리스테이트 주"
+
+msgid "Gauteng_ZA"
+msgstr "하우텡 주"
+
+msgid "Kwazulu-Natal_ZA"
+msgstr "콰줄루나탈 주"
+
+msgid "Limpopo_ZA"
+msgstr "림포포 주"
+
+msgid "Mpumalanga_ZA"
+msgstr "음푸말랑가 주"
+
+msgid "North-West_ZA"
+msgstr "북서부 주"
+
+msgid "Northern Cape_ZA"
+msgstr "노던케이프 주"
+
+msgid "Western Cape_ZA"
+msgstr "웨스턴케이프 주"
+
+msgid "Central_ZM"
+msgstr "중부 주"
+
+msgid "Copperbelt_ZM"
+msgstr "코퍼벨트 주"
+
+msgid "Eastern_ZM"
+msgstr "동부 주"
+
+msgid "Luapula_ZM"
+msgstr "루아풀라 주"
+
+msgid "Lusaka_ZM"
+msgstr "루사카"
+
+msgid "North-Western_ZM"
+msgstr "북서부 주"
+
+msgid "Northern_ZM"
+msgstr "북부 주"
+
+msgid "Southern_ZM"
+msgstr "남부 주"
+
+msgid "Western_ZM"
+msgstr "서부 주"
+
+msgid "Bulawayo_ZW"
+msgstr "불라와요"
+
+msgid "Harare_ZW"
+msgstr "하라레"
+
+msgid "Manicaland_ZW"
+msgstr "마니칼랜드 주"
+
+msgid "Mashonaland Central_ZW"
+msgstr "중앙마쇼날랜드 주"
+
+msgid "Mashonaland East_ZW"
+msgstr "동마쇼날랜드 주"
+
+msgid "Mashonaland West_ZW"
+msgstr "서마쇼날랜드 주"
+
+msgid "Masvingo_ZW"
+msgstr "마스빙고"
+
+msgid "Matabeleland North_ZW"
+msgstr "북마타벨랜드 주"
+
+msgid "Matabeleland South_ZW"
+msgstr "남마타벨랜드 주"
+
+msgid "Midlands_ZW"
+msgstr "미들랜즈 주"
