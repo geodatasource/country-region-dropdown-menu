@@ -68,6 +68,96 @@
         }
 
         countryElement.length = 0;
+		var langCountry = countryElement.getAttribute("data-language");
+		switch (langCountry) {
+			case 'ar':
+				countryString = "رجاء قم بإختيار دوله";
+				break;
+
+			case 'cs':
+				countryString = "Vyberte prosím zemi.";
+				break;
+
+			case 'da':
+				countryString = "Vælg venligst et land.";
+				break;
+
+			case 'de':
+				countryString = "Bitte wähle ein Land.";
+				break;
+
+			case 'es':
+				countryString = "Por favor seleccione un país.";
+				break;
+
+			case 'et':
+				countryString = "Palun valige riik.";
+				break;
+
+			case 'fi':
+				countryString = "Valitse maa.";
+				break;
+
+			case 'fr':
+				countryString = "S'il vous plaît sélectionner un pays.";
+				break;
+
+			case 'ga':
+				countryString = "Roghnaigh tír.";
+				break;
+
+			case 'it':
+				countryString = "Per favore seleziona una nazione.";
+				break;
+
+			case 'ja':
+				countryString = "国を選択してください。";
+				break;
+
+			case 'ko':
+				countryString = "국가를 선택하십시오";
+				break;
+
+			case 'ms':
+				countryString = "Sila pilih salah satu negara.";
+				break;
+
+			case 'nl':
+				countryString = "Selecteer alstublieft een land.";
+				break;
+
+			case 'pt':
+				countryString = "Por favor, selecione um País: Brasil.";
+				break;
+
+			case 'ru':
+				countryString = "Пожалуйста, выберите страну.";
+				break;
+
+			case 'sv':
+				countryString = "Var god välj ett land.";
+				break;
+
+			case 'tr':
+				countryString = "Lütfen bir ülke seçin.";
+				break;
+
+			case 'vi':
+				countryString = "Vui lòng chọn một quốc gia.";
+				break;
+
+			case 'zh-cn':
+				countryString = "请选择一个国家。";
+				break;
+
+			case 'zh-tw':
+				countryString = "請選擇一個國家。";
+				break;
+
+			case 'en':
+			default:
+				countryString = "Please select a country.";
+		}
         var customCountryOptionString = countryElement.getAttribute("country-data-default-option");
         var defaultCountryOptionString = customCountryOptionString ? customCountryOptionString : countryString;
         var defaultCountrySelectedValue = countryElement.getAttribute("country-data-default-value");
@@ -497,6 +587,98 @@
     };
 
     var generateRegionField = function(countryElement, regionElement) {
+
+		var langRegion = countryElement.getAttribute("data-language");
+		switch (langRegion) {
+			case 'ar':
+				regionString = "يرجى اختيار المنطقة";
+				break;
+
+			case 'cs':
+				regionString = "Vyberte oblast.";
+				break;
+
+			case 'da':
+				regionString = "Vælg venligst en område.";
+				break;
+
+			case 'de':
+				regionString = "Bitte wählen Sie eine Region aus.";
+				break;
+
+			case 'es':
+				regionString = "Por favor seleccione una región.";
+				break;
+
+			case 'et':
+				regionString = "Valige piirkond.";
+				break;
+
+			case 'fi':
+				regionString = "Valitse alue.";
+				break;
+
+			case 'fr':
+				regionString = "Veuillez sélectionner une région.";
+				break;
+
+			case 'ga':
+				regionString = "Roghnaigh réigiún.";
+				break;
+
+			case 'it':
+				regionString = "Si prega di selezionare una regione.";
+				break;
+
+			case 'ja':
+				regionString = "地域を選択してください。";
+				break;
+
+			case 'ko':
+				regionString = "지역을 선택하십시오";
+				break;
+
+			case 'ms':
+				regionString = "Sila pilih salah satu wilayah.";
+				break;
+
+			case 'nl':
+				regionString = "Selecteer een regio.";
+				break;
+
+			case 'pt':
+				regionString = "Por favor, selecione uma região.";
+				break;
+
+			case 'ru':
+				regionString = "Пожалуйста, выберите регион.";
+				break;
+
+			case 'sv':
+				regionString = "Var god välj en område.";
+				break;
+
+			case 'tr':
+				regionString = "Lütfen bir bölge seçiniz.";
+				break;
+
+			case 'vi':
+				regionString = "Vui lòng chọn một khu vực.";
+				break;
+
+			case 'zh-cn':
+				regionString = "请选择一个地区。";
+				break;
+
+			case 'zh-tw':
+				regionString = "請選擇一個地區。";
+				break;
+
+			case 'en':
+			default:
+				regionString = "Please select a region.";
+		}
+
         var selectedCountryIndex = (showEmptyCountryOption) ? countryElement.selectedIndex - 1 : countryElement.selectedIndex;
         var customRegionOptionString = regionElement.getAttribute("region-data-default-option");
         var defaultRegionOptionString = customRegionOptionString ? customRegionOptionString : regionString;

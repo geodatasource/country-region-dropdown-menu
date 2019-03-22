@@ -11,24 +11,28 @@ This plugin equipped with multiple languages for country and region name display
 
 |Language code|Language Name|
 |---|---|
-|ar|Arabic|
-|cs|Czech|
-|da|Danish|
-|de|German|
-|en|English|
-|es|Spanish|
-|fr|French|
-|it|Italian|
-|ja|Japanese|
-|ko|Korean|
-|ms|Malay|
-|nl|Dutch|
-|pt|Portuguese|
-|ru|Russian|
-|sv|Swedish|
-|vi|Vietnamese|
-|zh-cn|Chinese Simplified|
-|zh-tw|Chinese Traditional|
+|[ar](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ar)|[Arabic](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ar)|
+|[cs](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-cs)|[Czech](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-cs)|
+|[da](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-da)|[Danish](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-da)|
+|[de](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-de)|[German](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-de)|
+|[en](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-en)|[English](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-en)|
+|[es](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-es)|[Spanish](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-es)|
+|[et](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-et)|[Estonian](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-et)|
+|[fi](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-fi)|[Finnish](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-fi)|
+|[fr](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-fr)|[French](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-fr)|
+|[ga](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ga)|[Irish](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ga)|
+|[it](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-it)|[Italian](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-it)|
+|[ja](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ja)|[Japanese](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ja)|
+|[ko](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ko)|[Korean](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ko)|
+|[ms](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ms)|[Malay](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ms)|
+|[nl](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-nl)|[Dutch](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-nl)|
+|[pt](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-pt)|[Portuguese](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-pt)|
+|[ru](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ru)|[Russian](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ru)|
+|[sv](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-sv)|[Swedish](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-sv)|
+|[tr](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-tr)|[Turkish](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-tr)|
+|[vi](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-vi)|[Vietnamese](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-vi)|
+|[zh-cn](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-zh-cn)|[Chinese Simplified](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-zh-cn)|
+|[zh-tw](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-zh-tw)|[Chinese Traditional](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-zh-tw)|
 
 ## City DropDown Supported
 Please take a look on [How to add City DropDown to Country-Region DropDown Menu tutorial](https://www.geodatasource.com/resources/tutorials/add-city-dropdown-country-region-dropdown-menu/) to learn more about how City DropDown added.
