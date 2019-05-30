@@ -1,498 +1,1494 @@
 /*Andorra*/
-.ui-icon.ad { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') 0 0; }
+.ui-icon.ad {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 0;
+}
 /*United Arab Emirates*/
-.ui-icon.ae { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -21px 0; }
+.ui-icon.ae {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px 0;
+}
 /*Afghanistan*/
-.ui-icon.af { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -42px 0; }
+.ui-icon.af {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px 0;
+}
 /*Antigua and Barbuda*/
-.ui-icon.ag { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -63px 0; }
+.ui-icon.ag {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px 0;
+}
 /*Anguilla*/
-.ui-icon.ai { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -84px 0; }
+.ui-icon.ai {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px 0;
+}
 /*Albania*/
-.ui-icon.al { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -105px 0; }
+.ui-icon.al {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px 0;
+}
 /*Armenia*/
-.ui-icon.am { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -126px 0; }
+.ui-icon.am {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px 0;
+}
 /*Angola*/
-.ui-icon.ao { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -147px 0; }
+.ui-icon.ao {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px 0;
+}
 /*Antarctica*/
-.ui-icon.aq { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -168px 0; }
+.ui-icon.aq {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px 0;
+}
 /*Argentina*/
-.ui-icon.ar { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -189px 0; }
+.ui-icon.ar {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px 0;
+}
 /*American Samoa*/
-.ui-icon.as { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -210px 0; }
+.ui-icon.as {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px 0;
+}
 /*Austria*/
-.ui-icon.at { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -231px 0; }
+.ui-icon.at {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px 0;
+}
 /*Australia*/
-.ui-icon.au { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -252px 0; }
+.ui-icon.au {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px 0;
+}
 /*Aruba*/
-.ui-icon.aw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -273px 0; }
-/*Aland Islands*/
-.ui-icon.ax { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -294px 0; }
+.ui-icon.aw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px 0;
+}
+/*Åland Islands*/
+.ui-icon.ax {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px 0;
+}
 /*Azerbaijan*/
-.ui-icon.az { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -315px 0; }
+.ui-icon.az {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -18px;
+}
 /*Bosnia and Herzegovina*/
-.ui-icon.ba { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -336px 0; }
+.ui-icon.ba {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -18px;
+}
 /*Barbados*/
-.ui-icon.bb { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -357px 0; }
+.ui-icon.bb {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -18px;
+}
 /*Bangladesh*/
-.ui-icon.bd { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -378px 0; }
+.ui-icon.bd {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -18px;
+}
 /*Belgium*/
-.ui-icon.be { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -399px 0; }
+.ui-icon.be {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -18px;
+}
 /*Burkina Faso*/
-.ui-icon.bf { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -420px 0; }
+.ui-icon.bf {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -18px;
+}
 /*Bulgaria*/
-.ui-icon.bg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -441px 0; }
+.ui-icon.bg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -18px;
+}
 /*Bahrain*/
-.ui-icon.bh { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -462px 0; }
+.ui-icon.bh {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -18px;
+}
 /*Burundi*/
-.ui-icon.bi { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -483px 0; }
+.ui-icon.bi {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -18px;
+}
 /*Benin*/
-.ui-icon.bj { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -504px 0; }
-/*Saint Barthelemy*/
-.ui-icon.bl { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -525px 0; }
+.ui-icon.bj {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -18px;
+}
+/*Saint Barthélemy*/
+.ui-icon.bl {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -18px;
+}
 /*Bermuda*/
-.ui-icon.bm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -546px 0; }
+.ui-icon.bm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -18px;
+}
 /*Brunei*/
-.ui-icon.bn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -567px 0; }
+.ui-icon.bn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -18px;
+}
 /*Bolivia*/
-.ui-icon.bo { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -588px 0; }
-/*Caribbean Netherlands*/
-.ui-icon.bq { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -609px 0; }
+.ui-icon.bo {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -18px;
+}
+/*Bonaire, Sint Eustatius and Saba*/
+.ui-icon.bq {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -18px;
+}
 /*Brazil*/
-.ui-icon.br { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -630px 0; }
+.ui-icon.br {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -36px;
+}
 /*Bahamas*/
-.ui-icon.bs { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -651px 0; }
+.ui-icon.bs {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -36px;
+}
 /*Bhutan*/
-.ui-icon.bt { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -672px 0; }
+.ui-icon.bt {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -36px;
+}
 /*Bouvet Island*/
-.ui-icon.bv { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -693px 0; }
+.ui-icon.bv {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -36px;
+}
 /*Botswana*/
-.ui-icon.bw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -714px 0; }
+.ui-icon.bw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -36px;
+}
 /*Belarus*/
-.ui-icon.by { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -735px 0; }
+.ui-icon.by {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -36px;
+}
 /*Belize*/
-.ui-icon.bz { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -756px 0; }
+.ui-icon.bz {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -36px;
+}
 /*Canada*/
-.ui-icon.ca { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -777px 0; }
+.ui-icon.ca {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -36px;
+}
 /*Cocos*/
-.ui-icon.cc { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -798px 0; }
+.ui-icon.cc {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -36px;
+}
 /*Democratic Republic of the Congo*/
-.ui-icon.cd { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -819px 0; }
+.ui-icon.cd {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -36px;
+}
 /*Central African Republic*/
-.ui-icon.cf { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -840px 0; }
+.ui-icon.cf {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -36px;
+}
 /*Congo*/
-.ui-icon.cg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -861px 0; }
+.ui-icon.cg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -36px;
+}
 /*Switzerland*/
-.ui-icon.ch { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -882px 0; }
-/*Cote d’Ivoire*/
-.ui-icon.ci { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -903px 0; }
+.ui-icon.ch {
+	width: 17px;
+	height: 16px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -36px;
+}
+/*Côte d’Ivoire*/
+.ui-icon.ci {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -36px;
+}
 /*Cook Islands*/
-.ui-icon.ck { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -924px 0; }
+.ui-icon.ck {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -36px;
+}
 /*Chile*/
-.ui-icon.cl { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -945px 0; }
+.ui-icon.cl {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -54px;
+}
 /*Cameroon*/
-.ui-icon.cm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -966px 0; }
+.ui-icon.cm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -54px;
+}
 /*China*/
-.ui-icon.cn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -987px 0; }
+.ui-icon.cn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -54px;
+}
 /*Colombia*/
-.ui-icon.co { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1008px 0; }
+.ui-icon.co {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -54px;
+}
 /*Costa Rica*/
-.ui-icon.cr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1029px 0; }
+.ui-icon.cr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -54px;
+}
 /*Cuba*/
-.ui-icon.cu { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1050px 0; }
+.ui-icon.cu {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -54px;
+}
 /*Cape Verde*/
-.ui-icon.cv { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1071px 0; }
-/*Curacao*/
-.ui-icon.cw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1092px 0; }
+.ui-icon.cv {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -54px;
+}
+/*Curaçao*/
+.ui-icon.cw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -54px;
+}
 /*Christmas Island*/
-.ui-icon.cx { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1113px 0; }
+.ui-icon.cx {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -54px;
+}
 /*Cyprus*/
-.ui-icon.cy { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1134px 0; }
+.ui-icon.cy {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -54px;
+}
 /*Czech Republic*/
-.ui-icon.cz { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1155px 0; }
+.ui-icon.cz {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -54px;
+}
 /*Germany*/
-.ui-icon.de { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1176px 0; }
+.ui-icon.de {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -54px;
+}
 /*Djibouti*/
-.ui-icon.dj { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1197px 0; }
+.ui-icon.dj {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -54px;
+}
 /*Denmark*/
-.ui-icon.dk { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1218px 0; }
+.ui-icon.dk {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -54px;
+}
 /*Dominica*/
-.ui-icon.dm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1239px 0; }
+.ui-icon.dm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -52px;
+}
 /*Dominican Republic*/
-.ui-icon.do { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1260px 0; }
+.ui-icon.do {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -70px;
+}
 /*Algeria*/
-.ui-icon.dz { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1281px 0; }
+.ui-icon.dz {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -70px;
+}
 /*Ecuador*/
-.ui-icon.ec { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1302px 0; }
+.ui-icon.ec {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -70px;
+}
 /*Estonia*/
-.ui-icon.ee { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1323px 0; }
+.ui-icon.ee {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -70px;
+}
 /*Egypt*/
-.ui-icon.eg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1344px 0; }
+.ui-icon.eg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -70px;
+}
 /*Western Sahara*/
-.ui-icon.eh { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1365px 0; }
+.ui-icon.eh {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -70px;
+}
 /*Eritrea*/
-.ui-icon.er { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1386px 0; }
+.ui-icon.er {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -70px;
+}
 /*Spain*/
-.ui-icon.es { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1407px 0; }
+.ui-icon.es {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -70px;
+}
 /*Ethiopia*/
-.ui-icon.et { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1428px 0; }
+.ui-icon.et {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -70px;
+}
 /*Finland*/
-.ui-icon.fi { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1449px 0; }
+.ui-icon.fi {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -70px;
+}
 /*Fiji*/
-.ui-icon.fj { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1470px 0; }
+.ui-icon.fj {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -70px;
+}
 /*Falkland Islands*/
-.ui-icon.fk { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1491px 0; }
+.ui-icon.fk {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -70px;
+}
 /*Federated States of Micronesia*/
-.ui-icon.fm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1512px 0; }
+.ui-icon.fm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -70px;
+}
 /*Faroe Islands*/
-.ui-icon.fo { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1533px 0; }
+.ui-icon.fo {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -70px;
+}
 /*France*/
-.ui-icon.fr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1554px 0; }
-/*Georgia*/
-.ui-icon.ga { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1575px 0; }
+.ui-icon.fr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -70px;
+}
+/*Gabon*/
+.ui-icon.ga {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -86px;
+}
 /*United Kingdom*/
-.ui-icon.gb { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1596px 0; }
+.ui-icon.gb {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -86px;
+}
 /*Grenada*/
-.ui-icon.gd { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1617px 0; }
+.ui-icon.gd {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -86px;
+}
 /*Georgia*/
-.ui-icon.ge { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1638px 0; }
+.ui-icon.ge {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -86px;
+}
 /*French Guiana*/
-.ui-icon.gf { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1659px 0; }
+.ui-icon.gf {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -86px;
+}
 /*Guernsey*/
-.ui-icon.gg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1680px 0; }
+.ui-icon.gg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -86px;
+}
 /*Ghana*/
-.ui-icon.gh { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1701px 0; }
+.ui-icon.gh {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -86px;
+}
 /*Gibraltar*/
-.ui-icon.gi { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1722px 0; }
+.ui-icon.gi {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -86px;
+}
 /*Greenland*/
-.ui-icon.gl { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1743px 0; }
+.ui-icon.gl {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -86px;
+}
 /*Gambia*/
-.ui-icon.gm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1764px 0; }
+.ui-icon.gm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -86px;
+}
 /*Guinea*/
-.ui-icon.gn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1785px 0; }
+.ui-icon.gn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -86px;
+}
 /*Guadeloupe*/
-.ui-icon.gp { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1806px 0; }
+.ui-icon.gp {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -86px;
+}
 /*Equatorial Guinea*/
-.ui-icon.gq { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1827px 0; }
+.ui-icon.gq {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -86px;
+}
 /*Greece*/
-.ui-icon.gr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1848px 0; }
+.ui-icon.gr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -86px;
+}
 /*South Georgia and the South Sandwich Islands*/
-.ui-icon.gs { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1869px 0; }
+.ui-icon.gs {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -86px;
+}
 /*Guatemala*/
-.ui-icon.gt { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1890px 0; }
+.ui-icon.gt {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -103px;
+}
 /*Guam*/
-.ui-icon.gu { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1911px 0; }
+.ui-icon.gu {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -103px;
+}
 /*Guinea-Bissau*/
-.ui-icon.gw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1932px 0; }
+.ui-icon.gw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -103px;
+}
 /*Guyana*/
-.ui-icon.gy { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1953px 0; }
+.ui-icon.gy {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -103px;
+}
 /*Hong Kong*/
-.ui-icon.hk { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1974px 0; }
+.ui-icon.hk {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -103px;
+}
 /*Heard Island and McDonald Islands*/
-.ui-icon.hm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -1995px 0; }
+.ui-icon.hm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -103px;
+}
 /*Honduras*/
-.ui-icon.hn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2016px 0; }
+.ui-icon.hn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -103px;
+}
 /*Croatia*/
-.ui-icon.hr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2037px 0; }
+.ui-icon.hr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -103px;
+}
 /*Haiti*/
-.ui-icon.ht { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2058px 0; }
+.ui-icon.ht {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -103px;
+}
 /*Hungary*/
-.ui-icon.hu { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2079px 0; }
+.ui-icon.hu {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -103px;
+}
 /*Indonesia*/
-.ui-icon.id { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2100px 0; }
+.ui-icon.id {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -103px;
+}
 /*Ireland*/
-.ui-icon.ie { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2121px 0; }
+.ui-icon.ie {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -103px;
+}
 /*Israel*/
-.ui-icon.il { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2142px 0; }
+.ui-icon.il {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -103px;
+}
 /*Isle Of Man*/
-.ui-icon.im { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2163px 0; }
+.ui-icon.im {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -103px;
+}
 /*India*/
-.ui-icon.in { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2184px 0; }
+.ui-icon.in {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -103px;
+}
 /*British Indian Ocean Territory*/
-.ui-icon.io { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2205px 0; }
+.ui-icon.io {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -120px;
+}
 /*Iraq*/
-.ui-icon.iq { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2226px 0; }
+.ui-icon.iq {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -120px;
+}
 /*Iran, Islamic Republic Of*/
-.ui-icon.ir { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2247px 0; }
+.ui-icon.ir {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -120px;
+}
 /*Iceland*/
-.ui-icon.is { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2268px 0; }
+.ui-icon.is {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -120px;
+}
 /*Italy*/
-.ui-icon.it { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2289px 0; }
+.ui-icon.it {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -120px;
+}
 /*Jersey*/
-.ui-icon.je { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2310px 0; }
+.ui-icon.je {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -120px;
+}
 /*Jamaica*/
-.ui-icon.jm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2331px 0; }
+.ui-icon.jm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -120px;
+}
 /*Jordan*/
-.ui-icon.jo { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2352px 0; }
+.ui-icon.jo {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -120px;
+}
 /*Japan*/
-.ui-icon.jp { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2373px 0; }
+.ui-icon.jp {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -120px;
+}
 /*Kenya*/
-.ui-icon.ke { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2394px 0; }
+.ui-icon.ke {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -120px;
+}
 /*Kyrgyzstan*/
-.ui-icon.kg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2415px 0; }
+.ui-icon.kg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -120px;
+}
 /*Cambodia*/
-.ui-icon.kh { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2436px 0; }
+.ui-icon.kh {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -120px;
+}
 /*Kiribati*/
-.ui-icon.ki { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2457px 0; }
+.ui-icon.ki {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -120px;
+}
 /*Comoros*/
-.ui-icon.km { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2478px 0; }
+.ui-icon.km {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -120px;
+}
 /*Saint Kitts and Nevis*/
-.ui-icon.kn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2499px 0; }
-/*North Korea*/
-.ui-icon.kp { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2520px 0; }
-/*South Korea*/
-.ui-icon.kr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2541px 0; }
+.ui-icon.kn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -120px;
+}
+/*Korea (the Democratic People's Republic of)*/
+.ui-icon.kp {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -138px;
+}
+/*Korea (the Republic of)*/
+.ui-icon.kr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -138px;
+}
 /*Kuwait*/
-.ui-icon.kw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2562px 0; }
+.ui-icon.kw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -138px;
+}
 /*Cayman Islands*/
-.ui-icon.ky { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2583px 0; }
+.ui-icon.ky {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -138px;
+}
 /*Kazakhstan*/
-.ui-icon.kz { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2604px 0; }
+.ui-icon.kz {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -138px;
+}
 /*Laos*/
-.ui-icon.la { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2625px 0; }
+.ui-icon.la {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -138px;
+}
 /*Lebanon*/
-.ui-icon.lb { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2646px 0; }
+.ui-icon.lb {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -138px;
+}
 /*Saint Lucia*/
-.ui-icon.lc { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2667px 0; }
+.ui-icon.lc {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -138px;
+}
 /*Liechtenstein*/
-.ui-icon.li { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2688px 0; }
+.ui-icon.li {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -138px;
+}
 /*Sri Lanka*/
-.ui-icon.lk { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2709px 0; }
+.ui-icon.lk {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -138px;
+}
 /*Liberia*/
-.ui-icon.lr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2730px 0; }
+.ui-icon.lr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -138px;
+}
 /*Lesotho*/
-.ui-icon.ls { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2751px 0; }
+.ui-icon.ls {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -138px;
+}
 /*Lithuania*/
-.ui-icon.lt { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2772px 0; }
+.ui-icon.lt {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -138px;
+}
 /*Luxembourg*/
-.ui-icon.lu { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2793px 0; }
+.ui-icon.lu {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -138px;
+}
 /*Latvia*/
-.ui-icon.lv { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2814px 0; }
+.ui-icon.lv {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -138px;
+}
 /*Libya*/
-.ui-icon.ly { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2835px 0; }
+.ui-icon.ly {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -154px;
+}
 /*Morocco*/
-.ui-icon.ma { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2856px 0; }
+.ui-icon.ma {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -154px;
+}
 /*Monaco*/
-.ui-icon.mc { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2877px 0; }
+.ui-icon.mc {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -154px;
+}
 /*Moldova, Republic Of*/
-.ui-icon.md { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2898px 0; }
+.ui-icon.md {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -154px;
+}
 /*Montenegro*/
-.ui-icon.me { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2919px 0; }
-/*Saint Martin*/
-.ui-icon.mf { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2940px 0; }
+.ui-icon.me {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -154px;
+}
+/*Collectivity of Saint Martin*/
+.ui-icon.mf {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -154px;
+}
 /*Madagascar*/
-.ui-icon.mg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2961px 0; }
+.ui-icon.mg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -154px;
+}
 /*Marshall Islands*/
-.ui-icon.mh { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -2982px 0; }
-/*Macedonia, The Former Yugoslav Republic Of*/
-.ui-icon.mk { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3003px 0; }
+.ui-icon.mh {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -154px;
+}
+/*North Macedonia*/
+.ui-icon.mk {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -154px;
+}
 /*Mali*/
-.ui-icon.ml { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3024px 0; }
+.ui-icon.ml {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -154px;
+}
 /*Myanmar*/
-.ui-icon.mm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3045px 0; }
+.ui-icon.mm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -154px;
+}
 /*Mongolia*/
-.ui-icon.mn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3066px 0; }
+.ui-icon.mn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -154px;
+}
 /*Macao*/
-.ui-icon.mo { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3087px 0; }
+.ui-icon.mo {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -154px;
+}
 /*Northern Mariana Islands*/
-.ui-icon.mp { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3108px 0; }
+.ui-icon.mp {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -154px;
+}
 /*Martinique*/
-.ui-icon.mq { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3129px 0; }
+.ui-icon.mq {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -154px;
+}
 /*Mauritania*/
-.ui-icon.mr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3150px 0; }
+.ui-icon.mr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -170px;
+}
 /*Montserrat*/
-.ui-icon.ms { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3171px 0; }
+.ui-icon.ms {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -170px;
+}
 /*Malta*/
-.ui-icon.mt { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3192px 0; }
+.ui-icon.mt {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -170px;
+}
 /*Mauritius*/
-.ui-icon.mu { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3213px 0; }
+.ui-icon.mu {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -170px;
+}
 /*Maldives*/
-.ui-icon.mv { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3234px 0; }
+.ui-icon.mv {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -170px;
+}
 /*Malawi*/
-.ui-icon.mw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3255px 0; }
-/*Mexico*/
-.ui-icon.mx { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3276px 0; }
+.ui-icon.mw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -170px;
+}
+/*Maxico*/
+.ui-icon.mx {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -170px;
+}
 /*Malaysia*/
-.ui-icon.my { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3297px 0; }
+.ui-icon.my {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -170px;
+}
 /*Mozambique*/
-.ui-icon.mz { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3318px 0; }
+.ui-icon.mz {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -170px;
+}
 /*Namibia*/
-.ui-icon.na { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3339px 0; }
+.ui-icon.na {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -170px;
+}
 /*New Caledonia*/
-.ui-icon.nc { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3360px 0; }
+.ui-icon.nc {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -170px;
+}
 /*Niger*/
-.ui-icon.ne { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3381px 0; }
+.ui-icon.ne {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -170px;
+}
 /*Norfolk Island*/
-.ui-icon.nf { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3402px 0; }
+.ui-icon.nf {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -170px;
+}
 /*Nigeria*/
-.ui-icon.ng { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3423px 0; }
+.ui-icon.ng {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -170px;
+}
 /*Nicaragua*/
-.ui-icon.ni { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3444px 0; }
+.ui-icon.ni {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -170px;
+}
 /*Netherlands*/
-.ui-icon.nl { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3465px 0; }
+.ui-icon.nl {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -188px;
+}
 /*Norway*/
-.ui-icon.no { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3486px 0; }
+.ui-icon.no {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -188px;
+}
 /*Nepal*/
-.ui-icon.np { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3507px 0; }
+.ui-icon.np {
+	width: 17px;
+	height: 20px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -188px;
+}
 /*Nauru*/
-.ui-icon.nr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3528px 0; }
+.ui-icon.nr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -188px;
+}
 /*Niue*/
-.ui-icon.nu { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3549px 0; }
+.ui-icon.nu {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -188px;
+}
 /*New Zealand*/
-.ui-icon.nz { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3570px 0; }
+.ui-icon.nz {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -188px;
+}
 /*Oman*/
-.ui-icon.om { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3591px 0; }
+.ui-icon.om {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -188px;
+}
 /*Panama*/
-.ui-icon.pa { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3612px 0; }
+.ui-icon.pa {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -188px;
+}
 /*Peru*/
-.ui-icon.pe { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3633px 0; }
+.ui-icon.pe {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -188px;
+}
 /*French Polynesia*/
-.ui-icon.pf { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3654px 0; }
+.ui-icon.pf {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -188px;
+}
 /*Papua New Guinea*/
-.ui-icon.pg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3675px 0; }
+.ui-icon.pg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -188px;
+}
 /*Philippines*/
-.ui-icon.ph { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3696px 0; }
+.ui-icon.ph {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -188px;
+}
 /*Pakistan*/
-.ui-icon.pk { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3717px 0; }
+.ui-icon.pk {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -203px -188px;
+}
 /*Poland*/
-.ui-icon.pl { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3738px 0; }
+.ui-icon.pl {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -210px -188px;
+}
 /*Saint Pierre and Miquelon*/
-.ui-icon.pm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3759px 0; }
-/*Pitcairn Islands*/
-.ui-icon.pn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3780px 0; }
+.ui-icon.pm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -188px;
+}
+/*Pitcairn*/
+.ui-icon.pn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -204px;
+}
 /*Puerto Rico*/
-.ui-icon.pr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3801px 0; }
+.ui-icon.pr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -204px;
+}
 /*Palestine, State Of*/
-.ui-icon.ps { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3822px 0; }
+.ui-icon.ps {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -204px;
+}
 /*Portugal*/
-.ui-icon.pt { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3843px 0; }
+.ui-icon.pt {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -204px;
+}
 /*Palau*/
-.ui-icon.pw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3864px 0; }
+.ui-icon.pw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -204px;
+}
 /*Paraguay*/
-.ui-icon.py { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3885px 0; }
+.ui-icon.py {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -204px;
+}
 /*Qatar*/
-.ui-icon.qa { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3906px 0; }
+.ui-icon.qa {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -204px;
+}
 /*Reunion*/
-.ui-icon.re { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3927px 0; }
+.ui-icon.re {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -204px;
+}
 /*Romania*/
-.ui-icon.ro { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3948px 0; }
+.ui-icon.ro {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -204px;
+}
 /*Serbia*/
-.ui-icon.rs { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3969px 0; }
+.ui-icon.rs {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -204px;
+}
 /*Russian Federation*/
-.ui-icon.ru { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -3990px 0; }
+.ui-icon.ru {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -204px;
+}
 /*Rwanda*/
-.ui-icon.rw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4011px 0; }
+.ui-icon.rw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -204px;
+}
 /*Saudi Aribia*/
-.ui-icon.sa { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4032px 0; }
+.ui-icon.sa {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -204px;
+}
 /*Soloman Islands*/
-.ui-icon.sb { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4053px 0; }
+.ui-icon.sb {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -204px;
+}
 /*Seychelles*/
-.ui-icon.sc { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4074px 0; }
+.ui-icon.sc {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -204px;
+}
 /*Sudan*/
-.ui-icon.sd { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4095px 0; }
+.ui-icon.sd {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -222px;
+}
 /*Sweden*/
-.ui-icon.se { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4116px 0; }
+.ui-icon.se {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -222px;
+}
 /*Singapore*/
-.ui-icon.sg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4137px 0; }
+.ui-icon.sg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -222px;
+}
 /*Saint Helena*/
-.ui-icon.sh { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4158px 0; }
+.ui-icon.sh {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -222px;
+}
 /*Slovenia*/
-.ui-icon.si { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4179px 0; }
+.ui-icon.si {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -222px;
+}
 /*Svalbard And Jan Mayen*/
-.ui-icon.sj { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4200px 0; }
+.ui-icon.sj {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -222px;
+}
 /*Slovakia*/
-.ui-icon.sk { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4221px 0; }
+.ui-icon.sk {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -222px;
+}
 /*Sierra Leone*/
-.ui-icon.sl { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4242px 0; }
+.ui-icon.sl {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -222px;
+}
 /*San Marino*/
-.ui-icon.sm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4263px 0; }
+.ui-icon.sm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -222px;
+}
 /*Senegal*/
-.ui-icon.sn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4284px 0; }
+.ui-icon.sn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -222px;
+}
 /*Somalia*/
-.ui-icon.so { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4305px 0; }
+.ui-icon.so {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -222px;
+}
 /*Suriname*/
-.ui-icon.sr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4326px 0; }
+.ui-icon.sr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -222px;
+}
 /*South Sudan*/
-.ui-icon.ss { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4347px 0; }
+.ui-icon.ss {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -222px;
+}
 /*Sao Tome And Principe*/
-.ui-icon.st { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4368px 0; }
+.ui-icon.st {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -222px;
+}
 /*El Salvador*/
-.ui-icon.sv { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4389px 0; }
+.ui-icon.sv {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -222px;
+}
 /*Sint Maarten*/
-.ui-icon.sx { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4410px 0; }
+.ui-icon.sx {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -238px;
+}
 /*Syrian Arab Republic*/
-.ui-icon.sy { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4431px 0; }
+.ui-icon.sy {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -238px;
+}
 /*Swaziland*/
-.ui-icon.sz { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4452px 0; }
+.ui-icon.sz {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -238px;
+}
 /*Turks and Caicos Islands*/
-.ui-icon.tc { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4473px 0; }
+.ui-icon.tc {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -238px;
+}
 /*Chad*/
-.ui-icon.td { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4494px 0; }
+.ui-icon.td {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -238px;
+}
 /*French Southern Territories*/
-.ui-icon.tf { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4515px 0; }
+.ui-icon.tf {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -238px;
+}
 /*Togo*/
-.ui-icon.tg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4536px 0; }
+.ui-icon.tg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -238px;
+}
 /*Thailand*/
-.ui-icon.th { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4557px 0; }
+.ui-icon.th {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -238px;
+}
 /*Tajikistan*/
-.ui-icon.tj { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4578px 0; }
+.ui-icon.tj {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -238px;
+}
 /*Tokelau*/
-.ui-icon.tk { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4599px 0; }
+.ui-icon.tk {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -238px;
+}
 /*Timor-Leste*/
-.ui-icon.tl { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4620px 0; }
+.ui-icon.tl {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -238px;
+}
 /*Turkmenistan*/
-.ui-icon.tm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4641px 0; }
+.ui-icon.tm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -238px;
+}
 /*Tunisia*/
-.ui-icon.tn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4662px 0; }
+.ui-icon.tn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -238px;
+}
 /*Tonga*/
-.ui-icon.to { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4683px 0; }
+.ui-icon.to {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -238px;
+}
 /*Turkey*/
-.ui-icon.tr { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4704px 0; }
+.ui-icon.tr {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -238px;
+}
 /*Trinidad And Tobago*/
-.ui-icon.tt { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4725px 0; }
+.ui-icon.tt {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -256px;
+}
 /*Tuvalu*/
-.ui-icon.tv { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4746px 0; }
+.ui-icon.tv {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -256px;
+}
 /*Taiwan*/
-.ui-icon.tw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4767px 0; }
+.ui-icon.tw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -256px;
+}
 /*Tanzania, United Republic Of*/
-.ui-icon.tz { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4788px 0; }
+.ui-icon.tz {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -256px;
+}
 /*Ukraine*/
-.ui-icon.ua { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4809px 0; }
+.ui-icon.ua {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -256px;
+}
 /*Uganda*/
-.ui-icon.ug { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4830px 0; }
+.ui-icon.ug {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -256px;
+}
 /*United States Minor Outlying Islands*/
-.ui-icon.um { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4851px 0; }
+.ui-icon.um {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -256px;
+}
 /*United States*/
-.ui-icon.us { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4872px 0; }
+.ui-icon.us {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -256px;
+}
 /*Uruguay*/
-.ui-icon.uy { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4893px 0; }
+.ui-icon.uy {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -256px;
+}
 /*Uzbekistan*/
-.ui-icon.uz { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4914px 0; }
-/*Holy See*/
-.ui-icon.va { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4935px 0; }
+.ui-icon.uz {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -153px -256px;
+}
+/*Vatican City*/
+.ui-icon.va {
+	width: 17px;
+	height: 16px;
+	background:url(../img/geodatasource-countryflag-round.png) -170px -256px;
+}
 /*Saint Vincent And The Grenadines*/
-.ui-icon.vc { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4956px 0; }
+.ui-icon.vc {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -187px -256px;
+}
 /*Venezuela, Bolivarian Republic Of*/
-.ui-icon.ve { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4977px 0; }
+.ui-icon.ve {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -204px -256px;
+}
 /*British Virgin Islands*/
-.ui-icon.vg { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -4998px 0; }
+.ui-icon.vg {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -221px -256px;
+}
 /*Virgin Islands, U.S.*/
-.ui-icon.vi { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5019px 0; }
+.ui-icon.vi {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -238px -256px;
+}
 /*Viet Nam*/
-.ui-icon.vn { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5040px 0; }
+.ui-icon.vn {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) 0 -273px;
+}
 /*Vanuatu*/
-.ui-icon.vu { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5061px 0; }
+.ui-icon.vu {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -17px -273px;
+}
 /*Wallis And Futuna*/
-.ui-icon.wf { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5082px 0; }
+.ui-icon.wf {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -34px -273px;
+}
 /*Samoa*/
-.ui-icon.ws { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5103px 0; }
+.ui-icon.ws {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -51px -273px;
+}
 /*Yemen*/
-.ui-icon.ye { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5124px 0; }
+.ui-icon.ye {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -68px -273px;
+}
 /*Mayotte*/
-.ui-icon.yt { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5145px 0; }
+.ui-icon.yt {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -85px -273px;
+}
 /*South Africa*/
-.ui-icon.za { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5166px 0; }
+.ui-icon.za {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -102px -273px;
+}
 /*Zambia*/
-.ui-icon.zm { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5187px 0; }
+.ui-icon.zm {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -119px -273px;
+}
 /*Zimbabwe*/
-.ui-icon.zw { width: 16px; height: 16px; background: url('../img/geodatasource-countryflag-round.png') -5208px 0; } 
+.ui-icon.zw {
+	width: 17px;
+	height: 14px;
+	background:url(../img/geodatasource-countryflag-round.png) -136px -273px;
+}

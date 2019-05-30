@@ -174,13 +174,18 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 * ```region-data-default-value``` is optional in region field which use set the default selected region value.
 
 ## Country Flag Designs
+The Country Flag is designed from IP2Location™ Country Flags [https://www.ip2location.com/free/country-flags](https://www.ip2location.com/free/country-flags)
 
 * Square Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag.css">```
 ![Square Country Flag](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot2.png)
 * Round Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-round.css">```
 ![Round Country Flag](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot3.png)
-* Marker Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-marker.css">```
+* Bended Square Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-square-bended.css">```
 ![Marker Country Flag](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot4.png)
+* Rounded Square Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-square-rounded.css">```
+![Marker Country Flag](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot5.png)
+* Shadow Square Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-square-shadow.css">```
+![Marker Country Flag](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot6.png)
 
 ## Sample page
 
@@ -190,8 +195,3 @@ Please refer to example-default.html file.
 
 Email: support@geodatasource.com  
 URL: [https://www.geodatasource.com](https://www.geodatasource.com)
-
-## Credits
-
-* Round Country Flag is designed by Freepik from Flaticon [https://www.flaticon.com/packs/countrys-flags](https://www.flaticon.com/packs/countrys-flags)
-* Marker Country Flag is designed by Freepik from Flaticon [https://www.flaticon.com/packs/country-flags](https://www.flaticon.com/packs/country-flags)
