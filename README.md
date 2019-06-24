@@ -14,7 +14,7 @@ This plugin equipped with multiple languages for country and region name display
 |ar|Arabic|[Demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-ar)|
 |cs|Czech|[Demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-cs)|
 |da|Danish|[Demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-da)|
-|de|German]|[Demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-de)|
+|de|German|[Demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-de)|
 |en|English|[Demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-en)|
 |es|Spanish|[Demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-es)|
 |et|Estonian|[Demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo-et)|

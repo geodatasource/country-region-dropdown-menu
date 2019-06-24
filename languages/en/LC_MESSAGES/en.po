@@ -437,7 +437,7 @@ msgid "Marshall Islands_MH_C"
 msgstr "Marshall Islands"
 
 msgid "Macedonia, The Former Yugoslav Republic of_MK_C"
-msgstr "Macedonia, The Former Yugoslav Republic of"
+msgstr "North Macedonia"
 
 msgid "Mali_ML_C"
 msgstr "Mali"
