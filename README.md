@@ -37,6 +37,9 @@ This plugin equipped with multiple languages for country and region name display
 ## City DropDown Supported
 Please take a look on [How to add City DropDown to Country-Region DropDown Menu tutorial](https://www.geodatasource.com/resources/tutorials/add-city-dropdown-country-region-dropdown-menu/) to learn more about how City DropDown added.
 
+## Plugins
+* Support [amCharts Map Display](https://www.geodatasource.com/resources/tutorials/how-to-use-amcharts-with-country-region-dropdown-menu/).
+
 ## Demo
 
 [![Country-Region DropDown Menu Demo 1](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot1.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
