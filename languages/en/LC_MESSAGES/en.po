@@ -98,7 +98,7 @@ msgid "Brunei Darussalam_BN_C"
 msgstr "Brunei Darussalam"
 
 msgid "Bolivia, Plurinational State of_BO_C"
-msgstr "Bolivia, Plurinational State of"
+msgstr "Bolivia (Plurinational State of)"
 
 msgid "Bonaire, Sint Eustatius and Saba_BQ_C"
 msgstr "Bonaire, Sint Eustatius and Saba"
@@ -128,7 +128,7 @@ msgid "Cocos (Keeling) Islands_CC_C"
 msgstr "Cocos (Keeling) Islands"
 
 msgid "Congo, The Democratic Republic of The_CD_C"
-msgstr "Congo, The Democratic Republic of The"
+msgstr "Congo (the Democratic Republic of the)"
 
 msgid "Central African Republic_CF_C"
 msgstr "Central African Republic"
@@ -176,7 +176,7 @@ msgid "Cyprus_CY_C"
 msgstr "Cyprus"
 
 msgid "Czech Republic_CZ_C"
-msgstr "Czech Republic"
+msgstr "Czechia"
 
 msgid "Germany_DE_C"
 msgstr "Germany"
@@ -227,7 +227,7 @@ msgid "Falkland Islands (Malvinas)_FK_C"
 msgstr "Falkland Islands (Malvinas)"
 
 msgid "Micronesia, Federated States of_FM_C"
-msgstr "Micronesia, Federated States of"
+msgstr "Micronesia (Federated States of)"
 
 msgid "Faroe Islands_FO_C"
 msgstr "Faroe Islands"
@@ -239,7 +239,7 @@ msgid "Gabon_GA_C"
 msgstr "Gabon"
 
 msgid "United Kingdom_GB_C"
-msgstr "United Kingdom"
+msgstr "United Kingdom of Great Britain and Northern Ireland"
 
 msgid "Grenada_GD_C"
 msgstr "Grenada"
@@ -329,7 +329,7 @@ msgid "Iraq_IQ_C"
 msgstr "Iraq"
 
 msgid "Iran, Islamic Republic of_IR_C"
-msgstr "Iran, Islamic Republic of"
+msgstr "Iran (Islamic Republic of)"
 
 msgid "Iceland_IS_C"
 msgstr "Iceland"
@@ -368,10 +368,10 @@ msgid "Saint Kitts and Nevis_KN_C"
 msgstr "Saint Kitts and Nevis"
 
 msgid "Korea, Democratic People's Republic of_KP_C"
-msgstr "Korea, Democratic People's Republic of"
+msgstr "Korea (the Democratic People's Republic of)"
 
 msgid "Korea, Republic of_KR_C"
-msgstr "Korea, Republic of"
+msgstr "Korea (the Republic of)"
 
 msgid "Kuwait_KW_C"
 msgstr "Kuwait"
@@ -422,7 +422,7 @@ msgid "Monaco_MC_C"
 msgstr "Monaco"
 
 msgid "Moldova, Republic of_MD_C"
-msgstr "Moldova, Republic of"
+msgstr "Moldova (the Republic of)"
 
 msgid "Montenegro_ME_C"
 msgstr "Montenegro"
@@ -644,7 +644,7 @@ msgid "Syrian Arab Republic_SY_C"
 msgstr "Syrian Arab Republic"
 
 msgid "Swaziland_SZ_C"
-msgstr "Swaziland"
+msgstr "Eswatini"
 
 msgid "Turks and Caicos Islands_TC_C"
 msgstr "Turks and Caicos Islands"
@@ -689,7 +689,7 @@ msgid "Tuvalu_TV_C"
 msgstr "Tuvalu"
 
 msgid "Taiwan, Province of China_TW_C"
-msgstr "Taiwan, Province of China"
+msgstr "Taiwan (Province of China)"
 
 msgid "Tanzania, United Republic of_TZ_C"
 msgstr "Tanzania, United Republic of"
@@ -704,7 +704,7 @@ msgid "United States Minor Outlying Islands_UM_C"
 msgstr "United States Minor Outlying Islands"
 
 msgid "United States_US_C"
-msgstr "United States"
+msgstr "United States of America"
 
 msgid "Uruguay_UY_C"
 msgstr "Uruguay"
@@ -719,13 +719,13 @@ msgid "Saint Vincent and The Grenadines_VC_C"
 msgstr "Saint Vincent and The Grenadines"
 
 msgid "Venezuela, Bolivarian Republic of_VE_C"
-msgstr "Venezuela, Bolivarian Republic of"
+msgstr "Venezuela (Bolivarian Republic of)"
 
 msgid "Virgin Islands, British_VG_C"
-msgstr "Virgin Islands, British"
+msgstr "Virgin Islands (British)"
 
 msgid "Virgin Islands, U.S._VI_C"
-msgstr "Virgin Islands, U.S."
+msgstr "Virgin Islands (U.S.)"
 
 msgid "Viet Nam_VN_C"
 msgstr "Viet Nam"
@@ -774,9 +774,6 @@ msgstr "Ordino"
 
 msgid "Sant Julia de Loria_AD"
 msgstr "Sant Julia de Loria"
-
-msgid "'Ajman_AE"
-msgstr "'Ajman"
 
 msgid "Abu Zaby_AE"
 msgstr "Abu Zaby"
@@ -1819,9 +1816,6 @@ msgstr "Zou"
 msgid "Saint Barthelemy_BL"
 msgstr "Saint Barthelemy"
 
-msgid "Hamilton_BM"
-msgstr "Hamilton"
-
 msgid "Saint George_BM"
 msgstr "Saint George"
 
@@ -2071,9 +2065,6 @@ msgstr "Homyel'skaya voblasts'"
 msgid "Horad Minsk_BY"
 msgstr "Horad Minsk"
 
-msgid "Hrodzenskaya voblasts'_BY"
-msgstr "Hrodzenskaya voblasts'"
-
 msgid "Mahilyowskaya voblasts'_BY"
 msgstr "Mahilyowskaya voblasts'"
 
@@ -2151,9 +2142,6 @@ msgstr "Equateur"
 
 msgid "Haut-Katanga_CD"
 msgstr "Haut-Katanga"
-
-msgid "Haut-Lomami_CD"
-msgstr "Haut-Lomami"
 
 msgid "Haut-Uele_CD"
 msgstr "Haut-Uele"
@@ -3286,9 +3274,6 @@ msgstr "Los Rios"
 msgid "Manabi_EC"
 msgstr "Manabi"
 
-msgid "Morona Santiago_EC"
-msgstr "Morona Santiago"
-
 msgid "Napo_EC"
 msgstr "Napo"
 
@@ -3312,9 +3297,6 @@ msgstr "Sucumbios"
 
 msgid "Tungurahua_EC"
 msgstr "Tungurahua"
-
-msgid "Zamora Chinchipe_EC"
-msgstr "Zamora Chinchipe"
 
 msgid "Harjumaa_EE"
 msgstr "Harjumaa"
@@ -3690,9 +3672,6 @@ msgstr "Occitanie"
 
 msgid "Pays-de-la-Loire_FR"
 msgstr "Pays-de-la-Loire"
-
-msgid "Provence-Alpes-Cote-d'Azur_FR"
-msgstr "Provence-Alpes-Cote-d'Azur"
 
 msgid "Estuaire_GA"
 msgstr "Estuaire"
@@ -4465,9 +4444,6 @@ msgstr "Kalimantan Tengah"
 msgid "Kalimantan Timur_ID"
 msgstr "Kalimantan Timur"
 
-msgid "Kalimantan Utara_ID"
-msgstr "Kalimantan Utara"
-
 msgid "Kepulauan Bangka Belitung_ID"
 msgstr "Kepulauan Bangka Belitung"
 
@@ -4885,9 +4861,6 @@ msgstr "Zanjan"
 msgid "Austurland_IS"
 msgstr "Austurland"
 
-msgid "Hofudborgarsvaedi_IS"
-msgstr "Hofudborgarsvaedi"
-
 msgid "Nordurland eystra_IS"
 msgstr "Nordurland eystra"
 
@@ -5010,9 +4983,6 @@ msgstr "Trelawny"
 
 msgid "Westmoreland_JM"
 msgstr "Westmoreland"
-
-msgid "'Ajlun_JO"
-msgstr "'Ajlun"
 
 msgid "Al 'Aqabah_JO"
 msgstr "Al 'Aqabah"
@@ -5508,12 +5478,6 @@ msgstr "P'yongan-namdo"
 
 msgid "P'yongyang_KP"
 msgstr "P'yongyang"
-
-msgid "Rason_KP"
-msgstr "Rason"
-
-msgid "Ryanggang-do_KP"
-msgstr "Ryanggang-do"
 
 msgid "Busan-gwangyeoksi_KR"
 msgstr "Busan-gwangyeoksi"
@@ -6054,9 +6018,6 @@ msgstr "Ozolnieku novads"
 
 msgid "Preilu novads_LV"
 msgstr "Preilu novads"
-
-msgid "Rezeknes novads_LV"
-msgstr "Rezeknes novads"
 
 msgid "Riebinu novads_LV"
 msgstr "Riebinu novads"
@@ -7101,9 +7062,6 @@ msgstr "Xewkija"
 
 msgid "Xghajra_MT"
 msgstr "Xghajra"
-
-msgid "Zabbar_MT"
-msgstr "Zabbar"
 
 msgid "Zebbug Gozo_MT"
 msgstr "Zebbug Gozo"
@@ -8374,9 +8332,6 @@ msgstr "Zamboanga del Sur"
 msgid "Zamboanga Sibugay_PH"
 msgstr "Zamboanga Sibugay"
 
-msgid "Azad Jammu and Kashmir_PK"
-msgstr "Azad Jammu and Kashmir"
-
 msgid "Balochistan_PK"
 msgstr "Balochistan"
 
@@ -9499,9 +9454,6 @@ msgstr "Kassala"
 msgid "Khartoum_SD"
 msgstr "Khartoum"
 
-msgid "North Darfur_SD"
-msgstr "North Darfur"
-
 msgid "North Kordofan_SD"
 msgstr "North Kordofan"
 
@@ -9513,12 +9465,6 @@ msgstr "Red Sea"
 
 msgid "River Nile_SD"
 msgstr "River Nile"
-
-msgid "Sennar_SD"
-msgstr "Sennar"
-
-msgid "South Darfur_SD"
-msgstr "South Darfur"
 
 msgid "South Kordofan_SD"
 msgstr "South Kordofan"
@@ -11494,9 +11440,6 @@ msgstr "Poltavska oblast"
 msgid "Rivnenska oblast_UA"
 msgstr "Rivnenska oblast"
 
-msgid "Sevastopol_UA"
-msgstr "Sevastopol"
-
 msgid "Sumska oblast_UA"
 msgstr "Sumska oblast"
 
@@ -12453,12 +12396,6 @@ msgstr "Va'a-o-Fonoti"
 
 msgid "Vaisigano_WS"
 msgstr "Vaisigano"
-
-msgid "'Adan_YE"
-msgstr "'Adan"
-
-msgid "'Amran_YE"
-msgstr "'Amran"
 
 msgid "Abyan_YE"
 msgstr "Abyan"
