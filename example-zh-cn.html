@@ -17,6 +17,10 @@
     <script src="assets/js/geodatasource-cr.min.js"></script>
     <link rel="stylesheet" href="assets/css/geodatasource-countryflag.css">
 
+    <!-- link for semantic-ui style -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js" integrity="sha512-dqw6X88iGgZlTsONxZK9ePmJEFrmHwpuMrsUChjAw1mRUhUITE5QU9pkcSox+ynfLhL15Sv2al5A0LVyDCmtUw==" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" integrity="sha512-8bHTC73gkZ7rZ7vpqUQThUDhqcNFyYi2xgDgPDHc+GXVGHXq+xPjynxIopALmOPqzo9JZj0k6OqqewdGO3EsrQ==" crossorigin="anonymous" />
+
     <!-- link to all languages po files -->
     <link rel="gettext" type="application/x-po" href="languages/ar/LC_MESSAGES/ar.po" />
     <link rel="gettext" type="application/x-po" href="languages/cs/LC_MESSAGES/cs.po" />
@@ -92,6 +96,22 @@
                             <label for="gds-cr-two" class="col-sm-2 control-label">Region</label>
                             <div class="col-sm-10">
                                 <select class="form-control" id="gds-cr-two" region-data-default-value="加利福尼亚"></select>
+                            </div>
+                        </div>
+                    </form>
+                    <br/>
+                    <form class="form-horizontal">
+                        <p>Example: Country-Region DropDown Menu with semantic</p>
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">Country</label>
+                            <div class="col-sm-10">
+                                <div class="ui fluid search selection dropdown gds-cr-semantic" country-data-region-id="gds-cr-four" data-language="zh-cn"></div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="gds-cr-four" class="col-sm-2 control-label">Region</label>
+                            <div class="col-sm-10">
+                                <select class="form-control" id="gds-cr-four"></select>
                             </div>
                         </div>
                     </form>

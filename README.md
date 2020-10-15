@@ -66,6 +66,10 @@ Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a5
         <script src="assets/js/geodatasource-cr.min.js"></script>
         <link rel="stylesheet" href="assets/css/geodatasource-countryflag.css">
 
+        <!-- link for semantic-ui style -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js" integrity="sha512-dqw6X88iGgZlTsONxZK9ePmJEFrmHwpuMrsUChjAw1mRUhUITE5QU9pkcSox+ynfLhL15Sv2al5A0LVyDCmtUw==" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" integrity="sha512-8bHTC73gkZ7rZ7vpqUQThUDhqcNFyYi2xgDgPDHc+GXVGHXq+xPjynxIopALmOPqzo9JZj0k6OqqewdGO3EsrQ==" crossorigin="anonymous" />
+
         <!-- link to languages po files -->
         <link rel="gettext" type="application/x-po" href="languages/en/LC_MESSAGES/en.po" />
         <script type="text/javascript" src="assets/js/Gettext.js"></script>
@@ -88,6 +92,12 @@ Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a5
             Country: <select class="gds-cr gds-countryflag" country-data-region-id="gds-cr-three" data-language="en"></select>
 
             Region: <select id="gds-cr-three"></select>
+        </div>
+
+        <div>
+            Country: <div class="ui fluid search selection dropdown gds-cr-semantic" country-data-region-id="gds-cr-four" data-language="en"></div>
+
+            Region: <select id="gds-cr-four"></select>
         </div>
 
       </body>
@@ -169,7 +179,7 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 
 ## Attributes
 
-* Country field **must** be given a class name as ```gds-cr``` .
+* Country field **must** be given a class name as ```gds-cr``` whereas ```gds-cr-semantic``` for country field that using Semantic-UI.
 * ```gds-countryflag``` can be added to class name of country field to support country flag.
 * ```country-data-region-id``` is **required** in country field that contains the id of region field.
 * ```data-language``` is **required** in country field which use set the language used in both country and region data. Refer to [multilingual section](#multilingual-display-supported) for language code supported.
