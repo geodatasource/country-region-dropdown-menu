@@ -437,7 +437,7 @@ msgid "Marshall Islands_MH_C"
 msgstr "Îles Marshall"
 
 msgid "Macedonia, The Former Yugoslav Republic of_MK_C"
-msgstr ""
+msgstr "Macédoine du Nord"
 
 msgid "Mali_ML_C"
 msgstr "Mali"
@@ -518,7 +518,7 @@ msgid "Niue_NU_C"
 msgstr "Niue"
 
 msgid "New Zealand_NZ_C"
-msgstr ""
+msgstr "Nouvelle-Zélande"
 
 msgid "Oman_OM_C"
 msgstr "Oman"
