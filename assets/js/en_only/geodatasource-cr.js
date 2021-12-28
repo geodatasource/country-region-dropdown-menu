@@ -26,6 +26,13 @@
             generateCountryField(countryDropDownList[i]);
         }
 
+        // Using autocomplete
+        jQuery(".gds-cr-autocomplete").val("");
+        var countryDropDownListAutocomplete = document.getElementsByClassName("gds-cr-autocomplete");
+        for (var i=0; i<countryDropDownListAutocomplete.length; i++) {
+            generateCountryFieldAutocomplete(countryDropDownListAutocomplete[i]);
+        }
+
         // Using semantic-ui
         var countryDropDownListSemantic = document.getElementsByClassName("gds-cr-semantic");
         for (var i=0; i<countryDropDownListSemantic.length; i++) {
@@ -50,6 +57,7 @@
                 return li.append(wrapper).appendTo(ul);
             }
         });
+
         jQuery(".gds-countryflag").iconselectmenu().iconselectmenu("menuWidget").addClass("ui-menu-icons customicons");
         jQuery(".gds-countryflag").iconselectmenu({ change: function(event) {
             var el = (event.target);
@@ -116,7 +124,13 @@
         var regionElement = document.getElementById(regionID);
 
         if (regionElement) {
-            initialiseRegionFieldSemantic(regionElement);
+            var isRegionAutocomplete = document.getElementsByClassName(regionID+"-autocomplete");
+            if (isRegionAutocomplete.length > 0) {
+                jQuery("."+regionID+"-autocomplete").val("-");
+                initialiseRegionFieldAutocomplete(regionElement);
+            } else {
+                initialiseRegionFieldSemantic(regionElement);
+            }
 
             countryElementSemantic.onchange = function() {
                 var foundIndexChange = 0;
@@ -131,19 +145,37 @@
                     }
                 }
                 countryElementSemantic.selectedIndex = foundIndexChange;
-                generateRegionFieldSemantic(countryElementSemantic, regionElement);
+                if (isRegionAutocomplete.length > 0) {
+                    jQuery("."+regionID+"-autocomplete").val("");
+                    generateRegionFieldAutocomplete(countryElementSemantic, regionElement);
+                } else {
+                    generateRegionFieldSemantic(countryElementSemantic, regionElement);
+                }
             };
 
             if (defaultCountrySelectedValueSemantic !== null && countryElementSemantic.selectedIndex > 0) {
-                generateRegionFieldSemantic(countryElementSemantic, regionElement);
+                if (isRegionAutocomplete.length > 0) {
+                    jQuery("."+regionID+"-autocomplete").val("");
+                    generateRegionFieldAutocomplete(countryElementSemantic, regionElement);
+                } else {
+                    generateRegionFieldSemantic(countryElementSemantic, regionElement);
+                }
                 var defaultRegionSelectedValue = regionElement.getAttribute("region-data-default-value");
                 if (defaultRegionSelectedValue !== null) {
                     var index = (showEmptyCountryOption) ? countryElementSemantic.selectedIndex - 1: countryElementSemantic.selectedIndex;
                     var data = country_region[index][3];
-                    setDefaultRegionValueSemantic(regionElement, data, defaultRegionSelectedValue);
+                    if (isRegionAutocomplete.length > 0) {
+                        setDefaultRegionValueAutocomplete(regionElement, data, defaultRegionSelectedValue);
+                    } else {
+                        setDefaultRegionValueSemantic(regionElement, data, defaultRegionSelectedValue);
+                    }
                 }
             } else if (showEmptyCountryOption === false) {
-                generateRegionFieldSemantic(countryElementSemantic, regionElement);
+                if (isRegionAutocomplete.length > 0) {
+                    generateRegionFieldAutocomplete(countryElementSemantic, regionElement);
+                } else {
+                    generateRegionFieldSemantic(countryElementSemantic, regionElement);
+                }
             }
         } else {
             console.error("Region field with ID " + regionID + " not found.");
@@ -200,6 +232,166 @@
         }
     };
 
+    var generateCountryFieldAutocomplete = function(countryElementAutocomplete) {
+        var loaded = countryElementAutocomplete.getAttribute("data-gds-loaded");
+        if (loaded === "true") {
+            return;
+        }
+
+        countryElementAutocomplete.length = 0;
+        var langCountryAutocomplete = countryElementAutocomplete.getAttribute("data-language");
+        var countryStringAutocomplete;
+        switch (langCountryAutocomplete) {
+            case 'en':
+            default:
+                countryStringAutocomplete = "Please enter a country.";
+        }
+
+        var foundIndex = 0;
+        var countriesAutocomplete = [];
+        countryElementAutocomplete.setAttribute("placeholder", countryStringAutocomplete);
+        var defaultCountrySelectedValue = countryElementAutocomplete.getAttribute("country-data-default-value");
+
+        translate(countryElementAutocomplete);
+        initialiseRegion();
+
+        for (var i=0; i<country_region.length; i++) {
+            var value = country_region[i][1];
+            var cc_iso = country_region[i][0];
+            countriesAutocomplete.push(value);
+            if (defaultCountrySelectedValue != null && (defaultCountrySelectedValue === value || defaultCountrySelectedValue === cc_iso)) {
+                foundIndex = i;
+                if (showEmptyCountryOption) {
+                    foundIndex++;
+                }
+                jQuery(".gds-cr-autocomplete").val(value);
+            }
+        }
+
+        countryElementAutocomplete.selectedIndex = foundIndex;
+        jQuery(".gds-cr-autocomplete").autocomplete({
+            source: countriesAutocomplete
+        });
+
+        var regionID = countryElementAutocomplete.getAttribute("country-data-region-id");
+        if (!regionID) {
+            console.error("Missing data-region-id on country field.");
+            return;
+        }
+        var regionElement = document.getElementById(regionID);
+
+        if (regionElement) {
+            var isRegionAutocomplete = document.getElementsByClassName(regionID+"-autocomplete");
+            if (isRegionAutocomplete.length > 0) {
+                jQuery("."+regionID+"-autocomplete").val("-");
+                initialiseRegionFieldAutocomplete(regionElement);
+            } else {
+                initialiseRegionField(regionElement);
+            }
+
+            countryElementAutocomplete.onchange = function() {
+                var foundIndexChange = 0;
+                for (var i=0; i<country_region.length; i++) {
+                    var value = country_region[i][1];
+                    if (jQuery(".gds-cr-autocomplete").val() == value) {
+                        foundIndexChange = i;
+                        if (showEmptyCountryOption) {
+                            foundIndexChange++;
+                        }
+                    }
+                }
+                countryElementAutocomplete.selectedIndex = foundIndexChange;
+                if (isRegionAutocomplete.length > 0) {
+                    jQuery("."+regionID+"-autocomplete").val("");
+                    generateRegionFieldAutocomplete(countryElementAutocomplete, regionElement);
+                } else {
+                    generateRegionField(countryElementAutocomplete, regionElement);
+                }
+            };
+
+            if (defaultCountrySelectedValue !== null && countryElementAutocomplete.selectedIndex > 0) {
+                if (isRegionAutocomplete.length > 0) {
+                    jQuery("."+regionID+"-autocomplete").val("");
+                    generateRegionFieldAutocomplete(countryElementAutocomplete, regionElement);
+                } else {
+                    generateRegionField(countryElementAutocomplete, regionElement);
+                }
+                var defaultRegionSelectedValue = regionElement.getAttribute("region-data-default-value");
+                if (defaultRegionSelectedValue !== null) {
+                    var index = (showEmptyCountryOption) ? countryElementAutocomplete.selectedIndex - 1: countryElementAutocomplete.selectedIndex;
+                    var data = country_region[index][3];
+                    if (isRegionAutocomplete.length > 0) {
+                        setDefaultRegionValueAutocomplete(regionElement, data, defaultRegionSelectedValue);
+                    } else {
+                        setDefaultRegionValue(regionElement, data, defaultRegionSelectedValue);
+                    }
+                }
+            } else if (showEmptyCountryOption === false) {
+                if (isRegionAutocomplete.length > 0) {
+                    generateRegionFieldAutocomplete(countryElementAutocomplete, regionElement);
+                } else {
+                    generateRegionField(countryElementAutocomplete, regionElement);
+                }
+            }
+        } else {
+            console.error("Region field with ID " + regionID + " not found.");
+        }
+
+        countryElementAutocomplete.setAttribute("data-gds-loaded", "true");
+    };
+
+    var initialiseRegionFieldAutocomplete = function(regionElement) {
+        var customRegionBlankOptionString = regionElement.getAttribute("region-data-blank-option");
+        var defaultRegionBlankOptionString = customRegionBlankOptionString ? customRegionBlankOptionString : "-";
+        regionElement.length = 0;
+        if (showEmptyRegionOption) {
+            regionElement.length = 0;
+            jQuery("."+regionElement.id+"-autocomplete").val(defaultRegionBlankOptionString);
+            regionElement.setAttribute("disabled", true);
+        }
+    };
+
+    var generateRegionFieldAutocomplete = function(countryElement, regionElement) {
+        var langRegion = countryElement.getAttribute("data-language");
+        switch (langRegion) {
+            case 'en':
+            default:
+                regionString = "Please enter a region.";
+        }
+
+        var selectedCountryIndex = (showEmptyCountryOption) ? countryElement.selectedIndex - 1 : countryElement.selectedIndex;
+
+        if (countryElement.value === "") {
+            initialiseRegionFieldAutocomplete(regionElement);
+        } else if (typeof country_region[selectedCountryIndex] !== 'undefined') {
+            var regionsAutocomplete = [];
+            regionElement.length = 0;
+            regionElement.setAttribute("placeholder", regionString);
+            jQuery("."+regionElement.id+"-autocomplete").val("");
+            jQuery("."+regionElement.id+"-autocomplete").prop('disabled', false);
+
+            var regionData = country_region[selectedCountryIndex][3];
+            for (var i=0; i<regionData.regions.length; i++) {
+                var value = regionData.regions[i];
+                regionsAutocomplete.push(value[0]);
+            }
+            jQuery("."+regionElement.id+"-autocomplete").autocomplete({
+                source: regionsAutocomplete
+            });
+        } else {
+            initialiseRegionFieldAutocomplete(regionElement);
+        }
+    };
+
+    var setDefaultRegionValueAutocomplete = function(regionElement, data, defaultRegionSelectedValue) {
+        for (var i=0; i<data.regions.length; i++) {
+            var currVal = data.regions[i][0];
+            if (currVal === defaultRegionSelectedValue) {
+                jQuery("."+regionElement.id+"-autocomplete").val(currVal);
+                break;
+            }
+        }
+    };
 
     var generateCountryField = function(countryElement) {
         var loaded = countryElement.getAttribute("data-gds-loaded");
@@ -248,22 +440,46 @@
         var regionElement = document.getElementById(regionID);
 
         if (regionElement) {
-            initialiseRegionField(regionElement);
+            var isRegionAutocomplete = document.getElementsByClassName(regionID+"-autocomplete");
+            if (isRegionAutocomplete.length > 0) {
+                jQuery("."+regionID+"-autocomplete").val("-");
+                initialiseRegionFieldAutocomplete(regionElement);
+            } else {
+                initialiseRegionField(regionElement);
+            }
 
             countryElement.onchange = function() {
-                generateRegionField(countryElement, regionElement);
+                if (isRegionAutocomplete.length > 0) {
+                    jQuery("."+regionID+"-autocomplete").val("");
+                    generateRegionFieldAutocomplete(countryElement, regionElement);
+                } else {
+                    generateRegionField(countryElement, regionElement);
+                }
             };
 
             if (defaultCountrySelectedValue !== null && countryElement.selectedIndex > 0) {
-                generateRegionField(countryElement, regionElement);
+                if (isRegionAutocomplete.length > 0) {
+                    jQuery("."+regionID+"-autocomplete").val("");
+                    generateRegionFieldAutocomplete(countryElement, regionElement);
+                } else {
+                    generateRegionField(countryElement, regionElement);
+                }
                 var defaultRegionSelectedValue = regionElement.getAttribute("region-data-default-value");
                 if (defaultRegionSelectedValue !== null) {
                     var index = (showEmptyCountryOption) ? countryElement.selectedIndex - 1: countryElement.selectedIndex;
                     var data = country_region[index][3];
-                    setDefaultRegionValue(regionElement, data, defaultRegionSelectedValue);
+                    if (isRegionAutocomplete.length > 0) {
+                        setDefaultRegionValueAutocomplete(regionElement, data, defaultRegionSelectedValue);
+                    } else {
+                        setDefaultRegionValue(regionElement, data, defaultRegionSelectedValue);
+                    }
                 }
             } else if (showEmptyCountryOption === false) {
-                generateRegionField(countryElement, regionElement);
+                if (isRegionAutocomplete.length > 0) {
+                    generateRegionFieldAutocomplete(countryElement, regionElement);
+                } else {
+                    generateRegionField(countryElement, regionElement);
+                }
             }
         } else {
             console.error("Region field with ID " + regionID + " not found.");
@@ -642,7 +858,6 @@
     };
 
     var generateRegionField = function(countryElement, regionElement) {
-
         var langRegion = countryElement.getAttribute("data-language");
         switch (langRegion) {
             case 'en':
@@ -656,7 +871,7 @@
 
         if (countryElement.value === "") {
             initialiseRegionField(regionElement);
-        } else {
+        } else if (typeof country_region[selectedCountryIndex] !== 'undefined') {
             regionElement.length = 0;
             if (showEmptyRegionOption) {
                 regionElement.options[0] = new Option(defaultRegionOptionString, "");

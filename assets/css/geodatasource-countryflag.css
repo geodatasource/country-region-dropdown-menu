@@ -1,3 +1,10 @@
+.ui-autocomplete {
+    max-height: 130px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 20px;
+}
+
 .ui-icon.ad{
     width: 16px;
     height: 16px;

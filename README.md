@@ -100,6 +100,12 @@ Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a5
             Region: <select id="gds-cr-four"></select>
         </div>
 
+        <div>
+            Country: <input class="gds-cr-autocomplete" country-data-region-id="gds-cr-five" data-language="en">
+
+            Region: <input class="gds-cr-five-autocomplete" id="gds-cr-five">
+        </div>
+
       </body>
     </html>
 
@@ -179,7 +185,7 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 
 ## Attributes
 
-* Country field **must** be given a class name as ```gds-cr``` whereas ```gds-cr-semantic``` for country field that using Semantic-UI.
+* Country field **must** be given a class name as ```gds-cr``` whereas ```gds-cr-semantic``` for country field that using Semantic-UI whereas ```gds-cr-autocomplete``` for country field that using autocomplete input option.
 * ```gds-countryflag``` can be added to class name of country field to support country flag.
 * ```country-data-region-id``` is **required** in country field that contains the id of region field.
 * ```data-language``` is **required** in country field which use set the language used in both country and region data. Refer to [multilingual section](#multilingual-display-supported) for language code supported.

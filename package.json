@@ -1,6 +1,6 @@
 {
   "name": "country-region-dropdown-menu",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "A dropdown menu created with javascript that allows user to implement country-region dropdown list effortlessly.",
   "main": "assets/js/geodatasource-cr.min.js",
   "scripts": {
