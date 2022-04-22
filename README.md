@@ -52,6 +52,11 @@ Please check on [demo](https://www.geodatasource.com/software/country-region-dro
 
 Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a50/) page.
 
+## CDN of Librarires
+
+* [cdnjs](https://cdnjs.com/libraries/country-region-dropdown-menu)
+* [npmjs](https://www.npmjs.com/package/country-region-dropdown-menu)
+
 ## Usage
 
     <html>
