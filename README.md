@@ -58,7 +58,7 @@ Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a5
 * [npmjs](https://www.npmjs.com/package/country-region-dropdown-menu)
 
 ## Usage
-
+```
     <html>
       <head>
         <meta charset="UTF-8">
@@ -113,26 +113,26 @@ Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a5
 
       </body>
     </html>
+```
 
-
-## Bootstrap Usage
-If you are using Twitter Bootstrap, you may refer to the below example for the implementation.
-
+## Bootstrap with cdnjs Usage
+If you are using Twitter Bootstrap with cdnjs, you may refer to the below example for the implementation.
+```
     <!DOCTYPE html>
     <html>
     <head>
         <meta charset="UTF-8">
         <title>Country-Region DropDown Menu</title>
-    
+
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-    
+
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        <script src="assets/js/geodatasource-cr.min.js"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.3.0/js/geodatasource-cr.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" type="text/javascript"></script>
         <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-        <link rel="stylesheet" href="assets/css/geodatasource-countryflag.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.3.0/css/geodatasource-countryflag.min.css">
 
         <link rel="gettext" type="application/x-po" href="languages/en/LC_MESSAGES/en.po" />
         <script type="text/javascript" src="assets/js/Gettext.js"></script>
@@ -163,7 +163,7 @@ If you are using Twitter Bootstrap, you may refer to the below example for the i
         </div>
     </body>
     </html>
-
+```
 
 ## Node.js Usage
 The following steps show how to use the dropdown menu in **Express Web Framework**:
