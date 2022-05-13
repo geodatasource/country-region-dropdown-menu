@@ -64,7 +64,7 @@ Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a5
         <meta charset="UTF-8">
 
         <!-- link for jquery style -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
         <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
@@ -174,7 +174,7 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 4. Copy geodatasource-countryflag.png image to ```/public/img/``` directory.
 5. Copy languages folder to ```/public/``` directory.
 6. Include the script in the jade file by ```script(src='/javascripts/geodatasource-cr.min.js')```
-7. Include the script in the jade file by ```script(src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"))```
+7. Include the script in the jade file by ```script(src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"))```
 8. Include the script in the jade file by ```script(src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js")```
 9. Include the link in the jade file by ```link(rel='stylesheet' href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css")```
 10. Include the link in the jade file by ```link(rel='stylesheet' href='stylesheets/geodatasource-countryflag.css')```
