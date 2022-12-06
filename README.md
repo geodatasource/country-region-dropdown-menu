@@ -41,19 +41,16 @@ Please take a look on [How to add City DropDown to Country-Region DropDown Menu 
 * Support [amCharts Map Display](https://www.geodatasource.com/resources/tutorials/how-to-use-amcharts-with-country-region-dropdown-menu/).
 
 ## Demo
+[![Country-Region DropDown Menu Demo 1](http://www.geodatasource.com/images/country-region-dropdown-menu-screenshot1.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
 
-[![Country-Region DropDown Menu Demo 1](https://www.geodatasource.com/images/country-region-dropdown-menu-screenshot1.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
-
-[![Country-Region DropDown Menu Demo 2](https://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot2.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
+[![Country-Region DropDown Menu Demo 2](http://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot2.png)](https://www.geodatasource.com/software/country-region-dropdown-menu-demo)
 
 Please check on [demo](https://www.geodatasource.com/software/country-region-dropdown-menu-demo) page to have a clearer picture about how it works.
 
 ## Demo on JSFiddle
-
 Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a50/) page.
 
 ## CDN of Libraries
-
 * [cdnjs](https://cdnjs.com/libraries/country-region-dropdown-menu)
 * [npmjs](https://www.npmjs.com/package/country-region-dropdown-menu)
 
@@ -111,6 +108,12 @@ Please try out the demo on [JSFiddle](https://jsfiddle.net/geodatasource/1jsp9a5
             Region: <input class="gds-cr-five-autocomplete" id="gds-cr-five">
         </div>
 
+        <div>
+            Country: <select class="gds-cr" country-data-region-id="gds-cr-six" data-language="en" country-include="US,GB,DE,FR,IT,NL"></select>
+
+            Region: <select id="gds-cr-six" ></select>
+        </div>
+
       </body>
     </html>
 ```
@@ -128,11 +131,11 @@ If you are using Twitter Bootstrap with cdnjs, you may refer to the below exampl
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.3.1/js/geodatasource-cr.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.4.0/js/geodatasource-cr.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" type="text/javascript"></script>
         <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.3.1/css/geodatasource-countryflag.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.4.0/css/geodatasource-countryflag.min.css">
 
         <link rel="gettext" type="application/x-po" href="languages/en/LC_MESSAGES/en.po" />
         <script type="text/javascript" src="assets/js/Gettext.js"></script>
@@ -189,33 +192,34 @@ The following steps show how to use the dropdown menu in **Express Web Framework
 ```
 
 ## Attributes
-
 * Country field **must** be given a class name as ```gds-cr``` whereas ```gds-cr-semantic``` for country field that using Semantic-UI whereas ```gds-cr-autocomplete``` for country field that using autocomplete input option.
 * ```gds-countryflag``` can be added to class name of country field to support country flag.
 * ```country-data-region-id``` is **required** in country field that contains the id of region field.
 * ```data-language``` is **required** in country field which use set the language used in both country and region data. Refer to [multilingual section](#multilingual-display-supported) for language code supported.
 * ```country-data-default-value``` is optional in country field which use to set the default selected country value, it supports both ISO3166-1 alpha-2 Country Code and country full name.
+* ```country-include``` is optional in country field which use to set country dropdown with the specific countries, for example ```country-include="US,GB,DE,FR,IT,NL"```
+* ```country-exclude``` is optional in country field which use to exclude the specific countries from the country dropdown , for example ```country-exclude="US,GB,DE,FR,IT,NL"```
 * ```region-data-default-value``` is optional in region field which use set the default selected region value.
 
 ## Country Flag Designs
 The Country Flag is designed from IP2Location™ Country Flags [https://www.ip2location.com/free/country-flags](https://www.ip2location.com/free/country-flags)
 
 * Square Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag.css">```
-![Square Country Flag](https://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot2.png)
+![Square Country Flag](http://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot2.png)
 * Round Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-round.css">```
-![Round Country Flag](https://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot3.png)
+![Round Country Flag](http://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot3.png)
 * Bended Square Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-square-bended.css">```
-![Marker Country Flag](https://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot4.png)
+![Marker Country Flag](http://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot4.png)
 * Rounded Square Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-square-rounded.css">```
-![Marker Country Flag](https://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot5.png)
+![Marker Country Flag](http://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot5.png)
 * Shadow Square Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-square-shadow.css">```
-![Marker Country Flag](https://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot6.png)
+![Marker Country Flag](http://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot6.png)
+* Flag logo Country Flag with ```<link rel="stylesheet" href="assets/css/geodatasource-countryflag-flag.css">```
+![Flag logo Country Flag](http://www.geodatasource.com/images/gds-country-region-dropdown-menu-screenshot7.png)
 
 ## Sample page
-
 Please refer to example-default.html file.
 
 ## Support
-
 Email: support@geodatasource.com  
 URL: [https://www.geodatasource.com](https://www.geodatasource.com)

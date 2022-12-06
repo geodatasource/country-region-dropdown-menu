@@ -179,6 +179,13 @@
                 countryStringSemantic = "Please select a country.";
         }
         var defaultCountrySelectedValueSemantic = countryElementSemantic.getAttribute("country-data-default-value");
+        if (defaultCountrySelectedValueSemantic != null) {
+            if (defaultCountrySelectedValueSemantic == 'DO') {
+                defaultCountrySelectedValueSemantic = 'DO1';
+            } else if (defaultCountrySelectedValueSemantic == 'IN') {
+                defaultCountrySelectedValueSemantic = 'IN1';
+            }
+        }
         var foundIndex = 0;
         var countries = '<div class="item" data-value=""><i class="flag"></i>' + countryStringSemantic + '</div>';
 
@@ -194,6 +201,11 @@
                 if (showEmptyCountryOption) {
                     foundIndex++;
                 }
+            }
+            if (cc_iso == 'DO1') {
+                cc_iso = 'DO';
+            } else if (cc_iso == 'IN1') {
+                cc_iso = 'IN';
             }
             countries += '<div class="item" data-value="' + value + '"><i class="' + cc_iso.toLowerCase() + ' flag"></i>' + value + '</div>';
         }
@@ -509,6 +521,13 @@
         var countriesAutocomplete = [];
         countryElementAutocomplete.setAttribute("placeholder", countryStringAutocomplete);
         var defaultCountrySelectedValue = countryElementAutocomplete.getAttribute("country-data-default-value");
+        if (defaultCountrySelectedValue != null) {
+            if (defaultCountrySelectedValue == 'DO') {
+                defaultCountrySelectedValue = 'DO1';
+            } else if (defaultCountrySelectedValue == 'IN') {
+                defaultCountrySelectedValue = 'IN1';
+            }
+        }
 
         translate(countryElementAutocomplete);
         initialiseRegion();
@@ -835,6 +854,13 @@
         var customCountryOptionString = countryElement.getAttribute("country-data-default-option");
         var defaultCountryOptionString = customCountryOptionString ? customCountryOptionString : countryString;
         var defaultCountrySelectedValue = countryElement.getAttribute("country-data-default-value");
+        if (defaultCountrySelectedValue != null) {
+            if (defaultCountrySelectedValue == 'DO') {
+                defaultCountrySelectedValue = 'DO1';
+            } else if (defaultCountrySelectedValue == 'IN') {
+                defaultCountrySelectedValue = 'IN1';
+            }
+        }
         var foundIndex = 0;
 
         if (showEmptyCountryOption) {
@@ -916,10 +942,14 @@
 
     var translate = function(countryElement){
         var region_lang = countryElement.getAttribute("data-language");
+        var country_include = countryElement.getAttribute("country-include");
+        var country_exclude = countryElement.getAttribute("country-exclude");
         var get = new Gettext({ 'domain' : region_lang});
         var geodatasourceCountries = [];
         var geodatasourceCountry = [];
         var geodatasourceCountrySlice = [];
+        var geodatasourceCountryInclude = [];
+        var geodatasourceCountryExclude = [];
 
         //get translated country name
         var ad_country=get.gettext("Andorra_AD_C");var ae_country=get.gettext("United Arab Emirates_AE_C");var af_country=get.gettext("Afghanistan_AF_C");var ag_country=get.gettext("Antigua and Barbuda_AG_C");var ai_country=get.gettext("Anguilla_AI_C");var al_country=get.gettext("Albania_AL_C");var am_country=get.gettext("Armenia_AM_C");var ao_country=get.gettext("Angola_AO_C");var aq_country=get.gettext("Antarctica_AQ_C");var ar_country=get.gettext("Argentina_AR_C");var as_country=get.gettext("American Samoa_AS_C");var at_country=get.gettext("Austria_AT_C");var au_country=get.gettext("Australia_AU_C");var aw_country=get.gettext("Aruba_AW_C");var ax_country=get.gettext("Aland Islands_AX_C");var az_country=get.gettext("Azerbaijian_AZ_C");
@@ -1326,18 +1356,53 @@
             default:
                 geodatasourceCountries = ["AF","AX","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","AM","AW","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BQ","BA","BW","BR","IO","BN","BG","BF","BI","CV","KH","CM","CA","KY","CF","TD","CL","CN","CX","CC","CO","KM","CG","CD","CK","CR","CI","HR","CU","CW","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FK","FO","FJ","FI","FR","GF","PF","TF","GA","GM","GE","DE","GH","GI","GR","GL","GD","GP","GU","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IR","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KP","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MY","MV","ML","MT","MH","MQ","MR","MU","YT","MX","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NC","NZ","NI","NE","NG","NU","NF","MP","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PN","PL","PT","PR","QA","RE","RO","RU","RW","BL","SH","KN","LC","MF","PM","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SX","SK","SI","SB","SO","ZA","GS","SS","ES","LK","SD","SR","SJ","SZ","SE","CH","SY","TW","TJ","TZ","TH","TL","TG","TK","TO","TT","TN","TR","TM","TC","TV","UG","UA","AE","GB","US","UM","UY","UZ","VU","VE","VN","VG","VI","WF","EH","YE","ZM","ZW"];
         }
-        for (var i=0; i<geodatasourceCountries.length; i++) {
-            if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
-                geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
+
+        if (country_include != null) {
+            for (var i=0; i<geodatasourceCountries.length; i++) {
+                if (country_include.includes(geodatasourceCountries[i])) {
+                    if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
+                        geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
+                    }
+                    geodatasourceCountryInclude.push(geodatasourceCountries[i]);
+
+                    var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
+                    geodatasourceCountry.push(tmpCountry);
+
+                    var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
+                    geodatasourceCountrySlice.push(tmpCountrySlice);
+                }
             }
+            initialiseCountryRegionData(geodatasourceCountryInclude, geodatasourceCountry, geodatasourceCountrySlice);
+        } else if (country_exclude != null) {
+            for (var i=0; i<geodatasourceCountries.length; i++) {
+                if (!country_exclude.includes(geodatasourceCountries[i])) {
+                    if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
+                        geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
+                    }
+                    geodatasourceCountryExclude.push(geodatasourceCountries[i]);
 
-            var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
-            geodatasourceCountry.push(tmpCountry);
+                    var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
+                    geodatasourceCountry.push(tmpCountry);
 
-            var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
-            geodatasourceCountrySlice.push(tmpCountrySlice);
+                    var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
+                    geodatasourceCountrySlice.push(tmpCountrySlice);
+                }
+            }
+            initialiseCountryRegionData(geodatasourceCountryExclude, geodatasourceCountry, geodatasourceCountrySlice);
+        } else {
+            for (var i=0; i<geodatasourceCountries.length; i++) {
+                if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
+                    geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
+                }
+
+                var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
+                geodatasourceCountry.push(tmpCountry);
+
+                var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
+                geodatasourceCountrySlice.push(tmpCountrySlice);
+            }
+            initialiseCountryRegionData(geodatasourceCountries, geodatasourceCountry, geodatasourceCountrySlice);
         }
-        initialiseCountryRegionData(geodatasourceCountries, geodatasourceCountry, geodatasourceCountrySlice);
     };
 
     var initialiseCountryRegionData = function(geodatasourceCountries, geodatasourceCountry, geodatasourceCountrySlice) {

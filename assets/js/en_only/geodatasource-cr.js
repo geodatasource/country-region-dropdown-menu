@@ -70,7 +70,13 @@
             }
             var regionID = countryElement.getAttribute("country-data-region-id");
             var regionElement = document.getElementById(regionID);
-            generateRegionField(countryElement, regionElement);
+            var isRegionAutocomplete = document.getElementsByClassName(regionID+"-autocomplete");
+            if (isRegionAutocomplete.length > 0) {
+                jQuery("."+regionID+"-autocomplete").val("");
+                generateRegionFieldAutocomplete(countryElement, regionElement);
+            } else {
+                generateRegionField(countryElement, regionElement);
+            }
         }});
     };
 
@@ -89,6 +95,13 @@
                 countryStringSemantic = "Please select a country.";
         }
         var defaultCountrySelectedValueSemantic = countryElementSemantic.getAttribute("country-data-default-value");
+        if (defaultCountrySelectedValueSemantic != null) {
+            if (defaultCountrySelectedValueSemantic == 'DO') {
+                defaultCountrySelectedValueSemantic = 'DO1';
+            } else if (defaultCountrySelectedValueSemantic == 'IN') {
+                defaultCountrySelectedValueSemantic = 'IN1';
+            }
+        }
         var foundIndex = 0;
         var countries = '<div class="item" data-value=""><i class="flag"></i>' + countryStringSemantic + '</div>';
 
@@ -104,6 +117,11 @@
                 if (showEmptyCountryOption) {
                     foundIndex++;
                 }
+            }
+            if (cc_iso == 'DO1') {
+                cc_iso = 'DO';
+            } else if (cc_iso == 'IN1') {
+                cc_iso = 'IN';
             }
             countries += '<div class="item" data-value="' + value + '"><i class="' + cc_iso.toLowerCase() + ' flag"></i>' + value + '</div>';
         }
@@ -137,7 +155,7 @@
                 for (var i=0; i<country_region.length; i++) {
                     var value = country_region[i][1];
                     var cc_iso = country_region[i][0];
-                    if ($( ".ui.selection.dropdown.gds-cr-semantic" ).dropdown('get value') == value) {
+                    if (jQuery(".ui.selection.dropdown.gds-cr-semantic").dropdown('get value') == value) {
                         foundIndexChange = i;
                         if (showEmptyCountryOption) {
                             foundIndexChange++;
@@ -251,6 +269,13 @@
         var countriesAutocomplete = [];
         countryElementAutocomplete.setAttribute("placeholder", countryStringAutocomplete);
         var defaultCountrySelectedValue = countryElementAutocomplete.getAttribute("country-data-default-value");
+        if (defaultCountrySelectedValue != null) {
+            if (defaultCountrySelectedValue == 'DO') {
+                defaultCountrySelectedValue = 'DO1';
+            } else if (defaultCountrySelectedValue == 'IN') {
+                defaultCountrySelectedValue = 'IN1';
+            }
+        }
 
         translate(countryElementAutocomplete);
         initialiseRegion();
@@ -409,6 +434,13 @@
         var customCountryOptionString = countryElement.getAttribute("country-data-default-option");
         var defaultCountryOptionString = customCountryOptionString ? customCountryOptionString : countryString;
         var defaultCountrySelectedValue = countryElement.getAttribute("country-data-default-value");
+        if (defaultCountrySelectedValue != null) {
+            if (defaultCountrySelectedValue == 'DO') {
+                defaultCountrySelectedValue = 'DO1';
+            } else if (defaultCountrySelectedValue == 'IN') {
+                defaultCountrySelectedValue = 'IN1';
+            }
+        }
         var foundIndex = 0;
 
         if (showEmptyCountryOption) {
@@ -490,7 +522,14 @@
 
     var translate = function(countryElement){
         var region_lang = countryElement.getAttribute("data-language");
+        var country_include = countryElement.getAttribute("country-include");
+        var country_exclude = countryElement.getAttribute("country-exclude");
         var get = new Gettext({ 'domain' : region_lang});
+        var geodatasourceCountries = [];
+        var geodatasourceCountry = [];
+        var geodatasourceCountrySlice = [];
+        var geodatasourceCountryInclude = [];
+        var geodatasourceCountryExclude = [];
 
         //get translated country name
         var ad_country=get.gettext("Andorra");var ae_country=get.gettext("United Arab Emirates");var af_country=get.gettext("Afghanistan");var ag_country=get.gettext("Antigua and Barbuda");var ai_country=get.gettext("Anguilla");var al_country=get.gettext("Albania");var am_country=get.gettext("Armenia");var ao_country=get.gettext("Angola");var aq_country=get.gettext("Antarctica");var ar_country=get.gettext("Argentina");var as_country=get.gettext("American Samoa");var at_country=get.gettext("Austria");var au_country=get.gettext("Australia");var aw_country=get.gettext("Aruba");var ax_country=get.gettext("Aland Islands");var az_country=get.gettext("Azerbaijian");
@@ -799,7 +838,6 @@
         var za=[];var zm=[];var zw=[];
 
         for (var i=0; i<arrlen; i++) {
-
             ad +=(get.gettext(ad_region[i])+"|");ae +=(get.gettext(ae_region[i])+"|");af +=(get.gettext(af_region[i])+"|");ag +=(get.gettext(ag_region[i])+"|");ai +=(get.gettext(ai_region[i])+"|");al +=(get.gettext(al_region[i])+"|");am +=(get.gettext(am_region[i])+"|");ao +=(get.gettext(ao_region[i])+"|");aq +=(get.gettext(aq_region[i])+"|");ar +=(get.gettext(ar_region[i])+"|");as +=(get.gettext(as_region[i])+"|");at +=(get.gettext(at_region[i])+"|");au +=(get.gettext(au_region[i])+"|");aw +=(get.gettext(aw_region[i])+"|");ax +=(get.gettext(ax_region[i])+"|");az +=(get.gettext(az_region[i])+"|");
             ba +=(get.gettext(ba_region[i])+"|");bb +=(get.gettext(bb_region[i])+"|");bd +=(get.gettext(bd_region[i])+"|");be +=(get.gettext(be_region[i])+"|");bf +=(get.gettext(bf_region[i])+"|");bg +=(get.gettext(bg_region[i])+"|");bh +=(get.gettext(bh_region[i])+"|");bi +=(get.gettext(bi_region[i])+"|");bj +=(get.gettext(bj_region[i])+"|");bl +=(get.gettext(bl_region[i])+"|");bm +=(get.gettext(bm_region[i])+"|");bn +=(get.gettext(bn_region[i])+"|");bo +=(get.gettext(bo_region[i])+"|");bq +=(get.gettext(bq_region[i])+"|");br +=(get.gettext(br_region[i])+"|");bs +=(get.gettext(bs_region[i])+"|");bt +=(get.gettext(bt_region[i])+"|");bw +=(get.gettext(bw_region[i])+"|");by +=(get.gettext(by_region[i])+"|");bz +=(get.gettext(bz_region[i])+"|");
             ca +=(get.gettext(ca_region[i])+"|");cc +=(get.gettext(cc_region[i])+"|");cd +=(get.gettext(cd_region[i])+"|");cf +=(get.gettext(cf_region[i])+"|");cg +=(get.gettext(cg_region[i])+"|");ch +=(get.gettext(ch_region[i])+"|");ci +=(get.gettext(ci_region[i])+"|");ck +=(get.gettext(ck_region[i])+"|");cl +=(get.gettext(cl_region[i])+"|");cm +=(get.gettext(cm_region[i])+"|");cn +=(get.gettext(cn_region[i])+"|");co +=(get.gettext(co_region[i])+"|");cr +=(get.gettext(cr_region[i])+"|");cu +=(get.gettext(cu_region[i])+"|");cv +=(get.gettext(cv_region[i])+"|");cw +=(get.gettext(cw_region[i])+"|");cx +=(get.gettext(cx_region[i])+"|");cy +=(get.gettext(cy_region[i])+"|");cz +=(get.gettext(cz_region[i])+"|");
@@ -825,11 +863,65 @@
             wf +=(get.gettext(wf_region[i])+"|");ws +=(get.gettext(ws_region[i])+"|");
             ye +=(get.gettext(ye_region[i])+"|");yt +=(get.gettext(yt_region[i])+"|");
             za +=(get.gettext(za_region[i])+"|");zm +=(get.gettext(zm_region[i])+"|");zw +=(get.gettext(zw_region[i])+"|");
-
         }
 
-        var geodatasource_data=[["AF",af_country,af.slice(0, -(arrlen-af_region.length+1))],["AX",ax_country,ax.slice(0, -(arrlen-ax_region.length+1))],["AL",al_country,al.slice(0, -(arrlen-al_region.length+1))],["DZ",dz_country,dz.slice(0, -(arrlen-dz_region.length+1))],["AS",as_country,as.slice(0, -(arrlen-as_region.length+1))],["AD",ad_country,ad.slice(0, -(arrlen-ad_region.length+1))],["AO",ao_country,ao.slice(0, -(arrlen-ao_region.length+1))],["AI",ai_country,ai.slice(0, -(arrlen-ai_region.length+1))],["AQ",aq_country,aq.slice(0, -(arrlen-aq_region.length+1))],["AG",ag_country,ag.slice(0, -(arrlen-ag_region.length+1))],["AR",ar_country,ar.slice(0, -(arrlen-ar_region.length+1))],["AM",am_country,am.slice(0, -(arrlen-am_region.length+1))],["AW",aw_country,aw.slice(0, -(arrlen-aw_region.length+1))],["AU",au_country,au.slice(0, -(arrlen-au_region.length+1))],["AT",at_country,at.slice(0, -(arrlen-at_region.length+1))],["AZ",az_country,az.slice(0, -(arrlen-az_region.length+1))],["BS",bs_country,bs.slice(0, -(arrlen-bs_region.length+1))],["BH",bh_country,bh.slice(0, -(arrlen-bh_region.length+1))],["BD",bd_country,bd.slice(0, -(arrlen-bd_region.length+1))],["BB",bb_country,bb.slice(0, -(arrlen-bb_region.length+1))],["BY",by_country,by.slice(0, -(arrlen-by_region.length+1))],["BE",be_country,be.slice(0, -(arrlen-be_region.length+1))],["BZ",bz_country,bz.slice(0, -(arrlen-bz_region.length+1))],["BJ",bj_country,bj.slice(0, -(arrlen-bj_region.length+1))],["BM",bm_country,bm.slice(0, -(arrlen-bm_region.length+1))],["BT",bt_country,bt.slice(0, -(arrlen-bt_region.length+1))],["BO",bo_country,bo.slice(0, -(arrlen-bo_region.length+1))],["BQ",bq_country,bq.slice(0, -(arrlen-bq_region.length+1))],["BA",ba_country,ba.slice(0, -(arrlen-ba_region.length+1))],["BW",bw_country,bw.slice(0, -(arrlen-bw_region.length+1))],["BR",br_country,br.slice(0, -(arrlen-br_region.length+1))],["IO",io_country,io.slice(0, -(arrlen-io_region.length+1))],["BN",bn_country,bn.slice(0, -(arrlen-bn_region.length+1))],["BG",bg_country,bg.slice(0, -(arrlen-bg_region.length+1))],["BF",bf_country,bf.slice(0, -(arrlen-bf_region.length+1))],["BI",bi_country,bi.slice(0, -(arrlen-bi_region.length+1))],["CV",cv_country,cv.slice(0, -(arrlen-cv_region.length+1))],["KH",kh_country,kh.slice(0, -(arrlen-kh_region.length+1))],["CM",cm_country,cm.slice(0, -(arrlen-cm_region.length+1))],["CA",ca_country,ca.slice(0, -(arrlen-ca_region.length+1))],["KY",ky_country,ky.slice(0, -(arrlen-ky_region.length+1))],["CF",cf_country,cf.slice(0, -(arrlen-cf_region.length+1))],["TD",td_country,td.slice(0, -(arrlen-td_region.length+1))],["CL",cl_country,cl.slice(0, -(arrlen-cl_region.length+1))],["CN",cn_country,cn.slice(0, -(arrlen-cn_region.length+1))],["CX",cx_country,cx.slice(0, -(arrlen-cx_region.length+1))],["CC",cc_country,cc.slice(0, -(arrlen-cc_region.length+1))],["CO",co_country,co.slice(0, -(arrlen-co_region.length+1))],["KM",km_country,km.slice(0, -(arrlen-km_region.length+1))],["CG",cg_country,cg.slice(0, -(arrlen-cg_region.length+1))],["CD",cd_country,cd.slice(0, -(arrlen-cd_region.length+1))],["CK",ck_country,ck.slice(0, -(arrlen-ck_region.length+1))],["CR",cr_country,cr.slice(0, -(arrlen-cr_region.length+1))],["CI",ci_country,ci.slice(0, -(arrlen-ci_region.length+1))],["HR",hr_country,hr.slice(0, -(arrlen-hr_region.length+1))],["CU",cu_country,cu.slice(0, -(arrlen-cu_region.length+1))],["CW",cw_country,cw.slice(0, -(arrlen-cw_region.length+1))],["CY",cy_country,cy.slice(0, -(arrlen-cy_region.length+1))],["CZ",cz_country,cz.slice(0, -(arrlen-cz_region.length+1))],["DK",dk_country,dk.slice(0, -(arrlen-dk_region.length+1))],["DJ",dj_country,dj.slice(0, -(arrlen-dj_region.length+1))],["DM",dm_country,dm.slice(0, -(arrlen-dm_region.length+1))],["DO",do1_country,do1.slice(0, -(arrlen-do1_region.length+1))],["EC",ec_country,ec.slice(0, -(arrlen-ec_region.length+1))],["EG",eg_country,eg.slice(0, -(arrlen-eg_region.length+1))],["SV",sv_country,sv.slice(0, -(arrlen-sv_region.length+1))],["GQ",gq_country,gq.slice(0, -(arrlen-gq_region.length+1))],["ER",er_country,er.slice(0, -(arrlen-er_region.length+1))],["EE",ee_country,ee.slice(0, -(arrlen-ee_region.length+1))],["ET",et_country,et.slice(0, -(arrlen-et_region.length+1))],["FK",fk_country,fk.slice(0, -(arrlen-fk_region.length+1))],["FO",fo_country,fo.slice(0, -(arrlen-fo_region.length+1))],["FJ",fj_country,fj.slice(0, -(arrlen-fj_region.length+1))],["FI",fi_country,fi.slice(0, -(arrlen-fi_region.length+1))],["FR",fr_country,fr.slice(0, -(arrlen-fr_region.length+1))],["GF",gf_country,gf.slice(0, -(arrlen-gf_region.length+1))],["PF",pf_country,pf.slice(0, -(arrlen-pf_region.length+1))],["TF",tf_country,tf.slice(0, -(arrlen-tf_region.length+1))],["GA",ga_country,ga.slice(0, -(arrlen-ga_region.length+1))],["GM",gm_country,gm.slice(0, -(arrlen-gm_region.length+1))],["GE",ge_country,ge.slice(0, -(arrlen-ge_region.length+1))],["DE",de_country,de.slice(0, -(arrlen-de_region.length+1))],["GH",gh_country,gh.slice(0, -(arrlen-gh_region.length+1))],["GI",gi_country,gi.slice(0, -(arrlen-gi_region.length+1))],["GR",gr_country,gr.slice(0, -(arrlen-gr_region.length+1))],["GL",gl_country,gl.slice(0, -(arrlen-gl_region.length+1))],["GD",gd_country,gd.slice(0, -(arrlen-gd_region.length+1))],["GP",gp_country,gp.slice(0, -(arrlen-gp_region.length+1))],["GU",gu_country,gu.slice(0, -(arrlen-gu_region.length+1))],["GT",gt_country,gt.slice(0, -(arrlen-gt_region.length+1))],["GG",gg_country,gg.slice(0, -(arrlen-gg_region.length+1))],["GN",gn_country,gn.slice(0, -(arrlen-gn_region.length+1))],["GW",gw_country,gw.slice(0, -(arrlen-gw_region.length+1))],["GY",gy_country,gy.slice(0, -(arrlen-gy_region.length+1))],["HT",ht_country,ht.slice(0, -(arrlen-ht_region.length+1))],["VA",va_country,va.slice(0, -(arrlen-va_region.length+1))],["HN",hn_country,hn.slice(0, -(arrlen-hn_region.length+1))],["HK",hk_country,hk.slice(0, -(arrlen-hk_region.length+1))],["HU",hu_country,hu.slice(0, -(arrlen-hu_region.length+1))],["IS",is_country,is.slice(0, -(arrlen-is_region.length+1))],["IN",in1_country,in1.slice(0, -(arrlen-in1_region.length+1))],["ID",id_country,id.slice(0, -(arrlen-id_region.length+1))],["IR",ir_country,ir.slice(0, -(arrlen-ir_region.length+1))],["IQ",iq_country,iq.slice(0, -(arrlen-iq_region.length+1))],["IE",ie_country,ie.slice(0, -(arrlen-ie_region.length+1))],["IM",im_country,im.slice(0, -(arrlen-im_region.length+1))],["IL",il_country,il.slice(0, -(arrlen-il_region.length+1))],["IT",it_country,it.slice(0, -(arrlen-it_region.length+1))],["JM",jm_country,jm.slice(0, -(arrlen-jm_region.length+1))],["JP",jp_country,jp.slice(0, -(arrlen-jp_region.length+1))],["JE",je_country,je.slice(0, -(arrlen-je_region.length+1))],["JO",jo_country,jo.slice(0, -(arrlen-jo_region.length+1))],["KZ",kz_country,kz.slice(0, -(arrlen-kz_region.length+1))],["KE",ke_country,ke.slice(0, -(arrlen-ke_region.length+1))],["KI",ki_country,ki.slice(0, -(arrlen-ki_region.length+1))],["KP",kp_country,kp.slice(0, -(arrlen-kp_region.length+1))],["KR",kr_country,kr.slice(0, -(arrlen-kr_region.length+1))],["KW",kw_country,kw.slice(0, -(arrlen-kw_region.length+1))],["KG",kg_country,kg.slice(0, -(arrlen-kg_region.length+1))],["LA",la_country,la.slice(0, -(arrlen-la_region.length+1))],["LV",lv_country,lv.slice(0, -(arrlen-lv_region.length+1))],["LB",lb_country,lb.slice(0, -(arrlen-lb_region.length+1))],["LS",ls_country,ls.slice(0, -(arrlen-ls_region.length+1))],["LR",lr_country,lr.slice(0, -(arrlen-lr_region.length+1))],["LY",ly_country,ly.slice(0, -(arrlen-ly_region.length+1))],["LI",li_country,li.slice(0, -(arrlen-li_region.length+1))],["LT",lt_country,lt.slice(0, -(arrlen-lt_region.length+1))],["LU",lu_country,lu.slice(0, -(arrlen-lu_region.length+1))],["MO",mo_country,mo.slice(0, -(arrlen-mo_region.length+1))],["MK",mk_country,mk.slice(0, -(arrlen-mk_region.length+1))],["MG",mg_country,mg.slice(0, -(arrlen-mg_region.length+1))],["MW",mw_country,mw.slice(0, -(arrlen-mw_region.length+1))],["MY",my_country,my.slice(0, -(arrlen-my_region.length+1))],["MV",mv_country,mv.slice(0, -(arrlen-mv_region.length+1))],["ML",ml_country,ml.slice(0, -(arrlen-ml_region.length+1))],["MT",mt_country,mt.slice(0, -(arrlen-mt_region.length+1))],["MH",mh_country,mh.slice(0, -(arrlen-mh_region.length+1))],["MQ",mq_country,mq.slice(0, -(arrlen-mq_region.length+1))],["MR",mr_country,mr.slice(0, -(arrlen-mr_region.length+1))],["MU",mu_country,mu.slice(0, -(arrlen-mu_region.length+1))],["YT",yt_country,yt.slice(0, -(arrlen-yt_region.length+1))],["MX",mx_country,mx.slice(0, -(arrlen-mx_region.length+1))],["FM",fm_country,fm.slice(0, -(arrlen-fm_region.length+1))],["MD",md_country,md.slice(0, -(arrlen-md_region.length+1))],["MC",mc_country,mc.slice(0, -(arrlen-mc_region.length+1))],["MN",mn_country,mn.slice(0, -(arrlen-mn_region.length+1))],["ME",me_country,me.slice(0, -(arrlen-me_region.length+1))],["MS",ms_country,ms.slice(0, -(arrlen-ms_region.length+1))],["MA",ma_country,ma.slice(0, -(arrlen-ma_region.length+1))],["MZ",mz_country,mz.slice(0, -(arrlen-mz_region.length+1))],["MM",mm_country,mm.slice(0, -(arrlen-mm_region.length+1))],["NA",na_country,na.slice(0, -(arrlen-na_region.length+1))],["NR",nr_country,nr.slice(0, -(arrlen-nr_region.length+1))],["NP",np_country,np.slice(0, -(arrlen-np_region.length+1))],["NL",nl_country,nl.slice(0, -(arrlen-nl_region.length+1))],["NC",nc_country,nc.slice(0, -(arrlen-nc_region.length+1))],["NZ",nz_country,nz.slice(0, -(arrlen-nz_region.length+1))],["NI",ni_country,ni.slice(0, -(arrlen-ni_region.length+1))],["NE",ne_country,ne.slice(0, -(arrlen-ne_region.length+1))],["NG",ng_country,ng.slice(0, -(arrlen-ng_region.length+1))],["NU",nu_country,nu.slice(0, -(arrlen-nu_region.length+1))],["NF",nf_country,nf.slice(0, -(arrlen-nf_region.length+1))],["MP",mp_country,mp.slice(0, -(arrlen-mp_region.length+1))],["NO",no_country,no.slice(0, -(arrlen-no_region.length+1))],["OM",om_country,om.slice(0, -(arrlen-om_region.length+1))],["PK",pk_country,pk.slice(0, -(arrlen-pk_region.length+1))],["PW",pw_country,pw.slice(0, -(arrlen-pw_region.length+1))],["PS",ps_country,ps.slice(0, -(arrlen-ps_region.length+1))],["PA",pa_country,pa.slice(0, -(arrlen-pa_region.length+1))],["PG",pg_country,pg.slice(0, -(arrlen-pg_region.length+1))],["PY",py_country,py.slice(0, -(arrlen-py_region.length+1))],["PE",pe_country,pe.slice(0, -(arrlen-pe_region.length+1))],["PH",ph_country,ph.slice(0, -(arrlen-ph_region.length+1))],["PN",pn_country,pn.slice(0, -(arrlen-pn_region.length+1))],["PL",pl_country,pl.slice(0, -(arrlen-pl_region.length+1))],["PT",pt_country,pt.slice(0, -(arrlen-pt_region.length+1))],["PR",pr_country,pr.slice(0, -(arrlen-pr_region.length+1))],["QA",qa_country,qa.slice(0, -(arrlen-qa_region.length+1))],["RE",re_country,re.slice(0, -(arrlen-re_region.length+1))],["RO",ro_country,ro.slice(0, -(arrlen-ro_region.length+1))],["RU",ru_country,ru.slice(0, -(arrlen-ru_region.length+1))],["RW",rw_country,rw.slice(0, -(arrlen-rw_region.length+1))],["BL",bl_country,bl.slice(0, -(arrlen-bl_region.length+1))],["SH",sh_country,sh.slice(0, -(arrlen-sh_region.length+1))],["KN",kn_country,kn.slice(0, -(arrlen-kn_region.length+1))],["LC",lc_country,lc.slice(0, -(arrlen-lc_region.length+1))],["MF",mf_country,mf.slice(0, -(arrlen-mf_region.length+1))],["PM",pm_country,pm.slice(0, -(arrlen-pm_region.length+1))],["VC",vc_country,vc.slice(0, -(arrlen-vc_region.length+1))],["WS",ws_country,ws.slice(0, -(arrlen-ws_region.length+1))],["SM",sm_country,sm.slice(0, -(arrlen-sm_region.length+1))],["ST",st_country,st.slice(0, -(arrlen-st_region.length+1))],["SA",sa_country,sa.slice(0, -(arrlen-sa_region.length+1))],["SN",sn_country,sn.slice(0, -(arrlen-sn_region.length+1))],["RS",rs_country,rs.slice(0, -(arrlen-rs_region.length+1))],["SC",sc_country,sc.slice(0, -(arrlen-sc_region.length+1))],["SL",sl_country,sl.slice(0, -(arrlen-sl_region.length+1))],["SG",sg_country,sg.slice(0, -(arrlen-sg_region.length+1))],["SX",sx_country,sx.slice(0, -(arrlen-sx_region.length+1))],["SK",sk_country,sk.slice(0, -(arrlen-sk_region.length+1))],["SI",si_country,si.slice(0, -(arrlen-si_region.length+1))],["SB",sb_country,sb.slice(0, -(arrlen-sb_region.length+1))],["SO",so_country,so.slice(0, -(arrlen-so_region.length+1))],["ZA",za_country,za.slice(0, -(arrlen-za_region.length+1))],["GS",gs_country,gs.slice(0, -(arrlen-gs_region.length+1))],["SS",ss_country,ss.slice(0, -(arrlen-ss_region.length+1))],["ES",es_country,es.slice(0, -(arrlen-es_region.length+1))],["LK",lk_country,lk.slice(0, -(arrlen-lk_region.length+1))],["SD",sd_country,sd.slice(0, -(arrlen-sd_region.length+1))],["SR",sr_country,sr.slice(0, -(arrlen-sr_region.length+1))],["SJ",sj_country,sj.slice(0, -(arrlen-sj_region.length+1))],["SZ",sz_country,sz.slice(0, -(arrlen-sz_region.length+1))],["SE",se_country,se.slice(0, -(arrlen-se_region.length+1))],["CH",ch_country,ch.slice(0, -(arrlen-ch_region.length+1))],["SY",sy_country,sy.slice(0, -(arrlen-sy_region.length+1))],["TW",tw_country,tw.slice(0, -(arrlen-tw_region.length+1))],["TJ",tj_country,tj.slice(0, -(arrlen-tj_region.length+1))],["TZ",tz_country,tz.slice(0, -(arrlen-tz_region.length+1))],["TH",th_country,th.slice(0, -(arrlen-th_region.length+1))],["TL",tl_country,tl.slice(0, -(arrlen-tl_region.length+1))],["TG",tg_country,tg.slice(0, -(arrlen-tg_region.length+1))],["TK",tk_country,tk.slice(0, -(arrlen-tk_region.length+1))],["TO",to_country,to.slice(0, -(arrlen-to_region.length+1))],["TT",tt_country,tt.slice(0, -(arrlen-tt_region.length+1))],["TN",tn_country,tn.slice(0, -(arrlen-tn_region.length+1))],["TR",tr_country,tr.slice(0, -(arrlen-tr_region.length+1))],["TM",tm_country,tm.slice(0, -(arrlen-tm_region.length+1))],["TC",tc_country,tc.slice(0, -(arrlen-tc_region.length+1))],["TV",tv_country,tv.slice(0, -(arrlen-tv_region.length+1))],["UG",ug_country,ug.slice(0, -(arrlen-ug_region.length+1))],["UA",ua_country,ua.slice(0, -(arrlen-ua_region.length+1))],["AE",ae_country,ae.slice(0, -(arrlen-ae_region.length+1))],["GB",gb_country,gb.slice(0, -(arrlen-gb_region.length+1))],["US",us_country,us.slice(0, -(arrlen-us_region.length+1))],["UM",um_country,um.slice(0, -(arrlen-um_region.length+1))],["UY",uy_country,uy.slice(0, -(arrlen-uy_region.length+1))],["UZ",uz_country,uz.slice(0, -(arrlen-uz_region.length+1))],["VU",vu_country,vu.slice(0, -(arrlen-vu_region.length+1))],["VE",ve_country,ve.slice(0, -(arrlen-ve_region.length+1))],["VN",vn_country,vn.slice(0, -(arrlen-vn_region.length+1))],["VG",vg_country,vg.slice(0, -(arrlen-vg_region.length+1))],["VI",vi_country,vi.slice(0, -(arrlen-vi_region.length+1))],["WF",wf_country,wf.slice(0, -(arrlen-wf_region.length+1))],["EH",eh_country,eh.slice(0, -(arrlen-eh_region.length+1))],["YE",ye_country,ye.slice(0, -(arrlen-ye_region.length+1))],["ZM",zm_country,zm.slice(0, -(arrlen-zm_region.length+1))],["ZW",zw_country,zw.slice(0, -(arrlen-zw_region.length+1))]];
-        country_region= geodatasource_data;
+        geodatasourceCountries = ["AF","AX","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","AM","AW","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BQ","BA","BW","BR","IO","BN","BG","BF","BI","CV","KH","CM","CA","KY","CF","TD","CL","CN","CX","CC","CO","KM","CG","CD","CK","CR","CI","HR","CU","CW","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FK","FO","FJ","FI","FR","GF","PF","TF","GA","GM","GE","DE","GH","GI","GR","GL","GD","GP","GU","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IR","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KP","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MY","MV","ML","MT","MH","MQ","MR","MU","YT","MX","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NC","NZ","NI","NE","NG","NU","NF","MP","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PN","PL","PT","PR","QA","RE","RO","RU","RW","BL","SH","KN","LC","MF","PM","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SX","SK","SI","SB","SO","ZA","GS","SS","ES","LK","SD","SR","SJ","SZ","SE","CH","SY","TW","TJ","TZ","TH","TL","TG","TK","TO","TT","TN","TR","TM","TC","TV","UG","UA","AE","GB","US","UM","UY","UZ","VU","VE","VN","VG","VI","WF","EH","YE","ZM","ZW"];
+
+        if (country_include != null) {
+            for (var i=0; i<geodatasourceCountries.length; i++) {
+                if (country_include.includes(geodatasourceCountries[i])) {
+                    if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
+                        geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
+                    }
+                    geodatasourceCountryInclude.push(geodatasourceCountries[i]);
+
+                    var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
+                    geodatasourceCountry.push(tmpCountry);
+
+                    var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
+                    geodatasourceCountrySlice.push(tmpCountrySlice);
+                }
+            }
+            initialiseCountryRegionData(geodatasourceCountryInclude, geodatasourceCountry, geodatasourceCountrySlice);
+        } else if (country_exclude != null) {
+            for (var i=0; i<geodatasourceCountries.length; i++) {
+                if (!country_exclude.includes(geodatasourceCountries[i])) {
+                    if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
+                        geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
+                    }
+                    geodatasourceCountryExclude.push(geodatasourceCountries[i]);
+
+                    var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
+                    geodatasourceCountry.push(tmpCountry);
+
+                    var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
+                    geodatasourceCountrySlice.push(tmpCountrySlice);
+                }
+            }
+            initialiseCountryRegionData(geodatasourceCountryExclude, geodatasourceCountry, geodatasourceCountrySlice);
+        } else {
+            for (var i=0; i<geodatasourceCountries.length; i++) {
+                if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
+                    geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
+                }
+
+                var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
+                geodatasourceCountry.push(tmpCountry);
+
+                var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
+                geodatasourceCountrySlice.push(tmpCountrySlice);
+            }
+            initialiseCountryRegionData(geodatasourceCountries, geodatasourceCountry, geodatasourceCountrySlice);
+        }
+    };
+
+    var initialiseCountryRegionData = function(geodatasourceCountries, geodatasourceCountry, geodatasourceCountrySlice) {
+        var geodatasource_data = [];
+        for (var i=0; i<geodatasourceCountries.length; i++) {
+            var tmp = [geodatasourceCountries[i], geodatasourceCountry[i], geodatasourceCountrySlice[i]];
+            geodatasource_data.push(tmp);
+        }
+        country_region = geodatasource_data;
     };
 
     var initialiseRegion = function() {

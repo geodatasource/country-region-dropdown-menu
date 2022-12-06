@@ -46,6 +46,7 @@
                 return li.append(wrapper).appendTo(ul);
             }
         });
+
         jQuery(".gds-countryflag").iconselectmenu().iconselectmenu("menuWidget").addClass("ui-menu-icons customicons");
         jQuery(".gds-countryflag").iconselectmenu({ change: function(event) {
             var el = (event.target);
@@ -69,9 +70,106 @@
         }
 
         countryElement.length = 0;
+        var langCountry = countryElement.getAttribute("data-language");
+        switch (langCountry) {
+            case 'ar':
+                countryString = "رجاء قم بإختيار دوله";
+                break;
+
+            case 'cs':
+                countryString = "Vyberte prosím zemi.";
+                break;
+
+            case 'da':
+                countryString = "Vælg venligst et land.";
+                break;
+
+            case 'de':
+                countryString = "Bitte wähle ein Land.";
+                break;
+
+            case 'es':
+                countryString = "Por favor seleccione un país.";
+                break;
+
+            case 'et':
+                countryString = "Palun valige riik.";
+                break;
+
+            case 'fi':
+                countryString = "Valitse maa.";
+                break;
+
+            case 'fr':
+                countryString = "S'il vous plaît sélectionner un pays.";
+                break;
+
+            case 'ga':
+                countryString = "Roghnaigh tír.";
+                break;
+
+            case 'it':
+                countryString = "Per favore seleziona una nazione.";
+                break;
+
+            case 'ja':
+                countryString = "国を選択してください。";
+                break;
+
+            case 'ko':
+                countryString = "국가를 선택하십시오";
+                break;
+
+            case 'ms':
+                countryString = "Sila pilih salah satu negara.";
+                break;
+
+            case 'nl':
+                countryString = "Selecteer alstublieft een land.";
+                break;
+
+            case 'pt':
+                countryString = "Por favor, selecione um País: Brasil.";
+                break;
+
+            case 'ru':
+                countryString = "Пожалуйста, выберите страну.";
+                break;
+
+            case 'sv':
+                countryString = "Var god välj ett land.";
+                break;
+
+            case 'tr':
+                countryString = "Lütfen bir ülke seçin.";
+                break;
+
+            case 'vi':
+                countryString = "Vui lòng chọn một quốc gia.";
+                break;
+
+            case 'zh-cn':
+                countryString = "请选择一个国家。";
+                break;
+
+            case 'zh-tw':
+                countryString = "請選擇一個國家。";
+                break;
+
+            case 'en':
+            default:
+                countryString = "Please select a country.";
+        }
         var customCountryOptionString = countryElement.getAttribute("country-data-default-option");
         var defaultCountryOptionString = customCountryOptionString ? customCountryOptionString : countryString;
         var defaultCountrySelectedValue = countryElement.getAttribute("country-data-default-value");
+        if (defaultCountrySelectedValue != null) {
+            if (defaultCountrySelectedValue == 'DO') {
+                defaultCountrySelectedValue = 'DO1';
+            } else if (defaultCountrySelectedValue == 'IN') {
+                defaultCountrySelectedValue = 'IN1';
+            }
+        }
         var foundIndex = 0;
 
         if (showEmptyCountryOption) {
@@ -102,11 +200,20 @@
         }
         var regionElement = document.getElementById(regionID);
 
+        var cityID = regionElement.getAttribute("region-data-city-id");
+        if (!cityID) {
+            console.error("Missing data-city-id on region field.");
+        }
+        var cityElement = document.getElementById(cityID);
+
         if (regionElement) {
             initialiseRegionField(regionElement);
 
             countryElement.onchange = function() {
                 generateRegionField(countryElement, regionElement);
+                if (cityElement) {
+                    generateCityField(regionElement, cityElement);
+                }
             };
 
             if (defaultCountrySelectedValue !== null && countryElement.selectedIndex > 0) {
@@ -124,15 +231,41 @@
             console.error("Region field with ID " + regionID + " not found.");
         }
 
+        if (cityElement) {
+            initialiseCityField(cityElement);
+
+            regionElement.onchange = function() {
+                generateCityField(regionElement, cityElement);
+            };
+
+            if (defaultRegionSelectedValue !== null && regionElement.selectedIndex > 0) {
+                generateCityField(regionElement, cityElement);
+                var defaultCitySelectedValue = cityElement.getAttribute("city-data-default-value");
+                if (defaultCitySelectedValue !== null) {
+                    var regionSelected = regionElement.options[regionElement.selectedIndex].text;
+                    var data = region_cities[regionSelected];
+                    setDefaultCityValue(cityElement, data, defaultCitySelectedValue);
+                }
+            } else if (showEmptyRegionOption === false) {
+                generateCityField(regionElement, cityElement);
+            }
+        } else {
+            console.error("City field with ID " + cityID + " not found.");
+        }
+
         countryElement.setAttribute("data-gds-loaded", "true");
     };
 
     var translate = function(countryElement){
         var region_lang = countryElement.getAttribute("data-language");
+        var country_include = countryElement.getAttribute("country-include");
+        var country_exclude = countryElement.getAttribute("country-exclude");
         var get = new Gettext({ 'domain' : region_lang});
         var geodatasourceCountries = [];
         var geodatasourceCountry = [];
         var geodatasourceCountrySlice = [];
+        var geodatasourceCountryInclude = [];
+        var geodatasourceCountryExclude = [];
 
         //get translated country name
         var ad_country=get.gettext("Andorra_AD_C");var ae_country=get.gettext("United Arab Emirates_AE_C");var af_country=get.gettext("Afghanistan_AF_C");var ag_country=get.gettext("Antigua and Barbuda_AG_C");var ai_country=get.gettext("Anguilla_AI_C");var al_country=get.gettext("Albania_AL_C");var am_country=get.gettext("Armenia_AM_C");var ao_country=get.gettext("Angola_AO_C");var aq_country=get.gettext("Antarctica_AQ_C");var ar_country=get.gettext("Argentina_AR_C");var as_country=get.gettext("American Samoa_AS_C");var at_country=get.gettext("Austria_AT_C");var au_country=get.gettext("Australia_AU_C");var aw_country=get.gettext("Aruba_AW_C");var ax_country=get.gettext("Aland Islands_AX_C");var az_country=get.gettext("Azerbaijian_AZ_C");
@@ -468,8 +601,6 @@
             za +=(get.gettext(za_region[i])+"|");zm +=(get.gettext(zm_region[i])+"|");zw +=(get.gettext(zw_region[i])+"|");
         }
 
-        
-
         switch (region_lang) {
             case 'cs':
                 geodatasourceCountries = ["AF","AX","AL","DZ","AS","VI","AD","AO","AI","AQ","AG","AR","AM","AW","AU","AZ","BS","BH","BD","BB","BE","BZ","BY","BJ","BM","BT","BO","BA","BW","BR","IO","VG","BN","BG","BF","BI","TD","ME","CZ","CL","HR","CN","TW","CK","CW","DK","CD","DM","DO","DJ","EG","EC","ER","EE","ET","FO","FK","FM","FJ","PH","FI","FR","GF","TF","PF","GA","GM","GE","GH","GI","GD","GL","GP","GU","GT","GG","GN","GW","GY","HT","HN","HK","IN","ID","IQ","IR","IE","IS","IT","IL","JM","JP","YE","JE","ZA","GS","KR","SS","JO","KY","KH","CM","CA","CV","BQ","QA","KZ","KE","KI","CC","CO","KM","CG","CR","CU","KW","CY","KG","LA","LS","LB","LR","LY","LI","LT","LV","LU","MO","MG","HU","MK","MY","MW","MV","ML","MT","IM","MA","MH","MQ","MU","MR","YT","UM","MX","MD","MC","MN","MS","MZ","MM","NA","NR","DE","NP","NE","NG","NI","NU","NL","NF","NO","NC","NZ","OM","PK","PW","PA","PG","PY","PE","PN","CI","PL","PR","PT","AT","GR","RE","GQ","RO","RU","RW","PM","SB","SV","WS","SM","SA","SN","KP","MP","SC","SL","SG","SK","SI","SO","ES","SJ","AE","GB","US","RS","LK","PS","CF","SD","SR","SH","LC","BL","KN","MF","SX","VA","ST","VC","SZ","SE","CH","SY","TJ","TZ","TH","TG","TK","TO","TT","TN","TR","TM","TC","TV","UG","UA","UY","UZ","CX","VU","VE","VN","TL","WF","ZM","EH","ZW"];
@@ -541,94 +672,53 @@
             default:
                 geodatasourceCountries = ["AF","AX","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","AM","AW","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BQ","BA","BW","BR","IO","BN","BG","BF","BI","CV","KH","CM","CA","KY","CF","TD","CL","CN","CX","CC","CO","KM","CG","CD","CK","CR","CI","HR","CU","CW","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FK","FO","FJ","FI","FR","GF","PF","TF","GA","GM","GE","DE","GH","GI","GR","GL","GD","GP","GU","GT","GG","GN","GW","GY","HT","VA","HN","HK","HU","IS","IN","ID","IR","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KP","KR","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MY","MV","ML","MT","MH","MQ","MR","MU","YT","MX","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","NC","NZ","NI","NE","NG","NU","NF","MP","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PN","PL","PT","PR","QA","RE","RO","RU","RW","BL","SH","KN","LC","MF","PM","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SX","SK","SI","SB","SO","ZA","GS","SS","ES","LK","SD","SR","SJ","SZ","SE","CH","SY","TW","TJ","TZ","TH","TL","TG","TK","TO","TT","TN","TR","TM","TC","TV","UG","UA","AE","GB","US","UM","UY","UZ","VU","VE","VN","VG","VI","WF","EH","YE","ZM","ZW"];
         }
-        for (var i=0; i<geodatasourceCountries.length; i++) {
-            if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
-                geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
-            }
 
-            var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
-            geodatasourceCountry.push(tmpCountry);
+        if (country_include != null) {
+            for (var i=0; i<geodatasourceCountries.length; i++) {
+                if (country_include.includes(geodatasourceCountries[i])) {
+                    if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
+                        geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
+                    }
+                    geodatasourceCountryInclude.push(geodatasourceCountries[i]);
 
-            var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
-            geodatasourceCountrySlice.push(tmpCountrySlice);
-        }
-        initialiseCountryRegionData(geodatasourceCountries, geodatasourceCountry, geodatasourceCountrySlice);
+                    var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
+                    geodatasourceCountry.push(tmpCountry);
 
-        initialiseRegion();
-
-        for (var i=0; i<country_region.length; i++) {
-            var value = country_region[i][1];
-            var cc_iso = country_region[i][0];
-            (countryElement.options[countryElement.length] = new Option(country_region[i][1], value)).setAttribute("data-class", cc_iso.toLowerCase());
-            if (defaultCountrySelectedValue != null && (defaultCountrySelectedValue === value || defaultCountrySelectedValue === cc_iso)) {
-                foundIndex = i;
-                if (showEmptyCountryOption) {
-                    foundIndex++;
+                    var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
+                    geodatasourceCountrySlice.push(tmpCountrySlice);
                 }
             }
-        }
+            initialiseCountryRegionData(geodatasourceCountryInclude, geodatasourceCountry, geodatasourceCountrySlice);
+        } else if (country_exclude != null) {
+            for (var i=0; i<geodatasourceCountries.length; i++) {
+                if (!country_exclude.includes(geodatasourceCountries[i])) {
+                    if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
+                        geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
+                    }
+                    geodatasourceCountryExclude.push(geodatasourceCountries[i]);
 
-        countryElement.selectedIndex = foundIndex;
+                    var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
+                    geodatasourceCountry.push(tmpCountry);
 
-        var regionID = countryElement.getAttribute("country-data-region-id");
-        if (!regionID) {
-            console.error("Missing data-region-id on country field.");
-            return;
-        }
-        var regionElement = document.getElementById(regionID);
-
-        var cityID = regionElement.getAttribute("region-data-city-id");
-        if (!cityID) {
-            console.error("Missing data-city-id on region field.");
-        }
-        var cityElement = document.getElementById(cityID);
-
-        if (regionElement) {
-            initialiseRegionField(regionElement);
-
-            countryElement.onchange = function() {
-                generateRegionField(countryElement, regionElement);
-                generateCityField(regionElement, cityElement);
-            };
-
-            if (defaultCountrySelectedValue !== null && countryElement.selectedIndex > 0) {
-                generateRegionField(countryElement, regionElement);
-                var defaultRegionSelectedValue = regionElement.getAttribute("region-data-default-value");
-                if (defaultRegionSelectedValue !== null) {
-                    var index = (showEmptyCountryOption) ? countryElement.selectedIndex - 1: countryElement.selectedIndex;
-                    var data = country_region[index][3];
-                    setDefaultRegionValue(regionElement, data, defaultRegionSelectedValue);
+                    var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
+                    geodatasourceCountrySlice.push(tmpCountrySlice);
                 }
-            } else if (showEmptyCountryOption === false) {
-                generateRegionField(countryElement, regionElement);
             }
+            initialiseCountryRegionData(geodatasourceCountryExclude, geodatasourceCountry, geodatasourceCountrySlice);
         } else {
-            console.error("Region field with ID " + regionID + " not found.");
-        }
-
-        if (cityElement) {
-            initialiseCityField(cityElement);
-
-            regionElement.onchange = function() {
-                generateCityField(regionElement, cityElement);
-            };
-
-            if (defaultRegionSelectedValue !== null && regionElement.selectedIndex > 0) {
-                generateCityField(regionElement, cityElement);
-                var defaultCitySelectedValue = cityElement.getAttribute("city-data-default-value");
-                if (defaultCitySelectedValue !== null) {
-                    var regionSelected = regionElement.options[regionElement.selectedIndex].text;
-                    var data = region_cities[regionSelected];
-                    setDefaultCityValue(cityElement, data, defaultCitySelectedValue);
+            for (var i=0; i<geodatasourceCountries.length; i++) {
+                if (['DO', 'IN'].includes(geodatasourceCountries[i])) {
+                    geodatasourceCountries[i] = geodatasourceCountries[i] + '1';
                 }
-            } else if (showEmptyRegionOption === false) {
-                generateCityField(regionElement, cityElement);
-            }
-        } else {
-            console.error("City field with ID " + cityID + " not found.");
-        }
 
-        countryElement.setAttribute("data-gds-loaded", "true");
+                var tmpCountry = eval(geodatasourceCountries[i].toLowerCase() + '_country');
+                geodatasourceCountry.push(tmpCountry);
+
+                var tmpCountrySlice = eval(geodatasourceCountries[i].toLowerCase() + '.slice(0, -(arrlen-' + geodatasourceCountries[i].toLowerCase() + '_region.length+1))');
+                geodatasourceCountrySlice.push(tmpCountrySlice);
+            }
+            initialiseCountryRegionData(geodatasourceCountries, geodatasourceCountry, geodatasourceCountrySlice);
+        }
     };
 
     var initialiseCountryRegionData = function(geodatasourceCountries, geodatasourceCountry, geodatasourceCountrySlice) {
@@ -666,13 +756,104 @@
     };
 
     var generateRegionField = function(countryElement, regionElement) {
+        var langRegion = countryElement.getAttribute("data-language");
+        switch (langRegion) {
+            case 'ar':
+                regionString = "يرجى اختيار المنطقة";
+                break;
+
+            case 'cs':
+                regionString = "Vyberte oblast.";
+                break;
+
+            case 'da':
+                regionString = "Vælg venligst en område.";
+                break;
+
+            case 'de':
+                regionString = "Bitte wählen Sie eine Region aus.";
+                break;
+
+            case 'es':
+                regionString = "Por favor seleccione una región.";
+                break;
+
+            case 'et':
+                regionString = "Valige piirkond.";
+                break;
+
+            case 'fi':
+                regionString = "Valitse alue.";
+                break;
+
+            case 'fr':
+                regionString = "Veuillez sélectionner une région.";
+                break;
+
+            case 'ga':
+                regionString = "Roghnaigh réigiún.";
+                break;
+
+            case 'it':
+                regionString = "Si prega di selezionare una regione.";
+                break;
+
+            case 'ja':
+                regionString = "地域を選択してください。";
+                break;
+
+            case 'ko':
+                regionString = "지역을 선택하십시오";
+                break;
+
+            case 'ms':
+                regionString = "Sila pilih salah satu wilayah.";
+                break;
+
+            case 'nl':
+                regionString = "Selecteer een regio.";
+                break;
+
+            case 'pt':
+                regionString = "Por favor, selecione uma região.";
+                break;
+
+            case 'ru':
+                regionString = "Пожалуйста, выберите регион.";
+                break;
+
+            case 'sv':
+                regionString = "Var god välj en område.";
+                break;
+
+            case 'tr':
+                regionString = "Lütfen bir bölge seçiniz.";
+                break;
+
+            case 'vi':
+                regionString = "Vui lòng chọn một khu vực.";
+                break;
+
+            case 'zh-cn':
+                regionString = "请选择一个地区。";
+                break;
+
+            case 'zh-tw':
+                regionString = "請選擇一個地區。";
+                break;
+
+            case 'en':
+            default:
+                regionString = "Please select a region.";
+        }
+
         var selectedCountryIndex = (showEmptyCountryOption) ? countryElement.selectedIndex - 1 : countryElement.selectedIndex;
         var customRegionOptionString = regionElement.getAttribute("region-data-default-option");
         var defaultRegionOptionString = customRegionOptionString ? customRegionOptionString : regionString;
         
         if (countryElement.value === "") {
             initialiseRegionField(regionElement);
-        } else {
+        } else if (typeof country_region[selectedCountryIndex] !== 'undefined') {
             regionElement.length = 0;
             if (showEmptyRegionOption) {
                 regionElement.options[0] = new Option(defaultRegionOptionString, "");
