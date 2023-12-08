@@ -3145,11 +3145,17 @@ msgstr "슐레프"
 msgid "Constantine_DZ"
 msgstr "콩스탕틴 주"
 
+msgid "Djanet_DZ"
+msgstr "자넷"
+
 msgid "Djelfa_DZ"
 msgstr "젤파"
 
 msgid "El Bayadh_DZ"
 msgstr "엘바야드"
+
+msgid "El Meghaier_DZ"
+msgstr "메가하이어"
 
 msgid "El Oued_DZ"
 msgstr "엘우에드"
@@ -3165,6 +3171,9 @@ msgstr "겔마"
 
 msgid "Illizi_DZ"
 msgstr "일리지"
+
+msgid "In Salah_DZ"
+msgstr "살라에서"
 
 msgid "Jijel_DZ"
 msgstr "지젤"
@@ -3199,6 +3208,9 @@ msgstr "오랑"
 msgid "Ouargla_DZ"
 msgstr "우아르글라"
 
+msgid "Ouled Djellal_DZ"
+msgstr "울레드 젤랄"
+
 msgid "Oum el Bouaghi_DZ"
 msgstr "움엘부아기"
 
@@ -3229,6 +3241,9 @@ msgstr "테베사"
 msgid "Tiaret_DZ"
 msgstr "티아레"
 
+msgid "Timimoun_DZ"
+msgstr "티미문"
+
 msgid "Tindouf_DZ"
 msgstr "틴두프"
 
@@ -3243,6 +3258,9 @@ msgstr "티지우주"
 
 msgid "Tlemcen_DZ"
 msgstr "틀렘센"
+
+msgid "Touggourt_DZ"
+msgstr "투고트"
 
 msgid "Azuay_EC"
 msgstr "아수아이 주"
@@ -3520,8 +3538,8 @@ msgstr "바스크 지방"
 msgid "Valenciana, Comunidad_ES"
 msgstr "발렌시아 지방"
 
-msgid "Adis Abeba_ET"
-msgstr "아디스  아바바"
+msgid "Addis Ababa_ET"
+msgstr "아디스 아바바"
 
 msgid "Afar_ET"
 msgstr "아파르 주"
@@ -3529,29 +3547,32 @@ msgstr "아파르 주"
 msgid "Amara_ET"
 msgstr "암하라 주"
 
-msgid "Binshangul Gumuz_ET"
-msgstr "베니샹굴구무즈 주"
+msgid "Benshangul-Gumaz_ET"
+msgstr "베니샨굴-구무즈"
 
 msgid "Dire Dawa_ET"
 msgstr "디레다와"
 
-msgid "Gambela Hizboch_ET"
-msgstr "감벨라 주"
+msgid "Gambela Peoples_ET"
+msgstr "감벨라 히즈보흐"
 
-msgid "Hareri Hizb_ET"
-msgstr "하라리 주"
+msgid "Harari People_ET"
+msgstr "하레리 히즈브"
 
-msgid "Oromiya_ET"
-msgstr "오로미아 주"
+msgid "Oromia_ET"
+msgstr "오로미아"
 
-msgid "Sumale_ET"
-msgstr "소말리 주"
+msgid "Somali_ET"
+msgstr "소말리"
 
-msgid "Tigray_ET"
-msgstr "티그라이주"
+msgid "Southern Nations, Nationalities and Peoples_ET"
+msgstr "남부 국가, 국적 및 민족"
 
-msgid "YeDebub Biheroch Bihereseboch na Hizboch_ET"
-msgstr "남부 국가 민족 주"
+msgid "Southwest Ethiopia Peoples_ET"
+msgstr "남서부 에티오피아 민족"
+
+msgid "Tigrai_ET"
+msgstr "티그라이"
 
 msgid "Etela-Karjala_FI"
 msgstr "남카리알라 지역"
@@ -4495,6 +4516,18 @@ msgstr "파푸아"
 msgid "Papua Barat_ID"
 msgstr "파푸아바랏 주"
 
+msgid "Papua Barat Daya_ID"
+msgstr "파푸아 남서부"
+
+msgid "Papua Pengunungan_ID"
+msgstr "파푸아 산맥"
+
+msgid "Papua Selatan_ID"
+msgstr "사우스 파푸아"
+
+msgid "Papua Tengah_ID"
+msgstr "중부 파푸아"
+
 msgid "Riau_ID"
 msgstr "리아우 주"
 
@@ -4644,9 +4677,6 @@ msgstr "찬디가르"
 
 msgid "Chhattisgarh_IN"
 msgstr "차티스가르 주"
-
-msgid "Dadra and Nagar Haveli_IN"
-msgstr "다드라 나가르하벨리"
 
 msgid "Daman and Diu_IN"
 msgstr "다만 디우"
@@ -5557,6 +5587,9 @@ msgstr "전라북도"
 msgid "Jeollanam-do_KR"
 msgstr "전라남도"
 
+msgid "Sejong_KR"
+msgstr "세종"
+
 msgid "Seoul-teukbyeolsi_KR"
 msgstr "서울특별시"
 
@@ -5584,6 +5617,9 @@ msgstr "무바라크알카비르 주"
 msgid "Cayman Islands_KY"
 msgstr "케이맨 제도"
 
+msgid "Abay oblysy_KZ"
+msgstr "아바이"
+
 msgid "Almaty_KZ"
 msgstr "알마티"
 
@@ -5605,14 +5641,8 @@ msgstr "아티라우 주"
 msgid "Batys Qazaqstan oblysy_KZ"
 msgstr "서카자흐스탄 주"
 
-msgid "Bayqongyr_KZ"
-msgstr "바이코누르"
-
 msgid "Mangghystau oblysy_KZ"
 msgstr "망그스타우 주"
-
-msgid "Ongtustik Qazaqstan oblysy_KZ"
-msgstr "남카자흐스탄 주"
 
 msgid "Pavlodar oblysy_KZ"
 msgstr "파블로다르 주"
@@ -5632,8 +5662,17 @@ msgstr "동카자흐스탄 주"
 msgid "Soltustik Qazaqstan oblysy_KZ"
 msgstr "북카자흐스탄 주"
 
+msgid "Turkistan oblysy_KZ"
+msgstr "투르키스탄"
+
+msgid "Ulytau oblysy_KZ"
+msgstr "울리타우"
+
 msgid "Zhambyl oblysy_KZ"
 msgstr "잠빌 주"
+
+msgid "Zhetisu oblysy_KZ"
+msgstr "제티수 지역"
 
 msgid "Attapu_LA"
 msgstr "아타프"
@@ -6417,6 +6456,9 @@ msgstr "울친"
 
 msgid "Zabljak_ME"
 msgstr "자블라크"
+
+msgid "Zeta_ME"
+msgstr "제타"
 
 msgid "Saint Martin (French Part)_MF"
 msgstr "생마르탱"
@@ -7789,44 +7831,23 @@ msgstr "베스트폴주"
 msgid "Bagmati_NP"
 msgstr "바그마티 강"
 
-msgid "Bheri_NP"
-msgstr "Bheri"
-
-msgid "Dhawalagiri_NP"
-msgstr "다울라기리 구"
-
 msgid "Gandaki_NP"
 msgstr "간다 키"
-
-msgid "Janakpur_NP"
-msgstr "자낙푸르"
 
 msgid "Karnali_NP"
 msgstr "카르 나리"
 
-msgid "Kosi_NP"
+msgid "Koshi_NP"
 msgstr "코시"
 
 msgid "Lumbini_NP"
 msgstr "룸비니"
 
-msgid "Mahakali_NP"
-msgstr "마할 칼리"
+msgid "Madhesh_NP"
+msgstr "마헤시"
 
-msgid "Mechi_NP"
-msgstr "메치 구"
-
-msgid "Narayani_NP"
-msgstr "나라 야니"
-
-msgid "Rapti_NP"
-msgstr "Rapti"
-
-msgid "Sagarmatha_NP"
-msgstr "사가 마타"
-
-msgid "Seti_NP"
-msgstr "세티 구"
+msgid "Sudurpashchim_NP"
+msgstr "수두르파쉬침"
 
 msgid "Aiwo_NR"
 msgstr "아이워 구"
@@ -8263,8 +8284,11 @@ msgstr "남라나오 주"
 msgid "Leyte_PH"
 msgstr "레이테 섬"
 
-msgid "Maguindanao_PH"
-msgstr "마긴다나오 주"
+msgid "Maguindanao del Norte_PH"
+msgstr "마긴다나오 델 노르테"
+
+msgid "Maguindanao del Sur_PH"
+msgstr "마긴다나오 델 수르"
 
 msgid "Marinduque_PH"
 msgstr "마린두케 주"

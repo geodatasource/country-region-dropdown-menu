@@ -3145,11 +3145,17 @@ msgstr "Ech Cheliff"
 msgid "Constantine_DZ"
 msgstr "Constantine"
 
+msgid "Djanet_DZ"
+msgstr "Djanet"
+
 msgid "Djelfa_DZ"
 msgstr "El Djelfa"
 
 msgid "El Bayadh_DZ"
 msgstr "El Bayadh"
+
+msgid "El Meghaier_DZ"
+msgstr "El Meghaier"
 
 msgid "El Oued_DZ"
 msgstr "El Oued"
@@ -3165,6 +3171,9 @@ msgstr "Guelma"
 
 msgid "Illizi_DZ"
 msgstr "Illizi"
+
+msgid "In Salah_DZ"
+msgstr "In Salah"
 
 msgid "Jijel_DZ"
 msgstr "Jijel"
@@ -3199,6 +3208,9 @@ msgstr "Oran"
 msgid "Ouargla_DZ"
 msgstr "Ouargla"
 
+msgid "Ouled Djellal_DZ"
+msgstr "Ouled Djellal"
+
 msgid "Oum el Bouaghi_DZ"
 msgstr "Oum el Bouaghi"
 
@@ -3229,6 +3241,9 @@ msgstr "Tebessa"
 msgid "Tiaret_DZ"
 msgstr "Tiaret"
 
+msgid "Timimoun_DZ"
+msgstr "Timimoun"
+
 msgid "Tindouf_DZ"
 msgstr "Tindouf"
 
@@ -3243,6 +3258,9 @@ msgstr "Tizi Ouzou"
 
 msgid "Tlemcen_DZ"
 msgstr "Tlemcen"
+
+msgid "Touggourt_DZ"
+msgstr "Touggourt"
 
 msgid "Azuay_EC"
 msgstr "Azuay"
@@ -3520,8 +3538,8 @@ msgstr "Baskenland"
 msgid "Valenciana, Comunidad_ES"
 msgstr "Valencianische Gemeinschaft"
 
-msgid "Adis Abeba_ET"
-msgstr "Addis Abeba"
+msgid "Addis Ababa_ET"
+msgstr "Addis Ababa"
 
 msgid "Afar_ET"
 msgstr "Afar"
@@ -3529,29 +3547,32 @@ msgstr "Afar"
 msgid "Amara_ET"
 msgstr "Amara"
 
-msgid "Binshangul Gumuz_ET"
-msgstr "Benishangul-Gumuz"
+msgid "Benshangul-Gumaz_ET"
+msgstr "Benshangul-Gumaz"
 
 msgid "Dire Dawa_ET"
 msgstr "Dire Dawa"
 
-msgid "Gambela Hizboch_ET"
-msgstr "Gambela"
+msgid "Gambela Peoples_ET"
+msgstr "Gambela Peoples"
 
-msgid "Hareri Hizb_ET"
-msgstr "Harar"
+msgid "Harari People_ET"
+msgstr "Harari People"
 
-msgid "Oromiya_ET"
+msgid "Oromia_ET"
 msgstr "Oromia"
 
-msgid "Sumale_ET"
+msgid "Somali_ET"
 msgstr "Somali"
 
-msgid "Tigray_ET"
-msgstr "Tigray"
+msgid "Southern Nations, Nationalities and Peoples_ET"
+msgstr "Southern Nations, Nationalities and Peoples"
 
-msgid "YeDebub Biheroch Bihereseboch na Hizboch_ET"
-msgstr "Region der südlichen Nationen, Nationalitäten und Völker"
+msgid "Southwest Ethiopia Peoples_ET"
+msgstr "Völker im Südwesten Äthiopiens"
+
+msgid "Tigrai_ET"
+msgstr "Tigrai"
 
 msgid "Etela-Karjala_FI"
 msgstr "Südkarelien"
@@ -4495,6 +4516,18 @@ msgstr "Papua"
 msgid "Papua Barat_ID"
 msgstr "Papua Barat"
 
+msgid "Papua Barat Daya_ID"
+msgstr "Südwest-Papua"
+
+msgid "Papua Pengunungan_ID"
+msgstr "Papua Pengunungan"
+
+msgid "Papua Selatan_ID"
+msgstr "Papua Selatan"
+
+msgid "Papua Tengah_ID"
+msgstr "Papua Tengah"
+
 msgid "Riau_ID"
 msgstr "Riau"
 
@@ -4644,9 +4677,6 @@ msgstr "Chandigarh"
 
 msgid "Chhattisgarh_IN"
 msgstr "Chhattisgarh"
-
-msgid "Dadra and Nagar Haveli_IN"
-msgstr "Dadra und Nagar Haveli"
 
 msgid "Daman and Diu_IN"
 msgstr "Daman und Diu"
@@ -5557,6 +5587,9 @@ msgstr "Jeollabuk-do"
 msgid "Jeollanam-do_KR"
 msgstr "Jeollanam-do"
 
+msgid "Sejong_KR"
+msgstr "Sejong"
+
 msgid "Seoul-teukbyeolsi_KR"
 msgstr "Seoul"
 
@@ -5584,6 +5617,9 @@ msgstr "Mubarak al Kabir"
 msgid "Cayman Islands_KY"
 msgstr "Cayman Islands"
 
+msgid "Abay oblysy_KZ"
+msgstr "Abay oblysy"
+
 msgid "Almaty_KZ"
 msgstr "Almaty"
 
@@ -5605,14 +5641,8 @@ msgstr "Atyrau"
 msgid "Batys Qazaqstan oblysy_KZ"
 msgstr "Gebiet Westkasachstan"
 
-msgid "Bayqongyr_KZ"
-msgstr "Baikonur"
-
 msgid "Mangghystau oblysy_KZ"
 msgstr "Gebiet Mangghystau"
-
-msgid "Ongtustik Qazaqstan oblysy_KZ"
-msgstr "Gebiet Türkistan"
 
 msgid "Pavlodar oblysy_KZ"
 msgstr "Gebiet Pawlodar"
@@ -5632,8 +5662,17 @@ msgstr "Gebiet Ostkasachstan"
 msgid "Soltustik Qazaqstan oblysy_KZ"
 msgstr "Nordkasachstan"
 
+msgid "Turkistan oblysy_KZ"
+msgstr "Turkistan oblysy"
+
+msgid "Ulytau oblysy_KZ"
+msgstr "Ulytau oblysy"
+
 msgid "Zhambyl oblysy_KZ"
 msgstr "Gebiet Schambyl"
+
+msgid "Zhetisu oblysy_KZ"
+msgstr "Zhetisu oblysy"
 
 msgid "Attapu_LA"
 msgstr "Attapeu"
@@ -6417,6 +6456,9 @@ msgstr "Ulcinj"
 
 msgid "Zabljak_ME"
 msgstr "Žabljak"
+
+msgid "Zeta_ME"
+msgstr "Zeta"
 
 msgid "Saint Martin (French Part)_MF"
 msgstr "Saint-Martin"
@@ -7789,44 +7831,23 @@ msgstr "Vestfold"
 msgid "Bagmati_NP"
 msgstr "Bagmati"
 
-msgid "Bheri_NP"
-msgstr "Bheri"
-
-msgid "Dhawalagiri_NP"
-msgstr "Dhaulagiri"
-
 msgid "Gandaki_NP"
 msgstr "Gandaki"
-
-msgid "Janakpur_NP"
-msgstr "Janakpur"
 
 msgid "Karnali_NP"
 msgstr "Karnali"
 
-msgid "Kosi_NP"
-msgstr "Kosi"
+msgid "Koshi_NP"
+msgstr "Koshi"
 
 msgid "Lumbini_NP"
 msgstr "Lumbini"
 
-msgid "Mahakali_NP"
-msgstr "Mahakali"
+msgid "Madhesh_NP"
+msgstr "Madhesh"
 
-msgid "Mechi_NP"
-msgstr "Mechi"
-
-msgid "Narayani_NP"
-msgstr "Narayani"
-
-msgid "Rapti_NP"
-msgstr "Rapti"
-
-msgid "Sagarmatha_NP"
-msgstr "Sagarmatha"
-
-msgid "Seti_NP"
-msgstr "Seti"
+msgid "Sudurpashchim_NP"
+msgstr "Sudurpashchim"
 
 msgid "Aiwo_NR"
 msgstr "Aiwo"
@@ -8263,8 +8284,11 @@ msgstr "Lanao del Sur"
 msgid "Leyte_PH"
 msgstr "Leyte"
 
-msgid "Maguindanao_PH"
-msgstr "Maguindanao"
+msgid "Maguindanao del Norte_PH"
+msgstr "Maguindanao del Norte"
+
+msgid "Maguindanao del Sur_PH"
+msgstr "Maguindanao del Sur"
 
 msgid "Marinduque_PH"
 msgstr "Marinduque"

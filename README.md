@@ -132,11 +132,11 @@ If you are using Twitter Bootstrap with cdnjs, you may refer to the below exampl
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.4.0/js/geodatasource-cr.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.4.1/js/geodatasource-cr.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" type="text/javascript"></script>
         <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.4.0/css/geodatasource-countryflag.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/country-region-dropdown-menu/2.4.1/css/geodatasource-countryflag.min.css">
 
         <link rel="gettext" type="application/x-po" href="languages/en/LC_MESSAGES/en.po" />
         <script type="text/javascript" src="assets/js/Gettext.js"></script>

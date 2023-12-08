@@ -3145,11 +3145,17 @@ msgstr "Эш-Шели́фф"
 msgid "Constantine_DZ"
 msgstr "Константи́на"
 
+msgid "Djanet_DZ"
+msgstr "Джанет"
+
 msgid "Djelfa_DZ"
 msgstr "Дже́льфа"
 
 msgid "El Bayadh_DZ"
 msgstr "Эль-Баяд"
+
+msgid "El Meghaier_DZ"
+msgstr "мегаер"
 
 msgid "El Oued_DZ"
 msgstr "Эль-Уэд"
@@ -3165,6 +3171,9 @@ msgstr "Гельма́"
 
 msgid "Illizi_DZ"
 msgstr "Иллизи"
+
+msgid "In Salah_DZ"
+msgstr "В Салах"
 
 msgid "Jijel_DZ"
 msgstr "Джи́джель"
@@ -3199,6 +3208,9 @@ msgstr "Ора́н"
 msgid "Ouargla_DZ"
 msgstr "Уа́ргла"
 
+msgid "Ouled Djellal_DZ"
+msgstr "Улед Джеллал"
+
 msgid "Oum el Bouaghi_DZ"
 msgstr "Умм-эль-Буаги"
 
@@ -3223,6 +3235,9 @@ msgstr "Сук-Ахрас"
 msgid "Tamanrasset_DZ"
 msgstr "Таманрассе́т"
 
+msgid "Timimoun_DZ"
+msgstr "Тимимун"
+
 msgid "Tebessa_DZ"
 msgstr "Тебесса"
 
@@ -3243,6 +3258,9 @@ msgstr "Тизи-Узу"
 
 msgid "Tlemcen_DZ"
 msgstr "Тлемсе́н"
+
+msgid "Touggourt_DZ"
+msgstr "Туггурт"
 
 msgid "Azuay_EC"
 msgstr "Асуай"
@@ -3520,8 +3538,8 @@ msgstr "Страна́ Ба́сков"
 msgid "Valenciana, Comunidad_ES"
 msgstr "Вале́нсия"
 
-msgid "Adis Abeba_ET"
-msgstr "Адди́с-Абе́ба"
+msgid "Addis Ababa_ET"
+msgstr "Аддис-Абеба"
 
 msgid "Afar_ET"
 msgstr "Афа́р"
@@ -3529,29 +3547,32 @@ msgstr "Афа́р"
 msgid "Amara_ET"
 msgstr "Амара"
 
-msgid "Binshangul Gumuz_ET"
-msgstr "Бенишангу́ль-Гуму́з"
+msgid "Benshangul-Gumaz_ET"
+msgstr "Бенишангуль-Гумуз"
 
 msgid "Dire Dawa_ET"
 msgstr "Ды́ре-Да́уа"
 
-msgid "Gambela Hizboch_ET"
-msgstr "Гамбе́ла"
+msgid "Gambela Peoples_ET"
+msgstr "Гамбела Хизбох"
 
-msgid "Hareri Hizb_ET"
-msgstr "Хара́ри"
+msgid "Harari People_ET"
+msgstr "Харери Хизб"
 
-msgid "Oromiya_ET"
-msgstr "Оро́мия"
+msgid "Oromia_ET"
+msgstr "Оромия"
 
-msgid "Sumale_ET"
-msgstr "Сомали"
+msgid "Somali_ET"
+msgstr "сомалийский"
 
-msgid "Tigray_ET"
-msgstr "Тыгра́й"
+msgid "Southern Nations, Nationalities and Peoples_ET"
+msgstr "Едебуб Бигерох Бихересебоч на Хизбох"
 
-msgid "YeDebub Biheroch Bihereseboch na Hizboch_ET"
-msgstr "Область Народностей Южной Эфиопии"
+msgid "Southwest Ethiopia Peoples_ET"
+msgstr "Народы Юго-Западной Эфиопии"
+
+msgid "Tigrai_ET"
+msgstr "тиграй"
 
 msgid "Etela-Karjala_FI"
 msgstr "Южная Карелия"
@@ -4495,6 +4516,18 @@ msgstr "Папуа"
 msgid "Papua Barat_ID"
 msgstr "Западное Папуа"
 
+msgid "Papua Barat Daya_ID"
+msgstr "Юго-Западное Папуа"
+
+msgid "Papua Pengunungan_ID"
+msgstr "Папуа Горы"
+
+msgid "Papua Selatan_ID"
+msgstr "Южное Папуа"
+
+msgid "Papua Tengah_ID"
+msgstr "Центральное Папуа"
+
 msgid "Riau_ID"
 msgstr "Риау"
 
@@ -4644,9 +4677,6 @@ msgstr "Чандига́рх"
 
 msgid "Chhattisgarh_IN"
 msgstr "Чхаттисга́рх"
-
-msgid "Dadra and Nagar Haveli_IN"
-msgstr "Дадра и Нагар-Хавели"
 
 msgid "Daman and Diu_IN"
 msgstr "Дама́н и Ди́у"
@@ -5557,6 +5587,9 @@ msgstr "Чолла-Пукто"
 msgid "Jeollanam-do_KR"
 msgstr "Чолла-Намдо"
 
+msgid "Sejong_KR"
+msgstr "Седжон"
+
 msgid "Seoul-teukbyeolsi_KR"
 msgstr "Сеу́л"
 
@@ -5584,6 +5617,9 @@ msgstr "Мубарак аль-Кабир"
 msgid "Cayman Islands_KY"
 msgstr "Острова́ Кайма́н"
 
+msgid "Abay oblysy_KZ"
+msgstr "Бухта"
+
 msgid "Almaty_KZ"
 msgstr "Алма́-Ата́"
 
@@ -5605,14 +5641,8 @@ msgstr "Атырауская область"
 msgid "Batys Qazaqstan oblysy_KZ"
 msgstr "Западно-Казахстанская область"
 
-msgid "Bayqongyr_KZ"
-msgstr "Байкону́р"
-
 msgid "Mangghystau oblysy_KZ"
 msgstr "Мангиста́уская о́бласть"
-
-msgid "Ongtustik Qazaqstan oblysy_KZ"
-msgstr "Туркестанская область"
 
 msgid "Pavlodar oblysy_KZ"
 msgstr "Павлодарская область"
@@ -5632,8 +5662,17 @@ msgstr "Восточно-Казахстанская область"
 msgid "Soltustik Qazaqstan oblysy_KZ"
 msgstr "Се́веро-Казахста́нская о́бласть"
 
+msgid "Turkistan oblysy_KZ"
+msgstr "Туркестан"
+
+msgid "Ulytau oblysy_KZ"
+msgstr "Улытау"
+
 msgid "Zhambyl oblysy_KZ"
 msgstr "Жамбы́лская область"
+
+msgid "Zhetisu oblysy_KZ"
+msgstr "Жетысу облысы"
 
 msgid "Attapu_LA"
 msgstr "Аттапы"
@@ -6417,6 +6456,9 @@ msgstr "У́лцинь"
 
 msgid "Zabljak_ME"
 msgstr "Жа́бляк"
+
+msgid "Zeta_ME"
+msgstr "Зета"
 
 msgid "Saint Martin (French Part)_MF"
 msgstr "Сен-Марте́н"
@@ -7789,44 +7831,23 @@ msgstr "Ве́стфолл"
 msgid "Bagmati_NP"
 msgstr "Багмати"
 
-msgid "Bheri_NP"
-msgstr "Бхери"
-
-msgid "Dhawalagiri_NP"
-msgstr "Дхаулагири"
-
 msgid "Gandaki_NP"
 msgstr "Гандаки Прадеш"
-
-msgid "Janakpur_NP"
-msgstr "Джанакпу́р"
 
 msgid "Karnali_NP"
 msgstr "Карнали Прадеш"
 
-msgid "Kosi_NP"
+msgid "Koshi_NP"
 msgstr "Коси"
 
 msgid "Lumbini_NP"
 msgstr "Лумбини"
 
-msgid "Mahakali_NP"
-msgstr "Махакали"
+msgid "Madhesh_NP"
+msgstr "Мадхеш"
 
-msgid "Mechi_NP"
-msgstr "Мечи"
-
-msgid "Narayani_NP"
-msgstr "Нараяни"
-
-msgid "Rapti_NP"
-msgstr "Рапти"
-
-msgid "Sagarmatha_NP"
-msgstr "Сагарматха"
-
-msgid "Seti_NP"
-msgstr "Сети"
+msgid "Sudurpashchim_NP"
+msgstr "Судорпащим"
 
 msgid "Aiwo_NR"
 msgstr "Айво"
@@ -8263,8 +8284,11 @@ msgstr "Южный Ланао"
 msgid "Leyte_PH"
 msgstr "Ле́йте"
 
-msgid "Maguindanao_PH"
-msgstr "Магинданао"
+msgid "Maguindanao del Norte_PH"
+msgstr "Магинданао дель Норте"
+
+msgid "Maguindanao del Sur_PH"
+msgstr "Магинданао-дель-Сур"
 
 msgid "Marinduque_PH"
 msgstr "Мариндуке"

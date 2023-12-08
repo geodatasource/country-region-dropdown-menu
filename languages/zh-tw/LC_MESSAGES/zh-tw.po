@@ -3145,11 +3145,17 @@ msgstr "謝裡夫"
 msgid "Constantine_DZ"
 msgstr "君士坦丁省"
 
+msgid "Djanet_DZ"
+msgstr "贾奈特"
+
 msgid "Djelfa_DZ"
 msgstr "杰勒法"
 
 msgid "El Bayadh_DZ"
 msgstr "巴亞茲省"
+
+msgid "El Meghaier_DZ"
+msgstr "邁蓋耶爾"
 
 msgid "El Oued_DZ"
 msgstr "瓦德"
@@ -3165,6 +3171,9 @@ msgstr "蓋勒馬"
 
 msgid "Illizi_DZ"
 msgstr "伊利齊"
+
+msgid "In Salah_DZ"
+msgstr "因薩拉赫"
 
 msgid "Jijel_DZ"
 msgstr "吉杰爾"
@@ -3199,6 +3208,9 @@ msgstr "奧蘭"
 msgid "Ouargla_DZ"
 msgstr "瓦爾格拉"
 
+msgid "Ouled Djellal_DZ"
+msgstr "奧拉德杰拉勒"
+
 msgid "Oum el Bouaghi_DZ"
 msgstr "烏姆布瓦吉省"
 
@@ -3229,6 +3241,9 @@ msgstr "泰貝薩"
 msgid "Tiaret_DZ"
 msgstr "提亞雷特"
 
+msgid "Timimoun_DZ"
+msgstr "提米蒙"
+
 msgid "Tindouf_DZ"
 msgstr "廷杜夫"
 
@@ -3243,6 +3258,9 @@ msgstr "提濟烏祖"
 
 msgid "Tlemcen_DZ"
 msgstr "特萊姆森"
+
+msgid "Touggourt_DZ"
+msgstr "圖古爾特"
 
 msgid "Azuay_EC"
 msgstr "阿蘇艾"
@@ -3520,8 +3538,8 @@ msgstr "巴斯克"
 msgid "Valenciana, Comunidad_ES"
 msgstr "瓦倫西亞"
 
-msgid "Adis Abeba_ET"
-msgstr "阿迪斯阿貝巴"
+msgid "Addis Ababa_ET"
+msgstr "亞的斯亞貝巴"
 
 msgid "Afar_ET"
 msgstr "阿法爾"
@@ -3529,29 +3547,32 @@ msgstr "阿法爾"
 msgid "Amara_ET"
 msgstr "阿姆哈拉"
 
-msgid "Binshangul Gumuz_ET"
+msgid "Benshangul-Gumaz_ET"
 msgstr "本尚古勒-古馬茲"
 
 msgid "Dire Dawa_ET"
 msgstr "德雷達瓦"
 
-msgid "Gambela Hizboch_ET"
+msgid "Gambela Peoples_ET"
 msgstr "甘貝拉"
 
-msgid "Hareri Hizb_ET"
+msgid "Harari People_ET"
 msgstr "哈勒爾"
 
-msgid "Oromiya_ET"
+msgid "Oromia_ET"
 msgstr "奧羅米亞"
 
-msgid "Sumale_ET"
-msgstr "索馬裡"
+msgid "Somali_ET"
+msgstr "索馬里"
 
-msgid "Tigray_ET"
+msgid "Southern Nations, Nationalities and Peoples_ET"
+msgstr "南方民族、部落和人民"
+
+msgid "Southwest Ethiopia Peoples_ET"
+msgstr "衣索比亞西南部人民"
+
+msgid "Tigrai_ET"
 msgstr "提格雷"
-
-msgid "YeDebub Biheroch Bihereseboch na Hizboch_ET"
-msgstr "南方各族"
 
 msgid "Etela-Karjala_FI"
 msgstr "南卡累利阿"
@@ -4495,6 +4516,18 @@ msgstr "巴布亞"
 msgid "Papua Barat_ID"
 msgstr "巴布亞巴拉"
 
+msgid "Papua Barat Daya_ID"
+msgstr "巴布亞西南部"
+
+msgid "Papua Pengunungan_ID"
+msgstr "高地巴布亞"
+
+msgid "Papua Selatan_ID"
+msgstr "南巴布亞"
+
+msgid "Papua Tengah_ID"
+msgstr "中巴布亞"
+
 msgid "Riau_ID"
 msgstr "廖內"
 
@@ -4644,9 +4677,6 @@ msgstr "昌迪加爾"
 
 msgid "Chhattisgarh_IN"
 msgstr "恰蒂斯加爾邦"
-
-msgid "Dadra and Nagar Haveli_IN"
-msgstr "達德拉-納加爾哈維利"
 
 msgid "Daman and Diu_IN"
 msgstr "達曼和迪烏"
@@ -5557,6 +5587,9 @@ msgstr "全羅北道"
 msgid "Jeollanam-do_KR"
 msgstr "全羅南道"
 
+msgid "Sejong_KR"
+msgstr "世宗"
+
 msgid "Seoul-teukbyeolsi_KR"
 msgstr "首爾"
 
@@ -5584,6 +5617,9 @@ msgstr "穆巴拉克卡比爾"
 msgid "Cayman Islands_KY"
 msgstr "開曼群島"
 
+msgid "Abay oblysy_KZ"
+msgstr "阿拜"
+
 msgid "Almaty_KZ"
 msgstr "阿拉木圖"
 
@@ -5605,14 +5641,8 @@ msgstr "阿特勞"
 msgid "Batys Qazaqstan oblysy_KZ"
 msgstr "西哈薩克斯坦"
 
-msgid "Bayqongyr_KZ"
-msgstr "拜科努爾"
-
 msgid "Mangghystau oblysy_KZ"
 msgstr "曼吉斯套"
-
-msgid "Ongtustik Qazaqstan oblysy_KZ"
-msgstr "西哈薩克斯坦"
 
 msgid "Pavlodar oblysy_KZ"
 msgstr "巴甫洛達爾"
@@ -5632,8 +5662,17 @@ msgstr "東哈薩克斯坦"
 msgid "Soltustik Qazaqstan oblysy_KZ"
 msgstr "北哈薩克斯坦"
 
+msgid "Turkistan oblysy_KZ"
+msgstr "圖爾克斯坦"
+
+msgid "Ulytau oblysy_KZ"
+msgstr "烏勒套"
+
 msgid "Zhambyl oblysy_KZ"
 msgstr "江布爾"
+
+msgid "Zhetisu oblysy_KZ"
+msgstr "七河"
 
 msgid "Attapu_LA"
 msgstr "阿速坡"
@@ -6417,6 +6456,9 @@ msgstr "烏爾齊尼"
 
 msgid "Zabljak_ME"
 msgstr "扎布利亞克"
+
+msgid "Zeta_ME"
+msgstr "澤塔"
 
 msgid "Saint Martin (French Part)_MF"
 msgstr "聖馬丁島"
@@ -7789,44 +7831,23 @@ msgstr "西福爾"
 msgid "Bagmati_NP"
 msgstr "巴格馬蒂"
 
-msgid "Bheri_NP"
-msgstr "伯瑞"
-
-msgid "Dhawalagiri_NP"
-msgstr "道拉吉裡"
-
 msgid "Gandaki_NP"
 msgstr "甘達基"
-
-msgid "Janakpur_NP"
-msgstr "賈納克布爾"
 
 msgid "Karnali_NP"
 msgstr "卡納利"
 
-msgid "Kosi_NP"
+msgid "Koshi_NP"
 msgstr "戈希"
 
 msgid "Lumbini_NP"
 msgstr "藍毗尼"
 
-msgid "Mahakali_NP"
-msgstr "馬哈卡裡"
+msgid "Madhesh_NP"
+msgstr "馬德什"
 
-msgid "Mechi_NP"
-msgstr "莫旗"
-
-msgid "Narayani_NP"
-msgstr "納拉亞尼"
-
-msgid "Rapti_NP"
-msgstr "拉布蒂"
-
-msgid "Sagarmatha_NP"
-msgstr "薩加瑪塔"
-
-msgid "Seti_NP"
-msgstr "塞蒂"
+msgid "Sudurpashchim_NP"
+msgstr "蘇杜爾帕希姆"
 
 msgid "Aiwo_NR"
 msgstr "愛和"
@@ -8263,8 +8284,11 @@ msgstr "南拉瑙"
 msgid "Leyte_PH"
 msgstr "萊特"
 
-msgid "Maguindanao_PH"
-msgstr "瑪京達瑙"
+msgid "Maguindanao del Norte_PH"
+msgstr "北馬京達瑙"
+
+msgid "Maguindanao del Sur_PH"
+msgstr "南馬京達瑙"
 
 msgid "Marinduque_PH"
 msgstr "馬林杜克"

@@ -3145,11 +3145,17 @@ msgstr "シュレフ"
 msgid "Constantine_DZ"
 msgstr "コンスタンティーヌ県"
 
+msgid "Djanet_DZ"
+msgstr "ジャネット"
+
 msgid "Djelfa_DZ"
 msgstr "ジェルファ"
 
 msgid "El Bayadh_DZ"
 msgstr "エル・バヤード県"
+
+msgid "El Meghaier_DZ"
+msgstr "巨大な"
 
 msgid "El Oued_DZ"
 msgstr "エル・ウェッド"
@@ -3165,6 +3171,9 @@ msgstr "ゲルマ"
 
 msgid "Illizi_DZ"
 msgstr "イリジ"
+
+msgid "In Salah_DZ"
+msgstr "サラーで"
 
 msgid "Jijel_DZ"
 msgstr "ジジェル"
@@ -3199,6 +3208,9 @@ msgstr "オラン"
 msgid "Ouargla_DZ"
 msgstr "ワルグラ"
 
+msgid "Ouled Djellal_DZ"
+msgstr "オウレド・ジェラル"
+
 msgid "Oum el Bouaghi_DZ"
 msgstr "ウメル・ブアーギ県"
 
@@ -3229,6 +3241,9 @@ msgstr "テベッサ"
 msgid "Tiaret_DZ"
 msgstr "ティアレット"
 
+msgid "Timimoun_DZ"
+msgstr "ティミモン"
+
 msgid "Tindouf_DZ"
 msgstr "ティンドゥフ"
 
@@ -3243,6 +3258,9 @@ msgstr "ティジ・ウズー"
 
 msgid "Tlemcen_DZ"
 msgstr "トレムセン"
+
+msgid "Touggourt_DZ"
+msgstr "トゥグルト"
 
 msgid "Azuay_EC"
 msgstr "アスアイ県"
@@ -3520,7 +3538,7 @@ msgstr "バスク州"
 msgid "Valenciana, Comunidad_ES"
 msgstr "バレンシア州"
 
-msgid "Adis Abeba_ET"
+msgid "Addis Ababa_ET"
 msgstr "アディスアベバ"
 
 msgid "Afar_ET"
@@ -3529,29 +3547,32 @@ msgstr "アファル"
 msgid "Amara_ET"
 msgstr "アムハラ州"
 
-msgid "Binshangul Gumuz_ET"
-msgstr "ベニシャングル・グムズ州"
+msgid "Benshangul-Gumaz_ET"
+msgstr "ベニシャングル・グムズ"
 
 msgid "Dire Dawa_ET"
 msgstr "ディレ・ダワ"
 
-msgid "Gambela Hizboch_ET"
-msgstr "ガンベラ州"
+msgid "Gambela Peoples_ET"
+msgstr "ガンベラ ヒズボッチ"
 
-msgid "Hareri Hizb_ET"
-msgstr "ハラリ州"
+msgid "Harari People_ET"
+msgstr "ハレリー・ヒズブ"
 
-msgid "Oromiya_ET"
-msgstr "オロミア州"
+msgid "Oromia_ET"
+msgstr "オロミア"
 
-msgid "Sumale_ET"
-msgstr "ソマリ州"
+msgid "Somali_ET"
+msgstr "ソマリ語"
 
-msgid "Tigray_ET"
-msgstr "ティグレ州"
+msgid "Southern Nations, Nationalities and Peoples_ET"
+msgstr "南部の国々、国籍、人々"
 
-msgid "YeDebub Biheroch Bihereseboch na Hizboch_ET"
-msgstr "南部諸民族州"
+msgid "Southwest Ethiopia Peoples_ET"
+msgstr "エチオピア南西部の人々"
+
+msgid "Tigrai_ET"
+msgstr "ティグライ"
 
 msgid "Etela-Karjala_FI"
 msgstr "南カルヤラ県"
@@ -4495,6 +4516,18 @@ msgstr "パプア"
 msgid "Papua Barat_ID"
 msgstr "西パプア州"
 
+msgid "Papua Barat Daya_ID"
+msgstr "パプア南西部"
+
+msgid "Papua Pengunungan_ID"
+msgstr "パプア山脈"
+
+msgid "Papua Selatan_ID"
+msgstr "南パプア"
+
+msgid "Papua Tengah_ID"
+msgstr "中央パプア"
+
 msgid "Riau_ID"
 msgstr "リアウ州"
 
@@ -4644,9 +4677,6 @@ msgstr "チャンディーガル"
 
 msgid "Chhattisgarh_IN"
 msgstr "チャッティースガル州"
-
-msgid "Dadra and Nagar Haveli_IN"
-msgstr "ダードラー及びナガル・ハヴェーリー連邦直轄領"
 
 msgid "Daman and Diu_IN"
 msgstr "ダマン・ディーウ連邦直轄領"
@@ -5557,6 +5587,9 @@ msgstr "全羅北道"
 msgid "Jeollanam-do_KR"
 msgstr "全羅南道"
 
+msgid "Sejong_KR"
+msgstr "世宗"
+
 msgid "Seoul-teukbyeolsi_KR"
 msgstr "ソウル特別市"
 
@@ -5584,6 +5617,9 @@ msgstr "ムバーラク・アル＝カビール県"
 msgid "Cayman Islands_KY"
 msgstr "ケイマン諸島"
 
+msgid "Abay oblysy_KZ"
+msgstr "アベイ"
+
 msgid "Almaty_KZ"
 msgstr "アルマトイ"
 
@@ -5605,14 +5641,8 @@ msgstr "アティラウ州"
 msgid "Batys Qazaqstan oblysy_KZ"
 msgstr "西カザフスタン州"
 
-msgid "Bayqongyr_KZ"
-msgstr "バイコヌール"
-
 msgid "Mangghystau oblysy_KZ"
 msgstr "マンギスタウ州"
-
-msgid "Ongtustik Qazaqstan oblysy_KZ"
-msgstr "南カザフスタン州"
 
 msgid "Pavlodar oblysy_KZ"
 msgstr "パブロダール州"
@@ -5632,8 +5662,17 @@ msgstr "東カザフスタン州"
 msgid "Soltustik Qazaqstan oblysy_KZ"
 msgstr "北カザフスタン州"
 
+msgid "Turkistan oblysy_KZ"
+msgstr "トルキスタン"
+
+msgid "Ulytau oblysy_KZ"
+msgstr "ウリタウ"
+
 msgid "Zhambyl oblysy_KZ"
 msgstr "ジャンブル州"
+
+msgid "Zhetisu oblysy_KZ"
+msgstr "ゼティス地方"
 
 msgid "Attapu_LA"
 msgstr "アッタプー県"
@@ -6417,6 +6456,9 @@ msgstr "ウルツィニ"
 
 msgid "Zabljak_ME"
 msgstr "ジャブリャク"
+
+msgid "Zeta_ME"
+msgstr "ゼータ"
 
 msgid "Saint Martin (French Part)_MF"
 msgstr "サン・マルタン"
@@ -7795,44 +7837,23 @@ msgstr "ヴェストフォル県"
 msgid "Bagmati_NP"
 msgstr "バグマティ川"
 
-msgid "Bheri_NP"
-msgstr "ベリ県"
-
-msgid "Dhawalagiri_NP"
-msgstr "ダウラギリ県"
-
 msgid "Gandaki_NP"
 msgstr "ガンダキ・プラデーシュ州"
-
-msgid "Janakpur_NP"
-msgstr "ジャナクプル"
 
 msgid "Karnali_NP"
 msgstr "カルナリ・プラデーシュ州"
 
-msgid "Kosi_NP"
+msgid "Koshi_NP"
 msgstr "コシ県"
 
 msgid "Lumbini_NP"
 msgstr "ルンビニ"
 
-msgid "Mahakali_NP"
-msgstr "マハカリ県"
+msgid "Madhesh_NP"
+msgstr "マデシュ"
 
-msgid "Mechi_NP"
-msgstr "メチ県"
-
-msgid "Narayani_NP"
-msgstr "ナラヤニ県"
-
-msgid "Rapti_NP"
-msgstr "ラプティ県"
-
-msgid "Sagarmatha_NP"
-msgstr "サガルマタ"
-
-msgid "Seti_NP"
-msgstr "セティ県"
+msgid "Sudurpashchim_NP"
+msgstr "スドゥルパシチム"
 
 msgid "Aiwo_NR"
 msgstr "アイウォ"
@@ -8269,8 +8290,11 @@ msgstr "南ラナオ州"
 msgid "Leyte_PH"
 msgstr "レイテ島"
 
-msgid "Maguindanao_PH"
-msgstr "マギンダナオ州"
+msgid "Maguindanao del Norte_PH"
+msgstr "北マギンダナオ島"
+
+msgid "Maguindanao del Sur_PH"
+msgstr "マギンダナオ島"
 
 msgid "Marinduque_PH"
 msgstr "マリンドゥケ州"

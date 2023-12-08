@@ -3145,11 +3145,17 @@ msgstr "مدينة الشلف"
 msgid "Constantine_DZ"
 msgstr "ولاية قسنطينة"
 
+msgid "Djanet_DZ"
+msgstr "جانت"
+
 msgid "Djelfa_DZ"
 msgstr "مدينة الجلفة"
 
 msgid "El Bayadh_DZ"
 msgstr "البيّض"
+
+msgid "El Meghaier_DZ"
+msgstr "اﻟﻤﻐﻴﺮ"
 
 msgid "El Oued_DZ"
 msgstr "الوادي"
@@ -3165,6 +3171,9 @@ msgstr "قالمة"
 
 msgid "Illizi_DZ"
 msgstr "إليزي"
+
+msgid "In Salah_DZ"
+msgstr "عين صالح"
 
 msgid "Jijel_DZ"
 msgstr "جيجل"
@@ -3199,6 +3208,9 @@ msgstr "ولاية وهران"
 msgid "Ouargla_DZ"
 msgstr "ورقلة"
 
+msgid "Ouled Djellal_DZ"
+msgstr "أولاد جلال"
+
 msgid "Oum el Bouaghi_DZ"
 msgstr "ام البواقي"
 
@@ -3229,6 +3241,9 @@ msgstr "تبسة"
 msgid "Tiaret_DZ"
 msgstr "تيارت"
 
+msgid "Timimoun_DZ"
+msgstr "تيميمون"
+
 msgid "Tindouf_DZ"
 msgstr "تندوف"
 
@@ -3243,6 +3258,9 @@ msgstr "تيزي وزو"
 
 msgid "Tlemcen_DZ"
 msgstr "تلمسان"
+
+msgid "Touggourt_DZ"
+msgstr "تقرت"
 
 msgid "Azuay_EC"
 msgstr "أزواي"
@@ -3520,8 +3538,8 @@ msgstr "إقليم الباسك"
 msgid "Valenciana, Comunidad_ES"
 msgstr "منطقة بلنسية"
 
-msgid "Adis Abeba_ET"
-msgstr "أديس أبابا"
+msgid "Addis Ababa_ET"
+msgstr "اديس ابابا"
 
 msgid "Afar_ET"
 msgstr "ولاية عفر"
@@ -3529,29 +3547,32 @@ msgstr "ولاية عفر"
 msgid "Amara_ET"
 msgstr "قضاء العمارة"
 
-msgid "Binshangul Gumuz_ET"
-msgstr "بنيشنقول-قماز"
+msgid "Benshangul-Gumaz_ET"
+msgstr "بني شنقول-جوموز"
 
 msgid "Dire Dawa_ET"
 msgstr "ديرة داوا"
 
-msgid "Gambela Hizboch_ET"
-msgstr "منطقة جامبيلا"
+msgid "Gambela Peoples_ET"
+msgstr "جامبيلا هيزبوتش"
 
-msgid "Hareri Hizb_ET"
-msgstr "ولاية هراري"
+msgid "Harari People_ET"
+msgstr "هاريري حزب"
 
-msgid "Oromiya_ET"
-msgstr "شعب الأورومو"
+msgid "Oromia_ET"
+msgstr "أوروميا"
 
-msgid "Sumale_ET"
-msgstr "المنطقة الصومالية"
+msgid "Somali_ET"
+msgstr "صومالي"
 
-msgid "Tigray_ET"
-msgstr "تيغراي"
+msgid "Southern Nations, Nationalities and Peoples_ET"
+msgstr "أمم وقوميات وشعوب الجنوب"
 
-msgid "YeDebub Biheroch Bihereseboch na Hizboch_ET"
-msgstr "الأمم الجنوبية"
+msgid "Southwest Ethiopia Peoples_ET"
+msgstr "شعوب جنوب غرب إثيوبيا"
+
+msgid "Tigrai_ET"
+msgstr "تجراي"
 
 msgid "Etela-Karjala_FI"
 msgstr "كاريليا الجنوبية"
@@ -4495,6 +4516,18 @@ msgstr "بابوا"
 msgid "Papua Barat_ID"
 msgstr "مقاطعة بابوا الغربية"
 
+msgid "Papua Barat Daya_ID"
+msgstr "جنوب غرب بابوا"
+
+msgid "Papua Pengunungan_ID"
+msgstr "جبال بابوا"
+
+msgid "Papua Selatan_ID"
+msgstr "جنوب بابوا"
+
+msgid "Papua Tengah_ID"
+msgstr "بابوا الوسطى"
+
 msgid "Riau_ID"
 msgstr "رياو"
 
@@ -4644,9 +4677,6 @@ msgstr "شانديغار"
 
 msgid "Chhattisgarh_IN"
 msgstr "تشاتيسغار"
-
-msgid "Dadra and Nagar Haveli_IN"
-msgstr "دادرا وناجار هافلي"
 
 msgid "Daman and Diu_IN"
 msgstr "دَمـَن و ديو"
@@ -5557,6 +5587,9 @@ msgstr "مقاطعة جولا الشمالية"
 msgid "Jeollanam-do_KR"
 msgstr "مقاطعة جولا الجنوبية"
 
+msgid "Sejong_KR"
+msgstr "سيجونغ"
+
 msgid "Seoul-teukbyeolsi_KR"
 msgstr "مدينة سول الخاصة"
 
@@ -5584,6 +5617,9 @@ msgstr "مبارك الكبير"
 msgid "Cayman Islands_KY"
 msgstr "جزر كايمان"
 
+msgid "Abay oblysy_KZ"
+msgstr "خليج"
+
 msgid "Almaty_KZ"
 msgstr "ألماتي"
 
@@ -5605,14 +5641,8 @@ msgstr "مقاطعة أتيراو"
 msgid "Batys Qazaqstan oblysy_KZ"
 msgstr "كازاخستان الغربية"
 
-msgid "Bayqongyr_KZ"
-msgstr "بايكونور"
-
 msgid "Mangghystau oblysy_KZ"
 msgstr "أوبليس مانكيستاو"
-
-msgid "Ongtustik Qazaqstan oblysy_KZ"
-msgstr "اوبليس كازاخستان الأوسط"
 
 msgid "Pavlodar oblysy_KZ"
 msgstr "اوبليس بافلودار"
@@ -5632,8 +5662,17 @@ msgstr "اوبليس كازاخستان الشرقية"
 msgid "Soltustik Qazaqstan oblysy_KZ"
 msgstr "اوبليس كازاخستان الشمالي"
 
+msgid "Turkistan oblysy_KZ"
+msgstr "تركستان"
+
+msgid "Ulytau oblysy_KZ"
+msgstr "أوليتاو"
+
 msgid "Zhambyl oblysy_KZ"
 msgstr "اوبليس جامبيل"
+
+msgid "Zhetisu oblysy_KZ"
+msgstr "النجاح"
 
 msgid "Attapu_LA"
 msgstr "آتابو"
@@ -6417,6 +6456,9 @@ msgstr "أولسيني"
 
 msgid "Zabljak_ME"
 msgstr "زبلجك"
+
+msgid "Zeta_ME"
+msgstr "زيتا"
 
 msgid "Saint Martin (French Part)_MF"
 msgstr "سان مارتين"
@@ -7789,44 +7831,23 @@ msgstr "فِستفولد"
 msgid "Bagmati_NP"
 msgstr "مديرية باجماتي"
 
-msgid "Bheri_NP"
-msgstr "مديرية بهري"
-
-msgid "Dhawalagiri_NP"
-msgstr "مديرية دهوالاجيري"
-
 msgid "Gandaki_NP"
 msgstr "مديرية غانداكي"
-
-msgid "Janakpur_NP"
-msgstr "مديرية جاناكبور"
 
 msgid "Karnali_NP"
 msgstr "مديرية كارنالي"
 
-msgid "Kosi_NP"
-msgstr "مديرية كوسي"
+msgid "Koshi_NP"
+msgstr "كوشي"
 
 msgid "Lumbini_NP"
 msgstr "لومبيني"
 
-msgid "Mahakali_NP"
-msgstr "مديرية ماهاكالي"
+msgid "Madhesh_NP"
+msgstr "مدهش"
 
-msgid "Mechi_NP"
-msgstr "مديرية ميتشي"
-
-msgid "Narayani_NP"
-msgstr "مديرية ناراياني"
-
-msgid "Rapti_NP"
-msgstr "مديرية رابتي"
-
-msgid "Sagarmatha_NP"
-msgstr "مديرية ساجارماثا"
-
-msgid "Seti_NP"
-msgstr "سيتي"
+msgid "Sudurpashchim_NP"
+msgstr "سودورباشيم"
 
 msgid "Aiwo_NR"
 msgstr "آيو"
@@ -8263,8 +8284,11 @@ msgstr "لاناو ديل سور"
 msgid "Leyte_PH"
 msgstr "مقاطعة لَيْتَة"
 
-msgid "Maguindanao_PH"
-msgstr "ماغوييندانايو"
+msgid "Maguindanao del Norte_PH"
+msgstr "ماجوينداناو ديل نورتي"
+
+msgid "Maguindanao del Sur_PH"
+msgstr "ماجوينداناو ديل سور"
 
 msgid "Marinduque_PH"
 msgstr "ماريندوك"
