@@ -513,7 +513,7 @@ msgid "Nepal_NP_C"
 msgstr "Nepal"
 
 msgid "Nauru_NR_C"
-msgstr "Nauru"
+msgstr "Naoero"
 
 msgid "Niue_NU_C"
 msgstr "Niue"
